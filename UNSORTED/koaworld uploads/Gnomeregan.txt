@@ -1,0 +1,5 @@
+----------------
+Gnome Machin    |
+Gnome Machin2   |--- Are not part of Gnomeregan
+Gnome Machin3   |
+----------------
