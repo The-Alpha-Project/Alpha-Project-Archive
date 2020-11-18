@@ -1,0 +1,140 @@
+Source: https://web.archive.org/web/20040621173509/http://db.wowvault.ign.com/View.php?view=PatchNotes.Detail&id=1
+
+
+The information contained in this document is UNOFFICIAL and should not be taken as gospel. Nothing about a patch/push is final until it exists on the servers and is being played. This document is for provided for discussion fodder and entertainment purposes only.
+
+    Distribution/General Notes.
+        The next push is already my favorite =)
+        Testers will need to re-download entire game
+            Due to heavy changes in the way we store all our data for the game, the Horde/Alliance push will be nearly the same size as the original download. Unfortunately, this means we won’t be able to patch you this time around, and instead will ask everyone to redownload the client via BitTorrent. This is a one-time event and we will not be asking people to re-download after this next push. Instead, the data should be solidified and we can just patch everyone instead.
+
+            We will let you know in advance when the new version is ready, and will be re-sending you your CD-Key, so you can have it ready for use with our BitTorrent downloader.
+            The CD-Keys will be the same as the ones you already have. We will be emailing them out as a courtesy for those who deleted them after the initial download.
+
+            If your email address has changed, please contact wowsupport@blizzard.com. 
+        Testers will be able to create horde characters.
+            Due to heavy changes in the way we store all our data for the game, the Horde/Alliance push will be nearly the same size as the original download.
+            Unknown at this time UB. Probably not before the Alliance/Horde Push at any rate. (Next push is Alliance/Horde, not just Horde.) (source removed) 
+    Quests
+        We are planning on adding more race and class specific quests throughout the game, at all levels. Starting with the next push, the skill system will be much different than what it is today. More information will become available once the next push is released.
+
+        Expect to see more quests with every patch.
+        Several new zones and dungeons are being added!
+
+        New class specific quests are being added!
+        Deadmines changes
+            Deadmines: The VanCleef encounter and Goblin Foundry have been retuned. 
+        VanCleef drops quest item for everyone.
+            VanCleef will drop an item for everyone in the party as of the next push. The fact that only one item was dropping was merely a bug which has been fixed. 
+        Will be able to destroy quest rewards.
+            Thanks bandit, this is a known problem and I believe it will be fixed in the next push. 
+        Paladin Defias Quest Fixed.
+            Yes, this quest is still not working. It will be one of the things fixed in the next push. 
+        New Gossip System
+            Our gossip system is finally implemented. You will see the first signs of *gossip* NPC's in the next patch. We'll be adding a lot more in future patches but for now a limited sampling will be introduced.
+
+            The gossip system is extremely robust and powerful. What you'll see this next patch is a very limited use of it for now. Eventually we can do some pretty epic stuff with it >=) 
+        Blackfathom Deeps Dungeon Added
+            Blackfathom Deeps will be included with this push. 
+        Stormwind Seasoning Salt
+
+                OK so a quest (i forget which one) requires the use of Stormwind Seasoning "HERB" and it is found in the flower shop in Stormwind City. Now once you complete the quest you get a recipe for Seasoned Wolf kabob. The recipe calls for stormwind seasoning salt and I cannot find it anywhere. The herb that you can buy from the flowershop does not work as a substitute. I have tried all the diferent vendors and think this is a bug.
+
+            This problem has already been fixed internally and will be patched in the next push 
+        Defias Traitor/Redridge escort/Missing In Action/Darkshore escort/Absent Minded Prospector Changes
+            A few changes have been made to the Defias Traitor escort:
+
+            1) He now moves at a faster pace from Sentinel Hill to Moonbrook.
+
+            2) His respawn time was changed from 7-9 minutes to 30 seconds (after his death or after successful completion of the quest).
+
+            3) A bug was fixed which was causing him to despawn (and thus fail the event) if a party member died/released, left his area of interest, logged out or abandoned the quest.
+            The Redridge escort, Missing In Action, as well as the Darkshore escort, Absent Minded Prospector, were also subject to these failures.
+
+            They have been fixed as well. Sorry for any inconveniences! 
+    Skill System
+        As a last note, our talent and skill systems are both being redone. You'll see more on both of these systems in the next couple of patches. Within the next few weeks we'll be having an Alliance & Horde push that will unlock the Undead.
+        Training Tradeskills
+            Currently when a player wants to take a tradeskill for the first time, they must locate the specific trainer, find them, and pay the necessary skill points/coin. This can sometimes be frustrating as you run in and out of buildings or yell blindly to the world “Where’s the ________ Trainer!!”
+
+            In the next push, all tradeskills will be listed as a part of your interface. If you have the necessary amount of skill points, you can just select the skill … no trainer necessary.
+
+            You will of course still need to seek out the trainer to gain recipes and to go up in rank but I think many will agree that not having to find the trainer right away is a nice benefit.
+        Druid Class Available
+            Druids will be in the next push, Hunters "should" be in the one after that. If everything goes as planned, Druids will be available for y’all to try out! Races: Human, Undead, Dwarf, Tauren, Gnome, Orc, Night Elf and Troll.
+
+            Classes: Mage, Paladin, Priest, Rogue, Shaman, Warlock and Warrior. (We're 90% sure on Druids as well.)
+        Rogue's Dual Wield Available
+            Your second weapon will sometimes strike and cause additional damage - however, dual wield has been re-implemented and will be in the next "push".
+        Level Cap Rises to 35
+            That all said, level cap should be raised to 35 in the next push. If that goes well, we will lift it to 40 shortly thereafter. 
+        More tradeskill recipes added.
+            More recipes are being added for many of the tradeskills. 
+        2-Handed Weapon Revamped
+            Expect big changes next patch. You'll want to hang onto those 2-Handers. 
+        Stealth will be a Stance
+            Already done, stealth will be a stance in the next push 
+        Shamans (horde only class) Available
+            >>>>Shamans coming with Horde?
+
+            Yes
+            Races: Human, Undead, Dwarf, Tauren, Gnome, Orc, Night Elf and Troll.
+
+            Classes: Mage, Paladin, Priest, Rogue, Shaman, Warlock and Warrior. (We're 90% sure on Druids as well.) 
+        Changes to Spirit
+            Spirit increases both mana and hp regeneration rates. Look for more information regarding Spirit in the next patch notes .. as a couple of modifications are planned. 
+    Creatures
+        Creature Chase Distance Fixed
+            We are aware of the fact that actions such as healing and auras extend a creature's pursuit timer. This should be taken care of in our next patch. Helpful actions such as healing and paladin auras no longer extend a creature’s pursuit timer.
+        Xp bearing mob range MAY be increased.
+            As an additional note - we will be increasing the range of xp bearing mobs for higher level characters. I believe it will be 20% of your level with a minimum of 5 levels. We will hopefully have this in the next patch, but no promises.
+
+            Examples:
+            Level 10 character would get experience from level 6+ mobs
+
+            Level 50 character would get experience from level 40+ mobs
+        Monster spawn system revamp.
+            A new spawn system is being put in place to help prevent monsters from spawning on top of players 
+        Monster spawn times revamped.
+            Many spawn times have been increased, especially in the newbie zones. 
+    World Changes
+        Instance Dungeons Fixed.
+            It has now been reverted to the code you all know and love (which also happens to put ALL instances on one machine, but that's been mostly fine for the number of active instances we've seen to date). I'll hold off "fixing" this any more until the next push after it's had some real testing. Sorry for the inconenience, things are back to normal now.
+        City Changes
+            City Layout Changes
+                Darnassus, Stormwind, Orgrimmar and Undercity have all undergone layout changes to be easier to navigate (eventually all major cities will be overhauled) 
+            Less lag in Stormwind (and elsewhere)
+                Some of the changes in the next push should fix a lot of these lag problems. Many objects in the world have undergone data format changes to reduce memory usage. As an example, Stormwind in particular will use half the memory that it currently uses. Framerate Improvements! 
+            Easier access to Teldrassil
+                There will be a number of ways for non-Night Elf players to access Teldrassil. With that said, we intend for Teldrassil to feel much more remote than the other Alliance cities.
+
+                Players will be able to access Teldrassil without death porting or exploiting the fatigue bar. Mages will be able to open a portal to Darnassus, Warlocks can use Ritual of Summoning spell to get players there and there will also be an alternative way for players to reach Teldrassil (I'll keep this one a secret so players can discover it in the next push).
+            Theramore Opens
+                Theramore is not officially open for business yet. When we patch, Theramore and the rest of Dustwallow Marsh (the 35-45 zone Thermore is in) will be open.
+
+                After the next patch you can get to Theramore by traveling through the Barrens, and into Dustwallow Marsh. You can also take a boat (placeholder ports exist for now) from Auberdine or Menethil Harbor.
+    Misc Changes/Fixes
+        Bug Fixes
+            The current version of the client has a few memory leaks that are fixed in the next push. Thats why you notice memory steadily climbing. There are a few rendering errors inherent in running World of Warcraft in OpenGL right now. We hope to have them resolved with the next push. Several people have reported getting repeatedly loaded in instances even after leaving, having their experience and gold lost (but not items). The cause of this has been located and fixed... for the next patch. In a nutshell, if the user server crashes, some players may not get cleared from their world servers, and if that server is an instance, it may never find out that they are no longer connected.
+
+            Both today's user server crash that caused this and the bug that's leaving player objects around in instances after a crash are now fixed in the upcoming server version. 
+        Equipped cloaks will be visible.
+            Equipped cloaks will be visible.
+            I've only had a sneak peek at two cloaks in the game and I must say they looked amazing. I think you'll all like them very much once implemented.
+
+            I'll check and see if we have any plans to toggle them on/off for the view.
+            We understand the desire of some people to toggle cloak visibility on or off. In our next patch, cloaks will be visible with no toggle available. We prefer to take a "wait and see" approach as we believe our cloaks will be an added and attractive way for people to customize their characters.
+
+            If cloak visibility is truly a problem after implementation we can revisit adding a viewing toggle.
+            Cloak art has already been done although we'll be adding a lot more. What you'll see in this first patch is a *rough pass* of cloak art.
+
+            I just checked the Frostweave Cloak specifically in game. Currrently, it's a light blue color with an ornate gold trim.
+            As for the length of the cloak in the screenshots, this is but one of the many cloaks available. Cloaks vary in length and size.
+        Ghost changes
+            As a ghost, you can now reincorporate from a further distance from your corpse, and you will reincorporate with 50% health and mana 
+        Guild Petitions Work
+            Guild petitions will work. 
+        Alt+Spell for Self Casting will work.
+            The alt-hotkey feature was just added. It will work in the next patch. 
+        New Anti-Griefing Rules
+            We would like to alleviate as much player collision as possible through game mechanics. Therefore, we have some changes going into the next push that should help address this problem. 

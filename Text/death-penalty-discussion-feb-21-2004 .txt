@@ -1,0 +1,111 @@
+GFraizer is going to put together a death penalty page, but in the meantime, I thought I would clarify some issues.
+
+Here is the description from the interview:
+
+
+When a player dies, he or she will appear at a nearby bindstone as a ghost. While in ghost form, a player can neither be seen by nor see the living. The player must now travel back to where his or her corpse is to become corporeal again. Finding one's corpse will be easy, since players will have a minimap marker that clearly shows the way. Because the player's ghost won't be detectable by monsters, the journey back to the corpse won't be dangerous. After getting close enough to where the corpse is, the player will receive the option to be resurrected a small-but-safe distance from where he or she originally fell (to avoid any nearby monsters). Once the player becomes corporeal again, there are no further penalties for death.
+
+Should a player choose not to retrieve his or her corpse, a Spirit Healer (ghostly NPC) will be available at the bindstone to resurrect the player there for a modest loss in experience.
+
+Of course we are still exploring the death-penalty system and will be flexible in keeping our options open for future changes.
+
+Mini F.A.Q.
+
+OMG! Corpse runs suck! Why have them Blizz?
+Well, we need to have a death penalty of some sort, otherwise death itself becomes meaningless. I think most people are confusing corpse runs from other games with this one. 9/10 times when you die, you will want to return to your death location anyways just to continue playing the game. In most cases it is LESS harsh a death penalty than we had before.
+
+Why not just have the old death penalty where players got a debuff and appeared at their bind location?
+Mainly because it operated as a free teleport. Once someone wanted to go back to town, you would find the nearest monster or lake and promtly die in it. Not only did this not work great as a death penalty but it created lots of bizarre behavior in regards to transportation in the world.
+
+Doesn't this new penalty allow free scouting?
+Remember you cannot see monsters or players, so what exactly are you scouting? We also plan to make the world look somewhat different when you are a ghost that will furthur de-emphasize any scouting you can do as a ghost. Also, in some rare locations where we do not want players to "scout", some monsters will be able to see ghosts and attack them. Dying as a ghost will make you re-appear at the nearest graveyard.
+
+What about dungeons?
+You cannot explore dungeons as a ghost. You may only enter a dungeon in which you have a corpse, and you will turn corporeal as soon as you cross the instance line.
+
+How long are the corpse runs?
+It really depends on how far from a graveyard that you die. It could be a 30 second run, or it could be much longer. During beta we will tune the maximum range but it will probably be in the 5-10 minute maximum area.
+
+What if I re-incorporate on a monster?
+When you get near to your corpse (30 yards or so), you will see nearby monsters ghost in, so you can pick a good spot to re-incorporate and not die again immediately.
+
+Can ghosts see other ghosts?
+Yes. Players may also find ways in the game to see ghosts. Lastly, we would like to eventually add ghostly NPCs that may have quests for ghosts or world lore.
+
+How does it work in PvP?
+This is not determined yet, but it has been discussed with this penalty in mind.
+
+
+------ follow up answers through page 7 ------
+
+
+i like this death penalty but i wish there were a way to go back to your bindstone(or whatever its called) without losing the xp(assuming your corpse is far away or in a dangerous region), maybe going back to your corpse and having the option of porting back to the town you binded in
+There will be many methods of fast travel around the world. Some classes can teleport, while anybody can use Gryphons to travel quickly to town.
+
+what happens if you go LD, or logout while in ghost mode?
+nothing – but when you log back in you will still be a ghost
+
+ok, so what happens when a PC resurects me? do i lose some exp?
+No, but you will have resurrection sickness for a short time. All your stats and your overall combat ability will be reduced for a few minutes.
+
+In PvP, would this not lend to corpse camping? Or is that a factor?
+No, since you can re-incorporate within a 30 yard radius near your corpse.
+
+Can Ghosts swim? If so, does the air-limit still apply?
+Ghosts will simply levitate over the water. If your corpse is in water, you can swim down to it to re-incorporate. Ghosts do not need to hold their breath underwater.
+
+I really liked an idea some guy had a long while back. His idea for a Death Penalty was an EXP Debt. You don't loose any exp. But the next time you gain some exp, a percentage goes to the exp debt.
+Exp debt and Exp loss is really just the same thing, except you can’t lose your level.
+
+Don't expect Pardo to reply, much less read your responses.
+He just posted it to test the water, and figured he'd only rehash this system if there was an overwhelming response, so much that he would know without reading the forums.
+Bitter much? Blizzard employees constantly read these forums, but we have Katricia to reply to most questions. I just know this is a rather controversial issue, so I thought I would let her off the hook on this one.
+
+OK, hello, isn't this basically free transportation to a different dungeon then? Do you take the exp hit if you enter an instance?
+No. Once again, you CANNOT enter an instance in which you do not have an active corpse (meaning your most recent). You may only enter the instance in which you died. Once you cross the instance line, you will re-incorporate on the other side.
+
+So when you are done in your dungeon, just commit suicide and return to the entrance with your ghost instead of journeying out? People might opt to do that in big dungeons with a bindstone near the entrance.
+That would be possible if we placed graveyards right next to dungeons, but I doubt we will do that.
+
+Oh wait, what about Priest/Pali/Druid ressurection skills? Do they summon the ghost closer or something?
+No, resurrection spells may be cast on a player’s active corpse. The receiving player may then choose to accept the resurrection, which will re-incorporate them on top of their corpse with full gear, but with resurrection sickness.
+
+Can a player be rezzed by a shaman or druid at the spot where they died or do they automatically appear at a bindstone as a ghost?
+When you die, you will appear at the nearest graveyard, but your corpse remains a valid target for resurrection spells.
+
+If people choose to have their corpse's revived at the bind stone for the experience fee, is it possible to level down if you have just recently leveled up like in FFXI?
+No, you cannot lose your level. However, your experience in a level can go below zero. So, if you have experience below zero, it will take you longer to gain your next level. This is also the case for the maximum level. Over time we will add more levels to the game, so even max level characters will need to be somewhat careful with losing too much experience.
+
+So in other words, you can still use it as transportation. First die, then sacrifce some experience to be resurrected at the bindstone, so you end up the same way you would if you died in DAoC to get back to town. The fact that you don't have to lose experience does make it less likely that people will do this, but many people still will, especially people who don't have time to manually get back to town.
+Sure, and in the tuning process we will try to find an amount of experience that discourages this.
+
+What if i die and disconnect from WoW ? will my corps still be where i left it when i died ?
+Yes.
+
+Now when it says the spirit healer will res you at an xp loss, does that mean at the bind stone, or at your corpse? and if it's at the bind, do you get all the stuff on your corpse?
+They will resurrect you at the graveyard with your gear intact.
+
+This death penalty isn’t harsh enough <insert reasoning here>
+One of the fundamental philosophies we have had throughout the development of World of Warcraft is to remove overly frustrating elements from other MMORPGs and make the game FUN. Of course, you cannot take this too far, since you also need players to respect the world which is why things like falling damage, death penalties, and other elements exist. If players do not feel like they are overcoming obstacles then the game does not feel rewarding enough. We would rather make various encounters in the game be the difficult and challenging part of the game, not trying to decide if I’m willing to lose 1-8 hours worth of progress to replace equipment or experience already earned in the game. Most of the development team are hard-core gamers themselves, so we do plan to have plenty of challenges and rewards for players that choose to take them on.
+
+
+------ follow up answers through page 9 ------
+
+
+I have a question, the terms "bindstone" and "graveyard" seem to be thrown about interchangeably in this thread. Are they the same thing?
+Graveyards are replacing bindstones.
+
+So does this new death system mean that bind stone are no longuer in the game since now you re-appear as a ghost in a graveyard and can be resurrected in that graveyard ?
+Correct, bindstones no longer exist in the way they did before. I have been using the term “graveyard”, but we are still discussing exactly what we want the art to look like. It may even change based on the zone.
+
+Also, when you mean the closest graveyard, is it possible that you will come back as a ghost in a part of the world that you haven't explored yet since that graveyard is closer to your corpse than a graveyard you went through ? If so, will ghost be able to go through object or will they have to find their way through this unexplored land back to their corpse (I assume that the general direction of the corpse will be indicated)?
+Yes, that is possible, but we will strive to place graveyards in such a way to minimize this. However, since you have a pointer on your minimap, it should still be relatively easy to find your corpse even from an area that is new to you.
+
+Also, there are several points which talk about the "nearest" bindstone or graveyard. Are we to assume this means we don't have to actually walk up and tag these things anymore, and that the game automatically decides which is closest and ports us there? Are some of these faction specific (I wouldn't want my orc ghost sent to the human city).
+That is correct, there is no longer a need to explicitly “bind” yourself at a bindstone/graveyard. By continuing to allow this would only make it more likely for people to death teleport over a large amount of the world, and would punish people that forgot to bind nearby.
+
+I have not seen anyone raise is the issue of corpse decay. It's very bad to lose all your items after being unable to retreive your corpse. However, without corpse decay, starting areas would be wall to wall corpses. Personally, I would like to see a time limit that would force experience loss rather than item loss; i.e. if you can't get to your corpse within a few hours, you are automatically revived by the Spirit Healer--with your items.
+I can’t remember the actual timer on corpses, but it is pretty long. Once your active corpse decays we will resurrect you at the nearest graveyard. Undetermined if there will be experience loss for this.
+
+I am also curious to know what types of communication will be allowed in ethereal form. Will it be limited to gibberish ala UO, or restriced completely?
+No public chat will be available to ghosts, but private chat like /tells, /guild and /party chat will still be allowed.

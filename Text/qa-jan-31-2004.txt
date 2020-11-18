@@ -1,0 +1,94 @@
+Will there be specific role-playing servers?
+We want to ensure that role-players have the best experiences possible in WoW. This may include having specific role-playing servers (and probably will) but that decision has not yet been reached.
+
+Will there be taverns to go to, to hang out in and role play?
+Some cities have taverns.
+
+Will there be a way to retrain talent or skill points?
+Currently, you can unlearn a skill, but not a talent.
+
+Will skills atrophy if they aren’t used?
+No. Once you learn a skill it’s yours for life unless you decide to unlearn it.
+
+Will the UI be customizable?
+For those with the desire to customize certain aspects of the UI, they will be able to utilize XML to do so.
+
+Will Blizzard restrict the use of common names such as Robert, Jon, Sarah, etc?
+No, however there will be character naming restrictions which will include trademarked names or names that are offensive in nature.
+
+Is there religion in World of Warcraft?
+No. Feel free to role-play your own beliefs.
+
+Will there be ways to make weapons glow or have cool effects in WoW like in WCIII?
+Yes. There will be many ways to modify your weapons which will change the way your weapon appears. As an example, you might add a fire enchantment that would make your sword glow red and do fire damage.
+
+While there aren’t any differences in racial visions, will there be ways to modify vision with items?
+Yes. As an example, engineers can make spy glasses that will allow your character to see farther.
+
+Will there be dragons in the game?
+Yes.
+
+Will there be group quests available?
+Yes, most definitely.
+
+Will each member of a group receive a quest reward if they participated in completing a quest?
+If each member of the group accepted the quest from the quest-giver, each member would also receive the quest reward.
+
+Will there be alcohol in WoW?
+Yes. The affects of alcohol have not yet been decided.
+
+What are the different chat options?
+The chat system is still in development. The current system includes guild chat and a way for players to create their own chat channels. More options are being created.
+
+Can you display both the melee damage and chat windows at the same time?
+Yes.
+
+Besides bows and rifles, what other types of ranged weapons can we expect?
+Throwing axes, throwing daggers, wands and crossbows to name a few.
+
+Can rogues use two handed weapons?
+No, but they can dual-wield.
+
+Is there a limit on how much money a character can carry?
+No.
+
+How does group experience work?
+Group exp is still being evaluated. The current system is in its simplest form with everyone sharing the divided experience for a kill.
+
+Will players be able to customize their pet’s statistics, abilities or appearances?
+Pets can be trained and customized. This is still being developed so the amount of customization is uncertain.
+
+If an invisible enemy is seen by one person in a group, are they detected by all?
+No, however there will be ways for those that see the enemy to “expose” them to others.
+
+Can you cast a spell while running or falling?
+There are some spells which can be cast while “on the move.”
+
+Will there be sub-classes in the game?
+Currently there are no sub-classes available in the game. This is being discussed and it’s possible that they will be added for higher level characters.
+
+Will players be able to have characters on more than one server without paying additional fees?
+There will be one monthly fee to play WoW and it will apply to all of your characters regardless of what server they are on.
+
+What classes have the power to bring someone back from the dead?
+Priests, Shaman, Paladins and Warlocks all have the power to bring someone back from the dead. Their strength in doing so vary.
+
+Will players be able to trade with members of the opposite faction?
+Currently no, but this is still being decided and will be watched closely in beta.
+
+Are hunters the only class that can use rifles?
+No. Warriors and rogues can train in rifles and many other classes have other types of ranged weapons at their disposal.
+
+I’m looking for a guild, is there any place I can go to find one?
+Glad you asked! Head on over to our new Guild Recruitment Forums!
+
+Items which are still being decided upon or that I’m not able to speak about (so no answer available at this time):
+
+Will there be a “family rate” to allow a household to share one copy of the game?
+How many servers are expected at release?
+Player housing & merchants.
+Auction system.
+Games in taverns.
+What is the death penalty system like?
+
+As always, everything listed is subject to change. I will let you all know if/when that happens.

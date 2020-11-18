@@ -1,0 +1,37 @@
+Worldofwar.net was able recently to get an interview with VS40Fresh, who worked with Blizzard as an Alpha tester.
+
+WorldofWar.net: When did you enter the alpha phase?
+
+vs40fresh: When I began playing the alpha, the first patch (human at the time) had just started. I remember the very day I sent in my NDA. I tried to fax it from my school's fax machine and it didn't work like three times so i was completely frustrated at this point. So i went to Mailbox etc, and faxed it, it ended up costing like 15 bucks, but I know I sure didn't care. I also remember when my NDA was approved and I began downloading it. I was pacing around the room, I skipped work, I had to be at my computer the second it finished. It ended up finishing at about 2am in the morning, so I played till like 3am, and then went to sleep, having school the next day. My first character was a Human Palidin named Servermonk. He's been deleted for some time now. I replaced him with OptimusPrime.
+
+WorldofWar.net: What was the most enjoyable experience you had in the alpha?
+
+vs40fresh: The most enjoyable thing in the alpha to me, was when the file counter was at 10 and my heart was just pounding, it was like heaven almost. The second the main menu popped up, with the world of warcraft theme song playing, I was about the happiest person in the world. Then I logged in to find many Blizzard employees playing the alpha, as not too many people were in yet. I remember seeing Zileas for one.
+
+WorldofWar.net: What was the most frustrating and how did Blizzard fix it?
+
+vs40fresh: The most frustrating, would probably have to be divided into three separate events. The first one being, when they patched once, one of the later patches, the world had a collision problem, which was a client side fix only. They implemented a new collision system because people would jump over mountains to get places.
+
+The second would have to be in the tri-horde push (tauren, trolls, and orc) the server was going down like crazy, and when it came back up, everything would be fine, except there wouldn't be any NPCs or mobs.
+
+The third most frustrating thing would have to have been when warriors, due to a shield blocking bug, were able to only take 1hp damage from any mob, so they could tank large amounts of high level mobs with no problem.
+
+WorldofWar.net: What was the most humorous thing that happened to you in the alpha?
+
+vs40fresh: The most humorous thing, was when the world server went down, but we were still in the world, (usually when you go too far out in the ocean, a fatigue bar will appear and will begin to hurt you when it depletes). So I swam across the entire ocean before the server came back up. I never did see anything inside the maelstrom, the ocean sort of just ends towards the center and falls off hard like a cliff. When the server came back up, I was back where I was when it had originally crashed. But I can safely say that I am one of the few that ever has and ever will swim across the entire ocean.
+
+Another hilarious thing was in the first patch, there was this tradeskill, it still exists, but it was called survival training, and you can make campfires with it. Well our guild leader kept finding afk people and making fires underneath them and killing them. It was chaos haha, I couldn't stop laughing.
+
+WorldofWar.net: What is the most exciting thing for you as the game moves from Alpha to Beta?
+
+vs40fresh: The most exciting thing, for me, is that as the game progresses we will see pvp implementation, as this wasn't in the alpha (save for consentual dueling).
+
+WorldofWar.net: How often did you get to play the Alpha? Any problems keeping your real life together?
+
+vs40fresh: The first week of playing did lots of damage, I barely ate, except for the occasional pop tart. I did shoddy jobs on my class assignments, and so on. After that point, it became the norm for me, so I began to manage my time more appropriately, and now that the alpha is over, playing the game is no big deal for me, because I know i'll just get to play it again later.
+
+WorldofWar.net: What feature that was unavailable in the Alpha are you most looking forward to in the Beta?
+
+vs40fresh: Like the most exciting question posed previous to this one, Pvp will be the biggest unavailable feature I'm looking forward to. We were unable to test both the hunter and the druid in the alpha, so I'm really looking forward to playing those, as they seem like the most unique classes of all of the classes available.
+
+WorldofWar.net: Thanks for the interview VS40Fresh! Looking forward to hooking up with you in the beta.

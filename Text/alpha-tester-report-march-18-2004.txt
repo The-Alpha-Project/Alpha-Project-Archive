@@ -1,0 +1,371 @@
+I Was a Teenage World of Warcraft Alpha Tester
+
+(Warning: The following is a big info-bomb. While I have tried not to spoil a lot of the cool surprises beta testers will discover in play, I wanted to give what I felt was a full overview of the game as it currently stands. A good amount remains to be done on the game, but in many ways, World of Warcraft feels fairly complete already, and so the following is not short.)
+
+In November of 2003, I made my first World of Warcraft character, beginning play the night the human push (humans only) of the Blizzard WoW Friends & Family alpha test ended. Since then, I played in every push, getting a dwarven paladin to level 30, an undead mage to level 20, a troll shaman to level 22, and made characters of every other race and class (but priest) and got them to level 10 or so. (I had just about gotten a human paladin to level 14 the day the alpha test wrapped.)
+
+I split my time between EverQuest and World of Warcraft alpha, and was unable to tell anyone about this, under threat of a) being kicked from alpha, b) being banned from beta and c) betraying the trust of people I like and respect at Blizzard Entertainment. I know I have some friends whose feelings will be hurt that I didn't bring them into my confidence, and I'm sorry about that.
+
+But now, that time is over. The first phase of the beta test has begun, and I'm looking forward to seeing my EQ friends stomping around the World of Warcraft with me. (My family members somehow managed to not try and sign up for beta until after the beta test sign-ups ended. I'm starting to wonder if I'm adopted.)
+
+Things changed in every push (phase) of the alpha test, and more changes are still coming (the level 31-60 game, hunter and druid classes, a few more tradeskills, access to mounts, et cetera), but here's the inside scoop based on my experiences. Feel free to ask questions, and I'll answer what I can. (I mention the various pushes throughout the following. In order, starting in November 2003 and running through March 2004, the pushes were Human, Dwarf, Undead, Tri-Horde – featuring orc, troll and tauren – and All-Alliance.)
+
+First off, what World of Warcraft is NOT
+
+WoW is not a generic fantasy D&D world. It is also not EverQuest, which is pretty much a generic fantasy D&D world.
+
+You will not be playing a high elf – I know some asshat ran around as one using the leaked alpha client using character models currently available, shooting screenshots like crazy, but he could have also done the same by pulling up a crab character model, and it wouldn't mean that you could play crabs, either. I've seen pretty much all of the level 1-30 world, and have seen four or five high elves in all those areas. Only one of them was still culturally a high elf. The others were openly blood elves, or had turned to violence and piracy. Play Warcraft III and its expansion to experience (and cause) the fall of Quel'Thalas and the high elves. There are also no Drow/dark elves and expect to have everyone smack your ass around if you refer to night elves that way (think of them as wood elves as played by Shaquille O'Neil after he's found religion).
+
+In addition, if you are rabidly against steampunk, be aware it's part of the World of Warcraft. This isn't Arcanum – swords and shields are still the order of the day – but you will see dwarves, gnomes and goblin technology around (it's the only way to cross the ocean for the Horde half of the time, for one thing) and any race can learn the Enginering tradeskill. Dwarves and goblins especially are a huge part of the world, and you will be running into examples of their technology, even if you never set foot in Khaz Modan. But only hunters (of certain races) will be able to use guns from level one, and the steamtech in WoW feels very appropriate; several people I played with were initially against the idea of it at all until they saw how it blended into the world.
+
+The classes, even if they have familiar names to you, are not D&D classes, they're not EverQuest classes, they're not Dark Age of Camelot classes. WoW paladins do follow a code of honor, but they'd take Sir Galahad aside and tell him to stop being such a damn wuss more likely than not – and he'd use a giant sledgehammer before using a sword and shield. WoW shamans bear little resemblance to EverQuest shamans, and while I like the class in both games, there will be people crossing over from EQ to WoW who will find the fact that they're almost entirely different jarring.
+
+WoW is also not Dark Age of Camelot. This seems self-evident, but there were a lot of DAoC players in the alpha test who couldn't get over that the game is going to feature consensual Player Versus Player combat, and not full-on PVP or have PVP as its endgame. PVP may well factor into it, but there's no indication that the endgame won't be PVE – Player Versus Enemy. There's simply too many serious bad guys in the Warcraft universe that need a raid-sized hole stomped in their ass to think that Deathwing, Arthas and the Burning Legion won't be a factor – in fact, given the foreshadowing in levels 1-30, I can pretty much guarantee we'll be seeing them at some point.
+
+WoW is also not Diablo, it is a true MMORPG. You do not level to 30 in an afternoon (although some psychotics have done it in a weekend). It is a fast-paced MMORPG with some randomization on loot, but it is definitely still an MMORPG.
+
+Finally, WoW is not the Warcraft RTSes. While the classes and monsters and settings closely resemble those games (players of the Warcraft series will be getting non-stop nostalgia hits visiting old battlefields, seeing memorials to the heroes of Beyond the Dark Portal or even visiting villages just mentioned on Warcraft III's load screen maps), things are different. Some background elements from manuals or mentioned in passing have been tweaked to make them work better in MMORPGs. (Where the Horde's trolls come from, for instance, has moved from Stranglethorn, to just outside the Maelstrom, to just off the coast of Durotar, to further down the coast, in the Warcraft III manual, Warcraft III demo missions, The Frozen Throne and World of Warcraft, respectively.) Some spells you expect to see aren't available, either because they're being saved for hero classes, because they're (temporarily) removed to rebalance them or because the dev team hasn't found a way to implement them in a way that works in an MMORPG yet. While the setting is the same, WoW is not a Warcraft simulator. The dev team's stated goal is to create a game that's fun, not a MMORPG-as-social-experiment, as EQ did early on (all those empty buildings in Freeport are there for player-created content that never appeared) and Star Wars Galaxies did more recently.
+
+What World of Warcraft IS Today
+
+Let's start with the first one. It's fun. It's a LOT of fun. Remember that magic you felt the first time you clicked with EverQuest? It's back, and it's back in huge buckets full. The first time you hear the snow crunch under your feet in Khaz Modan as your breath steams in the air, or the first time you ride a wyvern across the Barrens of Kalimdor or the first time an NPC shouts out your name, celebrating you saving the day at the end of a long quest, you'll feel that magic. WoW is not perfect, but man, it's really, really close. It's loyalty to friends that kept me still playing EQ, but many alpha players dropped EQ, DAoC or Final Fantasy like a bad habit and never looked back. Expect sleepless nights, calling in sick from work and lost weekends all over again.
+
+Eye Candy/Ear Candy
+
+The game looks and sounds like a dream. Screenshots don't really do it justice, but when you're moving and running around, birds flying overhead, crickets chirping in the trees and the wind whistling through the branches, it feels like you're playing and exploring a Disney cartoon for adults. While the art style isn't anime, that's the closest thing I can come to for a comparison – while it definitely looks like an animated movie, for the most part it's all done in an adult fashion. The half-shuffling, half-swaggering undead patrol moving up the road in the Arathi Highlands, past the battle-scarred walls of Stromgarde certainly doesn't look like anything for kids. (No one playing Toontown is likely to have ever frantically typed "GET OFF THE ROAD! GET OFF THE ROAD!" at their groupmates, for instance.)
+
+The sound and music also are nothing short of incredible. Zoom your camera in as you run along, and you hear the jingle of your chainmail armor, and the sound of your boots crushing dry grass. The music is evocative and appropriate without being overwhelming (although run around Duskwood long enough and you'll be ready to crawl out of your skin, the music's so slasher-flick creepy). This is a game where you'll want to leave the music on.
+
+Starting Play
+
+When the (big, big) download is finished, you begin by selecting a race and a class, and then doing some simple physical customizations. Usually this is hair style, face, facial hair, hair color, but it varies by race. More customizations are being added: During the undead push, we only got to choose the above options, but since then, they added all sorts of extra available deformities, like faces with no jawbones, straps to hold a shattered skull together and so on. I personally feel there is plenty of customization already – you're not choosing between two nearly identical faces or hairstyles, DAoC style; the choices tend to be dramatic – but the folks who want more are gonna get it.
+
+After that, you click the button, there's a load screen, and you see a real time in-game cut scene, complete with voice-over narration as the camera races in towards you. Not all of these were available in the alpha, so this could change, but it was nice for setting the stage and letting you know the current state of things.
+
+The first town you arrive in is a tiny little hamlet for your race (or, in the case of trolls and gnomes, it's shared with an allied race). You get some very simple quests, have access to trainers who can help you through level 6 or so (although you'll likely have left by then) and can get acclimated with the basics of the game in a mostly safe environment. Between level 4 and 8, you'll move onto your second town, which is a little larger, has many more quests things available, including many tradeskill trainers, and is a harder area, and will take you through your low teens. (Orcs and trolls have an additional town between these two, a troll village on the coast.) After that, you're close to your capital city, which you are typically sent to visit in a quest. These places are huge, so first time players should expect to sink a lot of time into exploring them. After that, you move through a series of different villages in new zones for each level range, each with higher level quests and content, each moving further and further out from that starting hamlet. It feels quite organic, and you usually don't realize that you've made the transition from Anvilmar to Kharanos to Thelsamarr until you realize your quest log now all features areas far removed from the place you once called home. Starting with the capital city, almost all of these locations have flight paths that you unlock the first time you reach them, allowing travel back to where you've been through the capital city hub. (The games are centered around these cities, and learning your way around them is time well spent.)
+
+Quests
+
+When playing WoW, the vast majority of your time is spent on quests. These aren't the (generally speaking) painful, slow and not-terribly-productive quests EQ players dread. A quarter to a half of your experience each level will come from just the quest end rewards, much of your gear will come from them (at least initially) and if you're doing anything in WoW that moves your XP bar, odds are, you're on a quest. Unlock every single one you can find – Warcraft III style yellow exclamation points will be over their heads, while silver ones will show up on quests you can get in the next five levels. The stuff around you to fight is almost always something you can also be getting quest rewards for fighting, and not taking on these quests is pointlessly hurting your character's progress.
+
+The quests vary from "the local tribe of gnolls are raiding Lakeshire, I'll give you 5 silver pieces if you go kill X numbers of them to help drive them back while we wait for reinforcements from Stormwind" to "the Dragonmaw orcs are reorganizing and preparing for a military strike. We need you to sneak in to their hidden base and destroy their catapults." The quests tend to be designed around the race in the area. You'll find bickering human farmers asking you to sabotage each other's crops, dwarven brewmeisters needing help finding ingredients for a special beer they're working on, undead alchemists testing out a new plague to wipe out humanity for good this time (and the Scourge for good measure), or Taurens going on vision quests.
+
+There are quests designed for soloers, quests designed for groups, and "elite" quests starting in the teens that are designed like five person raids, with double hit point very tough enemies and great rewards.
+
+The goal is to never have an empty quest log at any level. Human lands absolutely accomplish this, but there are a few thin spots still for the other races, but more quests are constantly being added. The various classes also have (or are getting) class-specific quests that grant you new special abilities. Shamans face challenges set forth for them by spirits only they can see to gain mastery of new elemental totems, for instance, while paladins must prove themselves worthy over the powers of life and death by first resurrecting a fallen hero.
+
+Your experience of WoW will revolve around these quests and the flavor and style of them varies greatly between races. If you find that the undead quests just turn you off, travel over to the rest of the Horde in Kalimdor and try there, because the higher level stuff continues much of the same themes. Dwarves, for instance, are focussed on fighting back the trogg threat, enjoying food and drink, exploring ancient ruins and battling the sinister Dark Iron Dwarves from levels 1-30 and beyond. If that seems like something you're not interested in, it's not going to change. Personally, I find the various themes each race explores to be very cool and nicely diverse. I won't spoil things in detail, but there's honestly a style of play for everyone.
+
+The racial lifequests (think EQ epic quests) appear to start in earnest at level 26, although all of them play off themes introduced early on. Pedi and I started on the dwarf and human ones in earnest, and while I hadn't found the night elf one – night elves were just added at the end, and the quests might not have been added – the human and dwarf ones were so freaking cool, I'm not at all worried. No idea what the rewards will be, since both quests are still in their earliest stages. Lifequests are good examples of the multi-stage quest series very common in WoW, with their own XP, cash and loot rewards along the way. We were only able to get a few stages in on the dwarf lifequest, but the designer's note in the quest title said "<needs PHAT reward>," and given what's required, I fully expect it to be great. It appears that any race can do the racial lifequests for their faction, and the crises involved are certainly ones that the races wouldn't mind help on. But the themes are very much tailored to each race, and I wouldn't be surprised if some of the final rewards players can choose between were flagged to only be useable by members of the race in question.
+
+Roleplaying
+
+A few quick comments about roleplaying, since people on the official non-beta WoW boards seem to gnash their teeth a lot about this when they're not doing the PVP/carebear fight that crept into alpha (thanks to all the DAoC players) as well. First off, World of Warcraft is not, in fact, improvisational theater or a Live Action Role Playing game. This should be obvious, but a lot of the people announcing how WoW will be overrun with Battle.net kiddies seem to think this is an amazing insight. (And, for the record, the Battle.net kiddies aren't particularly bad – frankly, they're a lot less disruptive than most of the people you can find in the Plane of Knowledge at any time, day or night, in EQ.) The game is totally level-driven, and it would be very, very hard to gain more than one or two levels off of mere exploration XP and non-combat quests. (You actually can get a fair amount of XP this way, but the non-combat quests don't constitute most of them, and they're rarely consecutive. This isn't the World of Peacecraft, after all.)
+
+Having said that, WoW is closer to Ultima Online than it is to EQ for enabling roleplayers to actually roleplay. In addition to the ubiquitous shops providing means to kill and prevent from being killed oneself, the environment is full of props and settings like florists, tailor-made formal attire and large meeting halls suitable for player-run events like weddings. For the RPG lite crowd, the interaction with the world also naturally draws your characters into the story. Your young dwarven would-be hero isn't spending two hours filling backpacks with orcish belts in Crushbone (or, worse yet, the Bazaar) to dump on an NPC en masse and squirt through six levels. Rather, he has quests to collect information about the troll and trogg presence in the Coldridge Valley, delivers it to superiors, who in turn send him along to the next valley up the way to report, and then gathers more information there, and ultimately delivers it to the senate in Ironforge. The underlying mechanic is much the same – we're talking about slaughter and collection quests in each case – but what makes WoW more RP than EQ is that what you're doing actually feeds into the storyline. (The very same storyline that includes the racial lifequests, although it'll be a while before you see the strands start to come together.) The fact that you can't go and redo the same baby quests over and over because that's easier than actually progressing through the story also helps.
+
+Don't expect WoW to be Dwarf: The Quaffing, but it's going to be a lot more RP-friendly than EQ or DAoC, by a country mile. (If someone comes up with Dwarf: The Quaffing, please let me know.)
+
+Classes
+
+Each phase of the alpha had different races and classes available, and I played what interested me of what was open at the time. As I said before, I downloaded the client the last night of the human push, so I didn't do anything that phase. But I've played all the available classes but priests to one extent or another – note that druids and hunters were not available at all during the alpha test, although I'm told both have been tested to an extent in Blizzard's internal alpha. I'll list the classes in the order I played them, for the most part.
+
+Before I do that: None of these classes are support classes. Every class in WoW is meant to both contribute to a group and to be able to solo. When one, like the priest, has trouble, serious rebalancing occurs, and lo and behold, you end up with a class that not only can solo, but solos well. Strike phrases like how a class is "group-dependent" from your vocabulary; that has no place when talking about WoW. Lots of former EQ and DAoC players tried to put the priests in that box (and mages later), but Blizzard has been resistant to idiotic comments like that – of which they receive plenty through every medium imaginable. Don't be one of the asshats, please.
+
+Oh, and while Blizzard doesn't respond to all, or most, of the comments posted to the alpha boards (and presumably the beta boards), they clearly were watching. Ideas and issues floated on the boards or via the /bug or /suggest commands routinely showed up in patch messages. It was, frankly, sort of cool to see. But with the much, much higher volume of posts likely on the beta boards (and especially given that many of the initial comments will be covering issues that the alpha folks have been commenting on since November), don't freak out if blue names aren't responding constantly. They are reading, and a truly good comment will be listened to. (i.e. don't write up a big screed about how class-based MMORPGs are crap or how the world needs to be redesigned so it can be a full-time PVP gankfest or how two minutes to get to a distant new zone is far too long to travel and you'll never play WoW unless you can simply teleport from store to XP and back effortlessly, all of which some doorknob or other screamed about during alpha.)
+
+Paladin
+
+Pedi played a human paladin for a few levels, and I got a dwarf paladin up to level 30 between the dwarf push and the final all-alliance push at the end. While some folks in the alpha test found the paladin to be a little unexciting about the warrior, I really, really liked this class, so much so that I intend to play a human paladin in the beta test until such time as dwarf hunters become available.
+
+EQ paladins and D&D players will recognize paladins as being a hybrid of healer and melee, but in WoW, the slant is much more towards melee than healer, and they have a large number of unique abilities. For starters, they have the ability to cast buffs (seals) on a target. Each target can only have one seal cast on them at a time per paladin, so having multiple paladins in a group is by no means redundant. These seals do things like raise melee damage, raise melee damage versus undead even more, regenerate mana faster (yes, WoW's Breeze equivalent is a paladin buff), lower aggro, create a temporary Divine Aura shield around someone, transfer part of melee damage taken to the paladin, and so on. These are some of the best buffs in the game, and the most combat-focussed.
+
+Paladins also get auras that affect everyone in the group. A paladin can only maintain one aura at a time so, again, having multiple paladins is a good thing, although there are fewer choices for auras than there are seals. Auras raise armor class, provide a damage shield, improve resistances, or regenerate health faster during downtime. (The latter isn't that amazing, since food and water refill health and mana quite quickly, and a smart player has a bag full.)
+
+The class only gets a few combat moves to use during combat, as opposed to warriors and rogues, who are button-pushing like crazy the whole time. They get a bigger strike with their weapon (with a moderate cooldown period), an instant cast stun and an effect they can stack on an enemy that makes their Holy Strike do more damage. They also have some anti-undead spells, including an anti-undead fear spell and the ability to track the undead, which is immensely useful when questing in Duskwood.
+
+The class is also a decent healer, although without the mana pool of the priest or even the shaman (note that paladins and shamans can never group together, since paladins are Alliance-only and shamans are Horde-only). They serve as decent back-up healers, although I've heard of people who worked on their mana pool and were competent enough main healers. I'd still rather have a priest, though. Paladins are also one of the three classes we had access to that could resurrect a player. Like shamans, a paladin resurrection brings back the target at 1 percent health and mana. If you do a combat rez on a paladin, the subject will be dead again in a second when they get low health aggro. (In contrast, a priest brings targets back to life with 15 percent health and mana. And yes, there is such a thing as rez sickness in WoW.)
+
+Even without super-duper uber gear (most of my stuff was from quests or drops, with a few things I smithed in the final push of alpha), I found the paladin to be a very capable soloer and great in groups as both a main tank and as DPS. While not as sexy as rogues (don't be surprised if rogues are THE most popular class in the game) or warriors, I found it to be really enjoyable, and there was a quiet but sizable group that preferred them over all other classes.
+
+If you play a paladin in beta, consider either going a DPS-heavy route with talents and gear, or hit point-heavy. If you go the latter route, note that you only have two tools available to you for gaining aggro (Holy Strike and the Fist of Justice stun) and you might have trouble retaining aggro in groups. I went DPS-heavy and it took Pedi getting her mage into the late 20s before she was able to pull aggro off my admittedly pretty tired weaponry. I went all two-handed hammer, but if I had to do it over, I'd have keep my skills up in one handed mace and shield as well, for times where I couldn't take the hardcore beating some bosses, particularly elite bosses, dish out. You can spend two skill points (gained one per level, and used on weapon skills or tradeskills) to learn how to use swords or two-handed swords, but other than just having the ability to switch back and forth, I didn't really see a lot of value in it. And, you know, Uther used a two-handed hammer.
+
+As for tradeskills, mining/smithing is a great combo for self-reliant paladins.
+
+Mage
+
+Pedi played a dwarven mage to level 30, starting at their highest point, during dwarf push. I got one to 20 during their lowest point, the push right after, undead push. That sort of provides a nice snapshot for what's been going on with the class: extensive balancing and tweaking. When Pedi started, mages were pretty close to an uber class, and the ease with which they could kill caster NPCs in particular was nothing short of awesome. When I played my mage, a lot of those offending spells were either removed, or retired for retuning, and I also got the extra love of undead area content that incorrectly had things 100 percent immune to frost spells, which are about a third of the mage's arsenal (and the best third). In the final push of alpha, mages got a bunch of new spells, including some really awesome ones (expect Amplify Magic and Dampen Magic to be shamelessly stolen by other MMORPGs), but the class isn't quite there yet. Expect some more tinkering before Blizzard is done. (The priest went through the same process earlier, though, and is now one of the most powerful and versatile classes, after being the class that NO ONE wanted to play previously.)
+
+The class is a versatile one, with bolts, instant cast nukes (with cool down timers, don't get too excited), various AoEs and even an AoE damage over time spell (your targets catch on fire, and flames lick about their body for the duration). They also summon food and water (used to restore food and mana during downtime), can teleport between capital cities of their faction, turn invisible, open locked objects, have a variety of buffs and, generally, are a pretty neat class. In some ways, though, they were too good, which is why Polymorph (turn the subject into a pig, chicken or sheep, reduce damage output and prevent spellcasting) is on a vacation for retuning. Ditto their super-root, Chains of Ice.
+
+At this point, the class most closely resembles an EQ mage without the pet, although this could certainly change as quickly as the first patch of the beta. Mages do get pets, both water elementals at higher levels and EQ sword/mace style pets that look like little smudgy ghosts at lower levels.
+
+If you play a mage the first portion of beta, expect things to change, but change for the better. It's a fun class right now, but it's not quite up to the level of the other classes … yet.
+
+As far as assigning talent points go, there are folks who think that stamina and hit points are all that matter. You should know better, since mages need mana more than anything. This is especially true now since they get a new Mana Shield spell that converts mana to hit points at a 3:1 ratio. Pedi's level 30 mage, with her whopping 2k+ mana pool, can now take the hits almost as well as my level 30 paladin can with his Divine Shield up (like Divine Aura from EverQuest, but you can do anything you normally would with it on). For tradeskills, herbalism/alchemy fits like a glove, although some folks prefer herbalism/enchanting or tailoring instead.
+
+Warlock
+
+I played warlocks off and on during the undead and tri-Horde (troll, orc, tauren) pushes. They're fun, but not my cup of tea. Here's the basics, though:
+
+While mages use fire, frost and arcane magic, warlocks are the masters of fire and shadow magic. In addition to a few nukes, they have dots, can chew their hit points for health like an EQ shaman, can summon other players like an EQ mage's Call of Hero, get a horse pet (nightmare) at level 40, and oh yes, they summon pets.
+
+Warlock pets (imps, voidwalkers, succubi, fel hounds and infernals) each can be trained with different spells and abilities as you level up, and (barring a bug) will have the same abilities next time you summon them. Imps are trash-talking little buffers and nukers, voidwalkers are tank pets, succubi are rogues who can learn to mez, and fel hounds and infernals weren't available in the alpha push, being higher level pets. (If you play the undead, you can go to the circle of summoning in the mage quarter of the Undercity to see an NPC warlock instructor summon all the pets, one after another.)
+
+Warning: Every horny no-girlfriend dude who doesn't play a night elf mangina (more about them later) will play a warlock once they've seen the succubus. You've been warned.
+
+The class is quite versatile, and was reasonably popular for the three pushes it was available. If it gets changed, look for it to be powered up a bit.
+
+Talents and tradeskills for warlocks are similar to those for mages, except the fact that they can chew their health to give back mana also means bumping up Stamina and hit points makes a lot of sense.
+
+Vashanti leveled up something like 20 different warlock tailors, so he can tell you more about them.
+
+Shaman
+
+The Horde-only class that's not-quite a counterpart to the Alliance-only paladin, I played a troll shaman to level 22 in the tri-Horde push. The class got something of a reputation as being unpowered, unfairly in my opinion, but different strokes for different folks. Note that if you're someone who "always plays shamans" (and so help me, I've seen people say this), this class is very little like the EQ shaman and yet also more shamanistic in many ways than any RPG class I've seen. You'll go on vision quests, battle spirits invisible to observers and sling around totems like it's going out of style.
+
+The class is another hybrid of melee and spellcaster, but unlike the paladin, the balance is much more towards spell caster. The shamans use a unique system of spell skills based around the four elements and unlike most spellcasters, cannot use a wand at all. Shamans heal, have a paladin-quality resurrection spell, fling lightning bolts and release blasts of fire and have a ghost wolf form that is one of the few movement speed buffs (self only, though). You also can drop down up to four totems at a time, one for earth, fire, water and air. Each has a different type of effect, and works as a stationary area of effect spell. You might, for instance, cause your group to take less melee damage, blast nearby enemies and do a healing over time to your group. (No idea about air totems – that's higher level than I got with my shaman.) Multiple shamans in one group can drop a different totem for even more effects.
+
+When playing my troll shaman, I typically dropped the lower damage totem and the nuke totem, and meleed while rotating between spells. Some folks who tried to play shamans as all-melee or all-spellcasting reported extremely mixed results.
+
+I found the class to be a nice all-around utility player and if I play a Horde character ever, I'm almost certainly going troll shaman.
+
+Talents are the same as for mage, although some people pump points into Strength to help with combat. Good tradeskill choices include skinning/leatherworking and herbalism/alchemy.
+
+Warrior
+
+This is, quite simply, the warrior class every EQ warrior has been waiting for. Incredibly robust, perhaps even overly powerful, warriors have a wide variety of attacks and abilities. You simply cannot just hit Attack and walk away as EQ warriors can do on raids. I played a tauren warrior up to middling levels in the tri-Horde push and Pedi played an undead warrior to 20 before that.
+
+Warriors have the ability to use almost every piece of armor in the game and almost every weapon, although mastery of a lot of these requires buying the ability with skill points, and many aren't available until later levels. Warriors cannot use ranged weapons until level 20, for instance, and their choices are limited by race (although every race gets more than one choice). But more than just weapon and armor choices define warriors. They can switch between offensive and defensive battle stances and each features an array of combat abilities that slow attackers, snare them, stun them, taunt them and more. (That's right: One stance only has Taunt, and the other stance is meant for soloers. Good warriors will either stick to this stance in groups or come up with an alternative means of holding aggro. Stay tuned.) These abilities are unlocked based on the warriors' rage bar, which they get from tanking, although certain abilities give them some freebie rage with which to start the ass whooping.
+
+And after oodles of MMORPGs where casters could pull monsters away from melees running up to engage them, warriors will be doing that in WoW, with the Charge ability that warps them onto their enemies from a distance. (There's a graphic involved, but that's what it amounts to.)
+
+Talents are what you'd expect, with hit point builds the most popular, but building up Strength and other damage talents is also a good idea for taunting ability in both stances. While mining/smithing is a popular tradeskill combination for warriors, some have also experimented with cooking (and sometimes fishing and survival) as they're one of the few classes with no means to recover hit points after a battle.
+
+Rogue
+
+Rogues were the darling of the final push. Not only were they a brand-new class, they may be one of the most all-around fun classes in any MMORPG ever. Seriously. For anyone who wished that rogues in MMORPGs could be more like the old first person sneaker game, Thief, this is the class for you. I played a night elf rogue to middling levels, and Pedi got a dwarf rogue to 21 by the end of alpha.
+
+They have the things you'd expect, like a sneaking ability (skill based, not magically on or off or simply level based), back-stabbing, pick pocketing, (actually useful) poisoning and gain lock picking earlier (and for no skill points) earlier than anyone else. Now, atop this, they get a slew of combat moves, some of which give them points they can then spend on finishing moves – rogues can become a whirlwind of deadly blades when they want to. They can also sap a target from behind and knock them out, garrote them and when all else fails, have a special ability to sprint away at high speed. Oh, and they also dual wield, throw weapons and can learn to use ranged weapons. What they can't do after level 10 or so is tank very well. So rogues become the sneaky SOBs with a bunch of tricks up their sleeves we've always wanted as well as the DPS machines MMORPG players have come to expect.
+
+On talents, Agility is their key damage stat, and Toughness, Lightning Reflexes and Evade are practically a necessity for survival's sake. Sneaky ups your Sneak skill cap, and Perceptive does the same for that skill, letting you see the OTHER sneaky bastards creeping around. For tradeskills, skinning/leatherworking is popular, but herbalism is apparently needed for some poison recipes, so herbalism/alchemy and herbalism/enchanting are also good choices.
+
+Priest
+
+Not a D&D or EQ cleric, these robe-wearing guys can put their enemies to sleep, slap on damage-over-time spells and have one or two big blasts. They also, of course, are the masters of healing and resurrection spells. Early on, they were fairly weak, especially solo, but Blizzard did an extremely good job taking them back in the shop, adding things on, and now they're regarded as a fun class and, as you might expect, they're very, very popular with every group. They're not as required as they are in EQ (where they're arguably not truly required either), but you couldn't tell that from the attitude of a lot of players, who won't go anywhere without them.
+
+I never played this class (I barely remember to heal on my shaman, let's be honest), but Pedi played a troll priest to 22.
+
+On talents, follow the advice given for a warlock, since priests take a hell of a beating, even with their shield spell.
+
+Druid
+
+Druids were not available as a player class in the alpha test, but NPC druids were masters of shapechanging, were able to heal themselves and even could put a single target to sleep (mez, in EQ terms). NPC classes don't always match up exactly with PC classes, but it certainly suggests they'll be fairly potent and probably more melee-focussed than a lot of players expect.
+
+Hunter
+
+Hunters were not available as a player class in the alpha test, although NPC hunters, with and without pets, were fairly common (and damned frustrating to fight).
+
+Having said that, trainers for various hunter pets were found all over, and it looks like nearly every not-gigantic beast (animals other than ambient life like rabbits) will be available as pets. The only beasts I recall that did NOT have a trainer for them were kodos, giraffes, zhevras (zebra unicorns) and hyenas, although that last one seems like an oversight.
+
+Each animal has a different special ability, and that means the choices hunters make about their pets will determine how the class is played. Someone picking a bear, with its heavy HP and rend AC attack will likely use their pet to tank. Someone with a cat or boar with their self-hasting attack will use their pet to add DPS. Raptors do knock-downs, birds disarm, spiders poison (and there are high level ones that throw nets, spit poison at a distance and/or cast silence). Other beasts with trainers include wolves, crocolisks, plainstriders (prehistoric ostriches) and scorpions. Not all trainers are available in every area, so people wanting an exotic pet like a raptor or crab will have to learn where they can find those trainers and make the trek back every time their pet is able to learn new abilities.
+
+For talents, it's hard to say with 100 percent certainty at this point, but following the rogue path, where applicable, wouldn't be a bad idea. As for tradeskills, mining/engineering seems self-evident, as does skinning/leatherworking.
+
+Races
+
+Racial abilities were disabled in the final push of the game, so it's hard to know if they'll be coming back, and in what form. But races are a lot more than that – they determine where you start (which in turn controls where you can get to easily), and the quests and gear in your race's part of the world definitely plays a big impact on how your character develops. There are also a few racially restricted weapons.
+
+Remember that, when picking out races for the beta test and beyond, Alliance and Horde members cannot group together, and most don't understand each other: Only the undead speak both Common (the language of the Alliance) and Orcish (the language of the Horde). It's only been four years of (very) fragile peace since the end of Warcraft III, which in turn was part of over 20 years of constant slaughter and warfare.
+
+Humans
+
+The first race available, humans seem to be the most popular Alliance race, which sort of surprises me. (There were always as many humans online as dwarves and gnomes combined, and as many night elves as dwarves. Go figure.)
+
+They were the first race tested, and are attractive if a little plain. Unlike the Pamela Anderson model EQ human and barbarian women seemed to be based upon, WoW human women are a little closer to Christina Aguilera, or another bordering-on-too-thin starlet.
+
+Human lands are gorgeous, with a mix of high fantasy and fairy tale feel, and each has a very different and distinct tone, from the pastoral and even idyllic surroundings of the Elwynn Forest, to the deserted dustbowl of Westfall, to the rugged fantasy high adventure of the Redridge Mountains to the Ravenloft-esque Gothic horror of Duskwood. Humans currently have more quests in their lands than any other race (thanks to that area apparently have been in development the longest) and the overarching theme of the nation of Stormwind is intrigue and mystery.
+
+The capital city of Stormwind is a show-stopper, and perhaps the game's most spectacular city. It's a huge European medieval city with canals and distinct districts. Despite this, it's reasonably easy to make your way around, between the signage, the on-screen captions when you move into a new sector of town, the color-coded shingles for each district and matching banners hanging on the outside of the districts. There is also a field trip of NPCs roaming the city, with the teacher stopping at different points to explain to the class where they are and what they should know about the location. That's just one of many, many NPCs roaming the city with their own scripts. The city is also full of quests large and small, and even has its own small instanced dungeon in the stockade. When you visit Stormwind, don't be afraid to blow a lot of time there exploring the different neighborhoods, the shops and doing all the quests offered to you at your level.
+
+Human mounts are beautiful massive horses that resemble Clydesdales, but in a variety of colors. The pinto is probably going to be very popular, based on what alpha players have said. The horse farm is in Goldshire, the second town human players come to in the Elwynn Forest.
+
+Dwarves
+
+The second race available in alpha, the dwarves of Khaz Modan are great, in the classic Warcraft ridiculous Scot accent sort of way. But they're also one of the few dwarves in fantasy that aren't based on Tolkein's dwarves – instead, think Indiana Jones with axes. If Warcraft dwarves discovered King Tutankhamen's tomb, the thrill of discovery would be as big a deal for them as the treasure inside. This theme of exploration and discovery goes through all of their lands, and beyond: Dwarven archeological digs turn up in the damnedest places in the World of Warcraft.
+
+Dwarves are beefy, with truly elaborate facial hair and hair options and, by far, the absolute best in-game voice emotes. (There are a number of voice emotes like "/v cheer" that play an audio file along with the emote in the game.)
+
+Dwarf lands are ruggedly beautiful, from the snowy peaks and valleys of Dun Morogh to the placid waters of Loch Modan and the Stonewrought Dam to the rolling moors of the Wetlands. Not surprisingly, these lands are also primo places to mine as well, and it sometimes seems as if every dwarf player character is a miner. Dwarf quests are almost comically centered on food and drink early on, and on exploration. There's also a strong citizen militia spirit, moreso than the humans who sometimes impress players into the service of the Stormwind Army.
+
+The capital city of Ironforge is everything a dwarf city should be. Built around an extinct volcano, the city is three concentric rings around a shaft of lava, which provides the heat for the forges in the center of the city. The rest of the city is an echoing din of craftsmen and military might, which shops and apartments creeping up the high, high walls. The city is awe-inspiring and even a little oppressive on first glance, but it quickly becomes clear that it's broken into neighborhoods, like any big city. Dwarf apartments are typically studded with trophies, weaponry and enormous kegs for family use.
+
+Dwarf mounts are shaggy rams the size of Shetland ponies who look as through they could smash their way through a castle gate if they wanted to. You can find the ram farm in Dun Morogh, near the Misty Pine Refuge.
+
+Undead
+
+The undead – rebels who have broken free of the Lich King's mental control, often without a clue why or how – are seriously creepy, with rotting and decayed faces, bones exposed from their joints, and a nasty, unpleasant demeanor. If you want to play an evil race, this is it. The third race available in the alpha test, the undead were a chance to jump in feet-first into evil. Beset on all sides, the undead are fighting the Scourge, the surviving humans of Lordaeron, the Alliance and doing it all while keeping the rest of the Horde from knowing what evil bastards they really are.
+
+Undead have some of the best emotes in the game, with /salute and /lie being two of my favorites. All the d00ds who end up playing warlocks for that hot succubus loving will likely also like the male /dance emote, and at times you couldn't get in or out of the bat flight stations in alpha without running a gauntlet of a half-dozen or more of them doing it. It's funny, don't get me wrong, but only the first 100 times in one day.
+
+Undead lands are post-apocalyptic fantasy. Instead of the lush Gothic feel of Duskwood, these lands are bleached out ruins, with signs of death and horror everywhere, Night of the Living Dead instead of the Bride of Frankenstein. Bodies hang from trees, demonic dogs prowl the fields and any buildings that haven't fallen into ruin are usually home to something you don't want to mess with. The undead lands are not totally under their control, though: Scourge mages and necromancers are attempting to conquer the lands for the Lich King, and the magocracy of Dalaran may be destroyed, but the survivors are attempting to do SOMETHING about it. The neighboring human kingdom of Gilneas waits nearby, sealed off behind a protective gate until sometime after the game goes live. Higher level regions in the undead lands are battlefields between multiple factions struggling to control them, including against cults dedicated to the demonic Burning Legion.
+
+The Undercity beneath ruined Lordaeron (which looks identical to how it appeared in the Warcraft III cinematics) looks like something from a Tim Burton movie. It's lush, it's evil, and it's very, very insane. A bit smaller, area-wise, than the other capital cities, it's compact but intensely well organized. The city also has Stormwind-style scripts of the undead going about their daily business, much of it highly depraved. There's little doubt about the undead's true nature here.
+
+Undead mounts were originally black stallions with red eyes and red (bloody?) hooves, but are apparently being replaced with undead horses. Look for the stable in the village of Brill.
+
+Orcs
+
+The first race released at the same time as others, orcs are the lynchpin of the Horde. They clearly haven't gotten too terribly far from the bad old days of demon worship – there may be orc shamans around, but there's also warlocks and demon cults dot Kalimdor. Orcs in general are massive, savage looking and not anyone you'd want to meet in a dark alley. Or a not-dark alley, frankly. Their story concerns securing themselves in their new home, battling those who refuse to let there be a peace between them and the humans and rooting out the demonic corruption festering in seemingly every dark corner.
+
+Orc lands are brutal and harsh, with red soil like their native Draenor. Only the undead lands are more intrinsically hostile, and all sorts of nasty animals dot the landscape, along with human renegades who once served under Admiral Proudmoore and the cultists of the Burning Blade. Beyond Durotar itself, central Kalimdor spreads out into the enormous plains of the Barrens, a fantasy African savanna with kodo beasts, alien giraffes, raptors and gazelle. It's a setting that seems so perfect and right that, in retrospect, you can't believe that no one has done it before. The Barrens are an enormous area, and all three Kalimdor Horde races adventure here together, and in points beyond. To the north, their territory abuts night elf lands, and to the south, it becomes hostile to all life.
+
+The capital city of Orgrimmar is currently undergoing revision. It's a huge city nestled in connecting valleys. While it was very impressive visually, a lot of players (including me) found it confusing and frustrating. Blizzard has been fairly impressive in how well they've done in revisions at other times in the alpha test, so I'm expecting things to be significantly improved.
+
+Orc mounts are enormous shaggy savage wolves. They can be purchased from a pen in Orgrimmar.
+
+Trolls
+
+The Darkspear island trolls share Durotar with the orcs, and start off in their same starting village. Lean predators, they're as tall as night elves when they stand fully erect, but normally bob along, hunched over, coiled and ready to spring. While Warcraft players know them by their Jamaican accents, voodoo-flavored culture and wild hairstyles, the trolls are also cruel, sadistic and evil, the sort of creatures who would trap the soul of an enemy's loved one to use as a bargaining chip. Reflecting the culture of the nearby Echo Islands, they bring a funky, hippie feel to the World of Warcraft.
+
+The Echo Islands, now controlled by a rival tribe of trolls, are a fetid jungle full of wild animals and angry headhunters. Troll and orc characters visit the troll's home base of Sen'Jin as their second stopping point in the game, helping to get some payback for the trolls and put some ghosts of the past to rest, literally.
+
+Specific troll mounts were not found in the alpha test. It is not known whether they will simply ride the wolves the orcs use or not.
+
+Tauren
+
+The closest things to true "good guys" in the Horde – perhaps in all of the World of Warcraft – the Taurens go far beyond just a simple Native American vibe to be true lords of the plains. Enormous and powerful, they're imposing figures, whether as friends or enemies, and that makes their cultural obsession with the wind sweeping across Mulgore, expressed in windchimes, kites, windsocks and ubiquitous windmills of multiple shapes and sizes all the more intriguing. They are a spiritual people who put new Tauren player characters through a series of rites of passage, including following the path of a spirit wolf. Yet another of the moments in WoW that just feel intensely RIGHT, Taurens have a quest requiring them to chase a kodo herd across the grass fields of Mulgore, as close to a fantasy game recreation of a buffalo hunt as you'll ever come. It's a heady moment in the game, and one that transcends just being about leveling and XP to feel like something more.
+
+The Tauren homeland of Mulgore is "big sky country," Montana to the Africa of the Barrens. Taurens prowl under pine trees for pine cones, visit the wells dotted around their plains and work to keep the rapacious goblin-run Venture Company from encroaching on too many of their sacred sites. It's a beautiful area of the game, and it's incredibly peaceful, with an extremely expansive feeling while still being a convenient area for newbies.
+
+The capital city of Thunder Bluff sits atop a number of stone rises, a defended city of tents and lean-tos, grouped thematically on different pillars, with an enormous hollow totem pole that serves both as the city's principal landmark and as the local station for the windriders (wyverns) that the Horde flies in Kalimdor.
+
+Taurens will not be getting mounts of their own, but will have a plains running ability that will presumably let them run as fast as other races' mounts.
+
+Gnomes
+
+At first glance, the gnomes of Warcraft seem too tiny and too cute. It doesn't take long for them to win you over. Even if you don't want to play one yourself, they're hilarious to have around, like technologically savvy killer rabbits. And, in keeping with the way EQ players have portrayed gnomes, to the vague horror of everyone else, they're a lewd bunch with a funky "booty dance" /dance emote that makes some folks crack up and outrages others.
+
+Gnomes share Khaz Modan with the dwarves, who predominate there, but they have their own enclaves sprinkled about, with their own building style and interests. Gnomes also turn up in places far more random than the dwarves do – typically, a dwarf abroad is on an archeological dig. A gnome might be there for anything.
+
+While gnomes share engineering know-how with the dwarves, they feel an intense rivalry with the goblins, and although it's mostly friendly – goblins and gnomes race steampunk hotrods in the Shimmering Flats salt flats in southern Kalimdor – it's not always.
+
+The gnome capital of Gnomeregan has fallen to the troggs who have burst forth from the bowels of the planet in recent years, and a gnomish attempt to fight back has backfired horribly, mutating countless survivors into crazed leper gnomes. Gnomeregan was not open during the alpha test, and is apparently intended to be an instanced dungeon later on.
+
+Gnome mounts were not available during the alpha test, and it is not known whether they will simply be using dwarven rams or whether they will get special mounts of their own. It's worth noting that none of the mounts found in the game so far are flagged as being usable by gnomes.
+
+Night Elves
+
+Not your father's elves, night elves are enormous, the largest race in the World of Warcraft, with ears that flop and bounce when they move and lambent yellow eyes. The night elves have a wonderful presence about them, but have a feral hyperactivity about them, like restless cats. Of course, every mangina around will love their women, who have a /dance emote that goes through a routine that would look right at home in the sexiest of night clubs. Male night elves also have an eye-popping /dance emote, but in a different way.
+
+Night elf lands are beautiful fantasy forests, glowing as though it is all being seen under a black light. Their homeland is the new World Tree, Teldrassil, which is the new focus of their race. Beyond the island-tree and the capital city of Darnassus, the night elf lands in the north of Kalimdor are in the process of being reclaimed from the ravages of the past. Darkshore is as gloomy as any of the undead lands, but its taint is a legacy that goes back 10,000 years, to when magic was first discovered in the world of Warcraft, the elves split into two factions over it, and the Burning Legion first arrived. Other regions in the forested north are tainted to a greater or lesser degree, and the arrival of the Horde has displaced some of Kalimdor's native races, all of whom are now jockeying for a new place on the continent. Night elves are militant about restoring harmony to their lands, and aren't afraid to use deadly force to achieve it. People looking for cuddly elves should look elsewhere. This is nature, red in tooth and claw.
+
+Darnassus, in the branches of Telradrassil, is a new city that already looks majestic and ancient. Rich in delicate hues of blues and purples and pinks, it feels very ethereal and otherworldly. The last capital city to open during the alpha test, Darnassus is still somewhat unpopulated and empty, although it's definitely beautiful and striking.
+
+The night elf frostsaber riding cats were not found in any area open that I could find during the alpha, although I did see some large white tigers in Darnassus itself.
+
+Tradeskills
+
+Tradeskills in WoW will be loved by some, hated by others. On the one hand, they're more simple – you will never gather rare or expensive components together, hit Combine and fail to create what you're after.
+
+On the other hand, tradeskills are directly linked to level – you cannot buy one of the three levels in a tradeskill (which each unlock how far your skill can advance in the tradeskill) without skill points, which are earned by leveling. You simply will never find a low level player character mastering any of the tradeskills, and you will also never find someone with enough skill points to master even a third of all available tradeskills on one character.
+
+Also something of a love it/hate it aspect of the system is the fact that resources must be manually gathered. Herbs have to be found and picked, ore has to be discovered and mined, and hides have to be skinned off of animals. It's an extra step in the process that some find frustrating. Some folks also complain about "tradeskill Ksing" where some idiot tries to race to the resource you're fighting your way to in order to mine there first (poofing the resource for a given amount of time, and it may reappear randomly some distance away). I've gotten both of the more competitive gathering tradeskills (Mining and Herbalism) to the Expert level, and I honestly have encountered very little of this – it seems to be a problem that a few people who have encountered a few frustrating incidents are blowing up into a bigger stink than it merits. Honestly, as surprising as it seems, I find there to be something incredibly soothing about roaming the hills, mining for ore. Bringing back a sack full of copper ore to smelt into bars at the smithy is somehow intensely satisfying to me, much more so than any tradeskill in EverQuest ever was for me.
+
+Mining
+
+I got to Expert Mining on my dwarf paladin. Buying the ability at the Apprentice level, you gain a Find Minerals ability that makes nearby ore deposits show up on your minimap for one minute (at higher levels, you can buy an upgrade to the Find Minerals activity that makes the ore show up for five minutes). With vendor-purchased pick on you (in your bag is fine), you track down the ore, right click it, and mine away. In addition to ore of the appropriate type, you also get various grades of rock (used in smithing and engineering) and occasionally gems of various sorts. Higher level ore deposits, up to gold, are found in higher level areas.
+
+Engineering
+
+I picked up this tradeskill in my first push to test it out for my dwarf hunter, and got it to Expert level and got nearly all of the recipes available in the game. The skill is mostly of use to hunters, to be frank, as the best items available through the skill are guns and ammunition. The guns are superior to anything you can buy off a vendor at the appropriate levels and often superior to drops you find. Engineers can also create scopes of various levels to improve the damage of the gun in question.
+
+Most other engineered items can only be used by an engineer of the same skill level or higher, so most thrown dynamite and bombs will only be in the hands of engineers (there is a dropped recipe that lets engineers create a stick of dynamite even technologically useless people can throw). The skill also allows the creation of various goggles, the ability to blow simple locks, the ability to create practice locks for novice lockpickers to practice on, mechanical squirrel toys, exploding sheep bombs and even miniature harvest shredder robots.
+
+It's a lot of fun, but it is not high on the day-to-day utility list. The goggles are typically the first head slot item players can use (head, neck, shoulder and ring slot items are all higher level equipment, of various levels), so you do see a fair amount of powergamers getting to Journeyman Engineer for that reason.
+
+I intend to get this again on my dwarf hunter – where it'll be a great skill to have – but I do not see buying the skill again on other characters.
+
+Cooking
+
+I fooled around with this a bit in dwarf push and briefly in other pushes, although I ended up turning in the skill points invested and switching my dwarf paladin over to blacksmithing as his third tradeskill in the final push of alpha. I was a grandmaster baker as my main focus in EverQuest long ago, and wanted to compare the tradeskills.
+
+The good news is that there are a ton of quests in human and dwarven lands (and to a lesser extent in Kalimdor Horde lands) for recipes, so an Expert cook can be making soothing turtle bisque, while others might know how to make everyone's favorite, dig rat stew, based on their adventures. Food is crucial in the World of Warcraft, as you replenish your health after a fight by chowing down, and higher level food gives you back more health more quickly. Relying on Pedi's summoned food – which is now almost at the upgrade level – my paladin sometimes has to eat twice, which is a Somewhat Dangerous Thing if we're in an area where I need to be on my feet and healthy most of the time.
+
+Like all WoW tradeskills, you have to use the tools of the trade. Instead of a mining pick or an engineer's wrench, you need fire to cook with. Many NPC camps have fire, so slaughtering the quillboar and then cooking at their campfire is practical, and you can also find fires at inns and taverns, or create your own with the Survival skill. In addition to Survival, Cooking works well with Fishing, for obvious reasons.
+
+While not an amazing skill – the amount of food created per success probably needs to be upped a little – it's a very practical one that I can definitely see investing in again after getting Mining and Engineering to Expert level on my dwarf hunter.
+
+Herbalism
+
+I picked this gathering tradeskill up on my undead mage. While the sight of characters running around from flower to bush to shrub is a little funny at first, it feels very natural (so to speak) and it produces the materials needed for a number of tradeskills. That's the only downfall of Herbalism, really: Alchemists, enchanters and poisoners all are looking for those same plants. Plants tend to grow in predictable areas (silverleaf bushes under trees, snakeroot on hills, etc.), though, so once you've learned your way around WoW botany, all you really need is patience.
+
+Alchemy
+
+Alchemists create all the potions Warcraft players are familiar with – healing, mana, and so on – as well as a number of new ones, including quirky ones that make you race away from battle at very, very high speed … but in a random direction in your drug-induced panic.
+
+Potions offer a lot of utility, but moreso than other tradeskills, the temporary nature of the effects meant that a lot of the players in the alpha push didn't want to pay a lot for them. Until or unless the yield of potions created goes up (and I wouldn't bet against it), this is mostly a tradeskill to benefit yourself and your group, not get rich off it like, say, smiths can.
+
+Having said that, though, the wide range of abilities potions offer the alchemist make this a tradeskill worth looking at, in my mind.
+
+Enchanting
+
+This was added to the game in the undead push, and that's when I tried it. Magical effects can be added to various pieces of armor – the effect and the target depend on the recipe – using herbs, magical dust and copper and silver rods. In order to keep things balanced, permanent enchantments use a lot of herbs, and most of the skilling up recipes are temporary imbuing recipes.
+
+I tended to discount the imbues when I first tried the tradeskill, but in the all-Alliance push, I had two of my pieces of armor imbued for a tough fight with a named for a quest and I think it may well have made the difference in the fight.
+
+In any case, this is a relatively resource-intensive tradeskill to raise, and you won't find a lot of Expert enchanters. In fact, I'd expect every guild in the retail version of the game to have just one or two, but a lot of guild Herbalists supporting them.
+
+Tailoring
+
+I messed around with this some on several different characters on several different pushes, and it was fairly similar to the other crafting tradeskills (see Leatherworking and Smithing below): You gather level-appropriate materials (mostly linen, wool and silk in this case, gathered off of humanoid enemies), weave them together into bolts of fabric, and assemble clothes and bags.
+
+In WoW, there is one slot – the "shirt" slot – that's purely decorative, so this tradeskill has a number of very involved looking shirts it can create. Caster armor is also created with this skill, including for the much sought-after head slot. Tailored items at the high end tend to be comparable to dropped or quested armor, and the tailors are the ones who have the earliest access to bags and access to the bags of the largest sizes.
+
+Leatherworking
+
+I did Leatherworking on my troll shaman, and while I didn't find it as fun as Smithing, which I did later, I did enjoy putting together my own armor. Horde characters can also quest for a unique (so far) recipe to create a leather bag in Mulgore, which added to the fun of chasing down kodo herds. The higher end recipes here are split between gear that adds to Agility (the primary damage stat for rogues and hunters) and other stats that might benefit shamans or druids more, like Intellect. While there were some slow patches, and it's a little frustrating that there's only one quested bag recipe of the smallest size, I felt that Leatherworking was well on its way to being a nicely rounded tradeskill.
+
+Smithing
+
+Using ore and gems and sometimes other materials, smiths create armor and weapons, including some of the best items available at the levels played in the alpha test (1-30). After turning in my points for Cooking on my dwarf paladin, I picked up Smithing and found it a lot of fun. While there's still pre-combines to do – mined ore has to be smelted into bars (using skills learned via Mining) – it's not nearly as tedious as the 10,000 pre-combines used for EQ smithing, nor are the parts so difficult to come by. A friend needed a full suit of mail and an axe for a gnome warrior alt, and I was able to get the materials and produce the goods in relatively little time, and produce gear that would keep her for a fair number of levels.
+
+Of course, the very best items available with this crafting tradeskill, as with all the crafting tradeskills, requires higher end materials as well as drops from higher end zones.
+
+Skinning
+
+The gathering skill that goes with Leatherworking, this skill was added in the final push, and I did not get a chance to try it, as my leatherworker, my troll shaman, wasn't available in the all-Alliance push. But everyone noticed regular leather and hide drop rates dropping off, while practically every animal would be flagged "skinnable" after it died. (I want to watch a person try and skin a dead giant tortoise in real life, just for the record.) Pop out the skinning knife and go. The good news is that most people fighting animals aren't skinners, so there's a ton of corpses around for skinners to check. The bad news is that sometimes you have idiot skinners wandering around after you, which is irritating, and I'm told that most of the time, skinners are just receiving the most common skins (light leather), although that was also true prior to this tradeskill being added. I'd expect tweaks on how many skins and what kinds are available – mining has gone through several such tweaks already, for instance.
+
+First Aid
+
+Pedi did this on her undead warrior (yes, it's sort of ironic). The skill lets players roll bandages from linen and wool dropped by NPCs and apply them to the wounded. I believe that at higher levels, you can also cure poisons and diseases, but don't quote me on that. The tradeskill has had a very lukewarm perception, between the long cool-down time for applying bandages (since they didn't want healers to be replaced by a tradeskill) and the fact that eating food to restore health outside of battle is so easy. Pedi liked the ability to help folks out and to do emergency healing, but she was one of the few who really dug it. Honestly, this should be combined with Survival, in my mind.
+
+Survival
+
+The good news is that Blizzard has found a way to make fantasy RPG characters carry torches with them down dungeons and to huddle around camp fires, and did it by providing in-game effects that players want, and once more people are educated about the effects of the buffs provided by torches and fires, I expect the tradeskill will get even more popular. Unfortunately, that's all Survival really does: Provides a moderate buff to Spirit, and lets you create cooking fires. It's most commonly used by jackasses who like to stick campfires in funny places, like the middle of the bank. This is a joke that, oddly, stops being funny after the 200th funny guy discovers it. Anyway, this needs to be merged with First Aid, so that two half tradeskills add up to one with more versatility.
+
+Cartography
+
+This tradeskill was never available in alpha, although the trainers for it were around from the beginning and survived even when trainers for furniture building (no, seriously) and others vanished. It's been suggested that cartographers will be able to mark up the world and minimaps for group members, but no one outside of Blizzard really knows at this point.
+
+Foraging
+
+The only trainer for this appears in Darnassus, the night elf capital, and the tradeskill was not available in that final push.
+
+Brewing
+
+Trainers for this were around at least since dwarf push, but they never were open for business. Rumors suggest this one may be scrapped or rolled into cooking.
+
+Final Comments
+
+Let's see, general stuff …
+
+Travel in WoW is greatly enhanced by the flight paths, as expected. Some folks want it still faster, but for the most part, you can get to anywhere you want to go in a short period of time. If you insist on running back and forth across the world each time you finish a quest, you're going to be frustrated, but the quests are clustered together by level, so you rarely need to do that – taking a flight is typically reserved for moving to an area or winding up at the end of a night. Griffon and hippogryph rides are both spectacular, windrider (wyvern) flights are decent, but I found the bats to be a little stiff.
+
+Boats and zeppelins weren't working in the alpha test, but boat captains would warp you across the ocean in the all-Alliance push to get you where you're going.
+
+Mage ritual spells to teleport whole groups were likewise not in the alpha test, but mages could teleport themselves to capital cities once they'd traveled there to buy the location's port spell. The level on this was raised from 20 to 30 in the tri-Horde push, which was a little surprising, but not the end of the world. (Mages who got their port spells in previous pushes were allowed to keep them, though, so Pedi was still able to blink back to the capitals and take the flights out from that hub while I was still hoofing it across the world just trying to get to a flight station.)
+
+The game interface is already very clean and simple, although I expect EQ players will take a day or so to get used to the movement keys (QWEASD) and to using the mouse for swimming. The interface is also evolving, so don't be surprised when changes are coming. While most of the interface is at least functional, all guild commands have to be typed in with slash commands, but a guild tab on the Friends window is coming, we're told.
+
+Overall, I think WoW is going to be a tremendous success. Folks with realistic expectations (i.e. it's still just an MMORPG, with leveling and a focus on hack-and-slash, as befits the setting) are really going to like it. The game is both more fast-paced than EQ, with a greater ability for EVERYONE to solo (although that doesn't mean that all quests are equally soloable for all classes at all levels) and to be able to find something productive to do with 15 to 30 minutes of free time, as well as more mellow, since the consequences of failure are much, much less than in EQ. I don't think WoW is going to drive EQ out of business, which is sort of a ridiculous standard to set for any product, but I do expect it to take the #1 or #2 position in MMORPGs worldwide (yes, I'm looking at you, Lineage) within the first two months and hold it for the foreseeable future. But like all Blizzard games, it is more of a triumph of an evolutionary game process – everything you like about previous MMORPGs, without the added suck – rather than a revolutionary process. Having said that, the PVP system sounds pretty interesting, and wasn't available in the alpha test, so maybe a revolution is coming after all.

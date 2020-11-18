@@ -1,0 +1,83 @@
+The WoW build I played was alpha version 5.3 with all races and classes enabled and only one region on the north east coast of Kalimdor inactive.
+
+No gnomes here I'm afraid but I got tons with the normal camera so once I get those developed I'll be sure to put them up. In the meantime let me describe how it is to see a gnome in action:
+
+First off gnomes have the BEST facial hair in any game ever. Huge eyebrows that are bigger than they are, wacky mustaches that go out a foot in either direction. And their facial hair can be blue, pink, orange and other bizarre colors!
+
+They are about 6-12 inches shorter than dwarves (about dwarf shoulder height) and they run about the same. The one I saw was a level one guy outside Ironforge killing Troggs, young wolves and Frost Troll welps. One of the first dungeons a dwarf/gnome enters is populated by ice trolls and contains a unique ice troll called Grik'nir the Cold.
+
+The gnome I saw was a warrior in defensive mode meaning he gained rage from being hit. He gained about 3-5 rage each time he was hit. The following skills could be cast with around 10-15 rage:
+
+Rend, kick, punishing blow, strike.
+
+The guy doing the demo told me all regions have "dynamic respawn" so the faster you kill monsters the faster they start respawning. There is little or no downtime. He also said there were several loot options: Assign one group member to eb the "looter", or assign a system where each group member takes turns, or allow 2 people to loot a corpse but each can only take 50% of the stuff. Corpses have sparkles above them when there is loot on them to save people time!
+
+OK HERES SOME REALLY BIG NEW INFO: Max level for players in alpha is 25 but for final release it will be around 60. Max monster level will be 90-100 so there will be some monsters that really can not be soloed.
+
+Each level up gives you 10 talent points (TP) which can be spent in any of the following areas:
+
+Attribute (Strength, Dex, Spirit, Int)
+
+Defensive (Increase chance to dodge etc)
+
+Magic
+
+Slayer
+
++1 attribute takes all 10 TP. Many of the talents have prereqs like the skills in Diablo 2. However talents are different from skills in that they are not limited to one class. Also class skills must be learned from trainers wheras talents can be gained immediately on level up.
+
+The really cool demo guy then actually let me PLAY THE GAME! It was great. The controls are a bit wierd if youve played UO or D2. You must hold down both mouse buttons to move or use the WASD keys. You can strafe with the arrow keys.
+
+I played the UD priests and it was awsome. At level 1 I had a mace, heal and a direct damage spell called holy smite I believe. I had two quests, one which is on the Blizzard quest site, the other was called "The Damned" and involved killing bats and wolves and bring back their wings and paws respectively.
+
+Each race has several basic racial abilites. NE come with the "find herb" abilitie and UD have the ability to auto-breath underwater (since they don't actually breath ever)
+
+Oh before I forget: EACH RACE HAS AN INTRO CINEMATIC to explain the races background. I watched the UD one and it was frickin sweet. The cinematic uses the ingame engine so the cinematic flows seamlessly into your starting character.
+
+Anyways back to my priest. My smite spell did about 15-20 dmg to the creatures I encountered which besides bats and wolves included skeleton warriors, zombies and poisonus spiders.
+
+After doing both newbie quests I was given a quest to clear a nearby goldmine of spiders. However at this point we had some bugs and I had to stop. Before I did though the guy showed me one of the high level monsters:
+
+A Dreadlord! He also hinted at even more powerful demons.
+
+The demo guy showed me some other great stuff too. We had a NE druid with the following spells:
+
+Natures Wrath (a direct dmg spell)
+
+Mark of the wild (looked like roar)
+
+entangling roots
+
+NAture's touch (like heal)
+
+Rejuvination
+
+Disembowel (this sounded like alot of fun)
+
+We also talked about housing. He said its still being implemented and may not make it for release. He said that currently it works like WC3 (you get an outline of a building and place it in the world where you find a spot. So not preplaced houses).
+
+We also talked about mounts and he said he wasn't sure what the gnome or troll mounts would be but he guessed the gnomes would ride either kittens, bunnies or squirrels.
+
+Speaking of bunnies there are tons of critters in the world that can be killed. I killed several bunnies myself
+
+I also asked the guy about heros and he said they are still being played around with and they aren't finalized yet.
+
+I asked him about patch 1.13 and the orc campaign acts II and III and he said it should be out very soon since they only have to finalize the foriegn language versions. So look for that probably next week!
+
+We also saw a mid level dungeon where you must rescue a sorcerer who then opens a door into a courtyard for you after you kill a unique boss who guards his cell. I saw a nightmare mount which have now been renamed in Blizzard style to "Fel Steeds". They still look just as cool.
+
+Speaking of cool, I saw the gates to the undercity and they were guarded by these 2 huge abominations! Guards WILL be attackable and even killable but its probably unwise to do so as killing a guard will get the rest of the guards on you ass GTA3 style and you will eventaully have to die or flee. Also you are freely attackable when in another faction's city. So high level players can raid opposing cities but you will need a big group and lots of luck to survive for long.
+
+Also demoed in the quest with the sorcerer is the /follow command. However it only works on other PCs, not NPCS.
+
+Currently there are 8 character slots so you can have a character from each race.
+
+Ohh funny story:
+
+We were shown the inside of ironforge which as you might expect is a blacksmith/tinker paradise. We were shown one of the tinker gadgets: a 170 HP training dummy. You can use it to improve your combat skills but also to distract monters. The monster will attack the dummy and you can hit it without fear (unless you do to much dmg then the monster will turn and attack you).
+
+Ok now about the paladin. The level 1 paladin we saw started near the huge cathedral that we have seen in many screenshots. He had a hammer, holy light and holy strike (a skill that involes him jumping up with both hands on his hammer and wacking a monster infront of him. There is a big flash when he hits). He also had the basic skills of talents of dodge and block (defensive talents)
+
+At second level he got access to 2 low level auras, devotion and healing (+armor and +regen for him and his party).
+
+Well I think thats all I've got. I asked about release date but all they could say was they were "aiming for 2004" Still the game looks atleast 90% finished. Only one thing I saw still had placeholder art. I can't wait!

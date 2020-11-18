@@ -1,0 +1,73 @@
+We’d like to thank everyone who submitted questions to the Collecting Questions…thread. Here are some answers:
+
+1) Is there any plan to implement dungeon maps for instances in the way that city maps are slowly being cycled in?
+
+Dungeons are meant to be explored by players. Therefore, we have no plans to implement dungeon maps.
+
+2) Will there be any kind of web-based stat that would allow webmasters or people that will have blogs or fan sites to show people the current status of their characters?
+
+We plan to have many features like this on our website, such as character profiles and various ladders. Most of what we plan will unfortunately not be ready at the time of release.
+
+3) I recall reading at one time allowing all races to be able to train in ranged weapons. Has this idea been shelved? (ie Dwarf Paladin being allow to train in guns)
+
+Restrictions like these are class-based, not race-based. There are no plans to change this at this time.
+
+4) Arcane Crystals, required along with Thorium to make Arcanite, are they obtainable in the game currently? If not, when will they be added?
+They are not available currently; however, we plan to add them to the game in the next patch.
+
+5) During retail, will there be any method to resetting your talents? Maybe like a quest that you can only do x number of times before its permanent.
+
+There will be a way to unlearn talents in the retail game.
+
+6) What do the Altars of Storms in the Blasted Lands and the Burning Steppes do? Are they related to the Dark Portal in some way, or otherwise quest related?
+
+Those locations are indeed quest related.
+
+7) Any plans for more real-time cut scenes like the intros? Perhaps for Life Quests?
+Not at this time.
+
+8) Will there be more character creation customization, such as more hair style designs, hair colors, facial expressions, and individual markings / facial hair in upcoming patches, especially on races that seem to lack as many options as others?
+
+Nothing else is planned for launch. In the future, however, we may revisit the options for character customization.
+
+9) Will mobs ever be smart enough to use skills such as Charge, drink potion, or counterspell?
+
+Creatures in the game already do charge and cast many other spells. We will be improving the AI throughout the life of the game.
+
+10) I'm all for tons of high level content, but can we expect to see new low level content after release?
+
+Most of the low level content is finished at this time. New content for all levels will be added after release in the form of content updates and expansions, though, and we plan on having world events in which everyone can participate regardless of level.
+
+11) Does Blizzard realize that the Horde is still lacking in the fun & fluff department (like the Alliance's vendors that sell holdable flowers, or their master chef vendor that sells many recipes, etc.)?
+
+We do realize that such features are few and far between for the Horde at the moment. While we probably will not get such items in by release, the Horde should receive more attention on this front when we add such things in post-launch.
+
+However, in addition to high level content and raids, we are focusing on Horde content in Kalimdor.
+
+12) Will player-made bows be added to the game sometime and/or will more good bows be added?
+
+Bows will not be made via professions at release. There are many more good bows for sale in the world than there are guns, however, so it should be balanced on the whole.
+
+13) Any chance on lowering the cost of bank slots?
+
+We agree that the cost is perhaps too high for the later bank slots. To that end, we plan on changing the costs to 10s, 1g, 10g, 25g, 50g, and 100g in the near future.
+
+14) I'd like to know why cooking doesn't include mana drinks. Even if you made mana drinks artisan only, for higher ones, it would give more people a reason to cook and other people a reason to buy cooked stuff.
+
+There are one or two mana drinks out there currently. There will probably be no additions to this by release, but they are on our list to work on post-launch.
+
+15) What kinds of content will be added to the PVE servers that will make the game fun once a player is maxed out in levels and skills?
+
+Those who reach the cap should be able to find something to do among the variety of raid content, world events, and the additions brought by content updates and expansions.
+
+16) Will there be any revisions of professions and their crafts before release? Some of them feel untouched to me and weak for a long time compared to quest items (and even vendor items) unless you make it all the way to Artisan.
+
+Some professions, such as Leatherworking and Tailoring, are not yet complete. In regards to the relative weakness of the items, crafted items were never meant to replace quest items or random drops. They are intended to supplement your character.
+
+17) Will there ever be a way to effectively role play with our enemies?
+
+Emotes can be used to communicate with the enemy. We feel it is more fun when both sides are communicating and having fun with their own team; communication with the opposing team often becomes very negative and can cause more problems than it is worth.
+
+18) What is your favorite pizza combo and source for those late night sessions?
+
+We try a balanced diet from all the local fast food establishments rather than concentrate on pizza alone. 

@@ -1,0 +1,38 @@
+Why are you going with localized servers?
+
+To provide the absolute best connectivity to our game servers, Blizzard has set up dedicated datacenters for World of Warcraft in multiple regions around the world. These local servers provide low-latency, high-speed access to ensure players have the best possible experience playing the game. In addition to providing local servers, Blizzard has established local teams, including game masters, community team members, and technical support staff, in each region in order to provide players with a high level of customer support in their native language. Because of these local teams, customers will be able to have their game-related concerns addressed promptly and efficiently by knowledgeable and helpful support representatives who understand local issues. All of these factors will contribute to providing players with the best possible gameplay experience when playing World of Warcraft on their regional servers.
+
+Conversely, playing the game on servers in distant regions would significantly detract from the quality of the player’s connection and customer-support experiences. This level of service is inconsistent with Blizzard’s quality standards for World of Warcraft and could result in negative gameplay experiences for players of a subscription-based game service.
+
+Nevertheless, we do recognize that players from different regions will want to play together. Unfortunately, because of the current realities regarding local billing requirements, privacy of information across international boundaries, and the aforementioned issues with connection quality between regions, we will be unable to offer cross-regional services at the time of the North America/Korea launch. However, for those players who still wish to play on servers outside of their region, we will look into providing a specific solution that addresses their concerns after launch.
+
+Are you aware how much this issue affects game choice for guilds?
+
+Yes; we've been working with guilds very closely since the beginning of the closed beta test because we appreciate how much they contribute to the game and to the community. One of our top priorities is to ensure that all players enjoy the complete game experience that World of Warcraft provides, and this is why we are strongly recommending that players connect to their local servers when World of Warcraft launches in their region. Regarding guilds specifically, connecting to servers in a non-local region would ultimately result in an adverse gameplay experience for the guild member connecting from overseas, and we feel that this would also negatively impact the members of the guild who are playing locally.
+
+
+What is the situation for those located in Asia? Will they be able to play on the US servers?
+
+While we have currently only announced our plans for launching World of Warcraft in Korea and China, we can confirm that like players in Europe, players in Korea and China will be able to play on local servers and enjoy native-language customer support at launch. For those who wish to play on servers outside of their region, we will look into providing a specific solution that addresses their concerns after launch.
+
+
+What servers will the Middle East and Australia utilize at launch?
+
+We're still examining options for the Middle East and Australia and will release more information for these regions as soon as possible.
+
+
+Will you be restricting North America based on region, also?
+
+As with Europe and Asia, North American players will be restricted to North American servers. Because there are two locations to service players in North America, we will recommend that players there connect to the North American server that is closest to their particular home region for the optimum online experience.
+
+I travel overseas for work/school/military purposes. Will I have problems playing the game?
+
+You should be able to travel and play the game from overseas provided you have an account in your home region. However, network connectivity at such distances is not under Blizzard’s control, and your play experience may vary as you travel, so we ask that you bear in mind that your connection and support experience will most likely not be optimal.
+
+If you're stationed overseas for an extended period of time, we recommend that you subscribe to World of Warcraft in the region closest to you.
+
+
+If I live in Europe or Asia and have preordered a US version of the game from an online retailer, will I be able to play the game when I receive it?
+
+Players who do not use a method of payment accepted in North America and who do not have a North American billing address will not be able to play on US servers. Therefore, we highly recommend that players in other regions instead preorder the game for their local region and purchase their World of Warcraft subscription when the game launches locally to them. Doing so will ensure that they have the best possible World of Warcraft gameplay and support experience available. - Caydiem -
+Assistant Community Manager, WoW
