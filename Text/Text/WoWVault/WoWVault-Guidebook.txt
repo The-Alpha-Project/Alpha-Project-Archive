@@ -1,0 +1,2246 @@
+Beta Test
+
+Topics:
+
+    General Beta Info
+    Beta Test Requirements
+    Beta Testing
+
+Links:
+
+    Official Beta Site
+    Official Beta Forums
+
+
+
+General Beta Info
+
+Did beta sign ups already take place?
+
+    Yet, beta sign ups took place at the end of January and are now closed.
+
+
+Can I still get into beta if I missed the signups?
+
+    Unfortunately the first wave of testers will be chosen from those that signed up during the sign up dates. Keep an eye out on the forums though, in case they allow for additional beta testers.
+
+
+When will the beta start?
+
+    Katricia posted this note on the new beta forums found at http://www.worldofwarcraft.com:
+
+        POSTED ON MARCH 15th, 2004
+
+        With the World of Warcraft beta test right around the corner, we are in the process of setting up our new World of Warcraft Community Site. During the beta test, this site will be a resource for the testers, as well as serve the community as a place to follow what’s happening in the game.
+
+        Detailed game information and forums are currently available for viewing. We encourage you all to stop by often to learn more about World of Warcraft. Please note that the Community Site will evolve throughout the beta test.
+
+        The beta is coming soon!
+
+        Donna "Katricia" Anthony
+        Community Manager
+        World of Warcraft
+
+
+
+Beta Test Requirements
+
+What is the minimum age requirement to participate in the beta test?
+
+    To participate you must be 18 years of age or older. Minors over the age of 13 must have their parent or guardian register on their behalf.
+
+
+What are the system requirements?
+
+    The World of Warcraft® Beta test has the following requirements:
+
+        A 56K or higher modem with an internet connection.
+        You must have a valid e-mail address (yahoo & hotmail addresses will not be accepted).
+
+    Windows® System/OS:
+
+        800 Mhz or higher CPU.
+        256 Megabytes or more of RAM.
+        Geforce 2 Graphics Card or better.
+        3 Gigabytes or more of available hard drive space.
+        DirectX® 9.0 or above.
+
+    Mac® System/OS:
+
+        1.0 GHz or higher, G4 or G5 processor.
+        512 Megabytes RAM or higher. DDR RAM recommended.
+        ATI or NVIDIA video hardware with 64 MB VRAM or more.
+        3 Gigabytes or more of available hard drive space.
+        MacOS X 10.3 ("Panther") or better
+
+
+Can you tell us when Europe will get to play?
+
+    Blizzard would love to but they don't have any estimates at this time. Sorry!
+
+
+Why is Blizzard only accepting beta test applications from U.S. & Canadian residents?
+
+    Due to multiple time zones and language differences, Blizzard has decided to limit the beta test application participants to the United States and Canada.
+
+
+Why is Australia being excluded from the beta?
+
+    Don't take it personally. Decisions like this made to reduce complication and best facilitate testing. This is a test after all.
+
+
+I'm in Puerto Rico, is that considered a part of the U.S. for the beta?
+
+    Yes, people in Puerto Rico are eligible to signup and participate in the U.S. beta.
+
+
+I'm in the U.S. Military and may be traveling/stationed abroad during the beta test. Can I still participate?
+
+    Yes, to be eligible, you must use a valid U.S. address. APO/FPO addresses will be accepted.
+
+
+Will any other countries be included in the beta?
+
+    Simultaneously to this beta, Blizzard's World of Warcraft team in Korea will be launching beta servers for players in Korea. Betas for other countries will be opened as Blizzard is able.
+
+
+When will my country get to be included in the beta?
+
+    Blizzard will make announcements as this happens. Please watch www.blizzard.com for that announcement.
+
+
+
+Beta Testing
+
+How are beta testers chosen?
+
+    Beta testers are chosen according to their system specs, location, and other factors. Qualified beta testers will mostly be selected randomly. Blizzard's goal is to have a good variety of system types and locations to best test compatibility.
+
+
+How many people will be selected to participate in the beta?
+
+    People will be selected on an as-needed basis.
+
+
+When will the beta test participants be announced?
+
+    If you are selected, you will receive an email. If you are not selected you will not receive an email. Blizzard is unable to comment on the status of any application so please refrain from contacting Blizzard regarding your application or email status.
+
+
+Will beta testers receive a free final copy of the game?
+
+    No. Blizzard hopes you agree that being able to play the game before release is a rewarding experience in itself.
+
+
+Will beta testers receive their names in the credits or manual?
+
+    No. Please see Blizzard's answer to the previous question.
+
+
+Will you be listing the chosen testers on the web site, as you have with previous beta tests?
+
+    No. Blizzard will notify selected testers by email. Please do not contact Blizzard regarding the status of your application.
+
+
+Will beta testers have to agree to abide by a Beta Test License Agreement?
+
+    Yes.
+
+
+Can I sell or auction off my beta spot?
+
+    No.
+
+
+Will beta testers be able to post screenshots and information about the beta on their Web pages?
+
+    Yes, under certain conditions.
+
+
+Will beta testers be able to give gameplay feedback?
+
+    Yes. Beta testers will be provided feedback submission information together with their beta test information. All gameplay feedback will be handled through the World of Warcraft beta forums and systems within the game. Testers will be encouraged to communicate with each other and the development team about what they like, dislike and any other suggestions they may have.
+
+
+Will there be a World of Warcraft beta forum?
+
+    Yes. Only the World of Warcraft development team and qualified beta testers will have the ability to post to the forum. The forum is located at http://www.worldofwarcraft.com.
+
+
+How long will the beta test last?
+
+    Historically, beta tests last approximately 2-3 months. Due to the depth and magnitude of the World of Warcraft beta, Blizzard expects the beta test to last at least this long. Blizzard will notify participants when the beta test is nearing completion.
+
+
+Will the beta have a CD Key?
+
+    Yes.
+
+
+What if I did not receive a CD-Key or if I have misplaced it?
+
+    Blizzard is unable to provide additional CD-Keys for this Beta for any reason (whether lost, stolen, or never received one in the first place). For this reason, please be very careful with your CD-Key, do not hand this out to anyone for any reason. Please note that Blizzard Entertainment employees will never ask you for this information.
+
+
+I was selected as a beta tester, but I never received my copy! What can I do?
+
+    Unfortunately, Blizzard cannot resend beta discs or track lost beta discs. There will be no exceptions. Generally, if a selected tester doesn't receive their copy, it's because we don't have the proper address listed for that person. It is very important that you double-check your address before submitting your application.
+
+
+Will you be sending out CDs or will we have to download it?
+
+    People with high speed internet access will have the ability to download the game. Those with dial-up connections will be mailed a CD.
+
+
+When will the beta discs be mailed?
+
+    We will make an announcement once the beta discs have been sent. Please watch www.blizzard.com for that announcement.
+
+
+Can I have the tracking number for my beta test disc?
+
+    No. Blizzard will not give out tracking numbers.
+
+
+When will I be able to download the beta?
+
+    If you have been selected, you will be notified via email.
+
+
+What is the ESRB® rating for World of Warcraft®?
+
+    World of Warcraft® has not yet been rated by the ESRB®. However, we expect that the ESRB® will provide World of Warcraft with a Teen rating.
+
+
+Where will the U.S. beta server(s) be located?
+
+    US West.
+
+
+Can beta accounts be shared between friends?
+
+    No you can't share betas (over computers etc). Read the license agreement for more details.
+
+
+Can I test the game on more than one machine?
+
+    The license agreement will say what is allowed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    	
+Character Attributes
+
+Attribute Effects
+Base Character Attributes
+Class Attribute Effects
+Health and Mana Calculations
+Full Base Stat Listing
+
+Attribute Effects
+
+For your reference, the attributes are Strength, Agility, Stamina, Intellect, and Spirit. Though all of this information may change during beta testing, these are the effects of the stats as they stand:
+Strength 	Adds to your Attack Power, Damage-Per-Second (DPS). Strength does not affect Critical Hit chances at all. Strength does not improve your chance to block, but rather the amount blocked when you succeed. This amount is determined in part by Strength (and the other part by your shield).
+Agility 	Increases all characters' chance to Critical Hit. The amount of the bonus is higher per point on Rogues than other classes. Agility affects dodge. Rogues get more Dodge per point of Agility than other classes. Agility adds directly to Defense.
+Stamina 	Increases Health points.
+Intellect 	Increases Mana points as well as chance to Critical Hit with magic spells. Intellect also grants a higher chance to increase melee skills. (It does not affect trade skills though.)
+Spirit 	Increases Health and Mana regeneration. Spirit affects all characters' Mana and Hit Point regeneration rates in and out of combat. Spirit also increases your chance to 'proc' with weapons.
+
+
+Base Character Attributes
+
+Starting character stats in the World of Warcraft can not be changed before or after character creation. Each race has 100 base attribute points which are distributed among the five attributes as shown by the following table:
+Base Stats
+  Strength 	Agility 	Stamina 	Intellect 	Spirit
+Dwarf 	22 	17 	23 	19 	19
+Gnome 	15 	23 	19 	23 	20
+Human 	20 	20 	20 	20 	20
+Night Elf 	16 	25 	19 	20 	20
+Orc 	23 	17 	22 	17 	21
+Tauren 	25 	16 	22 	16 	21
+Troll 	20 	22 	21 	16 	21
+Undead 	19 	18 	21 	17 	25
+
+Orange indicates the race with the highest value for the specified stat.
+Green indicates the race with the lowest value for the specified stat.
+
+
+Class Attribute Effects
+
+Your class will have an effect on your starting attributes. Each class gets an additional 5 attribute points, which are distributed according to the following chart:
+
+Class Bonuses
+  Strength 	Agility 	Stamina 	Intellect 	Spirit
+Druid 	+1 	+1 	+1 	+1 	+1
+Hunter 	? 	? 	? 	? 	?
+Mage 	- 	- 	- 	+2 	+3
+Paladin 	+2 	- 	+2 	- 	+1
+Priest 	- 	- 	- 	+3 	+2
+Rogue 	+1 	+3 	+1 	- 	-
+Shaman 	+1 	- 	+1 	+2 	+1
+Warlock 	- 	- 	+1 	+2 	+2
+Warrior 	+3 	- 	+2 	- 	-
+
+Color coding: Green: +1, Yellow: +2, Orange: +3
+
+Note that not all classes are available to all races. Refer to our Class Section for determining those details.
+
+
+Health and Mana Calculations
+
+Starting Health and Mana are determined by Stamina (Health), Intellect (Mana), and class modifiers.
+
+Health
+
+When a character is first created, Health is calculated using the following equations.
+
+If Stamina is less than 20:
+
+Health = BaseHealth + (Stamina - 20)
+
+If Stamina is greater than or equal to 20:
+
+Health = BaseHealth + HealthModifier * (Stamina - 20)
+
+where BaseHealth and HealthModifier vary according to class.
+Class 	BaseHealth 	HealthModifier 	Dwarf 	Gnome 	Human 	Night Elf 	Orc 	Tauren 	Troll 	Undead
+Druid 	47 	7 	- 	- 	- 	47 	- 	68 	- 	-
+Hunter 	? 	? 	? 	- 	- 	? 	? 	? 	? 	-
+Mage 	52 	6 	70 	51 	52 	- 	- 	- 	58 	58
+Paladin 	40 	9 	85 	- 	58 	- 	- 	- 	- 	-
+Priest 	46 	6 	64 	- 	46 	45 	- 	- 	52 	52
+Rogue 	48 	8 	80 	48 	56 	48 	72 	- 	64 	64
+Shaman 	48 	8 	- 	- 	- 	- 	72 	72 	64 	-
+Warlock 	47 	7 	- 	47 	54 	- 	68 	- 	- 	61
+Warrior 	40 	10 	90 	50 	60 	50 	80 	80 	70 	70
+
+Red indicates the race/class combo with the highest health.
+Orange indicates the race with the highest health for the specified class.
+Green indicates the race with the lowest health for the specified class.
+White indicates the race/class combo with the lowest health.
+
+Mana
+
+When a character is first created, Mana is calculated using the following equations.
+
+If Intellect is less than 20:
+
+Mana = BaseMana + (Intellect - 20)
+
+If Intellect is greater than or equal to 20:
+
+Mana = BaseMana + ManaModifier * (Intellect - 20)
+
+where BaseMana and ManaModifier vary according to class.
+Class 	BaseMana 	ManaModifier 	Dwarf 	Gnome 	Human 	Night Elf 	Orc 	Tauren 	Troll 	Undead
+Druid 	87 	9 	- 	- 	- 	96 	- 	84 	- 	-
+Hunter 	? 	? 	- 	- 	- 	- 	- 	- 	- 	-
+Mage 	130 	10 	140 	180 	150 	- 	- 	- 	128 	129
+Paladin 	84 	? 	83 	- 	84 	- 	- 	- 	- 	-
+Priest 	130 	10 	150 	- 	160 	160 	- 	- 	129 	130
+Rogue 	- 	- 	- 	- 	- 	- 	- 	- 	- 	-
+Shaman 	69 	? 	- 	- 	- 	- 	68 	67 	67 	-
+Warlock 	110 	10 	- 	160 	130 	- 	109 	- 	- 	109
+Warrior 	- 	- 	- 	- 	- 	- 	- 	- 	- 	-
+
+Red indicates the race/class combo with the highest mana.
+Orange indicates the race with the highest mana for the specified class.
+Green indicates the race with the lowest mana for the specified class.
+White indicates the race/class combo with the lowest mana.
+
+
+Full Base Stat Listing
+Druid
+  Strength +1 	Agility +1 	Stamina +1 	Intellect +1 	Spirit +1 	Health 	Mana
+Dwarf 	- 	- 	- 	- 	- 	- 	-
+Gnome 	- 	- 	- 	- 	- 	- 	-
+Human 	- 	- 	- 	- 	- 	- 	-
+Night Elf 	17 	26 	20 	21 	21 	47 	96
+Orc 	- 	- 	- 	- 	- 	- 	-
+Tauren 	26 	17 	23 	17 	22 	68 	84
+Troll 	- 	- 	- 	- 	- 	- 	-
+Undead 	- 	- 	- 	- 	- 	- 	-
+
+
+Mage
+  Strength 	Agility 	Stamina 	Intellect +2 	Spirit +3 	Health 	Mana
+Dwarf 	22 	17 	23 	21 	22 	70 	140
+Gnome 	15 	23 	19 	25 	23 	51 	180
+Human 	20 	20 	20 	22 	23 	52 	150
+Night Elf 	- 	- 	- 	- 	- 	- 	-
+Orc 	- 	- 	- 	- 	- 	- 	-
+Tauren 	- 	- 	- 	- 	- 	- 	-
+Troll 	20 	22 	21 	18 	24 	58 	128
+Undead 	19 	18 	21 	19 	28 	58 	129
+
+
+Paladin
+  Strength +2 	Agility 	Stamina +2 	Intellect 	Spirit +1 	Health 	Mana
+Dwarf 	24 	17 	25 	19 	20 	85 	83
+Gnome 	- 	- 	- 	- 	- 	- 	-
+Human 	22 	20 	22 	20 	21 	58 	84
+Night Elf 	- 	- 	- 	- 	- 	- 	-
+Orc 	- 	- 	- 	- 	- 	- 	-
+Tauren 	- 	- 	- 	- 	- 	- 	-
+Troll 	- 	- 	- 	- 	- 	- 	-
+Undead 	- 	- 	- 	- 	- 	- 	-
+
+
+Priest
+  Strength 	Agility 	Stamina 	Intellect +3 	Spirit +2 	Health 	Mana
+Dwarf 	22 	17 	23 	22 	21 	64 	150
+Gnome 	- 	- 	- 	- 	- 	- 	-
+Human 	20 	20 	20 	23 	22 	46 	160
+Night Elf 	16 	25 	19 	23 	22 	45 	160
+Orc 	- 	- 	- 	- 	- 	- 	-
+Tauren 	- 	- 	- 	- 	- 	- 	-
+Troll 	20 	22 	21 	19 	23 	52 	129
+Undead 	19 	18 	21 	20 	27 	52 	130
+
+
+Rogue
+  Strength +1 	Agility +3 	Stamina +1 	Intellect 	Spirit 	Health 	Mana
+Dwarf 	23 	20 	24 	19 	19 	80 	-
+Gnome 	16 	26 	20 	23 	20 	48 	-
+Human 	21 	23 	21 	20 	20 	56 	-
+Night Elf 	17 	28 	20 	20 	20 	48 	-
+Orc 	24 	20 	23 	17 	21 	72 	-
+Tauren 	- 	- 	- 	- 	- 	- 	-
+Troll 	21 	25 	22 	16 	21 	64 	-
+Undead 	20 	21 	22 	17 	25 	64 	-
+
+
+Shaman
+  Strength +1 	Agility 	Stamina +1 	Intellect +2 	Spirit +1 	Health 	Mana
+Dwarf 	- 	- 	- 	- 	- 	- 	-
+Gnome 	- 	- 	- 	- 	- 	- 	-
+Human 	- 	- 	- 	- 	- 	- 	-
+Night Elf 	- 	- 	- 	- 	- 	- 	-
+Orc 	24 	17 	23 	19 	22 	72 	68
+Tauren 	26 	16 	23 	18 	22 	72 	67
+Troll 	21 	22 	22 	18 	22 	64 	67
+Undead 	- 	- 	- 	- 	- 	- 	-
+
+
+Warlock
+  Strength 	Agility 	Stamina +1 	Intellect +2 	Spirit +2 	Health 	Mana
+Dwarf 	- 	- 	- 	- 	- 	- 	-
+Gnome 	15 	23 	20 	25 	22 	47 	160
+Human 	20 	20 	21 	22 	22 	54 	130
+Night Elf 	- 	- 	- 	- 	- 	- 	-
+Orc 	23 	17 	23 	19 	23 	68 	109
+Tauren 	- 	- 	- 	- 	- 	- 	-
+Troll 	- 	- 	- 	- 	- 	- 	-
+Undead 	19 	18 	22 	19 	27 	61 	109
+
+
+Warrior
+  Strength +3 	Agility 	Stamina +2 	Intellect 	Spirit 	Health 	Mana
+Dwarf 	25 	17 	25 	19 	19 	90 	-
+Gnome 	18 	23 	21 	23 	20 	50 	-
+Human 	23 	20 	22 	20 	20 	60 	-
+Night Elf 	19 	25 	21 	20 	20 	50 	-
+Orc 	26 	17 	24 	17 	21 	80 	-
+Tauren 	28 	16 	24 	16 	21 	80 	-
+Troll 	23 	22 	23 	16 	21 	70 	-
+Undead 	22 	18 	23 	17 	25 	70 	-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Classes
+
+When creating a character, after choosing a race, the next thing a player will choose is a class. A character's class determines what skills and spells he or she will have. There are a total of nine base classes available. In addition to the base class, around level 60 or so each character will be able to choose a Hero class, which will provide further specialization. As Blizzard releases additional information regarding hero classes, this section will be updated.
+
+
+The following classes are available:
+
+Druid | Hunter | Mage | Paladin | Priest | Rogue | Shaman | Warlock | Warrior
+		
+	
+
+Druid
+
+Druids are the keepers of the world. Locked in slumber for generations, they awoke to meet the threat of the Burning Legion during its recent invasion. After Archimonde's defeat, the Druids chose to remain in the waking world and help to rebuild their shattered lands. The Legion's attack left a terrible scar on the natural order, and the Druids seek to heal it.
+
+More information...
+	
+		
+
+
+		
+	
+
+Hunter
+
+Azeroth is home to a wide variety of beasts. From the new world of Lordaeron to the old world of Kalimdor, all manner of creatures can be found. Some are friendly, some are ferocious and aggressive - yet they all have one thing in common. Each creature shares a special connection with Hunters. Hunters track, tame, and slay all manner of animals and beasts found in the wild. Whether they rely on bows or firearms, Hunters consider their weapons and pets to be their only true friends.
+
+More information...
+	
+		
+
+
+		
+	
+
+Mage
+
+The Mages of Warcraft once centered their powers within the magocracy of Dalaran. After that kingdom's destruction by the Burning Legion, however, the arcane arts spread to the far corners of the world.
+
+More information...
+	
+		
+
+
+		
+	
+
+Paladin
+
+Upholders of the Holy Light and defenders of the Alliance, the Paladins can be found from the northern forests of the Tirisfal Glades, fighting back the advance of the Forsaken, to the southern reaches of the Blasted Lands, ceaselessly upholding their vigil against demonic forces from beyond the Dark Portal. Wielding their mighty hammers and the strength of the Light, these holy warriors command forces in battle, all the while throwing themselves to where the fighting is the thickest.
+
+More information...
+	
+		
+
+
+		
+	
+
+Priest
+
+Priests lead the many faiths spread throughout the disparate lands of the world of Azeroth. In Kalimdor, Night Elf Priestesses revere the moon goddess Elune, while Dwarven priests in Khaz Modan deliver the message of the Light to their people. In the ruins of Lordaeron, the undead priests of the Forsaken, their faith twisted and tainted by their tortured existences, spread a dark interpretation of the Holy Light. Regardless of their faith, however, all Priests share in their ability to manipulate the minds of those who turn to them for spiritual guidance.
+
+More information...
+	
+		
+
+
+		
+	
+
+Rogue
+
+At home in the shadows and skilled at disappearing from sight, the Rogues of Azeroth are most comfortable when acting in the background. Twisting events to their favor, striking only when advantage is greatest: this is where a Rogue excels. With their cunning tricks, physical abilities, and mastery of concealment and disguise, Rogues have no trouble finding employment as thieves, cutthroats, spies, and assassins.
+
+More information...
+	
+		
+
+
+		
+	
+
+Shaman
+
+Shamans are the spiritual leaders of their tribes and clans. They communicate with spirits, have visions of the future, and guide their people through the darkest of times. Many mistake their wisdom and serenity for a pacifist nature. When challenged, though, shamans have a range of powers available for dealing with threats to the natural order.
+
+More information...
+	
+		
+
+
+		
+	
+
+Warlock
+
+Warlocks were mages that delved too deeply into the roots of demonic power. Consumed by a lust for dark knowledge, they've tapped into chaotic magics from beyond the world. The Burning Legion now feeds them their powers, allowing them to channel destructive energies and call upon the powerful emissaries of their demon masters.
+
+More information...
+	
+		
+
+
+		
+	
+
+Warrior
+
+Warriors are the melee-centered class. These characters are tough as nails and masters of weaponry and tactics. The special abilities of the Warrior are naturally combat-oriented. The Warrior is the ultimate toe-to-toe fighter with the most options available to him. Unlike other Warriors you might have played in other games, the Warrior of World of Warcraft has many different options and abilities to use during combat.
+
+More information...
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dungeons
+
+		
+	
+	
+		
+
+One of the many standards in all RPGS is the dungeon. Dungeons are places of adventure, danger, and gold, where players get to battle monstrous beasts and magical beings, as well as reap the whirlwind and gain powerful items. Many games, such as Dark Age of Camelot, choose to have only a few set dungeons that are known by the players as a place for getting such and such weapons and armor (I.E. The Tomb of Mithra, one of the five dungeons in the mainland of Albion). In the World of Warcraft, however, Blizzard decided to take a more ‘randomized’ approach to dungeons. These are called micro dungeons.
+
+Micro Dungeons
+
+Ranging from small, unknown mines to haunted tombs and bandit caves, there are more than one hundred micro dungeons scattered throughout the world of Azeroth. These dungeons, almost randomly placed (you can have more than one ‘Haunted Mine’), are designed for centralized groups. When you enter any of these micro dungeons, there will not be any long loading times (in fact Blizzard states that the transition is seamless), which explains the ‘micro’ part of the dungeon. Micro Dungeons look like they were designed more for the experience rather than the loot. World Dungeons, however, are an entirely different matter.
+
+World Dungeons
+
+A haunted castle? The tower of long dead magician? World Dungeons can be thought of as micro dungeons of a much grander scale. These places of slaughter and adventure are geared towards epic encounters, where dozens upon dozens of players can team up and fight the real monstrous beasties. A safe speculation would be that the monsters encountered in the past three WarCraft games (for example, Dreadlords or Crypt Lords) will be fought and killed (if possible) in these world dungeons. A few examples of world dungeons include Medivh's Tower, the Westfall Deadmines, and the Scarlet Monastery. World Dungeons will have meeting areas where players of different groups and guilds can meet and fight as one big group. To avoid long waiting lists, kill-stealing, and the other problems associated with epic level dungeons, Blizzard has introduced "instancing" to some of the key areas and encounters in world dungeons of Azeroth.
+
+Instances
+
+"Instances" are your own copy of a key area of a dungeon, for private group adventures. Instanced zones discourage some of the online rpger’s pet hates, such as griefing and kill stealing. According to Blizzard, monsters in the instanced zones are typically more powerful and will require a different set of tactics than the players used when fighting in the micro dungeons. Instanced zones will allow a certain group or guild to have their own private adventure, dungeon adventure within a bigger dungeon adventure. Once your instance is established, you will be able to invite friends into it to help complete the area.
+
+
+
+
+
+
+
+
+
+
+
+
+Guide to Mining and Blacksmithing
+By BitterElf
+
+BitterElf’s Guide to Mining and Blacksmithing
+
+This guide is intended to start you on your path towards mining and blacksmithing. It is by no means the definitive guide and is intended to supplement Nebu’s official blacksmithing basics guide at:
+http://www.worldofwarcraft.com/info/tradeskills/blacksmithing.shtml
+
+The key for all aspiring young blacksmiths is finding the raw material you will need to craft your creations. Therefore it is highly recommended that you take up the complementary skill mining along with blacksmithing or have several friends who are dedicated to mining for you. Like other materials related crafts blacksmithing requires 1 skill point to become an apprentice, 3 additional skill points to become a journeyman, and 5 additional skill points to become an expert. If you decide to take up mining as well to finance your blacksmithing venture, you will need to spend 3 skill points for apprentice mining, 5 additional skill points for journeyman mining, and 7 additional skill points for expert mining. As a result, unless you are human you will need to reach level 25 before becoming expert in both mining and blacksmithing.
+
+Blacksmithing requires perhaps the most eclectic array of materials of any of the crafting professions. In order to craft some of the higher end weapons and armors you will need to collect materials from all of the gathering disciplines (Fishing, Mining, Herbing, and Skinning). As an example, in order to craft the Shadow War Axe you will need an alchemy Shadow Oil potion from an alchemist which in turn requires an Oil Blacktail fish from a fisherman along with other herbs. But for the most part your main components will come from mining so here is a list of the more common components you will need in great quantity listed in order of difficulty to attain (number in parentheses is the mining skill required).
+
+Copper Bars (1) – Your basic copper acquired from Copper mining nodes found in most hilly and mountainous starting zones (e.g. Dun Morough, Elwynn Forest, Durotar).
+Tin Bars (65) – These are found in Tin mines in lower level zones (e.g.Barrens, Loch Modan, Redridge)
+Bronze Bars – Bronze bars are smelted by combining Copper and Tin bars.
+Silver Bars (75) – Silver mines are quite scarce and found occasionally in place of a Tin or Iron mine.
+Iron Bars (155 – bug should be 100) – Iron Mines are found in mid level mountainous zones and are usually guarded by ornery inhabitants of those zones (e.g. Alterac, Thousand Needles, Stonetalon)
+Steel Bars – Steel bars need Iron bars to lend them strength and Coal (from a trade vendor) to ensure the fires of your forge burn hot enough.
+Gold Bars (155) – Gold mines are a precious and rare commodity and can be found in place of Iron mine.
+Mithril Bars (155) – Mithril mines deep in the heart of the mountain yield an abundance of Mithril, unfortunately no blacksmithing formulas currently use it.
+Truesilver Bars (155) – not yet implemented Truesilver mines currently give you iron ore
+
+In addition to metal you will also find stones inside mines which are also needed to make sharpening stones to add weapons damage and grinding stones used in almost all recipes.
+Rough Stones – Found in Copper mines
+Coarse Stones – Found in Tin and Silver mines
+Heavy Stones – Found in Iron and Gold mines
+
+The final element you will commonly need to create your weapons and armor is the gemstones. Some can be found mining while others need to be acquired either from killing specific creatures or from fishing. In order of difficulty to obtain – though not necessarily rarity:
+
+Malachite – Copper Mines
+Tigerseye – Copper Mines
+Shadowgem – Copper Mines
+Small Lustrous Pearl – Fishing or Small clams from Murlocs
+Moss Agate – Tin and Silver mines
+Lesser Moonstone – Tin, Silver, Iron, and Gold Mines
+Iridescent Pearl – Fishing or Large clams from higher level Murlocs
+Jade – Iron and Gold Mines
+Citrine – Iron and Gold Mines (and Dragons :)
+
+As in all of the trade crafts the difficulty of an item to make directly impacts how likely you will gain skill points from creating that item. Orange items will always give you a skill up. Yellow items will usually give a skill up. Green items very rarely give a skill up and grey items will never give a skill up. My suggestion is to always create orange or yellow items which require only ore and grinding stones as those two are your most common components. This will allow you to skill up quickly to the point where you can start selling some of your items at which point you can use your more rare ingredients to create items that people will actually want to use.
+
+The blacksmithing trainer in all the major cities have the exact same stock formulas so there is no need to run around to different city trainers looking for different recipes. There are however special trainers scattered around the world that will teach you additional recipes. The three available in the alliance push are in the Stormwind Dwarven district (Hardened Iron Shortsword), Booty Bay (Moonsteel Broadsword), and Refuge Point(Solid Iron Maul). In addition to specialty trainers there are two other ways to acquire more formulas. Monsters will occasionally drop recipes relative to their level. And certain trade vendors in remote cities will sell smithing recipes (such as the Golden Chain Helmet in Tanaris).
+
+BitterElf is a level 30 Night Elf warrior with 225 skill in mining and 200 skill in blacksmithing. You can find me at your friendly neighborhood forge in front of the Stormwind counting house most of the time so feel free to look me up in the game and ask any questions you might have.
+
+Comments (10):
+
+<< Prev | 1 | Next >>
+
+		
+	
+Posted by Anonymous at 2004-05-26 10:43:29
+
+	
+		
+
+		
+	
+Posted by Anonymous at 2004-07-21 09:50:51
+
+	
+		
+
+		
+	
+Posted by Chunky kid with red messy and greasy hair at 2004-08-01 07:53:07
+
+neat
+	
+		
+
+		
+	
+Posted by ProfessorXxxtralarge at 2004-08-10 11:21:07
+
+What's the deal Anonymous?? Don't clutter the board with nothing!
+	
+		
+
+		
+	
+Posted by ProfessorXxxtralarge at 2004-08-10 11:22:01
+
+Oh yeah, and by the way, nice article!!
+	
+		
+
+		
+	
+Posted by Suncrusher at 2004-08-23 18:30:01
+
+Is there a new link for Nebu's official guide?
+	
+		
+
+		
+	
+Posted by underdirt at 2004-11-02 15:25:16
+
+nice im going to be a dwaven miner
+	
+		
+
+		
+	
+Posted by Anonymous at 2004-11-10 05:51:35
+
+Level 13, haven't yet found a mine...
+	
+		
+
+		
+	
+Posted by Anonymous at 2004-12-14 05:16:16
+
+Nice faq, convinced me to become a blacksmith!
+	
+		
+
+		
+	
+Posted by martian at 2004-12-14 22:40:56
+
+The part about steel where you mention that coal is to ensure that the fires burn hot enough...just for the record, steel is a mixture of iron and carbon, hence the coal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Druid Guide by Eleanoid
+By Eleanoid
+
+I thought that I would wait until I hit the level cap before I did my write up on druids. But, since I’m bored at work, I figured I’d do a write up in a similar fashion to Eleanoid’s Rogue Review.
+
+I mentioned in my rogue review that it would take one hell of a class to pull my interest away from the rogue. Well, the druid may well have done it. This class is FUN AS HELL. I really appreciate the way Blizzard has implemented the druid. They fit the game very well. They can do pretty much anything, but, as you would expect, not as well as the ‘parent’ class that their abilities are mimicking.
+
+For example, druids have a few healing spells (Healing Hands, Regrowth and Rejuvenation). Their healing ability is probably not far off the priest, but they are missing some of the Priest’s key abiltiies: namely, Resurrect and Shield. They can take the form of a bear, which is a warrior complete with a rage meter, but again, watered down. They still make an effective tank with taunts (Growl), stuns (Maul), and AE debuffs (Demoralizing Roar), but they lack a few key elements that the warrior gets: massive hit points, great armor, Charge, and stances. I have not made it to ‘panther’ form yet, but I understand that they are similar to a rogue in that they acquire opening moves to build up combo points and finishing moves to discharge them. I am sure they could not match the damage output of a rogue, but it gives the druid the flexibility to hop into combat with a little more damage potential if there is already a tank in the group. That is how Blizzard chose to implement the class, and I think they have done a bang up job.
+
+The druid seems to be able to fit any role that the party needs, and that utility is the druid’s major selling point. While another class may fill the role better, the druid can adapt and fill ANY role. So, although they don’t have some of the key class abilities of the other classes, they make a great second choice. I think it takes a certain kind of person to play a druid. You need to acknowledge that you will never be the ‘best’ in a given situation, but you can fit well into ANY situation. Some people enjoy being the best at what they do, some people enjoy variety.
+
+In addition to being able to play whatever role is needed in a party, druids gain even more utility with the ability to shapechange into an aquatic form at level 16, and a cheetah at level 30. Let me tell you, swimming at the bottom of the ocean as an angry looking seal-monster is a blast. I have been questing in Darkshore for the last couple levels, and my standard choice for travel is to run down the beach and dive in the water and swim in aquatic form. In addition to traveling faster than on land, you don’t need to really be worried about creeps jumping on you. A great way to travel! I can only imagine how the cheetah will travel, but I’m expecting it will be speedy!
+
+There is a great list of druid spells on WoW Vault, so I won’t describe the spell effects in great detail here, but I’ll provide a summary of abilities, and also my experiences as I leveled.
+
+The druid’s impressive spell and ability list includes:
+
+Healing Spells
+
+    Cure Poison: Cures any poison that a character is afflicted by.
+
+    Healing Touch (bread and butter heal spell): I tend to not use these spells very often unless a group member is getting really hammered on.
+
+    Rejuvenation (instant cast heal over time): Fire and forget healing. Gold. Time it right, and you can almost keep attacking with no extra delay.
+
+    Regrowth (A moderate heal + a heal over time). This is a great spell, but I tend to only use it after a fight. It’s kind of a mana hog like Healing Touch. I would never use this spell on a rogue, they just do not have enough hit points to absorb all the healing this spell can provide over time. It’s great for a tank though. They live long enough to reap the benefit of the entire spell and they have the hit points to use all the effect.
+
+
+Buff Spells
+
+    Mark of the Wild (OMG AWESOME!): Kestrel is only level 19, but already this spell bestows a HUGE bonus. At Kestrel’s current rank of Mark of the Wild, she provides something like +2 to all stats, +40 armor, and +2 to all resists for 30 minutes. And it just gets better. By level 30, I believe it confers something to the tune of +4 all stats, +50 armor, +4 all resists. That’s enough to turn any class into a monster.
+
+    Thorns: A buff that can be cast on friendly players. This spell adds a nature based damage shield. Rank 2, which Kestrel currently has, is 6 damage / hit. One little trick I’ll share with you (and the druid has many tricks), find creeps that swing really fast and watch them kill themselves as they slice themselves up on your bristly coating. If you are fighting conservatively (so let’s say it takes roughly 25 seconds for a given fight) you can add up quite a bit of damage with this buff. If you’re up against a creep that swings quite fast (say 1.5 – 2.0 delay), that’s 6 damage every 2 seconds for 25 seconds. That adds up to 75 extra damage. To put that in perspective, that is the equivalent to two casts of the druid ‘nuke’ spell Wrath. Not too shabby.
+
+
+Damage Spells
+
+    Wrath: Decent ‘nuke’ spell that does low damage relative to a mage’s nuke, but still a decent ranged attack option (especially combined with Entangling Roots). Not to mention it looks great. The graphic is a crackling bolt of energy which explodes on the target, enveloping it momentarily in blue electricity.
+
+    Moonfire: An instant cast minor direct damage + dot effect. This is a staple in any fight. I use this spell at least once in every fight unless I am the dedicated healer. Typically, I will use this spell 2 or 3 times in a fight, just for the extra instant damage, let alone the dot.
+
+
+There are other damage spells available at higher level, such as Starfire, but I have no practical experience with these spells yet. I’ll update this review / guide once I’ve had a chance to play around with them. From the Blizzard Druid guide, it appears that Starfire is very similar to Wrath, but ‘Arcane’ rather than ‘Nature’ in case you are up against a creep with nature resistance, you’ve got options.
+
+
+De-buff / Hindering Spells
+
+    Entangling Roots: Unreliable goodness. I am of a mixed opinion on this spell. At times, it is a boon, other times a curse. You will learn very quickly not to rely on this spell, but it can be a lifesaver at the same time. Once you cast this spell, roots spring up from the ground, holding your target in place. In addition, the thorns on these roots deal out a bit of pain. The rank that I currently have does 50 damage over 12 seconds (the duration of the root). If the root breaks, so does the damage effect.
+
+    Now for the downside(s). This spell soaks up a lot of mana, and there is no reliable duration. Your root might last for the entire 12 seconds, or the creep may break free after less than a second. Every couple of seconds, you can see the roots re-grasp on the target, so there is some kind of resistance check going on. I’d say, against an equal level creep, the average duration is about 6 seconds and it scales up or down based on the level of the creep (ie against a lower level creep, this spell will likely last longer, and usually the full duration). That makes using the spell not really worth it in my books. On the occasion that you do get a full 12 second root, it’s pure gold. That creep will be at 30% health by the time it gets to you. This is also a good spell to pull from a camp. It’s unreliable, but it buys you and your group a few extra seconds to lay some beatdown on any other creeps that charge you in protest of you rooting their friend.
+
+    Faerie Fire: This is a no-brainer instant cast debuff. The duration is 40 seconds and you debuff the targets armor by x amount (50 points at Rank 1) and it prevents stealth and invisibility. The only time I would not cast this spell is if I am fighting against a caster. Otherwise, this spell is great. The spell effect is also very clear and visible to everyone around, so it makes a great pulling spell. Golden fairies circle the creeps’ head showering faerie dust as it does.
+
+
+Alternate Forms
+
+    Bear form: At first, when you shapechange you are in for a treat. The bear looks amazing. I’m sure you’ve all seen screenshots by now, but for those who haven’t, it’s sort of a stylized bear with a white spiral tribal marking on each shoulder. I received some comments from people saying that the bear form looks more like a werebear than an actual bear (I’ll have to defer to the werebear experts on this one – personally, I have no experience with werebears), so don’t be surprised if you don’t look exactly like a bear. Although the Beta community seems to be generally disappointed with bear form, it has its uses. The bear makes a great secondary tank or in a pinch, a primary tank. Not because of its hit points or damage, but because of its ability to taunt. I have been in groups while in bear form and taunted 3 or 4 creeps at once. Nothing to write home about, but it works very well. As far as I can tell, it’s identical to the warrior’s taunt. When you shift into bear form, you lose some basic damage from your weapon, but you get some nice abilities to make up for it (Maul, Demoralizing Roar, etc.).
+
+    Having said that, being in druid form is far superior than bear from when you are soloing. Bears can not eat, use items, cast spells, etc. so you pretty much have to shapeshift after each fight, heal yourself and shift back. There is roughly a 30% mana cost to shift back and forth so it’s not very efficient.
+
+    Aquatic Form: I love this form. I imagine that I was a stylized monstrous seal in a previous lifetime, because I relate so well to this form. This form is fun! It’s like riding a roller coaster for the first time. You can swim ANYWHERE there is water! No drowning, no fatigue meter! Don’t feel like boating to Theramore or Menethil Harbour? Then swim! As I mentioned earlier, you can swim faster than you can run, so if you can find your way to a river or body of water, you can speed along quite nicely. Additionally, I have heard of a druid or two who have explored the floors of the ocean and come across things like a discarded armor crate with items inside it. I have yet to do this myself, but if I had a bunch of extra time and nothing to do with it, I might very well consider exploring the ocean floor.
+
+    Cat Form: I can’t directly comment on this one yet. I’m about 2 hours of gameplay away from having cat form, so I’ll provide more information once I can assume this form. I have played a rogue to 30 (Eleanoid), and can say that if they are anywhere near as fun as playing an actual rogue, Kestrel will be spending a fair amount of time in this form.
+
+    Travel Form: A distant 11 levels away. I’m hoping it will be at least 2 x running speed. Anyone have any experience with the cheetah form that they’d like to share?
+
+
+Other Forms
+
+    Innocuous Creature Form: I’m not sure if / when a druid acquires this, but I remember in a Blizzard interview back in the day with Bill Roper, he mentioned that druids would be able to assume the form of an ambient creature. Tres useful. Nothing but speculation at this point, unless anyone else can confirm details.
+
+    I’d like to share one impression that I had very early on, as I left the Night Elf starting city to the nearest town. My jaw dropped as I saw the town patrolled by several immense Ancient Protectors. The ground rumbled deeply as they walked by and their foliage shook with each gigantic step. The first thought I had was that it would be very cool and innovative if druids could assume the form of the Ancient Protectors, but call them something different, such as “Force of Nature.” I think it would be a very cool experience to be able to shift into a giant form, and what better form than a huge tree! How ‘druidy!’ I have made this suggestion to Blizzard twice, and I also suggested what its potential uses could be. We know that there will be some sort of instanced PvP. If they plan on implementing some type of siege combat, the “Force of Nature” form could be something of a siege weapon. Very good at taking down doors or other keep defenses, but horrifically slow movement and attack rates (making using this form for anything but battering down doors or other inanimate objects somewhat ineffective). Since they are so huge and made of wood and shrubbery, I offered the suggestion that their fire resistance be significantly lowered in this form. So, imagine if you will, a large scale battle with giant tree-like druids bashing down keep doors, pulling people from parapets while every archer and mage lobs a dazzling array of flames, ice, and electricity at the hulking masses of tree and vegetation.
+
+    As an alternative to the ‘battering ram’ option, perhaps they could be the trees from Warcraft 3 (sorry, I can’t recall their name) that lob rocks when they are rooted in the ground. A reasonable limitation would be that this ability would only be useable outdoors where the druid could root it’s feet in the earth. What a sight! And an innovative twist on MMORPG siege warfare. Instead of someone manning a catapult, become one! If you like this idea, let’s roll with it – every druid who supports this idea or something similar, make an in game suggestion.
+
+
+Conclusion
+
+As a point of reference, I have played a Rogue to 30, 2 x Mage to 18, Warlock to 17, Warrior to 16, Shaman to 12, Priest to 8 and several others. Granted I have only seen the high level stuff once, but the low-mid range stuff I am very familiar with. The druid stands out not as the ‘best’ class in terms of either solo or group play. However, when looking at the whole package, druids are quite a sweet little rig. I’ve enjoyed playing every minute so far, and not once have I wondered if I’d be having more fun playing another class. I think that is apretty good measure of a class’ success.
+
+
+Next Update
+
+    Cat form
+    Starfire
+    High level instance dungeon play – how do druids function?
+    Bear to Cat comparison
+    Travel Form!
+
+Comments (9):
+
+<< Prev | 1 | Next >>
+
+		
+	
+Posted by JJDrakken at 2004-04-29 11:26:34
+
+The Tree's that lob rocks, are Ancient Protectors. :p What you saw was there unrooted form, where they can move. When they Root In, they then lob rocks.
+
+Take from a Warcraft expert :D I know everything bout hits mythos, history, and anything else they got :D
+
+JJ
+	
+		
+
+		
+	
+Posted by Korr at 2004-04-30 04:19:09
+
+Very helpful! Thanks and I'm looking forward to your updates.
+	
+		
+
+		
+	
+Posted by Lightgazer at 2004-04-30 10:36:54
+
+Very helpful guide, nice to see objective well-though opinions of a class rather than banter from 10-year olds just wanting to be uber and hence defame the class as "the suc".
+
+Siege form sounds pretty good. If something like this were to be implemented they would have to be vulnerable, that way they don't replace things like rams (only assuming these are craftable). But something to add on utility wise which seems to be the theme of the class.
+
+Man I gota stop reading this, gona go insane cause I want to jump on this stuff now LOL. Hurry up release date!!!!
+	
+		
+
+		
+	
+Posted by Draconian at 2004-05-03 05:42:00
+
+This is the same as Venom's/Kestrel's guide is it not?
+or did you change your name :-)
+
+www.druidsofthewood.com
+	
+		
+
+		
+	
+Posted by well at 2004-05-20 07:44:56
+
+he said he was kestrel
+	
+		
+
+		
+	
+Posted by Eleanoid at 2004-06-02 17:36:57
+
+Yes, I am Venom on the www.worldofwarcraft.com boards. Eleanoid the Rogue, Kestrel the Druid, and Zuma the Mage.
+	
+		
+
+		
+	
+Posted by chappy at 2004-07-16 07:01:18
+
+Ancient Protectors sound cool but ... they sound relly easy to kill i mean its just you runin head first into a fire ball of arrows and magic i would think if you were so huge you would be an easy target the idea that you are rooted on the other hand would make it quite effective in a siege situation even with a slow attack speed if they do it its just another way you can fight and that makes them even more versitile wicth i think we all could want :)
+	
+		
+
+		
+	
+Posted by Broxigar at 2004-08-23 11:23:23
+
+thanks for the info.I was wondering about the druid class, ive been getting bored with my Paladin.
+	
+		
+
+		
+	
+Posted by Kathleen at 2004-08-26 07:06:10
+
+Great guide! Thank you!
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Priest Guide v1.1 by Kansai
+By Kansai
+
+World of Warcraft: Beta - Priest Guide
+v1.1 by Kansai
+4/01/04
+
+Revision History and Disclaimer
+
+1.2 - soon - Adding new sections on Priest functions in a group, recommended tradeskills, and fixing some terms which may be confusing in WoW (skills vs tradeskills).
+1.1 - 4/01/04 - Lots of reorganizing, added BML formatting (im not fond of it), and added some new content.
+1.0 - 3/25/04 - Gogogo. Originally found here http://vnboards.ign.com/WoW_General_Board/b19789/66375678/?33 but moved to Official Boards. I’ve made the edited version there (which is found on some fan sites) as v1.0. I'm aware that many people cannot reply to this thread, but you can send comments/suggestions to that thread.
+
+This guide is designed for Priests, and lists as much objective information about the class as well as my own personal experiences and play style. Please be warned that you may find “spoiler” information here, so read at your own discretion. Some of my background:
+
+
+• I've played two priests. First was during Undead Push, and he was used to test Resists, which ended up not functioning. My second priest was in TriHorde Push, and his focus was Spirit with side Intellect and Stamina. My third and current Priest I am working on.
+
+• I'm a hardcore player, which means there will be an inherent bias reflected in my experiences and suggestions.
+
+• I love warriors... I have four of them, so I will mention Warriors often because they are a Priest’s best friend.
+
+• Visit the Official Priest Basics guide on the beta website.
+
+• Special thanks to all those VN posters for error corrections and suggestions.
+
+
+
+
+Outline
+
+
+1. Introduction
+2. Class Basics
+- Picking a Race
+- Starting Attributes
+- Talents
+3. Spells Arranged by Type
+4. Spells Arranged by Level and Cost
+5. Priest Management
+- Dealing with Hate/Threat
+- Mana Management: Capacity vs Regeneration
+- Casting Interuption
+- Swing Casting
+6. Priest Examples
+- Equipment
+- Build
+7. Fighting
+- Solo
+- Grouping
+- Dueling
+- Powering
+
+
+
+1. Introduction
+
+
+What are Priests? They are masters of healing, crowd control, and are good secondary tanks! In short they are the best class so everyone should play one! More seriously though, they are one of the more complex and dynamic classes to play and master.
+
+
+2. Class Basics
+
+
+Picking a Race
+
+There are 5 races which can be Priests.
+Alliance Priests: Human, Nightelf, and Dwarf
+Horde Priests: Undead and Troll
+
+Priest Starting Attributes
+
+          Str  Agi  Sta  Int  Spi  HP   MP
+Human     21   21   22   23   22   68   100
+Dwarf     22   19   23   22   23   82   80
+Nightelf  20   22   21   25   21   54   140
+Troll     22   20   23   21   24   82   60
+Undead    19   19   24   24   24   96   120
+
+
+
+
+As you gain levels, your Health and Mana capacity will increase naturally. Once I have all the data on how much is gained per level, I’ll update (this one requires a lot of time).
+
+Talents
+
+Each of the primary Attributes has an associated Talent, which can be raised as you earn Talent Points.
+
+You gain 10 TP per level up to and including CLvl 9.
+15 TP per level up to CLvl 19.
+20 TP per level up to CLvl 29.
+25 TP per level up to CLvl 39.
+
+CLvl 1-9 = 90 TP
+CLvl 10-19 = 135 TP
+CLvl 20-29 = 180 TP
+CLvl 30 = 25 TP
+
+Total = 430 TPs. I'll eventually post the TP per Talent Rank Cost, unless someone else is kind enough to post it first.
+
+The Priest’s primary Attributes include Stamina, Intellect, and Spirit. The Undead race may stand out as having the “best” starting Attributes, but also note that each race will have distinct abilities which aren’t completely available yet. Here lists the Talents which benefit your health, mana, or regeneration.
+
+
+• Great Stamina - Increases your health by 14. Can train up to Rank 12 by CLvl 30.
+
+• Physical Prowess - Increases your health by 20 for Rank 1 and 2, then 30 for Rank 3 and 4.
+
+• Mighty Intellect - Increases your mana by 20. Can train up to Rank 12 by CLvl 30.
+
+• Indomitable Spirit - Increases your mana regeneration by 7.5 mana per minute, or 0.125 mana per second, and health regeneration by 3 health per minute. Can train up to Rank 12 by CLvl 30.
+
+• Mental Acuity - Increases mana by 20 for Ranks 1 and 2, mana by 30 for Ranks 3 and 4.
+
+• Meditation - Increases mana regeneration by 6 mana per minute for Ranks 1 and 2, and by 12 for Rank 3.
+
+For the purpose of not being all the same, I'll list here other Talents that you may want to consider while leveling up - in no particular order,
+
+
+• Lightning Reflexes, Evade, Toughness - Increases your defense rating by 1, defense rating by 3, and armor rating by 15 for Rank 1 of each. These may be useful if you intend to solo often.
+
+• Holy Specialization - Increases Holy Damage by 1 and the effect of Holy healing by 2 at Rank 1.
+
+• Shadow Specialization - Increases Shadow Damage by 1.
+
+• Holy Affinity - Increase your Holy Attack Rating by 4 and decreases your Shadow Resistance by 2 at Rank 1.
+
+• Shadow Affinity - Increases your Shadow AR by 4, decreases Holy Resist by 2 at Rank 1.
+
+• Beast Slayer - Increases your physical and spell damage to beasts by 3 at Ranks 1, 2, 3, and by 4 at Rank 4.
+
+• Undead Slayer - same as Beast Slayer, but works against Undead.
+
+• Weapon Specialization - increases your damage done by your weapon by 1 at Ranks 1, 2, and 3, and by 2 at Rank 4.
+
+The most commonly examined Talents include the Spell Specializations and Affinities. Shadow Affinity, for example, means you will have a higher chance of landing and holding your Sleeps as well as your other Shadow Spells. Currently, the hit to resistances have no effect on your character.
+
+
+
+3. Priest Spells
+
+
+- listed by Rank
+- x range = maximum casting distance in Yards
+- xM = mana cost
+- xs cast = time in seconds to cast
+- CLvl x = Level at which you can learn this spell
+- xc/xs = copper or silver cost to learn
+
+Holy Magic
+
+
+• Dispel Magic - removes 1 harmful spell from a friend or 1 beneficial spell from an enemy, Instant Cast, 30 range
+1. 75M, CLvl 18, 25s
+
+
+• Heal - restores lost health, 40 range
+1. +305 to 351 heal, 200M, 3.5s cast, CLvl 16, 18s
+2. +494 to 564 heal, 305M, 4.0s cast, CLvl 22, 40s
+3. +755 to 857 heal, 440M, 4.0s cast, CLvl 28, 70s
+
+
+• Holy Protection - Increases targets Holy Resist for 30 minutes, Instant Cast, 30 range
+1. 30 resist, 500M, CLvl 30, 80s
+
+As of this build, resists have no effect.
+
+
+• Holy Smite - deals holy damage, 30 range
+1. 16 to 20 dmg, 25M, 1.5s cast
+2. 27 to 31 dmg, 35M, 2.0s cast, CLvl 8, 3.5s
+3. 64 to 74 dmg, 75M, 2.0s cast, CLvl 16, 18s
+4. 112 to 128 dmg, 120M, 2.0s cast, CLvl 24, 50s
+
+This is the Priest’s most basic nuke.
+
+
+• Holy Word: Fortitude - increases the Stamina of a friendly target for 30 minutes, Instant Cast, 30 range
+1. +2 Stam, 65M
+2. +4 Stam, 165M, CLvl 12, 10s
+3. +8 Stam, 430M, CLvl 24, 50s
+
+The mana cost of Rank 3 was never worth the effort for me (drinks cost money!), but many people really really want it. Early on, you’ll find it beneficial, but once you become “strong” you may forget you ever had it.
+
+
+• Holy Word: Shield - target absorbs damage up to 1 minute, Instant Cast, 40 range
+- spells cannot be interrupted while shield holds
+1. 45 dmg absorbed, 35M, CLvl 6, 2s
+2. 83 dmg absorbed, 60M, CLvl 12, 10s
+3. 141 dmg absorbed, 95M, CLvl 18, 25s
+4. 215 dmg absorbed, 135M, CLvl 24, 50s
+5. 305 dmg absorbed, 180M, CLvl 30, 80s
+
+Holy Word: Shield takes into account Armor prior to absorbing damage, so the higher your Armor, the more effective the Shield. Try to keep track of how many hits you can absorb before recasting. When grouping, keep this spell up on your tank to maximize the amount of damage absorbed.
+
+
+• Inner Fire - Increases caster's physical damage and armor for 3 minutes, Instant Cast, Self targeted
+1. +2 dmg, +60 armor, 20M, CLvl 12, 10s
+2. +4 dmg, +100 armor, 45M, CLvl 20, 30s
+3. +6 dmg, +140 armor, 75M, CLvl 30, 80s
+
+Make sure to keep Inner Fire on at all times. Most all of the Custom UI scripts include /autocast and /timedcast, so use those to avoid forgetting.
+
+
+• Lesser Heal - restores lost health, 40 range
+1. +45 to 55 heal, 40M, 1.5s cast
+2. +72 to 86 heal, 60M, 2.0s cast, CLvl 4, 80c
+3. 172 to 202 heal, 120M, 2.5s cast, CLvl 10, 7.5s
+
+
+• Nullify Disease - grants target disease immunity for 15 seconds and cures any existing diseases, Instant Cast, 30 range
+1. 60M, CLvl 14, 13s
+
+
+• Prayer of Healing - heals the entire party, 4s cast
+1. 221 to 235 heal, 330M, CLvl 30, 80s
+
+This spell is really only useful if you get hit by an AOE.
+
+
+• Renew - Heals over 15 seconds, 2.0s cast, 40 range
+1. 50 health, 30M, CLvl 8, 3.5s
+2. 90 health, 50M, CLvl 14, 13s
+3. 150 health, 80M, CLvl 20, 30s
+4. 225 health, 115M, CLvl 26, 60s
+
+Renew is a good supplementary heal that doesn’t generate a lot of hate instantly unlike the direct Heals. If your teammate is taking damage, a good combo is to cast Renew followed by Shield, allowing them to heal while the Shield is up.
+
+
+• Resurrection - revives dead player back with 15% base health and mana
+1. 150M, 10s cast, 40 range, CLvl 10, 7.5s
+
+The Resurrected player will suffer from Res Sickness, which lowers all their Attributes by a small amount for 5 minutes.
+
+
+Shadow Magic
+
+
+• Brainwash - Removes threat from all enemies of the target, 1.5s cast, 30 range
+1. Medium amount, 50M, CLvl 20, 30s
+
+If the mob is attacking you or a weak teammate instead of your tank, use Brainwash.
+
+
+• Mana Burn - Takes a targets mana and deals 1/2 of it as inflicted damage, 3s cast, 30 range
+1. Drains 225 to 241 mana, 110M, CLvl 26, 60s
+
+Once you get Mana Burn, go kill casters! This makes them very easy to deal with because of their low life and inability to retaliate against you.
+
+
+• Mind Blast - Direct Shadow Damage, Instant Cast, generates a large amount of hate, 8s cool down, 30 range
+1. 38 to 42 dmg, 45M, CLvl 10, 7.5s
+2. 74 to 80 dmg, 75M, CLvl 16, 18s
+3. 117 to 125 dmg, 105M, CLvl 22, 40s
+4. 174 to 186 dmg, 145M, CLvl 28, 70s
+
+Mind Blast generates a very large amount of agro, so you can use it to pull a mob onto yourself. This is useful if you want to tank and is a great way to “finish off” a target as it tries to flee.
+
+
+• Mind Control - gives you control of a humanoid, but its attack speed is lowered by 20%, lasts 1 minute
+- target gets a chance to break free every 5 seconds, 3s cast, 20 range
+1. Target must be Level 30 or under, 350M, CLvl 30, 80s
+
+This spell is not as useful as it appears, but it is fun to use.
+
+
+• Mind Vision - Lets you see through the targets eyes for 1 minute, Instant Cast, 1 min cooldown, 100 range
+1. 65M, CLvl 22, 40s
+
+This is a great scouting spell, especially in cramp dungeons like SFK where you have roaming monsters.
+
+
+• Pacify - reduces the range at which a monster will attack you, 2s cast, 15s duration, 40 range
+1. Lowers by 10 range, 50M, only affects monsters level 39 or lower, CLvl 20, 30s
+
+
+• Psychic Scream - AOE fear, monsters flee for 8 seconds, Instant Cast, 30s cooldown
+1. 2 targets flee, 100M, CLvl 14, 13s
+2. 3 targets flee, 140M, CLvl 28, 70s
+
+Beware that fleeing monsters will try to call for reinforcements.
+
+
+• Shadow Protection - Increases targets Shadow Resist for 30 minutes, Instant Cast, 30 range
+1. 30 resist, 500M, CLvl 30, 80s
+
+As of this build, resists have no effect.
+
+
+• Shadow Word: Pain - damage over 18s, Instant Cast, 30 range
+1. 30 dmg, 25M, CLvl 4, 80c
+2. 72 dmg, 50M, CLvl 10, 7.5s
+3. 138 dmg, 95M, CLvl 18, 25s
+4. 246 dmg, 160M, CLvl 26, 60s
+
+This is the Priest’s damage over time (DoT) spell, which requires the full 18s to do the listed damage.
+
+
+• Sleep - Only one target may be slept at a time, any hostile action or sleeping another target will awaken the target, 1.5s cast, 30 range
+1. Lasts up to 15s, 60M, CLvl 6, 2s
+2. Lasts up to 30s, 80M, CLvl 20, 30s
+
+Sleep does not necessarily have the full 15 or 30 second duration. Every few seconds, the target will have a chance to “break” free depending on its resistance (determined currently only by its and your level difference) and on your Shadow Attack Rating. To ensure low chances of resistance, you should keep your shadow ratings as high as it can go. If sleeping a target that is higher than your level, never hesitate to keep your cursor over the mob to immediately re-Sleep again should it break free.
+
+
+
+4. Spells by Level and Cost
+
+
+Skills get costly at higher levels, so make sure to save up money. If you have any wealthy friends, ask to borrow some if you don’t have enough. Try to keep track of when you need to go visit the Trainer. You only learn new spells on even levels.
+
+Here are all the skills re-listed by name, level, and total costs so you can plan accordingly. It costs 15.4 gold to purchase every Priest Spell up to Level 30. Lower tiered spells are not a prerequisite to purchase their respective higher ranks, so if you’re short on money or are leveling very fast, you can skip some if you want.
+
+Level 1: 10c
+- Holy Word: Fortitude R1. 10c
+
+Level 4: 1.6s
+- Lesser Heal R2. 80c
+- Shadow Word: Pain R1. 80c
+
+Level 6: 4s
+- Holy Word: Shield R1. 2s
+- Sleep R1. 2s
+
+Level 8: 7s
+- Renew R1. 3.5s
+- Holy Smite R2. 3.5s
+
+Level 10: 25s
+- Lesser Heal R3. 7.5s
+- Resurrection R1. 7.5s
+- Mind Blast R1. 7.5s
+- Shadow Word: Pain R2. 7.5s
+
+Level 12: 30s
+- Holy Word: Fortitude R2. 10s
+- Inner Fire R1. 10s
+- Holy Word: Shield R2. 10s
+
+Level 14: 39s
+- Renew R2. 13s
+- Psychic Scream R1. 13s
+- Nullify Disease R1. 13s
+
+Level 16: 64s
+- Mind Blast R2. 18s
+- Holy Smite R3. 18s
+- Heal R1. 18s
+
+Level 18: 75s
+- Holy Word: Shield R3. 25s
+- Shadow Word: Pain R3. 25s
+- Dispel Magic R1. 25s
+
+Level 20: 1.5g
+- Pacify R1. 30s
+- Sleep R2. 30s
+- Brainwash R1. 30s
+- Renew R3. 30s
+- Inner Fire R2. 30s
+
+Level 22: 1.2g
+- Mind Blast R3. 40s
+- Mind Vision R1. 40s
+- Heal R2. 40s
+
+Level 24: 1.5g
+- Holy Word: Shield R4. 50s
+- Holy Smite R4. 50s
+- Holy Word: Fortitude R3. 50s
+
+Level 26: 1.8g
+- Mana Burn R1. 60s
+- Renew R4. 60s
+- Shadow Word: Pain R4. 60s
+
+Level 28: 2.1g
+- Mind Blast R4. 70s
+- Heal R3. 70s
+- Psychic Scream R2. 70s
+
+Level 30: 4.8g
+- Inner Fire R3. 80s
+- Prayer of Healing R1. 80s
+- Holy Word: Shield R5. 80s
+- Holy Protection R1. 80s
+- Mind Control R1. 80s
+- Shadow Protection R1. 80s
+
+
+
+5. Managing your Priest
+
+
+Hate Management
+
+This is one of the more difficult parts about playing the Priest, especially for beginners. Healing generates large amounts of hate or threat, meaning that monsters may turn and attack you instead of your friend. The stronger the heal, the larger the hate generated. New players are plagued with this issue because they cast strong heals too often.
+
+To avoid drawing agro from mobs, I suggest making your second strongest heal your primary heal spell. In addition, I recommend using the Shield and Renew combination. Health/Mana wise, this is less efficient, but it makes you far less prone to dying.
+
+Also, avoid healing your tank at the start of the fight (unless he can taunt) so he can deal enough damage to hold agro. Should you fear being targeted, having Brainwash ready to cast will remove some of your generated hate. Though, this spell shouldn’t be something that you need to cast often. Learning to play w/o relying on hate reduction can go a long way, and even develop your Mana Management skills.
+
+Mana Management
+
+Balancing between a point of Intellect and a point of Spirit: It’s really hard to do and essentially comes down to which Attribute you find more necessary. 20 mana isn’t enough to make you cast more spells, and 7.5 mana per minute certainly won’t either.
+
+This is the most complicated part about playing a Priest. Knowing very well how much mana you have to work with and how fast you regenerate it allows you to cast spells efficiently w/o having to sit after every battle. This comes mainly from experience, so as you are fighting pay attention to the amount of mana you consume during that fight. If you consume mana too quickly, try to increase your mana pool or space your spells out more. If you’ve drained your mana and need to drink for more than 40 seconds, try to increase your mana regeneration. If you fight long battles, having high regeneration rate is more useful than having a large mana pool.
+
+The general misconception is to dump everything into mana, none into regeneration, and hope to drink through every battle. This happened on my very first Priest, who had no items/talents in mana regeneration but had over 2000 mana. I was forced to drink very often, which is not only costly but pretty annoying. After creating a Spirit Priest, I found that I didn’t have to drink as much through each level. Eventually after getting a very high Spirit (90+), I rarely, meaning only in extreme conditions, did I ever have to sit and drink during combat.
+
+Since I’m not fond of sitting and resting, this style of play is my preference. I love regenerating the 23+ mana per click, and even with a very small mana pool of 1300 I am far more effective than my 2000 mana Priest. Essentially it boils down to play style. I try to conserve mana during fights and only cast spells when necessary, but if you like to spam those spells repeatedly, having a lot of mana and drinking often is the only way to go.
+
+If in doubt, simply don't spend any of your Talent Points - meaning, rely on equipment for + Attributes, testing each in mass to see what works for you. You can allocate your TP's after you feel confident in which areas you wish to focus in.
+
+
+Spell Disruption
+
+If you are hit by a melee attack while in the process of casting a timed spell, your casting bar will drop by roughly half the bar’s capacity. The faster the attacker, the less likely you will be able to cast your spell.
+
+If you are being attacked by more than one mob at a time, it is close to impossible to pull off a spell w/o Shield on.
+
+Spells do not disrupt Spells currently (you can even eat and drink while getting hit by spells).
+
+
+Swing Casting
+
+When you complete a spell, your weapon’s delay will determine the next time you swing your weapon. If you time correctly, you can Swing and cast a spell simultaneously, eliminating extra idle time. For example, if my staff has 3 second delay, I will swing once every 3 seconds. If I interrupt with a spell, I will have to wait 3 seconds following the spell to restart swinging my staff. The trick is to cast your spell at the same time that you swing your staff - doing so will maximize your swing rate.
+
+
+
+
+6. Priest Examples
+
+
+Equipment
+
+Armors Equipable: Cloth
+Weapons Equipable: 1 Handed Maces, 2 Handed Staves, Shadow and Holy Wands, and 1 Handed Daggers (Trainable)
+
+Since Priests can only wear cloth items, you may find yourself limited on the number of armors you can equip. Tailors can craft some very nice cloth items for all level ranges. I will list some of the most useful cloth craftables later.
+
+Priests are like Warriors in that they are heavily Equipment dependent. In general, Attributes are raised by leveling. However, by equipping items with bonuses to Attributes, you can double and even triple your base Attributes. As you equip these items, you’ll see that you will have high values of Spirit and Intellect, which is a way of saying that those Attributes are your “focus.” The best way to decide which attributes you need more of is by playing.
+
+Some examples of the most common dropped items include items with the prefix "Weave" - namely, Flameweave ~lvl 15, Frostweave ~lvl 20, Darkweave ~lvl 25, and Brightweave ~lvl 30.
+
+
+I wish I could list every piece of these sets, but unfortunately I don't have access to my Troll Priest right now. Here are some examples:
+
+1. Flameweave Robe: +6 Intellect
+2. Flameweave Gloves: +3 Intellect
+3. Frostweave Mantle: +2 Intellect, +2 Spirit
+4. Darkweave Mantle: +3 Spirit
+5. Darkweave Cowl: +5 Intellect, +6 Spirit
+6. Brightweave Robe: +10 Spirit, +10 Health
+7. Darkweave Cuffs: +2 Intellect, +2 Spirit
+8. Frostweave Trousers: +7 Spirit
+9. Flameweave Trousers: +5 Spirit, +3 Stamina
+
+
+Since mana isn’t infinite, you’ll find that by swinging your Staff you can increase the amount of damage you do in between castings. Most Staves have a high damage base, but have a long swing delay time. You will probably want a Staff with nice Attribute bonuses over anything else, such as +Spirit and +Mana. Early on in your career however, you’ll simply find staves without attributes. Some example of dropped Staves with Attributes:
+
+
+1. Acrobatic: +5 Stamina
+2. Twisted Chanters: +5 Intellect, +32 Mana
+3. Odo Ley: +5 Spirit, +3 Stamina (forgot this one)
+
+Priests can also equip 1 Handed Maces and an Item in their offhand. 1 Handed Maces are very readily available by smiths, but offhand items with Attributes are relatively rare. Simply stick with whichever combo gives you the most damage or most Attributes.
+
+In addition to being able to equip an item in your hands, you can equip a Wand that you "cast" on targets. Wands do spell damage and require a casting time. Because Wands are Spell based, they void Monster Physical Damage Reduction. However, they can still be resisted. If you have a good wand, it may be better to use it than to swing your Melee Weapon.
+
+
+Example Build
+
+My favorite build involves a focus on Spirit and everything else into mana. The other type of extreme involves a focus on Intellect, and everything else into mana regeneration. You'll find that that until you hit the level cap, you will probably have a mixed of mana and regen. A less common build revolves around health and Stamina, but because the amount of health per Stamina is relatively low, I do not suggest a focus in this attribute.
+
+
+Priest with Balance of Mana and Regen: I'll include as much as I can remember and will polish everything over time. I'm leaving out Talent Point costs for now and will document these when I have the data, so this part of the guide will be somewhat incomplete (may have slight inaccuracies) but descriptive nonetheless.
+
+
+
+• Indomitable Spirit - train up to Rank 12 by CLvl 30 - 1 point per rank up to Rank 9, 2 points afterwards. This yields up to +15 Spirit total.
+
+• Mighty Intellect - if possible, train up to Rank 12 by CLvl 30 - 1 point per rank up to Rank 9, 2 points afterwards. This yields +15 Intellect.
+
+• Mental Acuity - if enough points left over, train up to Rank 3 by CLvl 30 - Up to +70 mana.
+
+These three talents may be the most obvious to focus in, as they benefit every type of Priest.
+
+
+• Meditation - train up to Rank 3 by CLvl 30 - up to +24 mana per minute.
+
+Meditation is often over looked, but is an additional way to add more mana regeneration. If you are confident in your mana pool, you could place TPs here rather than Mental Acuitity. Any unused TP’s can go towards Talents such as Shadow Affinity.
+
+Notice however that the by Level 30, you can only raise your Attributes through Talents by at most 15. This is a very small number compared to the amount you can raise your Attributes through Equipment. Hopefully Talents will have more umph to them in the future, as of now Equipment seems to make the most significant difference to your Character.
+
+
+
+
+7. Fighting
+
+
+Priests are a support class, meaning that they function much better in a group than alone. If you play a priest, learn to group often. While you do have the ability to solo, you’ll be consuming large amounts of mana each kill, resulting in the need to rest often. However, if you are supported by a Warrior tank killing becomes much less tedious.
+
+Also, Priests have a very low Damage per Second (DPS) compared to the other classes. However, they are still very able to manage on their own.
+
+Your life as a Priest can be expressed by the amount of mana you have and by how fast you can regenerate consumed mana. Inner Fire and Holy World: Shield act as an extension of your health bar, allowing you to continue to absorb damage until you essentially run out of mana. Also, mana pool and regeneration speed also affect how many spells you can cast during battle and how much downtime you can expect to have. Learning how to manage your mana was discussed earlier.
+
+
+Skills To Have Hot Keyed:
+• Mind Blast
+• Holy Word: Shield
+• Shadow Word: Pain
+• Inner Fire
+• Sleep
+• Holy Word: Fortitude
+• Brain Wash
+
+Soloing
+
+This type of style reflects a Priest’s ability to Duel, since it involves a 1 on 1. Start off by casting your highest rank Shield and Inner Fire. Open with a Nuke of your choice such as, Mind Blast, then proceed to cast SW: Pain to maximize the DoT’s efficiency. Afterwards you can proceed to cast a Holy Smite if you want. Once the mob engages in Melee Combat, it is just up to how long you can continue swinging before they take out your Shield, which are typically a few hits. When the Shield drops, simply recast it and resume swinging. Continue to Nuke with Mind Blast as necessary.
+
+If the target it humanoid, it will attempt to flee when it’s Health drops too low. You can chase it down, or hit with a finishing Mind Blast. Once you’re done looting, simply continue or drink to restore lost mana.
+
+This method will kill any mob of equal level easily, but if it has more life than you expected, a common Dueling tactic is to Sleep the target, then sit and drink to restore lost mana. If you have to do this for a single mob however, it is probably not worth the effort and you should perhaps hunt easier pray (drinks are expensive too). If you encounter an Add, you will need to sleep it quickly and resume finishing off your target.
+
+
+Duos
+
+While Priests are able to solo well, they become much more effective with a partner.
+
+
+• Priest & Warrior - My favorite combo; if Warrior is confident in his damage output, he can stay in Battle Stance while using Demoralizing Shout, Thunderclap, and Strike. A Warrior’s ability to wear Mail and use two of these wonderful debuffs turns a HW: Shield into an extremely powerful spell. Should the mob do more damage than the Warrior can handle, switch to Defensive Stance and use Taunt and Shield Block while the Priest engages in Healing or Shielding.
+
+
+• Priest & Paladin - Probably the most durable combo because of the Paladin’s Aura and Seals as well as his ability to wear Mail and Heal. Paladin’s are great tanks and can lower the amount of Hate you generate as well, but overall damage output is not as high as a Warrior Priest combo.
+
+
+
+• Priest & Rogue - Since Rogues deal so much damage, you’ll find encounters to be fairly short. However, Rogues do not have a lot health and are limited to Leather Armors, so you may find yourself consuming a lot of mana Shielding or Healing.
+
+
+• Priest & Mage - Since the mage is also limited to cloth armor, you’ll be relying on Solo strats because of your ability to use Inner Fire. In other words, you’ll be a tanking Priest. Opening with Mind Blast will ensure that the target stays on you, but since you are double nuking, chances are it will die before it can engage in Melee combat.
+
+
+
+• Priest & Warlock - You can either choose to let the pet tank, or be the tank yourself. In either case, using Shield is the way to go. Warlocks are awesome soloers already, and having you around simply adds to survivability as well as reducing down time from Healing.
+
+
+• Priest & Priest - Same as soloing really, except you have roughly double the mana and damage output.
+
+
+
+Grouping in General
+
+I’ve been in horrible groups before (where the warrior tank would yell at everyone)… so I STRONGLY suggest joining a guild and finding friends to play with often. Friends List, AIM, MSN, use whatever you need to communicate with people and such. Since you already know your roles ahead of time, it translates to more effective XPing.
+
+Usually you will want at least one class that can provide tanking and then follow up with either high DPS classes or high support. If you find that you are grouped with a tank and another Priest, it perhaps makes it too easy (double shield power~).
+
+
+Dueling
+
+Dueling with a Priest can get pretty silly. I recommend making rules to ensure some sort of balance, but as of now it is way out of wack. A Priest can Shield, Fear, Nuke, Swing, Dot, then Sleep target and sit and Drink. This method will kill a Paladin and Warrior like nothing. Rogues can Sap (Sleep) you, which of course means they can sit and Eat themselves. Mages are cake because of their low life, meaning you can Sleep and Mana Burn to your heart’s content. Warlocks are a bit more dangerous however, because they can Fear you as well. A lot of balancing issues are needed, but this was to just give you an idea of what a Priest can do right now and why they are considered the most imbalanced Duelers.
+
+
+Power Leveling with a Priest
+
+
+Priests are also the Kings of Powering, specifically melee classes. A Level 30 unpartied Priest with very high mana regeneration can make lowbies completely invulnerable. If you don’t want to be spoiled by this, skip this section now!
+
+
+Chain Shielding: This method is to simply cast Holy World: Shield of the appropriate Rank on the target repeatedly so long as you can continually regenerate mana faster than you consume it. This will essentially allow your friend to become invulnerable.
+
+Priest Tanking: Since Priest’s are quite apt at tanking, you can simple absorb all the damage yourself. Cast a Mind Blast to hold agro and continue to deal roughly 40% of the targets life (using a Custom UI mod will help here) while allowing your friend to deal the remaining 60%. This works extremely well in the mid levels where the Priest can hold agro from mid to mid/high level Elites.
+
+Using Priest Tanking with my decently equipped lvl 18 Warrior, he was able to gain roughly 12.5k XP per 30 minutes in Wailing Caverns. After he was high enough to solo on his own, I simply let him kill higher level mobs while having my Priest Chain Shield him. This net roughly 25k XP per 30 minutes, requiring a little over 3 hours to hit 30 from 28.
+
+
+
+Have Fun
+
+
+So there you have it. I hope you found this guide useful and easy to read. If you have any questions on things I wrote, typos, or other errors, please let me know.
+
+I really enjoy the Priest class, so should you decide to play one I hope you enjoy it as well.
+
+p.s. Priests Rule… and so do Warriors
+
+Comments (9):
+
+<< Prev | 1 | Next >>
+
+		
+	
+Posted by Papa at 2004-04-25 12:25:31
+
+Burjui tupie.
+	
+		
+
+		
+	
+Posted by Gamesh at 2004-04-26 08:52:50
+
+Exellent !
+	
+		
+
+		
+	
+Posted by Bryce at 2004-05-15 03:23:45
+
+This is a great write-up! You must have taken hours and hours for it. You've made me decide to try out a Priest for sure and most definitely given me direction!
+	
+		
+
+		
+	
+Posted by Valde Venustus at 2004-05-22 15:10:58
+
+I love this, I have always played a healer and this shows me some really good information about how these new priests work compared to other games.
+	
+		
+
+		
+	
+Posted by Vamphere at 2004-05-29 21:35:45
+
+Extremely well written
+	
+		
+
+		
+	
+Posted by Voice at 2004-05-31 05:41:40
+
+Good work, gratz on a good guide
+	
+		
+
+		
+	
+Posted by ZeroBt at 2004-07-08 10:50:19
+
+great write up. easy to read!Thnx alot you have given me some good guidelines of what the priest is like!
+	
+		
+
+		
+	
+Posted by chunky kid with messy and greasy red hair at 2004-08-01 07:31:56
+
+I like you
+	
+		
+
+		
+	
+Posted by Gordon at 2004-08-20 02:05:43
+
+That's quite the walk through you have there. I'm really looking forward to starting the game going by what you have written out. You also suggested partying through msn. You have my email. Keep me in touch if you can. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rogue Review
+By Eleanoid
+
+Let me preface this report by saying that my opinion is most likely very biased. I have always and will always love rogues. From 2nd edition DND, all the way through to text muds, to EQ, and Dark Age of Camelot I have played rogues almost exclusively. I love stealth, I love stabbing things in the back, I love stealing from people, I love poisons, I love the character concept and the execution. So, essentially what I am trying to convey here is that I love rogues, and so this report is likely far too biased to be considered ‘objective.’ Having said that, I hope you enjoy…
+
+The rogue is a well thought out and fun class to play. I was a little concerned at the first few levels that rogues might be grossly overpowered. Eleanoid was able to sneak up to a creep 2 levels higher than him, empty it’s pockets, and then proceed to slag it in under 5 seconds with no risk to himself. The damage on the rogue styles are very high. Fortunately at around level 10 the damage output seems to have been balanced a bit better. The creeps seem to have much higher hit points and damage output, so things have sort of balanced out. Don’t get me wrong – rogue damage output is still incredible, but they pay a price for dealing that damage. In exchange for the higher damage output, the rogue gives up wearing good armor, and they sacrifice a LOT of hit points.
+
+If Eleanoid goes up against a creep that is one level higher than him, it is a good fight – he will usually win, but he’s left with less than 25% of his health. Fortunately, since rogues have so few hit points, it takes less than 10 seconds of sitting with some food to be fully restored.
+
+If Eleanoid goes up against a creep that is 2 levels higher than him, it is a teeth-clenching, white knuckled experience. Eleanoid still deals out crazy damage, but his low hit points and weak armor mean that he is at serious risk of becoming the most recent corpse to fertilize the local area.
+
+Essentially, rogues have no problems with slightly higher level creeps, but even against two lower level creeps, they are in serious trouble. Due to their lack of hit points and their poor armor, and the way that rogues fight (discussed later), they tend to get beat up very quickly. Essentially, once you pick a creep to fight, you shouldn’t be switching targets until it is dead. There are some very good defensive moves (Evade, Gouge) that the rogue can employ to remove himself from danger if such a situation arises, but more on that later.
+
+They make an interesting counterpoint to warriors, who can basically stand and fight all day. Rogues can dish out, at a guess, double the damage a warrior can, but they can only take a small fraction of the damage that a warrior can sustain. For one such as myself, the total lack of defense in exchange for higher damage output is a trade I gleefully embrace. In case you haven’t figured out by now, Eleanoid enjoys hurting things.
+
+Now for a summary of the rogue abilities. I’ll start with a brief description of how the rogue abilties work. If you played an assassin in Diablo 2, you are already familiar with rogue combat. You have two kinds of melee abilities – ones that give you combo points, called opening moves, and moves that discharge all of your built up combo points, called finishing moves. From the styles that I have seen, you can only acquire one combo point per hit. You can build up to a maximum of 5 combo points. Each style will be discussed on it’s own, but essentially, the trick is to load up your combo points to do enough damage with your finishing move to kill the creep. Sometimes, especially if you’re in a group, you won’t have time to build up your finishing move too high. It takes a bit of time to learn when you should store up your points and build for the massive 5 point finishing move or if you should just be happy with a 2 or 3 point finishing move, figuring that you’ll do just enough damage to finish off the creep.
+
+The only limitation to the rogue spamming opening moves is the energy bar. It works in pretty much the exact opposite way as the warrior rage bar. While the warrior slowly accumulates rage with each hit or block, the rogue starts with a full energy bar, and uses energy each time he/she uses an opening or finishing move. This bar replenishes quite quickly, but not quick enough for you to just hit your moves over and over. Typically I can do 2 opening moves, then I have to wait a round for my energy to recharge to a level that I can use another opening move or finishing move. I don’t have any specific data, but I believe that some opening / finishing moves have different energy costs associated with them.
+
+
+Rogue Abilities (I’ll try to present them in the order I acquired them, but I may not be 100% correct):
+
+Level 1-2:
+
+Eviscerate (Finishing Move): Does extra damage on a hit. Damage scales up with every combo point accumulated. For example: 1 combo point might be 8 extra damage. 5 combo points would be something like 50 damage.
+
+Sinister Strike (Opening Move): A basic style that does 8 extra damage / hit and provides one combo point.
+
+Level 4:
+
+Backstab (Opening Move): Positional. Backstab needs to be activated from (you guessed it) behind the creep. Provides one combo point and does a lot of damage. The formula is something like this: weapon damage x 1.5 + 8-12 points.
+
+Pick Pockets (Ability): Lets you pick the pockets of creeps who have pockets to pick (ie. No boars, bears, leopards, etc.). Eleanoid has not done a whole lot with this skill, but the few times he has used it, he acquired a healing potion, some copper and various other pieces of saleable junk. I’d imagine it’s a very nice skill for collecting cash if you are patient and/or bored.
+
+Stealth (Ability): Stealth is great! With a click of a button, you vanish from sight!! Your movement rate slows to 50%, which is still very quick compared with the stealth I’ve seen in other games (eg. Dark Age of Camelot: you move at about 25% - 30% of your regular movement rate). The level 20 version of stealth gives you 60% movement rate. I’m not sure how many more versions there are, but wouldn’t it be great at level 60 to be cruising around in stealth at 100% movement rate? It is really easy to raise your skill, and it has a really cool graphical effect. As a gnome, when Eleanoid enters stealth, he crouches to the front and skitters along the ground, poised to strike. It is so cool to watch. I’m not sure if the graphic is the same for other races, but if not, it’s just another reason to play a gnome.
+
+Level 6:
+
+Gouge (Opening Move): Hits for a small amount of damage, but stuns the creep for 4 seconds or until the creep is hit. After you use this ability, combat automatically turns off to prevent this. As an aside, this is just another example of the thought that Blizzard puts into their work. They are assuming that you want to stun the creep to re-position yourself, or run away, so you don’t want combat on to disrupt the stun. There is a nasty combination that rogues are employing to do horrendous damage to creeps, and gouge is essential for that combo. I’ll describe it later.
+
+Level 8:
+
+Backstab (Rank 2): Positional: Rear. More damage than backstab rank one. I can’t recall if the damage multiplier went up, or the additional damage added after the multiplier. I will check on that, but the damage is significantly higher.
+
+Evade (Ability): Evade is a nice ability on paper but I am not sure that it is working as intended yet – it does not seem to be as effective as the official description leads it to be. This skill is supposed to increase your chance to dodge attacks to 50% for 15 seconds. This is a life safer if you’re being chased by two creeps that would normally carve you up, skin you, and decorate their walls with your bones. Just pop your Evade and in theory you should be able to last twice as long since you’re dodging 50% of their attacks. In practice, it does not work that well. It could be because the creeps were higher level than Eleanoid. I’m sure that would have some kind of effect on dodge rate, but I have no idea to what extent.
+
+Sinister Strike (Rank 2) – Same as Sinister Strike rank one, but it does 12 damage / hit, instead of 8. Pretty much your bread and butter damage add, combo point accumulator.
+
+Level 10
+
+Dual Wield (Passive Ability): This ability lets you wield a dagger and some short swords in your off-hand. Currently, with a skill of roughly 20, Eleanoid hits with his off-hand weapon about 1 in 5 times. In Dark Age of Camelot, there was a complex formula that basically gave you a 50% chance to hit with your second weapon at level 50. I’m guessing this will be similar, so that by level 60, your chance could be as high as 50%. Currently, it’s a nice little damage adder, but Eleanoid doesn’t count on it too often.
+
+Sap (Ability): This ability must be used from behind while stealthed. You can knock out a creep for 25 seconds with this ability. Pretty basic, pretty sweet. I haven’t had a chance to use it myself yet, but it seems like a great ability if you need to deal with 2 creeps guarding a keep entrance or something. Sap one, fight the other, run away, rest, stealth, and polish off the second creep.
+
+Slice n’ Dice (Finishing Move): This finishing moves gives you a haste effect. You will attack 15% faster for the duration of the slice n’ dice effect, which is determined by the amount of combo points you have built up. With one combo point, you have 8 seconds of haste. At 5 combo points, I believe it is roughly 24 seconds or so. Enough that you could effectively use haste on 2 or 3 creeps if you are grouped. Since damage modifiers for high agility, specialization bonuses, etc. are added to each hit regardless of weapon speed, you can do one hell of a lot of extra damage.
+
+Rogues are excellent in groups, particularly if there is a priest. Because rogues have only leather for armor and very low hit points, they are not very durable. Priests make life for a rogue much easier. The rogue is free to dole out their RIDONCULOUS damage while the priest sits back and heals. Nice combo. Unfortunately there are not many warriors this push, so I have not seen how well a warrior can taunt a creep off a rogue. I imagine that if the rogue is going all out, the warrior will need to spam the taunt key for the duration of the fight. As it stands, if I am grouped with characters around my level, I will have the aggro in 3 hits or less.
+
+That’s it for now! I’ll update this report as I level up.
+
+One final thing I’d like to touch on – the rogue at his best. There is a combo that many rogues are using to just demolish creeps. It is very effective, and against creeps 2-3 levels lower than you, they are dead before they even have a chance to hit you more than once. You start from stealth, approach and backstab once (if your pickpocket skill is high, you might as well rob the poor bastard for good measure). Then you fight and let your energy recharge to 100% (one round). Then you hit gouge, which stuns the creep for 4 seconds. Walk behind the creep, and backstab again. Truly devastating. There was one instance where someone saw Eleanoid using this combo from the distance and send him a whisper afterwards saying how insane that was. They were running towards the creep, then all of a sudden, it was a corpse.
+
+Level 15 addition.
+
+I've received a few upgrades to other abilities, and two new skills:
+
+Sprint (Ability): This has a 5 minute cooldown. You can run away at a much faster rate of movement for 15 seconds. Basically, it is a get out jail free card. If you get in over your head, hit your sprint button, and you'll outrun the creep in about 3 seconds. There is a higher level version of this ability that lets you run even faster.
+
+Garotte (Positional Style): This style must be used from behind and from stealth. This is a great style to use in a group for the extra damage, but not so great solo because you can't utilize Gouge (the ability that lets you stun the creep for 4 seconds). With Gouge you can really control the flow of a fight, and I'm not sure if using garotte is worth giving up the chance to stun if you need to run away, or if you want to backstab the creep again.
+
+Now that Eleanoid is level 15, he's had a few really interesting groups - one group was full of rogues, another was 2 rogues and a paladin. Both groups were ridiculous. I'd guess that the creeps we were fighting lasted about 4 rounds at most. With 2+ rogues, you can just keep taking turns backstabbing as the creep turns to face the rogue who most recently backstabbed.
+
+Level 18:
+
+Since my last update, I have received the following abilities:
+
+Gouge Rank 2: Does 20 damage + 4 second stun, instead of 4 damage.
+
+Backstab Rank 3: Does 150% weapon damage + 45. Must be behind creep.
+
+Ambush: This is THE rogue ability. And trust me, it is AMAZING. 250% of weapon damage + 60. This changes the way I fight. If I land my ambush, there is a good chance the creep will be dead before it hits me more than once. Combat looks like this for me now...
+
+Step 1: Stealth
+Step 2: Sap (if humanoid)
+Step 3: Pick Pockets (if it has pockets to pick)
+Step 4: Ambush
+Step 5: One round of regular combat while my energy recharges (note: this is the only round the creep really has a chance to hit me).
+Step 6: Gouge (4 second stun)
+Step 7: Move behind the stunned creep and backstab
+Step 8: Hit it with Eviscerate which has 3 combo points (1 from ambush, gouge, and backstab)
+Step 9: Collect loot
+Step 10: Skin corpse (if it's skinnable)
+
+This is what happens 8 out of 10 fights, and it is pure GOLD.
+
+I'd also like to add that I have come full circle on one ability...Sap. I am in love with this ability. It will make rogues VERY welcome in a group. Last night, in a group of 4 we were fighting creeps that came at us in 3's. The mage would pull, I would stealth and sap the 2 adds. I'd rob them both, and then just continue sapping every 15 seconds or so to keep them 'locked down' so to speak.
+
+Level 20. A whole bunch of new tricks.
+
+Stealth Rank 2: Same as stealth Rank 1, but now I move at 60% movement rate instead of 50%.
+
+Backstab Rank 3: 150% weapon damage + 45
+
+Poisons!!! Currently, Eleanoid has two poisons available to him. They are a nice little addition to an already devastating class.
+
+General notes about poison: they all have a duration of 30 minutes before the 'venom' wears off. Each poison usually has a number of charges. So, you have up to x amount of charges or 30 minutes before you need to re-apply the poison.
+
+Here's what Eleanoid has so far:
+
+Instant Poison: This poison has a 20% chance with every strike to do an immediate extra 22-28 damage. This poison has 40 charges.
+
+Crippling Poison: This poison has a 30% chance with every strike to reduce the creep's speed by 70% for 15 seconds.
+
+At this point, I want to do a little damage comparison for you, because I think the rogue at level 20 has most of their damage dealing tools.
+
+My level 17 warlock was doing roughly 70-80 damage with his direct damage spell, plus 20-30 for the pet attacking.
+
+Here is Eleanoid's damage at level 20:
+
+Weapon (Deadly Bronze Poniard) 25-36 base damage. Modified by 250% + 60 for Ambush (122 - 150 less targets armor - I usually hit for about 104-110 points), plus potential for 22-28 extra points of poison damage, plus the potential for a crit, plus the potential for a dual strike of another 25-36 damage, for a grand total damage potential of: RIDONCULOUS.
+
+I am not joking when I say Eleanoid can drop creeps in under 10 seconds if he lands his ambush. On the other hand, if he gets jumped by a second creep, he pretty much has to run away. A very interesting, demanding, and fun class to play.
+
+
+Well, I’ve finally managed to reach level 30 with Eleanoid. And I can say, there was not a boring moment during the whole leveling process (with the exception of corpse running, but that afflicts every class equally). To give you an idea of my gaming habits, I am stuck somewhere in between a power gamer and a casual gamer – I wish I could play the game for hours and hours a day, but I’ve got too many other commitments in the way of my former gaming habits. Nonetheless, it’s taken me just under six days played to reach level 30 with Eleanoid, and that includes a lot of time spend wandering around looking at things, crafting, travelling to help guildmates, etc.
+
+I’m writing this from work, so I don’t recall exactly when Eleanoid received higher versions of abilities like Garrote, Eviscerate, Ambush, and Sinister Strike, and I never really paid much attention to them next to the new, cool abilities that Eleanoid got as he leveled. As a result, I’ll only comment on the new abilities he received.
+
+Level 26:
+
+Cheap Shot: This is an opening move that generates 2 combo points. It has to be used from stealth, and from the rear. The ability itself does no damage, but it stuns the creep for 5 seconds. During that 5 seconds, you can easily get off a backstab, 2 or 3 regular hits, and a sinister strike. So, by the time the creep is alert and fighting again, you’ve already got 4 out of 5 combo points built up. Build up one more with another Sinister Strike and you’ve got a 5 point Eviscerate ready to lay some hurt down. An alternative to Eviscerate at level 30 is Kidney Shot, which I’ll describe shortly). This is a great ability to use both solo and in a group. If Eleanoid is solo against a ‘warrior’ type creep, Cheap Shot is my opener. Against a caster, I usually still open with Ambush because casters really don’t last very long anyway.
+
+Vanish: You need flash powder which can be bought at a merchant to use as a reagent. This ability is a bit tricky. It’s kind of a get out of jail free card, but it doesn’t really work all that well if you’re being ganged up on by more than one creep, which is when you’d really want to use it. If a creep is casting a spell, or in mid-strike, vanish will fail. When it does work, it’s a great way to get in another Ambush or Cheap Shot, or get away from an unsavory situation.
+
+Level 28:
+
+Instant Poison II (Poison skill 140) – This is similar to the 1st poison I described, but it does more damage and holds more charges (60 instead of 40).
+
+Level 30:
+
+Deadly Poison (Poison skill 150) – A DOT poison that can stack up to 5 times on one creep 60 charges.
+
+Feign Death – Requires a ‘death capsule’ as a reagent for use with this ability. Unfortunately, to make a death capsule you need an item that I haven’t been able to locate yet, and I believe it is a Black Lotus. I can’t comment on this one or it’s effectiveness because I haven’t had the chance to use it yet.
+
+Kidney Shot – Finishing Move – Awesome finishing move for use in a group. For each combo point you have built up, you stun the creep for 1 second. In other words, a fully charged Kidney Shot will stun the creep for 5 seconds. When you open with Cheap Shot which is a 5 second stun and you build up combo points to a 5 second Kidney Shot, that’s a lot of time that the creep spends getting beat up with no retaliation. Typically, if things go according to plan, the creep is at 50% health by the time the 10 seconds of stunning is over and done with, and I’ve been hit once or maybe twice. In a group this ability is great as well because it generates very little aggro which is a constant concern for rogues.
+
+Something else I’d like to add – I’ve learned a lot more about the pickpocketing skill since initially picking it up at level 6. I soloed level 28 – 30, and I robbed each and every creep I killed. What I learned from that is that each creep typically gives 50% of their normal coin loot. So, when I robbed the creep of 50 copper, I knew that when it died, it would have 1 silver on it’s corpse. This happened 100% of the time. Also, I’ve typically pickpocketed junk, but last night I was in Razorfen Kraul and I pickpocketed a rare blacksmithing recipe that I should be able to sell on the market for 3 – 5 gold. (3 – 5 gold is more than Eleanoid currently has in the bank at level 30, so that is a sizeable amount of change!). That is the best item I have seen or heard of being looted to date. I wouldn’t count on that kind of pickpocketing loot on a regular basis, but it’s a nice little bonus!
+
+And that’s my review of the rogue class so far! I’ll add more information when the level cap is increased to 35!
+
+Comments (27):
+
+<< Prev | 1 | 2 | Next >>
+
+		
+	
+Posted by Laiyna at 0000-00-00 00:00:00
+
+A Mage still out dammages and out agro's a Rogue easy. Even when when the Paladin is protecting and the warrior is only using taunt styles the Mage gets more agro then a Rogue. Still they make nice meatmills.
+	
+		
+
+		
+	
+Posted by Milindria at 0000-00-00 00:00:00
+
+Good guide, interesting to read and I don't think that you were THAT biased except that you seemed to love your char a lot. One thing that concerns me though is lack of frontal (out of stealth) positional attack, like perforate artery in DaOC for example. I think make backstab from stealth only and add somewhat of perforate artery chain and this class will be looking sweet, and hopefully not be too overpowered.
+	
+		
+
+		
+	
+Posted by Dan at 0000-00-00 00:00:00
+
+Thanks for the guide. I too love playing rogues, and am quite excited about WoW from reading this.
+	
+		
+
+		
+	
+Posted by anon4tehwin at 0000-00-00 00:00:00
+
+How does it all add up when you don't land ambush? It's great to say you have the potential for ridiculous damage, but that kind of damage is reliant on a number of factors going you're way. So my question is what kind of damage are you looking at when you mess up the opening moves, as I'm sure there is a chance of this happening from time to time?
+	
+		
+
+		
+	
+Posted by Syphos at 2004-03-18 20:29:19
+
+OMFG GREAT GUIDE DUDE I LOVE YOU
+	
+		
+
+		
+	
+Posted by evad00 at 2004-03-19 01:48:00
+
+Sounds like rogues are in danger of being hit with a nerf bat.
+	
+		
+
+		
+	
+Posted by Naclador at 2004-03-19 02:54:12
+
+sounds real great... but just to easy to play -> too much "r00l0r"-kiddies... thats real sad
+
+i wish blizz would do more for RP, atm looks like hack&slay; Diablo in WC-Style =((
+	
+		
+
+		
+	
+Posted by Vilkas_LT at 2004-03-19 04:42:19
+
+whel i dont think every n00bie leet kid wil play rogue like Elanoid do ;)
+i paly also assasians in DAoC and i can say, there are lots of potential, but you must know how to use it.
+if somme r0x0rs just spamm anytimer and then flame about, how bad the rogue is, the nerf chanse is not so big ;)
+	
+		
+
+		
+	
+Posted by Geoff at 2004-03-19 17:59:18
+
+Ignore these idiots and their inability to spell or construct sentences. If every fight is the same wouldn't combat grow boring rather quickly? I for one plan on playing the game for fun rather than for killing monsters in the most efficient manner possible. That's just me though.
+	
+		
+
+		
+	
+Posted by doraj at 2004-04-11 13:02:20
+
+in a word
+"iluvrogue"
+seriously though, great guide
+	
+		
+
+		
+	
+Posted by Zinmare at 2004-04-13 17:48:41
+
+Pretty good guide, Never thought about being a Rogue but now you added it to my tough choice of Orc Hunter or Human Paladin... Bastard! =)
+	
+		
+
+		
+	
+Posted by Maeljin_Wolf at 2004-04-16 14:04:33
+
+Nice guide, definitely makes me consider giving the rogue class major consideration. At first I did think this class was a bit overpowered, but when you consider the low hit points and low armor I think it's a fair trade-off.
+	
+		
+
+		
+	
+Posted by Lightgazer at 2004-04-19 20:17:14
+
+The ability to be able to chain stun creeps sounds like is gona get hit with the nerf bat.
+
+I love the idea of trading damage for armor. Rouges are not meant to jump on the front lines with leather armor, but instead wait in the shadows and pick off people quickly. From your descrpiction it sounds like rouges can do that. I also like how rouges have grouability, something they totally lack in DAOC. Just hope Blizzard doesn't develop the "stealth hate" that Mythic did for a long while that completely changed their role to one that is clearly undefined.
+	
+		
+
+		
+	
+Posted by blindfaith at 2004-04-20 17:38:11
+
+so what do u think WoW Rouges over DAOC infy?
+	
+		
+
+		
+	
+Posted by Jowy16 at 2004-04-22 20:15:41
+
+I use rogues to in almost every online Game i play cause my motto is offense is the best defence
+	
+		
+
+		
+	
+Posted by Splunket at 2004-04-30 08:42:34
+
+I think the rogue is one of the best classes in game due to the different ways you can run each encounter. You can pretty much decide what moves you want to do and how much dmg you want to put out at the beginning of combat.
+
+Now if I am grouped with a bunch of casters I might decide to actually let them cast and do a bit less in the beginning so they dont get ticked off and leave me hangin hehe. At level 17 I can solo caster mobs 3 levels higher than myself and Warrior mobs 2 levels for sure and sometimes 3 levels if I am lucky.
+
+Its that "if I am lucky" part I enjoy so I try and challenge myself and try the highest level mobs possible. Rogue get the Kick ability at level 14 I beleive it interrupts casting for 6 seconds if the caster has begun to cast when it is used. So it takes some timing because its not instant when you hit the button.
+
+In a duel the rogue is the BAIN of all casters. I know all you mage and warlock out there are gonna flame me for saying it but if a rogue gets close you are done. They havent implemented PvP yet but I cant wait to see what they do. I love this game so far and its not even out of Beta, I can only imagine the finished product will live up to the rest of Blizzards games and totally rock!!
+	
+		
+
+		
+	
+Posted by Travis_09 at 2004-04-30 15:57:41
+
+i 2 lov rogues and i rly liked this guide, it was just...awesome and now im sure about wat class 2 pick. hehe thx
+	
+		
+
+		
+	
+Posted by betamax at 2004-05-19 21:10:15
+
+can you post something about how important each stat is? does strength effect damage more than agility? does it improve chance to hit? what kind of weapons are most suitable? slower weapons to do more front end damage or faster weapons?
+	
+		
+
+		
+	
+Posted by RI at 2004-06-05 10:55:04
+
+DONCOLOUS
+	
+		
+
+		
+	
+Posted by thebear at 2004-06-26 12:25:17
+
+lol people already talking about nerfs before the game even comes out.
+
+Great guide i previously played 2 of the DAoC assassains for a long time and now im extremely eager to see how these rogues work. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zuma's Mage Review
+By Zuma
+
+I. Preamble
+II. Introduction
+III. Spell Review
+IV. Mages are Good!
+V. Mages are Bad
+VI. Soloing as a Mage
+VII. Grouping as a Mage
+VIII. Conclusion
+
+
+I. Preamble
+
+A very brief history before I get started on the Mage review. I have been playing World of Warcraft since the Undead Alpha push. I have written two other reviews that are floating around in various other places: Eleanoid’s Rogue Review, and Kestrel’s Druid Review. I am happy to add Zuma’s Mage Review to the list.
+
+
+II. Introduction
+
+When I first started playing this game, the Mage was my first choice. I have always loved the inverse relationship between damage potential and the frailty of the Mage. The tradeoff makes for a very ‘by the skin of your teeth’ gaming experience, which I find much more exhilarating than the sword and board tanking style of gaming which is much more reliable and safe, but much less fun in my opinion – to each his own.
+
+Initially, I was sorely disappointed with the Mage class in general. They were unable to compete with the other classes in the earlier pushes. I can not count the times where I would see a warrior wade into a full camp of creeps with his sword swinging, only to leave the corpse littered camp relatively unscathed, but much richer in experience and loot. While a Warrior would be capable of beating 3-4 creeps at once, I would pull a single creep from the same camp and have a roughly 50 / 50 shot at surviving. It was that rough. If I did survive, I had to sit and rest, both drinking and eating. Back then, conjure food and drink did not produce more than 1 bottle / loaf of bread per cast, so guzzling food and water was not really palatable.
+
+Things for the Mage did not improve with the Tri-Horde push either. Still, I tried again to play and enjoy a Mage. But, something was lacking…they did not have the OOMPH that I was looking for. Additionally, they did not enjoy much utility. Essentially, as a Mage, you could look forward to plenty of death, plenty of resting, and plenty of soloing (because all the friends you made early on surpassed your level very quickly and didn’t want you in their group anyway).
+
+I am painting a pretty bleak picture of the Mage class, but to summarize, the Mage required far to much effort and preparation to be a playable class, while other classes were equipped with the tools to just run out of town and mercilessly slaughter whatever they ran across. In addition, Mages were not very welcome in groups because other classes were capable of similar damage output without the significant downtime or risk of death or constantly being a mana drain on the Priests of the group.
+
+This most recent push (Beta Push 2) introduced a whole new Mage. This is the Mage I envisioned when I first logged into World of Warcraft. This Mage has OOMPH. This current Mage comes equipped with a whole ton of utility, damage, and most of all, a huge potential for fun. Some suggest that the current Mage is overpowered, but I do not see Mages doing anything I have not seen other classes do currently or in previous pushes. But I digress; this is not intended to be a discussion on class balance, but rather, a review of the Mage class.
+
+
+III. Spell Review
+
+I’d like to start with a review of the different spells available to the Mage. Since there are spell lists posted all over the place now, I will give a very brief description of the spell and provide an assessment of the utility and function of the spell, and how often gets used.
+
+Spell Types: Arcane, Conjuration, Fire, Frost.
+
+III. A) Arcane Magic
+
+Amplify Magic: Increases the effectiveness of all spells cast on the target (both good and bad). Lasts 3 minutes. This spell requires micro-management and gets very little use from me. About the only time I would consider using this spell is if Zuma is in a group with a priest and a warrior, and fighting against ‘tank’ type creeps. The benefit here would be that the Priest’s heals are a little more effective, for no extra risk of amplified spell damage from a casting creep.
+
+Arcane Explosion: A point-blank area of effect (PBAOE) damage spell. This is the first AOE spell that the Mage receives. A relatively quick cast time, and a fantastic looking graphic effect – a huge shimmering ‘bubble’ expands from the caster exploding outwards and damaging any creeps inside the radius. A good (but dangerous) spell to use in conjunction with Frost Nova and Flamestrike for extra damage while creeps are frozen in place. Personally, this spell does not get a lot of use after level 20 when Zuma acquired the Blizzard spell.
+
+Arcane Intellect: Bonus to Intelligence. No brainer. A buff that increases your mana pool. If you don’t cast this spell every 30 minutes, you should not be playing a Mage.
+
+Arcane Missiles: This spell fires off multiple missiles over 5 seconds. It requires channeling, but you can do a decent amount of damage with this spell. The huge appeal of this spell is that creeps can not interrupt or stagger your casting. This spell is always on Zuma’s quick bar and gets used often.
+
+Blink: I believe the intent of Blink is to give the Mage an escape option if they are rooted, etc. However, this current push, the spell does not work properly. As a result, it doesn’t get much use.
+
+Counterspell: Zuma just received this spell and I haven’t really had the opportunity to use it yet. It offers up a 75% chance to stop a spell from being cast, and prevents that caster from re-casting the same spell for another 10 seconds. It’s instant cast. The fact that there is a 25% chance that the spell will not work would make me a little hesitant to rely on this spell in a dire situation. Against casters that are sleep immune, this spell would be very useful.
+
+Dampen Magic: This spell has the opposite effect of Amplify Magic. I would only use this spell when Zuma is soloing and he comes up against a caster. Even then, I believe that Fire / Frost Ward would be a better choice. Doesn’t get much use.
+
+Khadgar’s Unlocking: One of the Mage’s great utility spells. Requires a reagent which is consumed on casting (small Bronze or Iron key). Unlocks locked chests, etc. Rogues are screaming foul about the fact that Mages can do this with a simple cast, while Rogues have to increase their lockpicking skill through practice to achieve the same result. As this spell is not critical to the Mage’s success, I’d hazard a guess that it will be removed at some point to alleviate the Rogue’s concerns.
+
+Lesser Invisibility: You acquire this spell at level 26, and you will never turn back. I feel ‘naked’ when I play another class without invisibility. You can wander through zones without worrying about being aggroed by annoying creeps, you can explore dungeons, and in some cases, you can sneak straight to your quest objective, obtain it, and leave. This spell is currently being abused to bypass a lot of high level content, but Blizzard has confirmed that creeps have had their ‘See Invisible’ abilities disabled. Either way, this is a great utility spell, and will have many uses in both PVE and PVP. The only downside to Lesser Invisibility is the fact that the spell can drop on you at any time. Occasionally, this is a very bad thing. You really need to pay attention to the invisibility icon on your screen or you could be in serious trouble.
+
+Mana Shield: This instant cast spell tosses up a shield that prevents physical damage and spell interruption. In exchange, damage is dealt directly to mana instead of hit points. I believe the ratio is something along the lines of 3:1 mana to damage. You would have to check a spell list to confirm. Since Zuma tries not to spend much (if any) time in hand to hand combat with a creep, this spell doesn’t get a heck of a lot of use, but it is certainly a life saver when you get jumped by an extra creep or two and your Frost Nova is still cooling down. I look at this spell as an absolute last resort. If I am certain Zuma will die, I will pop up this shield and try to get away. The other benefit of this spell, as I mentioned, is the fact that it prevents spell interrupting. This can be useful if you really need to get one last spell off when facing off against 2 or more creeps.
+
+Remove Curse: Pretty basic spell. Removes 1 curse per cast. I have seen several curses and they seem to have a pretty significant effect on your character, so this is a good one to have.
+
+Sleep: Sleeps the target for x amount of time. The duration is not constant – creeps seem to have the ability to check against the sleep spell every few seconds and it can drop randomly. Against equal or lower level creeps, Sleep sticks pretty well for the entire duration and it’s effectiveness drops in direct proportion as the creeps you are fighting rise in level. There are many ways to use sleep, including using it to interrupt a spellcaster mid-cast, break up a group of creeps, or use it as a chance to recover much needed health and mana. Sleep is currently a hotly debated spell – it was initially in the Priest’s repertoire of spells, and many believe it should be returned to them or removed from the game entirely. Truthfully, when Zuma is on his own, he rarely uses Sleep.
+
+Teleport: This is a fantastic spell. This is pure utility and once you become accustomed to popping back to the capital city to train, trade, turn in quests, etc. you will have a hard time turning back. Quite simply, this spell eliminates some of the travel time and cost associated with getting around the immense game world. Beautiful spell. As an Alliance character, your options are: Darnassus, Ironforge, and Stormwind. I am hopeful that at the higher levels, Mages will be able to transport entire groups via teleport.
+
+
+III. B) Conjuration
+
+Conjure Water: As the name implies, this spell conjures up water. As your conjuration skill increases, you can create more and more amounts of water with each cast. When you first receive this spell, you can create 2 bottles of water, but eventually, you can create an entire stack in 1 cast. By that point however, you have access to the next version of the spell which creates a more potent water. The water disappears after you log out from the game. One true benefit of this spell is that you are able to truly utilize all your spells and damage potential. If you run out of mana, there is nothing wrong with guzzling down a few sips of water to stand up and nuke again. Other casters need to be a little more conservative with their mana output and water usage, since they pay a fair amount for water / juice.
+
+Conjure Food: Less important to Mages as conjure water, but nonetheless, free food is always good! I find that few people I group with actually take advantage of the free food, since most Warriors cook and can make far better food that conjure food can provide.
+
+Conjure Mana Gem: A nice little spell that creates a mana gem that can be consumed to restore 375 – 425 mana. Unfortunately, these mana gems are soulbound and unique which means you can only have one and it can not be offered to your groupmates. This is basically a ‘conjure mana potion’ spell.
+
+
+III. C) Fire
+
+Fireball: This is your bread and butter, plain Jane damage spell. Good damage to mana ratio, longer casting times as you gain the higher ranks. No additional effects, just pure unadulterated damage. This spell makes a nice exploding sound when it impacts. Extra crispy please.
+
+Fireblast: This is a great spell! Instant cast fire damage. The damage is not as great as Fireball, but it’s instant cast and it has a relatively short cool down (9 seconds), so you can usually use it more than once in a fight. The range is a little shorter than a Fireball, so you need to watch that.
+
+Fire Ward: This spell confers a specific amount of damage absorption of the fire type. Pretty straight forward. Not used very often, only against casters that cast fire spells.
+
+Flamestrike: This is a monstrous AOE spell. One of the most satisfying moments I’ve had playing Zuma was unleashing Flamestrike for the first time. Graphically, a pillar of fire springs out of the center of the spell’s effect and the ground around it appears to crack and open up to the red hot, glowing core of Azeroth. Any creep caught in the area is burned for a decent amount of fire damage, and then they are treated to ongoing damage over time unless they move out of the area of effect (see Frost Nova!).
+
+Scorch: This little gem gets a lot of action on Zuma’s quick bar, although I don’t think that this spell is utilized by many Mages. It’s got very low damage relative to Fireball, or Fireblast, but the big benefit to this spell is that the casting time is 1.5 seconds. It’s great for finishing off creeps, or for getting in one last quick spell before a creep reaches you after the initial pull.
+
+
+III. D) Frost
+
+Blizzard: Hands down, my absolute favorite spell of all classes. This spell is murder on wheels. Difficult to execute properly, but if you can educate your group on how to properly use AOE damage, Blizzard is your ticket to an obscenely high body count. I’ll describe in detail how this baby works in an ideal situation later on, but this spell is the reason I play a Mage. This spell delivers frost damage each second for 8 seconds. It requires channeling, so you can’t do anything else or you interrupt the spell. You really do need a group to use this spell effectively on creeps even close to your level or you are lunch meat.
+
+Cone of Cold: This spell is instant cast and AOE, so for that it deserves a spot on Zuma’s quick bar, but to be honest, I rarely cast it. It’s pretty expensive in terms of mana cost, and the damage is not the greatest. I prefer to drop a Frost Nova instead, which gives Zuma more opportunity to move around if he is in any danger.
+
+Frost Armor: This is the Mage’s self-only Armor buff spell. Along with the Armor bonus, this spell provides a shield that very reliably procs a snare on whatever just hit you. It’s great for getting away. Generally speaking, Zuma gets hit once, and then he can outrun whatever it was that hit him while they stagger along at a reduced movement rate.
+
+Frost Bolt: This spell is a little faster casting than Fireball, but it does less damage. In exchange for the damage loss, it adds a snare effect which slows the creep’s movement for 8 seconds. This is Zuma’s opener if I am pulling from range, as it gives him more time to cast Fireball after the creep starts charging him.
+
+Frost Nova: This spell is used in pretty much any and every fight. It’s a PBAOE spell that is instant cast. It does minimal damage, but the real effect of this spell is that it freezes anything it hits for up to 10 seconds. This spell is the backbone of successfully staying alive while using AOE damage tactics. It is a Mage’s primary form of crowd control. It can be used to hold a target in place while you re-position to blast it from distance, or it can be used to hold a few creeps in place while you run away from a tight situation. This spell is pure gold, and I can not imagine the Mage succeeding as a class without it.
+
+Frost Ward: Identical in every way to Fire Ward, except it absorbs Frost damage. It’s important to note that you can have both wards up and running at the same time.
+
+Ice Armor: Ice Armor joins the Mage’s grimoire of spells at level 30, and it replaces Frost Armor. It’s essentially the same spell, but it adds a bonus to Frost Resistance.
+
+
+IV. Mages are Good!
+
+There are two things that stand out as being the key qualities of a Mage. The great DPS at range and the utility.
+
+Being able to take a creep down to 20% before it’s even close to you is just pure gold. While most everyone else has to run up and slash away with the business end of a sword, us Mages get to sit back and just blaze away. And make no mistake people, Mages can lay down some heavy damage. The spells all look good, and if you zoom in and take a real close look, you can see some nice little detail in the casting effects.
+
+In addition, Mages come equipped with plenty of ways to deal with adds, or to quickly get out of a situation gone to H-E-double hockey stick. Counterspell, Frost Nova, Frost Bolt, Frost / Ice Armor, Mana Shield, Fire / Frost Ward, and Sleep are all tools to help you survive. Zuma rarely dies unless I’m feeling particularly stubborn and determined to finish off the fight. With a tiny bit more intelligence, I don’t think there would be any reason for a Mage to die in any but the most dire of circumstances. It is a nice feeling knowing that there is not much you can not get out of.
+
+In addition, Mages have some fantastic utility. Blink, Conjuration, Invisibility, Khadgar’s Unlocking, and Teleport all help to round out the Mage class quite nicely. Being able to teleport back to a major city from wherever you happen to be has huge value in both time savings and, for the cheap ones among us, money saved in griffin rides.
+
+Where some other classes can fight non-stop, keeping their mana and / or health at a respectable level, Mages health and mana are like a yo-yo. Zuma can tear through an entire mana bar in less than 10 seconds. To compensate for that mana burnin’, heart-pumpin’, high octane play style, conjuring your own food and water is totally essential to make the class playable.
+
+Invisibility is just amazing. As I alluded to earlier, the world is your oyster once you’ve got this spell. The ability to ‘See Invisible’ hasn’t been enabled for a lot of the tougher encounters in the game, but currently Invisibility is being used by some people to bypass entire dungeons to farm elite bosses. I don’t agree with that use and hope that those concerns are addressed down the road. Either way, you are free to maneuver throughout the game world and check things out at no risk. Great fun.
+
+
+V. Mages are Bad
+
+Mages are certainly not for everyone. Essentially, you nuke things. That’s it. Mages have a few tricks to make things more interesting, but basically, you nuke things. My quick bar has not changed at all in the last 10 levels. My soloing strategy has not changed since level 1. Stand as far away as possible and try to blow it up. If it gets too close, slow it down, step away and finish it off. This repetitive style of play can get boring very quickly. Personally, I never grow tired of it, but I can understand why some people would.
+
+As a Mage, you wear cloth armor. No big deal, right? Wrong. My level 10 Warrior has a higher Armor rating than my level 38 Mage. As you’d imagine, cloth doesn’t soak up damage very well. On top of that, cloth armor just doesn’t look all that great. It’s not bad, there are some really nice looking pieces out there, but nothing compares to some of the pieces of chainmail that I’ve seen. You can actually hear the links of chain clinking together as a Paladin or Warrior runs by. Talk about slick. The only thing you’ll hear as a Mage passes by is the sound of robes chafing on our lily-white thighs as we walk. If Paladins and Warriors are the polished chrome, lowered and extended Choppers that you see tearing down the highway, Mages are the slightly damaged, tan colored mopeds that you see trying not to get run over by everyone that doesn’t notice them. Bottom line, if you want to look cool: don’t play a Mage!
+
+One other downside to Mages is that you may not be able to fully utilize all of your abilities. If you are in a standard tank + healer + damage dealer group, you won’t be able to unload all your abilities. You’ll have to sit back, let the tank secure aggro, and then start tossing fire at the creep. Personally, I am too impatient and don’t like the idea of not being able to fully expose creeps to Zuma’s full arsenal immediately. Restraint? Moderation? No thank you! In my opinion, if you have great DPS and you aren’t able to use it, what’s the point of having great DPS in the first place? Why not play something that moderates the DPS and aggro a little better like a warlock, shaman, or druid.
+
+The other aspect of Mages that is cause for concern is Resists and Talents. I’m not referring to the straight out resists that creeps can get outright, similar to a dodge or parry where a whole blow is avoided. I’m specifically referring to the actual resists for each type of magic (Fire, Frost, Holy, Nature, Shadow) that I’m expecting will directly reduce the amount of damage a given spell does. Neither of these systems have been implemented yet, so I don’t want to get ahead of myself here. However, the damage that Mages are currently accustomed to will certainly undergo some changes and with any luck for us Mages, our DPS will remain high. I’m optimistic that the systems will work well together in providing Mages with the opportunity to purchase ‘spell penetration’ type abilities that enhance damage of a particular type, or lower an opponent’s resists, etc.
+
+
+VI. Soloing as a Mage
+
+To be honest, there is not a lot of complication to the Mage. Basically, show up and blow up. My soloing strategy for Zuma hasn’t changed much since level 1, and I don’t expect it would change much at level 60. This ‘straightforward’ type of play style suits some; others require a lot more variety. To those people, may I recommend the Warlock? Us Mages are here to inflict as much damage in as short amount of time as possible. And we are here to love it.
+
+I’m not going to get too detailed here on how to solo; it’s very basic. Start with a Frost Bolt, then light ‘em up like the 4th of July. If the creep gets too close, Frost Nova, sidestep a few paces, and continue nuking until crispy. Grab your loot, sit down and have a drink, rinse, repeat.
+
+Against Casters: Currently you can maintain an interrupt chain on casters by casting Fireball / Sleep over and over. Seems like a questionable tactic and it may be an exploit, but if Sleep is removed or modified to have an immunity timer, different tactics will be needed – casters really hurt.
+
+More Than One Opponent: That’s why you have Sleep and Frost Nova silly! Keep one locked down while you dust the other, have a drink, then go to work on his buddy. If it’s not a fight you can win, run away!
+
+
+VII. Grouping as a Mage
+
+Grouping as a Mage has improved immensely this push. With the addition of Sleep, there is actually a reason a group would select you as a member. The trick to grouping is knowing your role. You don’t want to nuke too quickly or you will get aggro and earn yourself a good beating resulting in death and the ire of your group. You want to wait a little bit while the Warrior or any other sturdier character than you grabs aggro. Then you can open it up and let loose some fire and ice.
+
+One other area of grouping I’d like to touch on is AOE grouping with Mages. Let it Snow, Let it Snow, Let it Snow!
+
+Remember Frost Nova? Remember Blizzard? These two spells are your one way ticket to the fastest, most fun and rewarding gaming experience I’ve ever seen in World of Warcraft. You will need at least two mages and one priest. Anything more is a luxury. Three Mages is great, four Mages is destruction on a nuclear scale.
+
+The Priest casts Holy Word: Shield on a Mage. This Mage wanders into the largest camp your group can possibly find, draws all kinds of aggro and then drops a Frost Nova when all the creeps are nicely clumped together. The other Mage(s) immediately cast Blizzard on the area. The Mage who pulled steps back a few paces and casts Blizzard as well. Another Mage wanders into the camp to drop another Frost Nova. Takes a few steps back, casts Blizzards. Rinse and repeat if necessary. The priest is there to keep everyone shielded and toss an occasional heal if needed.
+
+There is absolutely nothing more satisfying than seeing a screen full of damage spam while your blizzard hammers away. With a bit of practice and once your group gets familiar with the strategy, you can prevent them from running away and all of them will die at the same time, and then it’s a matter of digging through frozen bodies for your loot.
+
+A slightly modified (and lower level) version of this is to replace Blizzard with Flamestrike and repeat castings of Arcane Explosion. Follow the same pattern as above, but just try to step far enough away to keep all the creeps in the radius of Arcane Explosion. You won’t use these spells beyond level 20 when you get Blizzard.
+
+
+VIII. Conclusion
+
+Well, that’s about all I have the patience and time to write. I hope you enjoyed this review. I am happy to answer any questions, or reply to any concerns about the information in this review. Please contact me at kestrel_talonstrike@hotmail.com.
+
+Thanks for reading!
+
+Zuma – 38 Mage
+
+Comments (3):
+
+<< Prev | 1 | Next >>
+
+		
+	
+Posted by chunky kid with red messy and greasy hair at 2004-08-01 07:45:24
+
+Good write up. For a second there I wasnt sure If I would make a mage, now im leaning towards yup.
+	
+		
+
+		
+	
+Posted by Anonymous at 2004-08-05 16:03:10
+
+GFG James
+	
+		
+
+		
+	
+Posted by Anonymous at 2004-08-31 07:32:36
+
+How is the mage doing in PVP ?
+	
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

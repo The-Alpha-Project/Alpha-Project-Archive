@@ -1,0 +1,117 @@
+Entry : 4075 | Name : Rat | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 1568 | Name : Undertaker Mordo | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2113 | Name : Archibald Kava | Subname : Apprentice Cloth & Leather | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1570 | Name : Executor Arren | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2122 | Name : David Trias | Subname : Rogue Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2116 | Name : Blacksmith Rand | Subname : Apprentice Armorer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2115 | Name : Joshua Kien | Subname : General Supplies | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2308 | Name : Andrew Brounel | Subname :  | Type: 6 | Static Flags : 2 | Beast Family : 0
+Entry : 2119 | Name : Dannal Stern | Subname : Warrior Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2117 | Name : Harold Raims | Subname : Apprentice Weaponsmith | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1502 | Name : Wretched Zombie | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 416 | Name : Imp | Subname :  | Type: 3 | Static Flags : 1048576 | Beast Family : 23
+Entry : 2315 | Name : Maquell Ebonwood | Subname :  | Type: 6 | Static Flags : 2 | Beast Family : 0
+Entry : 1739 | Name : Deathguard Phillip | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1890 | Name : Rattlecage Skeleton | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1501 | Name : Mindless Zombie | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1741 | Name : Deathguard Bartrand | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1736 | Name : Deathguard Randolph | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1569 | Name : Shadow Priest Sarvis | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1661 | Name : Novice Elreth | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 5667 | Name : Venya Marthand | Subname :  | Type: 6 | Static Flags : 108 | Beast Family : 0
+Entry : 2123 | Name : Dark Cleric Duesten | Subname : Priest Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2126 | Name : Maximillion | Subname : Warlock Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 5749 | Name : Kayla Smithe | Subname : Demon Pet Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2124 | Name : Isabella | Subname : Mage Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1512 | Name : Duskbat | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 7
+Entry : 1737 | Name : Deathguard Oliver | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 2301 | Name : Nerrik Shoyul | Subname : Binder | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 721 | Name : Rabbit | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 1508 | Name : Young Scavenger | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 1
+Entry : 1740 | Name : Deathguard Saltain | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 2307 | Name : Caretaker Caice | Subname :  | Type: 6 | Static Flags : 2 | Beast Family : 0
+Entry : 1513 | Name : Mangy Duskbat | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 7
+Entry : 1509 | Name : Ragged Scavenger | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 1
+Entry : 1504 | Name : Young Night Web Spider | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 3
+Entry : 1505 | Name : Night Web Spider | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 3
+Entry : 1917 | Name : Daniel Ulfman | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1918 | Name : Karrel Grayves | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1919 | Name : Samuel Fipps | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1916 | Name : Stephen Bhartec | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1547 | Name : Decrepit Darkhound | Subname :  | Type: 3 | Static Flags : 0 | Beast Family : 1
+Entry : 1553 | Name : Greater Duskbat | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 7
+Entry : 1548 | Name : Cursed Darkhound | Subname :  | Type: 3 | Static Flags : 0 | Beast Family : 1
+Entry : 1519 | Name : Deathguard Simmer | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1934 | Name : Tirisfal Farmer | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 620 | Name : Chicken | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 1935 | Name : Tirisfal Farmhand | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1506 | Name : Scarlet Convert | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1688 | Name : Night Web Matriarch | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 3
+Entry : 1936 | Name : Farmer Solliden | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1535 | Name : Scarlet Warrior | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1507 | Name : Scarlet Initiate | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1667 | Name : Meven Korgal | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 5725 | Name : Deathguard Lundmark | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1554 | Name : Vampiric Duskbat | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 7
+Entry : 1526 | Name : Ravaged Corpse | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1525 | Name : Rotting Dead | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 3522 | Name : Constance Brisboise | Subname : Apprentice Clothier | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 3523 | Name : Bowen Brisboise | Subname : Tailoring Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1735 | Name : Deathguard Abraham | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 3547 | Name : Hamlin Atkins | Subname : Mushroom Farmer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1743 | Name : Deathguard Lawrence | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1496 | Name : Deathguard Dillinger | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1518 | Name : Apothecary Johaan | Subname : Royal Apothecary Society | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2132 | Name : Carolai Anise | Subname : Apprentice Alchemist | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1742 | Name : Deathguard Bartholomew | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 5689 | Name : Steed | Subname :  | Type: 8 | Static Flags : 7 | Beast Family : 10
+Entry : 2309 | Name : Thomas Arlento | Subname :  | Type: 6 | Static Flags : 2 | Beast Family : 0
+Entry : 4731 | Name : Zachariah Post | Subname : Animal Handler | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 4773 | Name : Velma Warnam | Subname : Horse Riding Instructor | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2114 | Name : Faruza | Subname : Apprentice Herbalist | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1745 | Name : Deathguard Morris | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 2311 | Name : Doreen Beltis | Subname :  | Type: 6 | Static Flags : 2 | Beast Family : 0
+Entry : 2136 | Name : Oliver Dwor | Subname : Apprentice Weaponsmith | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2137 | Name : Eliza Callen | Subname : Apprentice Leathercrafter | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2135 | Name : Abe Winters | Subname : Apprentice Armorer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1515 | Name : Executor Zygand | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2128 | Name : Cain Firesong | Subname : Mage Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2127 | Name : Rupert Boch | Subname : Warlock Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2129 | Name : Dark Cleric Beryl | Subname : Priest Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1560 | Name : Yvette Farthing | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 5750 | Name : Gina Lang | Subname : Demon Pet Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1744 | Name : Deathguard Mort | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1499 | Name : Magistrate Sevren | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2303 | Name : Lyranne May | Subname : Binder | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2134 | Name : Mrs. Winters | Subname : General Supplies | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2118 | Name : Abigail Shiel | Subname : Trade Supplies | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1860 | Name : Voidwalker | Subname :  | Type: 3 | Static Flags : 6 | Beast Family : 16
+Entry : 2314 | Name : Sahvan Bloodshadow | Subname :  | Type: 6 | Static Flags : 2 | Beast Family : 0
+Entry : 2310 | Name : Jamie Nore | Subname :  | Type: 6 | Static Flags : 2 | Beast Family : 0
+Entry : 1652 | Name : Deathguard Burgess | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1746 | Name : Deathguard Cyrus | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 5724 | Name : Ageron Kargal | Subname :  | Type: 6 | Static Flags : 108 | Beast Family : 0
+Entry : 1500 | Name : Coleman Farthing | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 5759 | Name : Nurse Neela | Subname : First Aid Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 5688 | Name : Renee Samson | Subname : Food & Drink | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1521 | Name : Gretchen Dedmar | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2209 | Name : Deathguard Gavin | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 2210 | Name : Deathguard Royann | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 2131 | Name : Austil de Mon | Subname : Warrior Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 2130 | Name : Marion Call | Subname : Rogue Trainer | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 5695 | Name : Vance Undergloom | Subname : Enchanter | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 3548 | Name : Selina Weston | Subname : Alchemy & Herb Supplier | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1931 | Name : Captured Scarlet Zealot | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2211 | Name : Captured Mountaineer | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1738 | Name : Deathguard Terrence | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 3550 | Name : Martine Tramblay | Subname : Fishing Supplies | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 1495 | Name : Deathguard Linnea | Subname :  | Type: 6 | Static Flags : 102 | Beast Family : 0
+Entry : 5624 | Name : Undercity Guardian | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1531 | Name : Lost Soul | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1941 | Name : Rot Hide Graverobber | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1520 | Name : Rattlecage Soldier | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1674 | Name : Rot Hide Gnoll | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1675 | Name : Rot Hide Mongrel | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1753 | Name : Maggot Eye | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 1543 | Name : Vile Fin Puddlejumper | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1544 | Name : Vile Fin Minor Oracle | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0

@@ -1,0 +1,3185 @@
+Deprecated Sunblaze Coif
+	Stats
+	Min Level: 17
+Armor: 33
++1 Fire Resistance
+Pawn Price: 15 5
+	
+	
+
+Fire Hardened Coif
+  Unique item
+	Stats
+	Min Level: 21
+Armor: 40
++3 Spirit
++5 Stamina
+Pawn Price: 22 21
+	
+	
+
+Tusken Helm
+	Stats
+	Min Level: 22
+Armor: 41
++1 Stamina
++7 Strength
+Pawn Price: 23 88
+	
+	
+
+Glimmering Mail Coif
+	Stats
+	Min Level: 22
+Armor: 41
++4 Intellect
++3 Stamina
++3 Strength
+Pawn Price: 24 70
+	
+	
+
+Soldier Cap
+	Stats
+	Min Level: 23
+Armor: 42
++4 Stamina
++5 Strength
+Pawn Price: 28 25
+	
+	
+
+Green Iron Helm
+	Stats
+	Min Level: 24
+Armor: 39
++3 Stamina
+Pawn Price: 18 32
+	
+	
+
+Phalanx Helm
+	Stats
+	Min Level: 26
+Armor: 44
+Pawn Price: 21 96
+	
+	
+
+Augmented Chain Helm
+	Stats
+	Min Level: 27
+Armor: 42
++5 Stamina
+Pawn Price: 24 56
+	
+	
+
+Mail Combat Helm
+	Stats
+	Min Level: 28
+Armor: 47
++10 Stamina
+Pawn Price: 43 10
+	
+	
+
+Golden Scale Coif
+	Stats
+	Min Level: 28
+Armor: 47
++6 Spirit
++6 Stamina
+Pawn Price: 44 5
+	
+	
+
+Brigandine Helm
+	Stats
+	Min Level: 40
+Armor: 51
++9 Spirit
+Pawn Price: 59 97
+
+
+Linked Chain Shoulderpads
+	Stats
+	Min Level: 11
+Armor: 26
+Pawn Price: 2 86
+	
+	
+
+Durable Chain Shoulders
+	Stats
+	Min Level: 12
+Armor: 38
+Pawn Price: 4 86
+	
+	
+
+Blackrock Chain Pauldrons
+	Stats
+	Min Level: 13
+Armor: 40
+Pawn Price: 5 83
+	
+	
+
+Laced Mail Shoulderpads
+	Stats
+	Min Level: 15
+Armor: 28
+Pawn Price: 2 60
+	
+	
+
+Glinting Scale Pauldrons
+	Stats
+	Min Level: 15
+Armor: 45
++25 Health
+Pawn Price: 11 66
+	
+	
+
+Berserker Pauldrons
+	Stats
+	Min Level: 15
+Armor: 45
++1 Strength
+Pawn Price: 12 66
+	
+	
+
+Silvered Bronze Shoulders
+	Stats
+	Min Level: 15
+Armor: 45
++1 Spirit
+Pawn Price: 12 84
+	
+	
+
+Burnished Chain Spaulders
+	Stats
+	Min Level: 17
+Armor: 42
+Pawn Price: 5 15
+	
+	
+
+Defender Spaulders
+	Stats
+	Min Level: 17
+Armor: 42
+Pawn Price: 5 22
+	
+	
+
+Rough Bronze Shoulders
+	Stats
+	Min Level: 17
+Armor: 42
+Pawn Price: 5 32
+	
+	
+
+Reinforced Chain Shoulderpads
+	Stats
+	Min Level: 17
+Armor: 30
+Pawn Price: 6 9
+	
+	
+
+Glimmering Mail Pauldrons
+	Stats
+	Min Level: 20
+Armor: 51
++2 Strength
+Pawn Price: 20 43
+	
+	
+
+Battleforge Pauldrons
+	Stats
+	Min Level: 22
+Armor: 52
+Pawn Price: 14 54
+	
+	
+
+Green Iron Shoulders
+	Stats
+	Min Level: 22
+Armor: 53
++3 Strength
+Pawn Price: 25 71
+	
+	
+
+Glorious Shoulders
+	Stats
+	Min Level: 23
+Armor: 53
++1 Spirit
++5 Health
+Pawn Price: 17 31
+	
+	
+
+Phalanx Pauldrons
+	Stats
+	Min Level: 25
+Armor: 56
+Pawn Price: 19 36
+	
+	
+
+Elite Shoulders
+	Stats
+	Min Level: 25
+Armor: 56
++1 Stamina
++10 Health
+Pawn Price: 21 10
+	
+	
+
+Golden Scale Shoulders
+	Stats
+	Min Level: 25
+Armor: 57
++2 Strength
++2 Spirit
+Pawn Price: 31 6
+	
+	
+
+Mail Combat Spaulders
+	Stats
+	Min Level: 26
+Armor: 53
++1 Strength
+Pawn Price: 21 39
+	
+	
+
+Frost Metal Pauldrons
+	Stats
+	Min Level: 27
+Armor: 59
++3 Strength
++1 Frost Resistance
+Pawn Price: 38 4
+	
+	
+
+Knight's Pauldrons
+	Stats
+	Min Level: 30
+Armor: 57
+Pawn Price: 18 71
+
+
+
+Flimsy Chain Vest
+	Stats
+	Min Level: 1
+Armor: 12
+Pawn Price: 9
+	
+	
+
+Rugged Mail Vest
+	Stats
+	Min Level: 1
+Armor: 14
+Pawn Price: 10
+	
+	
+
+Frostmane Chain Vest
+	Stats
+	Min Level: 1
+Armor: 16
+Pawn Price: 14
+	
+	
+
+Tarnished Chain Vest
+	Stats
+	Min Level: 1
+Armor: 16
+Pawn Price: 15
+	
+	
+
+Jagged Chain Vest
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 15
+	
+	
+
+Rusted Chain Vest
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 15
+	
+	
+
+Mountaineer Chestpiece
+	Stats
+	Min Level: 1
+Armor: 21
+Pawn Price: 32
+	
+	
+
+Light Mail Armor
+	Stats
+	Min Level: 1
+Armor: 30
+Pawn Price: 82
+	
+	
+
+Siege Brigade Vest
+	Stats
+	Min Level: 1
+Armor: 30
+Pawn Price: 87
+	
+	
+
+Slarkskin
+	Stats
+	Min Level: 3
+Armor: 40
++1 Spirit
++1 Stamina
+Pawn Price: 2 94
+	
+	
+
+Warrior's Tunic
+	Stats
+	Min Level: 3
+Armor: 40
++1 Strength
+Pawn Price: 2 96
+	
+	
+
+Loose Chain Vest
+	Stats
+	Min Level: 5
+Armor: 23
+Pawn Price: 58
+	
+	
+
+Light Chain Armor
+	Stats
+	Min Level: 5
+Armor: 33
+Pawn Price: 86
+	
+	
+
+Copper Chain Vest
+	Stats
+	Min Level: 5
+Armor: 36
++4 Health
+Pawn Price: 1 42
+	
+	
+
+Wax-polished Armor
+	Stats
+	Min Level: 5
+Armor: 39
+Pawn Price: 2 49
+	
+	
+
+Ironheart Chain
+	Stats
+	Min Level: 5
+Armor: 42
++3 Strength
+Pawn Price: 4 7
+	
+	
+
+Veteran Armor
+	Stats
+	Min Level: 5
+Armor: 42
++3 Stamina
+Pawn Price: 4 14
+	
+	
+
+Infantry Tunic
+	Stats
+	Min Level: 7
+Armor: 38
+Pawn Price: 1 46
+	
+	
+
+Battle Chain Tunic
+	Stats
+	Min Level: 7
+Armor: 42
++5 Health
+Pawn Price: 2 36
+	
+	
+
+Worn Mail Vest
+	Stats
+	Min Level: 9
+Armor: 29
+Pawn Price: 1 39
+	
+	
+
+Brackwater Vest
+	Stats
+	Min Level: 10
+Armor: 47
++1 Strength
+Pawn Price: 4 30
+	
+	
+
+Soldier's Armor
+	Stats
+	Min Level: 10
+Armor: 47
+Pawn Price: 4 44
+	
+	
+
+Ironforge Breastplate
+	Stats
+	Min Level: 10
+Armor: 49
++4 Stamina
++1 Fire Resistance
+Pawn Price: 8 71
+	
+	
+
+Laced Mail Vest
+	Stats
+	Min Level: 11
+Armor: 31
+Pawn Price: 1 98
+	
+	
+
+Chainmail Armor
+	Stats
+	Min Level: 12
+Armor: 45
+Pawn Price: 3 49
+	
+	
+
+Linked Chain Vest
+	Stats
+	Min Level: 12
+Armor: 33
+Pawn Price: 4 39
+	
+	
+
+Runed Copper Breastplate
+	Stats
+	Min Level: 13
+Armor: 52
++1 Strength
+Pawn Price: 6 30
+	
+	
+
+Chestplate of Kor
+	Stats
+	Min Level: 14
+Armor: 55
++3 Stamina
++1 Spirit
++2 Strength
+Pawn Price: 13 74
+	
+	
+
+Mutant Scale Breastplate
+  Unique item
+	Stats
+	Min Level: 14
+Armor: 63
++3 Strength
++25 Health
+Pawn Price: 16 96
+	
+	
+
+Forest Chain
+	Stats
+	Min Level: 15
+Armor: 55
++5 Spirit
++10 Health
+Pawn Price: 16 56
+	
+	
+
+Deputy Chain Coat
+	Stats
+	Min Level: 15
+Armor: 55
++2 Spirit
++4 Strength
+Pawn Price: 16 68
+	
+	
+
+Phantom Armor
+  Unique item
+	Stats
+	Min Level: 15
+Armor: 58
++3 Spirit
++3 Stamina
++2 Strength
+Pawn Price: 18 64
+	
+	
+
+Burnished Chain Tunic
+	Stats
+	Min Level: 16
+Armor: 56
++1 Strength
++10 Health
+Pawn Price: 10 1
+	
+	
+
+Defender Tunic
+	Stats
+	Min Level: 16
+Armor: 56
+Pawn Price: 10 9
+	
+	
+
+Battleforge Armor
+	Stats
+	Min Level: 16
+Armor: 56
+Pawn Price: 17 55
+	
+	
+
+Silvered Bronze Breastplate
+	Stats
+	Min Level: 16
+Armor: 56
++3 Stamina
++3 Strength
++1 Shadow Resistance
+Pawn Price: 18 31
+	
+	
+
+Scalemail Vest
+	Stats
+	Min Level: 17
+Armor: 52
++1 Intellect
+Pawn Price: 7 11
+	
+	
+
+Violet Scale Armor
+	Stats
+	Min Level: 17
+Armor: 57
++1 Stamina
++1 Spirit
+Pawn Price: 11 40
+	
+	
+
+Husk of Naraxis
+	Stats
+	Min Level: 17
+Armor: 58
++6 Stamina
++1 Nature Resistance
+Pawn Price: 19 91
+	
+	
+
+Rough Bronze Cuirass
+	Stats
+	Min Level: 18
+Armor: 53
+Pawn Price: 7 52
+	
+	
+
+Reinforced Chain Vest
+	Stats
+	Min Level: 18
+Armor: 38
+Pawn Price: 8 92
+	
+	
+
+Orcish War Chain
+	Stats
+	Min Level: 18
+Armor: 59
++2 Strength
+Pawn Price: 12 69
+	
+	
+
+Fire Hardened Hauberk
+  Unique item
+	Stats
+	Min Level: 18
+Armor: 59
++6 Strength
++20 Health
+Pawn Price: 22 33
+	
+	
+
+Captain's Armor
+	Stats
+	Min Level: 19
+Armor: 64
++7 Strength
++35 Health
+Pawn Price: 27 93
+	
+	
+
+Silver Scale Breastplate
+	Stats
+	Min Level: 19
+Armor: 64
++7 Strength
++2 Stamina
+Pawn Price: 29 35
+	
+	
+
+Large Ogre Chain Armor
+	Stats
+	Min Level: 20
+Armor: 62
++7 Strength
+Pawn Price: 26 69
+	
+	
+
+Dusty Chain Armor
+	Stats
+	Min Level: 21
+Armor: 62
++3 Strength
+Pawn Price: 17 69
+	
+	
+
+Glinting Scale Breastplate
+	Stats
+	Min Level: 21
+Armor: 62
++2 Stamina
++20 Health
+Pawn Price: 19 26
+	
+	
+
+Polished Scale Vest
+	Stats
+	Min Level: 22
+Armor: 58
++1 Strength
++5 Health
+Pawn Price: 11 85
+	
+	
+
+Glimmering Mail Chestpiece
+	Stats
+	Min Level: 23
+Armor: 67
++5 Stamina
++5 Strength
++1 Holy Resistance
+Pawn Price: 35 56
+	
+	
+
+Mail Combat Armor
+	Stats
+	Min Level: 25
+Armor: 70
++3 Spirit
++3 Stamina
++5 Strength
+Pawn Price: 43 50
+	
+	
+
+Double Link Mail Tunic
+	Stats
+	Min Level: 25
+Armor: 80
++2 Agility
++6 Strength
++30 Health
+Pawn Price: 50 5
+	
+	
+
+Green Iron Hauberk
+	Stats
+	Min Level: 26
+Armor: 75
++9 Stamina
++3 Strength
+Pawn Price: 56 58
+	
+	
+
+Augmented Chain Vest
+	Stats
+	Min Level: 27
+Armor: 67
++5 Strength
+Pawn Price: 31 34
+	
+	
+
+Polished Jazeraint Armor
+	Stats
+	Min Level: 27
+Armor: 77
++4 Spirit
++4 Stamina
++5 Strength
++50 Health
+Pawn Price: 60 10
+	
+	
+
+Golden Scale Cuirass
+	Stats
+	Min Level: 30
+Armor: 78
++11 Strength
+Pawn Price: 65 58
+	
+	
+
+Brigandine Vest
+	Stats
+	Min Level: 40
+Armor: 82
++9 Strength
+Pawn Price: 85 54
+
+
+
+Flimsy Chain Belt
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 1
+	
+	
+
+Painted Chain Belt
+	Stats
+	Min Level: 1
+Armor: 6
+Pawn Price: 4
+	
+	
+
+Rustic Belt
+	Stats
+	Min Level: 1
+Armor: 6
+Pawn Price: 4
+	
+	
+
+Tarnished Chain Belt
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 7
+	
+	
+
+Rusted Chain Belt
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 7
+	
+	
+
+Loose Chain Belt
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 16
+	
+	
+
+Light Mail Belt
+	Stats
+	Min Level: 1
+Armor: 13
+Pawn Price: 41
+	
+	
+
+Shackled Girdle
+	Stats
+	Min Level: 1
+Armor: 14
+Pawn Price: 54
+	
+	
+
+Royal Frostmane Girdle
+	Stats
+	Min Level: 1
+Armor: 14
+Pawn Price: 55
+	
+	
+
+Worn Mail Belt
+	Stats
+	Min Level: 2
+Armor: 11
+Pawn Price: 48
+	
+	
+
+Wide Metal Girdle
+	Stats
+	Min Level: 3
+Armor: 12
+Pawn Price: 23
+	
+	
+
+Clasped Belt
+	Stats
+	Min Level: 3
+Armor: 12
+Pawn Price: 23
+	
+	
+
+Warrior's Girdle
+	Stats
+	Min Level: 3
+Armor: 16
+Pawn Price: 88
+	
+	
+
+Belt of the People's Militia
+	Stats
+	Min Level: 4
+Armor: 16
+Pawn Price: 1 2
+	
+	
+
+Light Chain Belt
+	Stats
+	Min Level: 5
+Armor: 14
+Pawn Price: 43
+	
+	
+
+Silver Defias Belt
+	Stats
+	Min Level: 5
+Armor: 19
++1 Spirit
+Pawn Price: 2 3
+	
+	
+
+Infantry Belt
+	Stats
+	Min Level: 6
+Armor: 16
+Pawn Price: 53
+	
+	
+
+Battle Chain Girdle
+	Stats
+	Min Level: 6
+Armor: 16
+Pawn Price: 54
+	
+	
+
+Copper Chain Belt
+	Stats
+	Min Level: 6
+Armor: 16
+Pawn Price: 56
+	
+	
+
+Veteran Girdle
+	Stats
+	Min Level: 7
+Armor: 20
++1 Spirit
+Pawn Price: 2 87
+	
+	
+
+Soldier's Girdle
+	Stats
+	Min Level: 8
+Armor: 21
+Pawn Price: 3 9
+	
+	
+
+Laced Mail Belt
+	Stats
+	Min Level: 9
+Armor: 13
+Pawn Price: 1 47
+	
+	
+
+Cinched Belt
+	Stats
+	Min Level: 10
+Armor: 20
++5 Health
+Pawn Price: 2 5
+	
+	
+
+Runescale Girdle
+	Stats
+	Min Level: 10
+Armor: 22
++1 Strength
+Pawn Price: 4 19
+	
+	
+
+Brackwater Girdle
+	Stats
+	Min Level: 11
+Armor: 21
++6 Health
+Pawn Price: 2 52
+	
+	
+
+Chainmail Belt
+	Stats
+	Min Level: 12
+Armor: 20
+Pawn Price: 1 75
+	
+	
+
+Scalemail Belt
+	Stats
+	Min Level: 12
+Armor: 21
+Pawn Price: 3 38
+	
+	
+
+Cobrahn's Grasp
+	Stats
+	Min Level: 12
+Armor: 26
++2 Strength
+Pawn Price: 6 61
+	
+	
+
+Runed Copper Belt
+	Stats
+	Min Level: 13
+Armor: 21
+Pawn Price: 1 98
+	
+	
+
+Chieftain Girdle
+	Stats
+	Min Level: 13
+Armor: 23
++1 Stamina
++15 Health
+Pawn Price: 6 41
+	
+	
+
+Linked Chain Belt
+	Stats
+	Min Level: 15
+Armor: 15
+Pawn Price: 3 32
+	
+	
+
+Defender Girdle
+	Stats
+	Min Level: 15
+Armor: 24
+Pawn Price: 4 32
+	
+	
+
+Burnished Chain Girdle
+	Stats
+	Min Level: 15
+Armor: 24
++10 Health
+Pawn Price: 4 35
+	
+	
+
+Reinforced Chain Belt
+	Stats
+	Min Level: 16
+Armor: 16
+Pawn Price: 3 59
+	
+	
+
+Battleforge Girdle
+	Stats
+	Min Level: 18
+Armor: 26
+Pawn Price: 10 62
+	
+	
+
+Garneg's War Belt
+	Stats
+	Min Level: 19
+Armor: 27
++1 Stamina
++1 Strength
+Pawn Price: 11 68
+	
+	
+
+Glimmering Mail Girdle
+	Stats
+	Min Level: 20
+Armor: 27
++2 Strength
+Pawn Price: 13 51
+	
+	
+
+Polished Scale Belt
+	Stats
+	Min Level: 22
+Armor: 25
++5 Health
+Pawn Price: 5 81
+	
+	
+
+Glinting Scale Girdle
+	Stats
+	Min Level: 22
+Armor: 28
++1 Strength
++5 Health
+Pawn Price: 9 69
+	
+	
+
+Crusader Belt
+	Stats
+	Min Level: 23
+Armor: 29
++3 Strength
+Pawn Price: 18 17
+	
+	
+
+Augmented Chain Belt
+	Stats
+	Min Level: 27
+Armor: 29
++2 Strength
+Pawn Price: 15 78
+	
+	
+
+Mail Combat Belt
+	Stats
+	Min Level: 27
+Armor: 32
++3 Spirit
+Pawn Price: 26 81
+	
+	
+
+Chief Brigadier Girdle
+	Stats
+	Min Level: 30
+Armor: 34
++4 Strength
+Pawn Price: 32 55
+	
+	
+
+Brigandine Belt
+	Stats
+	Min Level: 40
+Armor: 36
++3 Spirit
+Pawn Price: 42 92
+
+
+
+Flimsy Chain Pants
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 2
+	
+	
+
+Tarnished Chain Leggings
+	Stats
+	Min Level: 1
+Armor: 14
+Pawn Price: 15
+	
+	
+
+Rusted Chain Leggings
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 15
+	
+	
+
+Copper Chain Pants
+	Stats
+	Min Level: 1
+Armor: 19
+Pawn Price: 34
+	
+	
+
+Light Mail Leggings
+	Stats
+	Min Level: 1
+Armor: 26
+Pawn Price: 83
+	
+	
+
+Warrior's Pants
+	Stats
+	Min Level: 1
+Armor: 31
++1 Stamina
+Pawn Price: 1 90
+	
+	
+
+Worn Mail Pants
+	Stats
+	Min Level: 2
+Armor: 21
+Pawn Price: 89
+	
+	
+
+Loose Chain Pants
+	Stats
+	Min Level: 3
+Armor: 16
+Pawn Price: 31
+	
+	
+
+Stormwind Guard Leggings
+	Stats
+	Min Level: 3
+Armor: 35
++2 Stamina
+Pawn Price: 2 90
+	
+	
+
+Light Chain Leggings
+	Stats
+	Min Level: 5
+Armor: 29
+Pawn Price: 87
+	
+	
+
+Brass Scale Pants
+	Stats
+	Min Level: 6
+Armor: 31
+Pawn Price: 1 15
+	
+	
+
+Infantry Leggings
+	Stats
+	Min Level: 6
+Armor: 31
+Pawn Price: 1 17
+	
+	
+
+Battle Chain Pants
+	Stats
+	Min Level: 7
+Armor: 37
++5 Health
+Pawn Price: 2 35
+	
+	
+
+Frontier Leggings
+	Stats
+	Min Level: 7
+Armor: 40
++2 Spirit
++2 Strength
+Pawn Price: 5 39
+	
+	
+
+Runed Copper Pants
+	Stats
+	Min Level: 8
+Armor: 38
++4 Health
++4 Mana
+Pawn Price: 2 99
+	
+	
+
+Veteran Leggings
+	Stats
+	Min Level: 8
+Armor: 41
++4 Strength
+Pawn Price: 6 32
+	
+	
+
+Laced Mail Pants
+	Stats
+	Min Level: 9
+Armor: 27
+Pawn Price: 2 99
+	
+	
+
+Foreman's Leggings
+	Stats
+	Min Level: 10
+Armor: 43
++1 Agility
++3 Spirit
+Pawn Price: 8 10
+	
+	
+
+Chainmail Pants
+	Stats
+	Min Level: 12
+Armor: 40
+Pawn Price: 3 51
+	
+	
+
+Soldier's Leggings
+	Stats
+	Min Level: 12
+Armor: 44
+Pawn Price: 5 33
+	
+	
+
+Brackwater Leggings
+	Stats
+	Min Level: 12
+Armor: 44
++1 Stamina
+Pawn Price: 5 66
+	
+	
+
+Scalemail Pants
+	Stats
+	Min Level: 12
+Armor: 41
+Pawn Price: 6 45
+	
+	
+
+Linked Chain Pants
+	Stats
+	Min Level: 15
+Armor: 31
+Pawn Price: 6 76
+	
+	
+
+Burnished Chain Leggings
+	Stats
+	Min Level: 15
+Armor: 47
++2 Spirit
+Pawn Price: 8 11
+	
+	
+
+Defender Leggings
+	Stats
+	Min Level: 15
+Armor: 47
+Pawn Price: 8 71
+	
+	
+
+Chausses of Westfall
+	Stats
+	Min Level: 15
+Armor: 48
++4 Spirit
++2 Strength
+Pawn Price: 15 53
+	
+	
+
+Rough Bronze Leggings
+	Stats
+	Min Level: 16
+Armor: 44
+Pawn Price: 5 77
+	
+	
+
+Reinforced Chain Pants
+	Stats
+	Min Level: 16
+Armor: 31
+Pawn Price: 7 32
+	
+	
+
+Malleable Chain Leggings
+	Stats
+	Min Level: 16
+Armor: 49
++2 Agility
++3 Strength
++30 Health
+Pawn Price: 17 96
+	
+	
+
+Darkshire Mail Leggings
+	Stats
+	Min Level: 16
+Armor: 49
++6 Strength
++1 Holy Resistance
+Pawn Price: 18 10
+	
+	
+
+Polished Scale Leggings
+	Stats
+	Min Level: 17
+Armor: 46
+Pawn Price: 11 81
+	
+	
+
+Mighty Chain Pants
+	Stats
+	Min Level: 18
+Armor: 51
++3 Stamina
+Pawn Price: 12 21
+	
+	
+
+Legionnaire's Leggings
+	Stats
+	Min Level: 19
+Armor: 53
++2 Spirit
++2 Strength
+Pawn Price: 15 3
+	
+	
+
+Fire Hardened Leggings
+  Unique item
+	Stats
+	Min Level: 19
+Armor: 53
++2 Spirit
++4 Strength
++40 Health
+Pawn Price: 24 65
+	
+	
+
+Battleforge Leggings
+	Stats
+	Min Level: 20
+Armor: 53
+Pawn Price: 15 53
+	
+	
+
+Glinting Scale Pants
+	Stats
+	Min Level: 20
+Armor: 53
++2 Spirit
++2 Stamina
+Pawn Price: 16 98
+	
+	
+
+Glimmering Mail Leggings
+	Stats
+	Min Level: 20
+Armor: 54
++7 Stamina
++1 Holy Resistance
+Pawn Price: 26 92
+	
+	
+
+Green Iron Leggings
+	Stats
+	Min Level: 21
+Armor: 56
++4 Strength
++4 Spirit
+Pawn Price: 29 6
+	
+	
+
+Juggernaut Leggings
+	Stats
+	Min Level: 22
+Armor: 56
++2 Stamina
++15 Health
++1 Holy Resistance
+Pawn Price: 20 68
+	
+	
+
+Golden Scale Leggings
+	Stats
+	Min Level: 24
+Armor: 60
++5 Spirit
++5 Strength
+Pawn Price: 38 82
+	
+	
+
+Mercenary Leggings
+	Stats
+	Min Level: 25
+Armor: 60
++3 Stamina
++3 Strength
++1 Holy Resistance
+Pawn Price: 26 61
+	
+	
+
+Mail Combat Leggings
+	Stats
+	Min Level: 26
+Armor: 57
++3 Strength
++50 Health
+Pawn Price: 28 19
+	
+	
+
+Augmented Chain Leggings
+	Stats
+	Min Level: 27
+Armor: 58
++5 Spirit
+Pawn Price: 31 46
+	
+	
+
+Stromgarde Cavalry Leggings
+	Stats
+	Min Level: 27
+Armor: 64
++3 Agility
++5 Strength
++55 Health
+Pawn Price: 54 38
+	
+	
+
+Brigandine Leggings
+	Stats
+	Min Level: 40
+Armor: 72
++9 Spirit
+Pawn Price: 86 15
+
+
+
+Acolyte's Shoes
+	Stats
+	Min Level: 1
+Pawn Price: 1
+	
+	
+
+Flimsy Chain Boots
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 3
+	
+	
+
+Outfitter Boots
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 7
+	
+	
+
+Tracking Boots
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 7
+	
+	
+
+Tarnished Chain Boots
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 11
+	
+	
+
+Rusted Chain Boots
+	Stats
+	Min Level: 1
+Armor: 12
+Pawn Price: 11
+	
+	
+
+Copper Chain Boots
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 24
+	
+	
+
+Loose Chain Boots
+	Stats
+	Min Level: 1
+Armor: 13
+Pawn Price: 33
+	
+	
+
+Light Mail Boots
+	Stats
+	Min Level: 1
+Armor: 21
+Pawn Price: 64
+	
+	
+
+Warrior's Boots
+	Stats
+	Min Level: 2
+Armor: 24
+Pawn Price: 1 7
+	
+	
+
+Cryptwalker Boots
+	Stats
+	Min Level: 3
+Armor: 18
+Pawn Price: 34
+	
+	
+
+Cliff Runner Boots
+	Stats
+	Min Level: 5
+Armor: 23
+Pawn Price: 64
+	
+	
+
+Light Chain Boots
+	Stats
+	Min Level: 5
+Armor: 23
+Pawn Price: 66
+	
+	
+
+Infantry Boots
+	Stats
+	Min Level: 5
+Armor: 23
+Pawn Price: 67
+	
+	
+
+Lightweight Boots
+	Stats
+	Min Level: 5
+Armor: 23
+Pawn Price: 67
+	
+	
+
+Mud Stompers
+	Stats
+	Min Level: 5
+Armor: 29
++1 Stamina
+Pawn Price: 3 5
+	
+	
+
+Greaves of the People's Militia
+	Stats
+	Min Level: 5
+Armor: 29
++1 Strength
+Pawn Price: 3 31
+	
+	
+
+Battle Chain Boots
+	Stats
+	Min Level: 6
+Armor: 25
+Pawn Price: 84
+	
+	
+
+Worn Mail Boots
+	Stats
+	Min Level: 8
+Armor: 19
+Pawn Price: 92
+	
+	
+
+Tunneler's Boots
+	Stats
+	Min Level: 8
+Armor: 32
++2 Strength
+Pawn Price: 4 69
+	
+	
+
+Veteran Boots
+	Stats
+	Min Level: 8
+Armor: 32
++2 Spirit
+Pawn Price: 4 78
+	
+	
+
+Blackrock Chain Boots
+	Stats
+	Min Level: 9
+Armor: 33
++1 Stamina
++1 Strength
+Pawn Price: 5 68
+	
+	
+
+Laced Mail Boots
+	Stats
+	Min Level: 10
+Armor: 22
+Pawn Price: 2 55
+	
+	
+
+Linked Chain Boots
+	Stats
+	Min Level: 11
+Armor: 22
+Pawn Price: 3 2
+	
+	
+
+Brackwater Boots
+	Stats
+	Min Level: 11
+Armor: 33
++8 Health
+Pawn Price: 3 67
+	
+	
+
+Padded Lamellar Boots
+	Stats
+	Min Level: 11
+Armor: 33
++7 Health
+Pawn Price: 3 72
+	
+	
+
+Chainmail Boots
+	Stats
+	Min Level: 12
+Armor: 31
+Pawn Price: 2 65
+	
+	
+
+Soldier's Boots
+	Stats
+	Min Level: 12
+Armor: 34
+Pawn Price: 4 9
+	
+	
+
+Scalemail Boots
+	Stats
+	Min Level: 12
+Armor: 33
+Pawn Price: 4 88
+	
+	
+
+Dredge Boots
+	Stats
+	Min Level: 12
+Armor: 36
++1 Spirit
++25 Health
+Pawn Price: 8 11
+	
+	
+
+Rough Bronze Boots
+	Stats
+	Min Level: 13
+Armor: 32
+Pawn Price: 2 95
+	
+	
+
+Glinting Scale Boots
+	Stats
+	Min Level: 14
+Armor: 38
++3 Strength
+Pawn Price: 11 20
+	
+	
+
+Burnished Chain Boots
+	Stats
+	Min Level: 15
+Armor: 37
++10 Health
+Pawn Price: 6 13
+	
+	
+
+Defender Boots
+	Stats
+	Min Level: 15
+Armor: 37
+Pawn Price: 6 27
+	
+	
+
+Gold Militia Boots
+	Stats
+	Min Level: 15
+Armor: 38
++3 Strength
+Pawn Price: 12 57
+	
+	
+
+Reinforced Chain Boots
+	Stats
+	Min Level: 17
+Armor: 25
+Pawn Price: 5 97
+	
+	
+
+Savage Trodders
+	Stats
+	Min Level: 17
+Armor: 39
++1 Strength
++5 Health
+Pawn Price: 8 27
+	
+	
+
+Dragonmaw Chain Boots
+	Stats
+	Min Level: 17
+Armor: 40
++3 Stamina
+Pawn Price: 15 73
+	
+	
+
+Green Iron Boots
+	Stats
+	Min Level: 19
+Armor: 42
++4 Strength
+Pawn Price: 17 67
+	
+	
+
+Battleforge Boots
+	Stats
+	Min Level: 20
+Armor: 42
+Pawn Price: 11 70
+	
+	
+
+Silvered Bronze Boots
+	Stats
+	Min Level: 21
+Armor: 43
++2 Stamina
+Pawn Price: 13 17
+	
+	
+
+Polished Scale Boots
+	Stats
+	Min Level: 22
+Armor: 40
++1 Intellect
+Pawn Price: 8 79
+	
+	
+
+Double Mail Boots
+	Stats
+	Min Level: 22
+Armor: 29
+Pawn Price: 9 62
+	
+	
+
+Trouncing Boots
+	Stats
+	Min Level: 22
+Armor: 45
++2 Agility
++3 Stamina
++27 Health
+Pawn Price: 23 80
+	
+	
+
+Glimmering Mail Boots
+	Stats
+	Min Level: 22
+Armor: 45
++3 Stamina
++25 Health
++25 Mana
+Pawn Price: 24 53
+	
+	
+
+Mail Combat Boots
+	Stats
+	Min Level: 25
+Armor: 48
++2 Agility
++4 Stamina
+Pawn Price: 33 1
+	
+	
+
+Phalanx Boots
+	Stats
+	Min Level: 26
+Armor: 48
+Pawn Price: 21 30
+	
+	
+
+Augmented Chain Boots
+	Stats
+	Min Level: 27
+Armor: 46
++3 Stamina
+Pawn Price: 23 87
+	
+	
+
+Polished Steel Boots
+	Stats
+	Min Level: 27
+Armor: 50
++3 Spirit
++3 Stamina
+Pawn Price: 39 37
+	
+	
+
+Golden Scale Boots
+	Stats
+	Min Level: 30
+Armor: 53
++6 Stamina
+Pawn Price: 49 77
+	
+	
+
+Brigandine Boots
+	Stats
+	Min Level: 40
+Armor: 57
++5 Agility
+Pawn Price: 65 13
+	
+	
+
+
+Flimsy Chain Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 3
+	
+	
+
+Tarnished Chain Bracers
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 7
+	
+	
+
+Copper Bracers
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 7
+	
+	
+
+Rusted Chain Bracers
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 7
+	
+	
+
+Graystone Bracers
+	Stats
+	Min Level: 1
+Armor: 12
+Pawn Price: 23
+	
+	
+
+Light Mail Bracers
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 43
+	
+	
+
+Warrior's Bracers
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 44
+	
+	
+
+Brass-studded Bracers
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 44
+	
+	
+
+Ironwrought Bracers
+	Stats
+	Min Level: 2
+Armor: 17
+Pawn Price: 69
+	
+	
+
+Loose Chain Bracers
+	Stats
+	Min Level: 5
+Armor: 12
+Pawn Price: 28
+	
+	
+
+Fortified Bindings
+	Stats
+	Min Level: 5
+Armor: 16
+Pawn Price: 42
+	
+	
+
+Battle Chain Bracers
+	Stats
+	Min Level: 5
+Armor: 16
+Pawn Price: 43
+	
+	
+
+Light Chain Bracers
+	Stats
+	Min Level: 5
+Armor: 16
+Pawn Price: 43
+	
+	
+
+Laced Mail Bracers
+	Stats
+	Min Level: 6
+Armor: 14
+Pawn Price: 97
+	
+	
+
+Veteran Bracers
+	Stats
+	Min Level: 6
+Armor: 20
+Pawn Price: 1 48
+	
+	
+
+Infantry Bracers
+	Stats
+	Min Level: 7
+Armor: 19
+Pawn Price: 67
+	
+	
+
+Worn Mail Bracers
+	Stats
+	Min Level: 9
+Armor: 14
+Pawn Price: 73
+	
+	
+
+Soldier's Bracers
+	Stats
+	Min Level: 10
+Armor: 21
+Pawn Price: 1 22
+	
+	
+
+Brackwater Bracers
+	Stats
+	Min Level: 10
+Armor: 21
+Pawn Price: 1 27
+	
+	
+
+Chainmail Bracers
+	Stats
+	Min Level: 12
+Armor: 23
+Pawn Price: 1 76
+	
+	
+
+Runed Copper Bracers
+	Stats
+	Min Level: 14
+Armor: 24
+Pawn Price: 2 25
+	
+	
+
+Glinting Scale Bracers
+	Stats
+	Min Level: 15
+Armor: 25
+Pawn Price: 4 93
+	
+	
+
+Jimmied Handcuffs
+	Stats
+	Min Level: 15
+Armor: 28
++1 Strength
+Pawn Price: 8 10
+	
+	
+
+Nether Bracers
+	Stats
+	Min Level: 15
+Armor: 28
++1 Spirit
+Pawn Price: 8 40
+	
+	
+
+Linked Chain Bracers
+	Stats
+	Min Level: 17
+Armor: 18
+Pawn Price: 2 32
+	
+	
+
+Scalemail Bracers
+	Stats
+	Min Level: 17
+Armor: 26
+Pawn Price: 3 36
+	
+	
+
+Burnished Chain Bracers
+	Stats
+	Min Level: 17
+Armor: 26
+Pawn Price: 3 40
+	
+	
+
+Defender Bracers
+	Stats
+	Min Level: 17
+Armor: 26
+Pawn Price: 3 40
+	
+	
+
+Tempered Bracers
+	Stats
+	Min Level: 17
+Armor: 29
++1 Spirit
++1 Stamina
+Pawn Price: 9 65
+	
+	
+
+Beastial Manacles
+	Stats
+	Min Level: 17
+Armor: 29
++1 Spirit
++30 Health
+Pawn Price: 9 65
+	
+	
+
+Beetle Clasps
+	Stats
+	Min Level: 17
+Armor: 29
++2 Strength
+Pawn Price: 9 65
+	
+	
+
+Reinforced Chain Bracers
+	Stats
+	Min Level: 18
+Armor: 19
+Pawn Price: 4 38
+	
+	
+
+Patterned Bronze Bracers
+	Stats
+	Min Level: 20
+Armor: 28
+Pawn Price: 4 84
+	
+	
+
+Pugilist Bracers
+	Stats
+	Min Level: 20
+Armor: 32
++4 Strength
+Pawn Price: 16 92
+	
+	
+
+Glimmering Mail Bracers
+	Stats
+	Min Level: 21
+Armor: 29
+Pawn Price: 8 91
+	
+	
+
+Hexed Bracers
+	Stats
+	Min Level: 21
+Armor: 31
++1 Stamina
+Pawn Price: 8 95
+	
+	
+
+Battleforge Bracers
+	Stats
+	Min Level: 22
+Armor: 29
+Pawn Price: 5 79
+	
+	
+
+Polished Scale Bracers
+	Stats
+	Min Level: 22
+Armor: 29
+Pawn Price: 5 86
+	
+	
+
+Green Iron Bracers
+	Stats
+	Min Level: 23
+Armor: 30
+Pawn Price: 11 6
+	
+	
+
+Steel-clasped Bracers
+	Stats
+	Min Level: 24
+Armor: 33
++2 Spirit
+Pawn Price: 11 73
+	
+	
+
+Augmented Chain Bracers
+	Stats
+	Min Level: 27
+Armor: 33
++30 Health
+Pawn Price: 15 90
+	
+	
+
+Golden Scale Bracers
+	Stats
+	Min Level: 27
+Armor: 33
++33 Health
+Pawn Price: 16 49
+	
+	
+
+Mail Combat Armguards
+	Stats
+	Min Level: 28
+Armor: 37
++2 Stamina
++2 Strength
+Pawn Price: 28 1
+	
+	
+
+Chief Brigadier Bracers
+	Stats
+	Min Level: 30
+Armor: 39
++1 Intellect
++3 Spirit
+Pawn Price: 31 46
+	
+	
+
+War Rider Bracers
+	Stats
+	Min Level: 30
+Armor: 39
++4 Strength
+Pawn Price: 32 30
+	
+	
+
+Blackforge Bracers
+	Stats
+	Min Level: 36
+Armor: 39
++2 Stamina
++1 Strength
+Pawn Price: 31 46
+	
+	
+
+Brigandine Bracers
+	Stats
+	Min Level: 40
+Armor: 41
++3 Stamina
+Pawn Price: 40 29
+
+
+
+Flimsy Chain Gloves
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 3
+	
+	
+
+Painted Chain Gloves
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 3
+	
+	
+
+Boar Handler Gloves
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 4
+	
+	
+
+Tarnished Chain Gloves
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 7
+	
+	
+
+Rusted Chain Gloves
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 7
+	
+	
+
+Worn Mail Gloves
+	Stats
+	Min Level: 1
+Armor: 13
+Pawn Price: 39
+	
+	
+
+Moss-covered Gauntlets
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 41
+	
+	
+
+Stormwind Chain Gloves
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 42
+	
+	
+
+Light Mail Gloves
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 43
+	
+	
+
+Warrior's Gloves
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 44
+	
+	
+
+Loose Chain Gloves
+	Stats
+	Min Level: 2
+Armor: 9
+Pawn Price: 11
+	
+	
+
+Cold Steel Gauntlets
+	Stats
+	Min Level: 3
+Armor: 15
+Pawn Price: 23
+	
+	
+
+Infantry Gauntlets
+	Stats
+	Min Level: 5
+Armor: 18
+Pawn Price: 41
+	
+	
+
+Battle Chain Gloves
+	Stats
+	Min Level: 5
+Armor: 18
+Pawn Price: 43
+	
+	
+
+Light Chain Gloves
+	Stats
+	Min Level: 5
+Armor: 18
+Pawn Price: 44
+	
+	
+
+Runed Copper Gauntlets
+	Stats
+	Min Level: 7
+Armor: 21
+Pawn Price: 71
+	
+	
+
+Veteran Gloves
+	Stats
+	Min Level: 7
+Armor: 26
++1 Strength
+Pawn Price: 2 77
+	
+	
+
+Skeletal Gauntlets
+	Stats
+	Min Level: 7
+Armor: 26
++1 Spirit
+Pawn Price: 2 78
+	
+	
+
+Dark Iron Gloves
+	Stats
+	Min Level: 7
+Armor: 26
++1 Stamina
+Pawn Price: 2 89
+	
+	
+
+Laced Mail Gloves
+	Stats
+	Min Level: 8
+Armor: 17
+Pawn Price: 1 29
+	
+	
+
+Gemmed Copper Gauntlets
+	Stats
+	Min Level: 10
+Armor: 26
+Pawn Price: 2 16
+	
+	
+
+Bridgeworker's Gloves
+	Stats
+	Min Level: 10
+Armor: 28
++2 Spirit
+Pawn Price: 4 18
+	
+	
+
+Soldier's Gauntlets
+	Stats
+	Min Level: 11
+Armor: 27
+Pawn Price: 2 32
+	
+	
+
+Brackwater Gauntlets
+	Stats
+	Min Level: 11
+Armor: 27
++5 Health
+Pawn Price: 2 45
+	
+	
+
+Chainmail Gloves
+	Stats
+	Min Level: 12
+Armor: 26
+Pawn Price: 1 76
+	
+	
+
+Scalemail Gloves
+	Stats
+	Min Level: 12
+Armor: 27
+Pawn Price: 3 22
+	
+	
+
+Night Watch Gauntlets
+	Stats
+	Min Level: 12
+Armor: 29
++1 Spirit
++1 Stamina
+Pawn Price: 5 44
+	
+	
+
+Gauntlets of Ogre Strength
+	Stats
+	Min Level: 12
+Armor: 29
++3 Strength
+Pawn Price: 5 61
+	
+	
+
+Rugged Mail Gloves
+	Stats
+	Min Level: 13
+Armor: 29
++1 Stamina
+Pawn Price: 3 34
+	
+	
+
+Linked Chain Gloves
+	Stats
+	Min Level: 14
+Armor: 20
+Pawn Price: 2 98
+	
+	
+
+Blackrock Gauntlets
+	Stats
+	Min Level: 15
+Armor: 31
++1 Strength
++3 Health
+Pawn Price: 4 5
+	
+	
+
+Burnished Chain Gloves
+	Stats
+	Min Level: 15
+Armor: 31
++1 Strength
+Pawn Price: 4 8
+	
+	
+
+Riveted Gauntlets
+	Stats
+	Min Level: 15
+Armor: 31
++1 Stamina
+Pawn Price: 4 19
+	
+	
+
+Defender Gauntlets
+	Stats
+	Min Level: 15
+Armor: 31
+Pawn Price: 4 34
+	
+	
+
+Algae Fists
+	Stats
+	Min Level: 16
+Armor: 33
++2 Spirit
++4 Stamina
++1 Shadow Resistance
+Pawn Price: 10 53
+	
+	
+
+Polished Scale Gloves
+	Stats
+	Min Level: 17
+Armor: 30
+Pawn Price: 5 88
+	
+	
+
+Glinting Scale Gloves
+	Stats
+	Min Level: 17
+Armor: 30
++1 Spirit
+Pawn Price: 6 31
+	
+	
+
+Silvered Bronze Gauntlets
+	Stats
+	Min Level: 17
+Armor: 32
++3 Strength
++1 Shadow Resistance
+Pawn Price: 9 65
+	
+	
+
+Dagmire Gauntlets
+	Stats
+	Min Level: 18
+Armor: 33
++1 Stamina
+Pawn Price: 6 41
+	
+	
+
+Gloves of Brawn
+	Stats
+	Min Level: 19
+Armor: 34
++1 Strength
++5 Health
+Pawn Price: 7 14
+	
+	
+
+Reinforced Chain Gloves
+	Stats
+	Min Level: 20
+Armor: 22
+Pawn Price: 5 34
+	
+	
+
+Green Iron Gauntlets
+	Stats
+	Min Level: 20
+Armor: 35
++4 Strength
+Pawn Price: 12 95
+	
+	
+
+Glimmering Mail Gauntlets
+	Stats
+	Min Level: 21
+Armor: 36
++4 Spirit
+Pawn Price: 14 74
+	
+	
+
+Fire Hardened Gauntlets
+  Unique item
+	Stats
+	Min Level: 21
+Armor: 36
++3 Stamina
++25 Health
+Pawn Price: 14 97
+	
+	
+
+Battleforge Gauntlets
+	Stats
+	Min Level: 22
+Armor: 32
+Pawn Price: 5 79
+	
+	
+
+Bonefist Gauntlets
+	Stats
+	Min Level: 22
+Armor: 37
++3 Strength
++40 Health
+Pawn Price: 15 85
+	
+	
+
+Mail Combat Gauntlets
+	Stats
+	Min Level: 25
+Armor: 39
++5 Strength
+Pawn Price: 21 83
+	
+	
+
+Double Mail Gloves
+	Stats
+	Min Level: 26
+Armor: 26
+Pawn Price: 9 71
+	
+	
+
+Augmented Chain Gloves
+	Stats
+	Min Level: 27
+Armor: 37
++3 Spirit
+Pawn Price: 15 96
+	
+	
+
+Chief Brigadier Gauntlets
+	Stats
+	Min Level: 30
+Armor: 44
++3 Spirit
++3 Stamina
++2 Strength
+Pawn Price: 33 26
+	
+	
+
+Brigandine Gloves
+	Stats
+	Min Level: 40
+Armor: 46
++5 Stamina
+Pawn Price: 40 44
+
+
+
+Flimsy Chain Cloak
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 7
+	
+	
+
+Ensign Cloak
+	Stats
+	Min Level: 1
+Armor: 12
+Pawn Price: 11
+	
+	
+
+Loose Chain Cloak
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 11
+	
+	
+
+Warrior's Cloak
+	Stats
+	Min Level: 2
+Armor: 26
+Pawn Price: 1 6
+	
+	
+
+Sun-beaten Cloak
+	Stats
+	Min Level: 3
+Armor: 20
+Pawn Price: 36
+	
+	
+
+Scout's Cloak
+	Stats
+	Min Level: 3
+Armor: 27
+Pawn Price: 1 34
+	
+	
+
+Seasoned Fighter's Cloak
+	Stats
+	Min Level: 4
+Armor: 22
+Pawn Price: 48
+	
+	
+
+Infantry Cloak
+	Stats
+	Min Level: 5
+Armor: 25
+Pawn Price: 67
+	
+	
+
+Rathorian's Cape
+	Stats
+	Min Level: 5
+Armor: 32
++1 Strength
+Pawn Price: 3 20
+	
+	
+
+Battle Chain Cloak
+	Stats
+	Min Level: 6
+Armor: 27
+Pawn Price: 81
+	
+	
+
+Veteran Cloak
+	Stats
+	Min Level: 6
+Armor: 33
++18 Health
+Pawn Price: 3 65
+	
+	
+
+Laced Mail Cloak
+	Stats
+	Min Level: 7
+Armor: 22
+Pawn Price: 1 69
+	
+	
+
+Miner's Cape
+	Stats
+	Min Level: 9
+Armor: 36
++1 Spirit
++14 Mana
+Pawn Price: 5 48
+	
+	
+
+Worn Mail Cloak
+	Stats
+	Min Level: 10
+Armor: 22
+Pawn Price: 1 33
+	
+	
+
+Desperado Cape
+	Stats
+	Min Level: 10
+Armor: 37
++20 Health
+Pawn Price: 6 15
+	
+	
+
+Soldier's Cloak
+	Stats
+	Min Level: 12
+Armor: 34
+Pawn Price: 2 43
+	
+	
+
+Brackwater Cloak
+	Stats
+	Min Level: 12
+Armor: 37
++6 Health
+Pawn Price: 4 36
+	
+	
+
+Barkeeper's Cloak
+	Stats
+	Min Level: 13
+Armor: 39
++8 Health
+Pawn Price: 4 62
+	
+	
+
+Acidproof Cloak
+	Stats
+	Min Level: 13
+Armor: 39
++7 Health
+Pawn Price: 4 74
+	
+	
+
+Privateer's Cape
+	Stats
+	Min Level: 14
+Armor: 40
++5 Health
++5 Mana
+Pawn Price: 5 56
+	
+	
+
+Defender Cloak
+	Stats
+	Min Level: 15
+Armor: 41
+Pawn Price: 6 49
+	
+	
+
+Burnished Chain Cloak
+	Stats
+	Min Level: 15
+Armor: 41
++1 Stamina
+Pawn Price: 6 51
+	
+	
+
+Firemail Cloak
+	Stats
+	Min Level: 15
+Armor: 42
++4 Fire Resistance
+Pawn Price: 12 84
+	
+	
+
+Sentry Cloak
+	Stats
+	Min Level: 15
+Armor: 43
++2 Stamina
++2 Spirit
++1 Shadow Resistance
+Pawn Price: 14 70
+	
+	
+
+Linked Chain Cloak
+	Stats
+	Min Level: 18
+Armor: 28
+Pawn Price: 3 96
+	
+	
+
+Ancient Cloak
+	Stats
+	Min Level: 18
+Armor: 44
++1 Spirit
+Pawn Price: 9 16
+	
+	
+
+Reinforced Chain Cloak
+	Stats
+	Min Level: 19
+Armor: 29
+Pawn Price: 7 28
+	
+	
+
+Heavy Runed Cloak
+	Stats
+	Min Level: 20
+Armor: 46
++1 Stamina
+Pawn Price: 11 66
+	
+	
+
+Glimmering Mail Cloak
+	Stats
+	Min Level: 20
+Armor: 47
++1 Spirit
++3 Stamina
++1 Frost Resistance
+Pawn Price: 20 28
+	
+	
+
+Glinting Scale Cloak
+	Stats
+	Min Level: 21
+Armor: 47
++1 Spirit
++5 Health
+Pawn Price: 13 23
+	
+	
+
+Dwarven Guard Cloak
+	Stats
+	Min Level: 21
+Armor: 48
++2 Strength
+Pawn Price: 22 22
+	
+	
+
+Battleforge Cloak
+	Stats
+	Min Level: 22
+Armor: 48
+Pawn Price: 15 29
+	
+	
+
+Cape of the Crusader
+	Stats
+	Min Level: 23
+Armor: 50
++2 Spirit
++2 Stamina
++1 Frost Resistance
+Pawn Price: 27 48
+	
+	
+
+Double Mail Cloak
+	Stats
+	Min Level: 27
+Armor: 35
+Pawn Price: 16 4
+	
+	
+
+Mail Combat Cloak
+	Stats
+	Min Level: 27
+Armor: 55
++3 Stamina
+Pawn Price: 40 25
+	
+	
+
+Chief Brigadier Cloak
+	Stats
+	Min Level: 30
+Armor: 58
++2 Stamina
++2 Strength
+Pawn Price: 48 86
+	
+	
+
+

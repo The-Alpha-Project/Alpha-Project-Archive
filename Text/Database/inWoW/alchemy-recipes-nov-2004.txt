@@ -1,0 +1,630 @@
+Elixir of Lion's Strength 
+
+From skill level: 1
+result Increases Strength by 4 for 60 min
+. Where do you get the recipe? Starting recipe in Alchemy
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Silverleaf
+plant, which can be harvested at Herbalism Lvl 1.
+1 Earthroot
+plant, which can be harvested with Herbalism 15
+
+
+Elixir of Minor Defense 
+
+From skill level: 1
+result Increases armor by 50 for 60 min.
+Where do you get the recipe? Starting recipe in Alchemy
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+2 Silverleaf
+plants that can be harvested at Herbalism Lvl 1.
+
+
+Minor Healing Potion 
+
+From skill level: 1
+result Restores 70 to 90 lives; 2 minute cooldown
+Where do you get the recipe? Starting recipe in Alchemy
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Silverleaf
+plant, which can be harvested at Herbalism Lvl 1.
+1 Peacebloom
+plant, which can be harvested with Herbalism Lvl 1
+
+
+Weak Troll's Blood Potion 
+
+From skill level: 15
+Result Regenerates 1 life every 5 seconds for 60 minutes.
+Where do you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+2 Earthroot
+plants that can be harvested with Herbalism 15
+1 Peacebloom
+plant, which can be harvested with Herbalism Lvl 1
+
+
+Minor Mana Potion 
+
+From skill level: 25
+Result Restores 140 to 180 mana. Requires Lvl 5; 2 minute cooldown
+Where do you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Silverleaf
+plant, which can be harvested at Herbalism Lvl 1.
+1 Mageroyal
+Plant found on mobs or as a quest reward. At the dealer they cost 12 . Can be harvested with Herbalism 50.
+
+
+Minor Rejuvenation Potion 
+
+From skill level: 40
+Result Restores 90 to 150 mana and 90 to 150 life. Requires Lvl 5; Cooldown 45 sec.
+Where do you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Peacebloom
+plant, which can be harvested with Herbalism Lvl 1
+2 Mageroyal
+Plant found on mobs or as a quest reward. At the dealer they cost 12 . Can be harvested with Herbalism 50.
+
+
+Discolored Healing Potion 
+
+From skill level: 50
+Result Restores 140 to 180 lives. Requires lvl 5.
+Where to get the recipe? Recipe: Discolored Healing Potion
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Peacebloom
+plant, which can be harvested with Herbalism Lvl 1
+2 Discolored Worg Heart
+Available as a drop from monsters: Bloodsnout Worg (Silverpine Forest), Mottled Worg (Silverpine Forest), or Worg (Silverpine Forest and Tirisfal Glades)
+
+
+Elixir of Minor Agility 
+
+From skill level: 50
+Result Increases agility by 4 for 60 min. Requires lvl 2.
+Where can you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Swiftthistle
+Plant found on mobs or in crates. Occasionally found on Mageroyal and Briarthorn and can be harvested with Herbalism.
+1 Silverleaf
+plant, which can be harvested at Herbalism Lvl 1.
+
+
+Elixir of Minor Fortitude 
+
+From skill level: 50
+Result Increases the player's life by 27 for 60 min. Requires Lvl 2.
+Where can you get the recipe? Alchemy Trainer
+2 Earthroot
+plants that can be harvested with Herbalism 15
+1 Peacebloom
+plant, which can be harvested with Herbalism Lvl 1
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+
+
+Lesser Healing Potion 
+
+From skill level: 55
+Result Restores 140 to 180 lives. Requires Lvl 3; 2 minute cooldown
+Where do you get the recipe? Alchemy Trainer
+1 Minor Healing Potion
+Consists of 1x Peacebloom, 1x Silverleaf and 1x Empty Vial. Requires alchemy.
+1 Briarthorn
+Plant found on mobs or in crates. Can be harvested with Herbalism 70.
+
+
+Rage Potion 
+
+From skill level: 60
+Result Increases Rage by 20 to 40. Requires Lvl 4; Warrior class only; 40 sec cooldown
+Where do you get the recipe? The recipe is sold by Xandar Goodbeard (Loch Modan), Defias Profiteer (Westfall), Defias Profiteer (The Deadmines), Hagrus (Orgrimmar), and Ranik (The Barrens).
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Briarthorn
+Plant found on mobs or in crates. Can be harvested with Herbalism 70.
+1 Sharp Claw
+monster claw as a drop from numerous animals such as bears, lions, wargs and the like.
+
+
+Swiftness Potion 
+
+From skill level: 60
+Result Increases running speed by 50% for 15 seconds. Requires Lvl 5; 55 sec cooldown
+Where do you get the recipe? Recipe: Swiftness Potion
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Briarthorn
+Plant found on mobs or in crates. Can be harvested with Herbalism 70.
+1 Swiftthistle
+Plant found on mobs or in crates. Occasionally found on Mageroyal and Briarthorn and can be harvested with Herbalism.
+
+
+Blackmouth Oil 
+
+From skill level: 80
+Result Forms an ingredient for other recipes, eg Elixir of Water Breathing.
+Where can you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+2 Oily Blackmouth
+This item can only be "fished".
+
+
+Elixir of Giant Growth 
+
+From skill level: 90
+Result The size is increased and thus the strength increases by 8. Lasts 2 minutes. Requires Lvl 8.
+Where to get the recipe? falls as a monster drop in The Barrens in particular
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Earthroot
+plant, which can be harvested with Herbalism 15
+1 Deviate Fish
+A catch found in the lakes in The Barrens. Can be cooked or used for alchemy.
+
+
+Elixir of Water Breathing 
+
+From skill level: 90
+Result The user can breathe underwater for 30 min. Requires Lvl 8.
+Where to get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+2 Blackmouth Oil
+intermediate for further use in Alchemy.
+1 Stranglekelp
+root found in chests. Can be harvested with Herbalism 85.
+
+
+Elixir of Wisdom 
+
+From skill level: 90
+Result Increases intelligence by 6 for 60 min. Requires Lvl 10.
+Where can you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Mageroyal
+Plant found on mobs or as a quest reward. At the dealer they cost 12 . Can be harvested with Herbalism 50.
+2 Briarthorn
+Plant found on mobs or in crates. Can be harvested with Herbalism 70.
+
+
+Holy Protection Potion 
+
+From skill level: 100
+Result Absorbs 300 to 500 holy damage for 60 min. Requires Lvl 10; 2 minute cooldown
+Where do you get the recipe? is sold by Hula'mahi (The Barrens), Kzixx (Duskwood) and Xandar Goodbeard (Loch Modan).
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Swiftthistle
+Plant found on mobs or in crates. Occasionally found on Mageroyal and Briarthorn and can be harvested with Herbalism.
+1 Bruiseweed
+plant found as a monster drop and in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 100.
+
+
+Swim Speed ​​Potion 
+
+Ab Skillhöhe: 100
+Ergebnis Erhöht die Schwimmgeschwindigkeit um 100 % für 20 Sekunden. Benötigt Lvl 10; 2 Min Cooldown
+Wo bekommt man das Rezept? Alchemy-Trainer
+1 Empty Vial
+5 Vials kosten 20  bei entsprechenden Händlern
+1 Blackmouth Oil
+Zwischenprodukt zur Weiterverwendung in der Alchemy.
+1 Swiftthistle
+Pflanze, die man bei Mobs oder in Kisten findet. Findet sich ab und an auf Mageroyal und Briarthorn und kann mit Herbalism geerntet werden.
+
+
+Healing Potion (Daten ändern)
+
+Ab Skillhöhe: 110
+Ergebnis Stellt 280 bis 360 Leben wieder her. Benötigt Lvl 12; 2 Minuten Cooldown
+Wo bekommt man das Rezept? Alchemy-Trainer
+1 Leaded Vial
+Beim Händler gibts ein 5er-Pack für 2  erhältlich.
+1 Mageroyal
+Pflanze, die man bei Mobs oder als Questbelohnung findet. Beim Händler kosten sie 12. Kann mit Herbalism 50 geerntet werden.
+1 Bruiseweed
+Pflanze, die man als Monster Drop und in Kisten findet. Beim Händler für 20 erhältlich. Pflanze, die man mit Herbalism 100 ernten kann.
+
+
+Minor Magic Resistance Potion (Daten ändern)
+
+From skill level: 110
+Result Increases resistance to all magic areas by 30 for 30 seconds. Requires Lvl 12; 2 minute cooldown
+Where do you get the recipe? is dropped by opponents (approx. Lvl 20 - 30).
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Wild Steelbloom
+Plants found as drops from monsters or in crates. It is available from the merchant for 20 . Plant that can be harvested with Herbalism 115.
+3 Mageroyal
+Plant found on mobs or as a quest reward. At the dealer they cost 12 . Can be harvested with Herbalism 50.
+
+
+Elixir of Poison Resistance 
+
+From skill level: 120
+Result User is immune to poison for 1 min and healed from all existing poison effects. Requires level 14.
+Where to get the recipe? is dropped by enemies (Lvl 20 - 30).
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Bruiseweed
+plant found as a monster drop and in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 100.
+1 Large Venom Sac
+Found on monsters including spiders ala Venom Web Spider (Duskwood).
+
+
+Lesser Mana Potion 
+
+From skill level: 120
+Result Restores 280 to 360 mana. Requires Lvl 14; 2 minute cooldown
+Where do you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+1 Stranglekelp
+root found in chests. Can be harvested with Herbalism 85.
+1 Mageroyal
+Plant found on mobs or as a quest reward. At the dealer they cost 12 . Can be harvested with Herbalism 50.
+
+
+Strong Troll's Blood Potion 
+
+From skill level: 125
+Result Regenerates 3 lives every 5 seconds for 60 minutes. Requires level 15.
+Where to get the recipe? Alchemy Trainer
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+2 Briarthorn
+Plant found on mobs or in crates. Can be harvested with Herbalism 70.
+2 Bruiseweed Plants
+found as Monster Drops and in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 100.
+
+
+Elixir of Defense 
+
+From skill level: 130
+Result Increases armor by 150 for 60 minutes. Requires Lvl 16.
+Where to get the recipe? Alchemy Trainer
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Stranglekelp
+root found in chests. Can be harvested with Herbalism 85.
+1 Wild Steelbloom
+Plants found as drops from monsters or in crates. It is available from the merchant for 20 . Plant that can be harvested with Herbalism 115.
+
+
+Fire Oil 
+
+From skill level: 130
+Result The oil is required for further processing, especially in tailoring.
+Where can you get the recipe? Alchemy Trainer
+1 Empty Vial
+5 vials cost 20  at appropriate retailers
+2 Firefin Snapper
+fish from the lakes of World of Warcraft; especially to catch in Stranglethorn Vale.
+
+
+Shadow Protection Potion 
+
+From skill level: 135
+Result Absorbs 675 to 1125 shadow damage. Lasts 60 minutes. Requires Lvl 17.
+Where to get the recipe? Christoph Jeffcoat (Hillsbrad Foothills) and Harklan Moongrove (Ashenvale)
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+1 Grave Moss
+Found as a monster drop (e.g. from skeletons) and in boxes. Can be harvested with Herbalism 120.
+
+
+Elixir of Firepower 
+
+From skill level: 140
+Result Increases fire damage from spells by 10 for 30 min. Requires Lvl 18.
+Where can you get the recipe? Alchemy Trainer
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+2 Fire Oil
+Oil crafted via Alchemy.
+
+
+Elixir of Lesser Agility 
+
+From skill level: 140
+Result Increases agility by 8 for 60 min. Requires Lvl 18.
+Where do you get the recipe? as Monster Drop from Bloodscalp Scavenger (Stranglethorn Vale), Daggerspine Siren (Hillsbrad Foothills), Pesterhide Hyena (Thousand Needles)
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Swiftthistle
+Plant found on mobs or in crates. Occasionally found on Mageroyal and Briarthorn and can be harvested with Herbalism.
+1 Wild Steelbloom
+Plants found as drops from monsters or in crates. It is available from the merchant for 20 . Plant that can be harvested with Herbalism 115.
+
+
+Elixir of Free Action 
+
+From skill level: 150
+Result Makes you immune to Root, Snare and Stun effects for the next 30 seconds. Requires Lvl 20.
+Where to get the recipe? The recipe can be purchased from Kor'geld (Origrimmar) and Soolie Berryfizz (Ironforge).
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Stranglekelp
+root found in chests. Can be harvested with Herbalism 85.
+2 Blackmouth Oil
+intermediate for further use in Alchemy.
+
+
+Elixir of Ogre's Strength 
+
+From skill level: 150
+Result Increases strength by 8 for 60 min. Requires Lvl 20.
+Where do you get the recipe? as Monster Drop by Mudsnout Shaman (Hillsbrad Foothills), Splinter Fist Fire Weaver/ Firemonger (Duskwood), Witherbark Ax Thrower (Arathi Highlands)
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+1 Earthroot
+plant, which can be harvested with Herbalism 15
+
+
+Greater Healing Potion 
+
+From skill level: 155
+Result Restores 455 to 585 lives. Requires Lvl 21; 2 minute cooldown
+Where do you get the recipe? Alchemy Trainer
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+1 Liferoot
+plant found as a monster drop or in crates. Available from the dealer for 2 40 . Plant that can be harvested with Herbalism 150.
+
+
+Mana Potion 
+
+From skill level: 160
+Result Restores 455 to 585 mana. Requires Lvl 22; 2 minute cooldown
+Where do you get the recipe? Alchemy Trainer
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+1 Stranglekelp
+root found in chests. Can be harvested with Herbalism 85.
+
+
+Fire Protection Potion 
+
+From skill level: 165
+Result Absorbs 975 to 1625 fire damage. Lasts 60 minutes. Requires lvl 23.
+Where to get the recipe? at the dealer (Jeeda or Nandar Branson) for 15 .
+1 Small Flame Sac
+drop from monsters like Blink Dragon etc.
+1 Fire Oil
+Oil crafted via Alchemy.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Lesser Invisibility Potion 
+
+From skill level: 165
+Result Gives the user lesser invisibility for 15 seconds. Requires lvl 23.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Wild Steelbloom
+Plants found as drops from monsters or in crates. It is available from the merchant for 20 . Plant that can be harvested with Herbalism 115.
+1 Fadeleaf
+Plants found on monsters or in crates. Can be harvested with Herbalism 160.
+
+
+Shadow Oil 
+
+From skill level: 165
+Result When applied to a weapon, there is a chance to cast Shadowbolt III on the enemy on hit. Lasts 30 min. Requires lvl 24.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+4 Grave Moss
+Found as a monster drop (e.g. from skeletons) and in boxes. Can be harvested with Herbalism 120.
+4 fadeleaf
+plants found on monsters or in crates. Can be harvested with Herbalism 160.
+
+
+Elixir of Great Fortitude 
+
+From skill level: 175
+Result Increases the player's maximum life by 120 for 60 min. Requires lvl 25.
+Where can you get the recipe? as a monster drop
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+1 Wild Steelbloom
+Plants found as drops from monsters or in crates. It is available from the merchant for 20 . Plant that can be harvested with Herbalism 115.
+
+
+Great Rage Potion 
+
+From skill level: 175
+Result Increases rage by 30 to 60. Requires lvl 25. For warriors.
+Where can you get the recipe? Recipe: Great Rage Potion
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+1 Large Fang
+Tooth, can be obtained from animals
+
+
+Mighty Troll's Blood Potion 
+
+From skill level: 180
+Result Regenerates 4 lives every 5 seconds for 60 minutes. Requires lvl 26.
+Where can you get the recipe? as a drop from Shadowmaw Panther (Stranglethorn Vale) and Syndicate Sentry (Alterac Mountains)
+1 Liferoot
+plant found as a monster drop or in crates. Available from the dealer for 2 40 . Plant that can be harvested with Herbalism 150.
+1 Bruiseweed
+plant found as a monster drop and in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 100.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Elixir of Agility 
+
+From skill level: 185
+Result Increases agility by 15 for 60 min. Requires level 27.
+1 Goldthorn
+Plant found in crates. Can be harvested with Herbalism 215.
+1 Stranglekelp
+root found in chests. Can be harvested with Herbalism 85.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Frost Protection Potion 
+
+From skill level: 190
+Result Absorbs 1350 to 2250 frost damage. Lasts 60 minutes. Requires lvl 28.
+Where to get the recipe? at the merchant in Arathi Highlands for 20 .
+1 Wintersbite
+Plant, found as drops from monsters and in crates. Can be harvested with Herbalism 195.
+1 Kingsblood
+plant found as a monster drop or in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 120.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Nature Protection Potion 
+
+From skill level: 190
+Result Absorbs 1350 to 2250 nature damage. Lasts 60 minutes. Requires lvl 28.
+Where to get the recipe? at the vendor in Stranglethorn Vale for 20 .
+1 Liferoot
+plant found as a monster drop or in crates. Available from the dealer for 2 40 . Plant that can be harvested with Herbalism 150.
+1 Stranglekelp
+root found in chests. Can be harvested with Herbalism 85.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Elixir of Detect Lesser Invisibility 
+
+From skill level: 195
+Result Allows the user to detect minor invisibility for 10 minutes. Requires lvl 29.
+Where to get the recipe? as a drop from monsters especially from Stranglethorn Vale
+1 Khadgar's Whisker
+Plant found in crates and as a monster drop. Can be harvested with Herbalism 185.
+1 Fadeleaf
+Plants found on monsters or in crates. Can be harvested with Herbalism 160.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Elixir of Greater Defense 
+
+From skill level: 195
+Result Increases defense by 100 for 60 min. Requires level 29.
+1 Goldthorn
+Plant found in crates. Can be harvested with Herbalism 215.
+1 Wild Steelbloom
+Pflanzen, die man als Drop von Monstern oder in Kisten findet. Beim Händler ist sie für 20 erhältlich. Pflanze, dieman mit Herbalism 115 ernten kann.
+1 Leaded Vial
+Beim Händler gibts ein 5er-Pack für 2  erhältlich.
+
+
+Catseye Eleixir (Daten ändern)
+
+Ab Skillhöhe: 200
+Ergebnis Erhöht die Stealth Entdeckung um 20. Benötigt Level 30.
+1 Leaded Vial
+Beim Händler gibts ein 5er-Pack für 2  erhältlich.
+1 Fadeleaf
+Pflanzen, die man bei Monster oder in Kisten findet. Kann mit Herbalism 160 geerntet werden.
+1 Goldthorn
+Pflanze, die man in Kisten findet. Kann mit Herbalism 215 geerntet werden.
+
+
+Frost Oil (Daten ändern)
+
+From skill level: 200
+Result Used on a melee weapon, it gains a 10% chance to cast Frostbolt on hit. Lasts 30 min. Requires lvl 30.
+4 Khadgar's Whisker
+Plant found in crates and as a monster drop. Can be harvested with Herbalism 185.
+2 Wintersbite
+Plant, found as drops from monsters and in crates. Can be harvested with Herbalism 195.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Greater Mana Potion 
+
+From skill level: 205
+Result Restores 700 to 900 mana. Requires level 31.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+1 Goldthorn
+Plant found in crates. Can be harvested with Herbalism 215.
+1 Khadgar's Whisker
+Plant found in crates and as a monster drop. Can be harvested with Herbalism 185.
+
+
+Oil of Immolation 
+
+From skill level: 205
+Result Inflicts fire damage to all enemies in a 5 yard radius of the caster every 3 sec for 15 sec. Requires level 31.
+1 Crystal Vial
+Can be purchased from the Supply Vendor for 8 .
+1 Goldthorn
+Plant found in crates. Can be harvested with Herbalism 215.
+1 Firebloom
+Can be harvested with Herbalism 205.
+
+
+Magic Resistance Potion 
+
+From skill level: 210
+Result Increases resistance to all types of magic by 60 for 30 seconds. Requires level 32.
+Where to get the recipe? Monster drop in Stranglethorn Vale in particular
+1 Crystal Vial
+Can be purchased from the Supply Vendor for 8 .
+1 Purple Lotus
+plant found on monsters and crates.
+1 Khadgar's Whisker
+Plant found in crates and as a monster drop. Can be harvested with Herbalism 185.
+
+
+Lesser Stoneshield Potion 
+
+From skill level: 215
+Result Increases armor by 80 for 1 min. Requires lvl 33.
+1 Mithril Ore
+stone found as a monster drop or in crates.
+1 Goldthorn
+Plant found in crates. Can be harvested with Herbalism 215.
+1 Leaded Vial
+A 5-pack for 2 is available from retailers.
+
+
+Superior Healing Potion 
+
+From skill level: 215
+Result Restores 700 to 900 lives. Requires level 35.
+1 Crystal Vial
+Can be purchased from the Supply Vendor for 8 .
+1 Khadgar's Whisker
+Plant found in crates and as a monster drop. Can be harvested with Herbalism 185.
+1 Sungrass
+plant found on monsters and crates. Can be harvested with Herbalism 230.

@@ -1,0 +1,1084 @@
+Journal Entry: elAceRo´s Beta Journal #1
+Character: 	xaNtic
+Date: 	05-04-2004 12:12:30 PM
+
+
+
+
+
+---Intro
+Hey,
+
+so my day has finally come, I travelled approximately 50~ km just to play a few minutes of World of Warcraft. Oh Well, to be absolutely honest it was on the same route I had to travel anyway for another purpose, so i went for it. Some of you might know me from the Battle.net Wow General Forums as elacero. I\'m seventeen years old and im living in Germany, currently doing 11th Grade. I have played all Blizzard Titles since Warcraft I and you can say I\'m a Die-Hard Fan of any upcoming Blizzard Creation. I was so excited and looking forward to play all the way to there, but it was definatly worth it. Today I received all my Screenshots that I\'ve been taking there. So here it goes, the first(and probably last) Beta Journal ever done by me. Because of this issue I\'m starting to write from Step1 and I\'m only going to describe the none Fighting/Questing-part since you can get that information probably better from permanent Beta Testers. Don\'t be tooharsh with your critic please =)~
+
+The Computer I played on:
+
+AMD Athlon XP 2400+(which would mean 2.000 mhz core clock)
+512 MB DRR-RAM
+Leadteak Geforce Ti4400
+Some Standard Stereo-Sound Boxsystem from Creative
+19\" Monitor
+
+---Character Creation
+
+I already knew what I was going to chose as Class and Race. I chose a Dwarf Warrior called xaNtic. Why you ask? Basically the Dwarves where the first Race of which I REALLY enjoyed the model-looks and their background story.Lately I\'m developing great interest in Orc Shamans too, but because I couldn\'t really \"play\" the actual game very much (just fought like 12-13 mobs) I chose a Dwarf Warrior. I already knew the Model Customizations i wanted to use so that happened rather quick.
+
+
+
+
+
+
+At past MMORPG its often hard to access the world, you have to read up a lot of information and stuff like that, this is totally not the the case in WoW. Its really easy to enter the World.
+
+---Settings
+
+Graphics:
+
+If your System specs are about the same or better, then don\'t worry, it ran (unexpected) VERY smooth on the default settings given by blizzard.In Video Settings menue you can basically chose between three Detaillevels:Low Medium and High. The default settings are shown in the Screenshot on the Right Side.
+
+I switched the resolution to 1280x1024 and experminted around a little bit with Far Clip and World Detail. It resulted in a more Memory Intense Gaming.I turned it back to Default FarClip and kept high World Detail with 1280x1024 Resolution and it ran smooth again.
+
+What I\'ve heared from other Beta Testers and my conclusion of this, get 1024 RAM if you want to enjoy a high level of detail. Of course this might still get downsized because the engine / hardware-specific fine-tuning isn\'t finished yet according to blizzard.
+
+The difference between Screenshot and Ingame Live-Graphics that has been discussed a while ago is really huge.You cant really compare the graphic you see on Screenshots with the one you see LIVE in-game. You really have to see it yourself to judge on the Graphics.The world is constantly doing something, for example leaves flying arround in westfall etc.
+
+The often criticised comic look, is totally not in place. I dont think the game looks in any way childish, the mobs look as evil as in other MMORPGs.
+
+
+
+Controls:
+
+The Character is very easy is to control, you can figure out thecontrols yourself really fast. Your movement can be controlled in several ways. You could run arround in this game without a mouse or without a keyboard. You only have to adjust the way you use your keys. I guess you can figure it out for the keyboard only method. But there\'s a really cool feature on Mouse Only. When you hold down right mouse button and left mouse button at the same time: You always run forward and the mouse movement changes the camera angle + point of view of theCharacter, really cool invention. =) If your mouse has a mousewheel you can zoom in the characters 1st-Person View and further away in 3rd Person View all in one.
+
+I still prefer the old keyboard with mouse Control tho. Quick Access to inventory, Map and AbiLities via Shortkeys. Changing the Camera Angle with Right Mouse Button and Running Forward with W-Key.
+
+Selecting an Enemy, NPC or corpse works all the same way. You move your mouse cursor over the target and click on it. Thetarget shows up in Focus Field on the topleft side of the Screen:
+
+
+
+
+And the color of the Name-Bar adjusts according to the Aggro-Status towards you. For example Red for Aggresive, Yellow for Neutral and Green for Friendly NPCs.
+
+Icouldgo into more detail now, but i think you get what im trying to tell: Really newbie-Friendly User Interface.
+
+
+---Starting a Dwarf
+
+I started in a snow overwhelmed region that seemed really realistic, it reminded me off the scandinavian landscape a lot. I didnt have to chose any attributes or preferances for my character at all.I only had a few basic starting items. One guy had a Explanation Mark above his head, so i ran towards him and spoke with him. He gave me the only Questi could finish there. I had to slay a few wolves for their flesh.The wolves(lvl1 too) i had to kill where neutral to me, which means they didnt attack me unless i hit them. Newbie Quest overall. I knew these types of Quests already from other Beta Journals so i went on to explore the world a little further.
+
+Some really great stuff came by the road, first a Steam Tank, then another Player flying on a Gryphon over my head. I was so excited. I ran further towards(not directly, i got to Stormwind with a higher level char of my friend)Stormwind then. The Entrance to Stormwind is enormous. If im not mistaken, there were 4 different Hero Statues at the Entrance. Remember The Castle that is also on the Logo of Disney ? Yes? Now you know what Stormwind is like =)
+
+I went for a walk in the Elvyn Forest too and watched a few other Players do a few dances. Just fascinating.
+
+
+
+---Dances and Emotes
+
+From the minute I started writing this article, I knew I have to dedicate one section to the Emotes. I saw all except the Gnome and Troll Dances in full-motion now. My favorite is without a doubt the Undead Headbang Dance. The Human,Dwarf and Tauren dance didnt really look unique yet, I\'m sure Blizzard will make these dances more unique too in one of the future Pushes. To the Orc, Undead and Night elf dance. You cant put them into words, you have to see them and I\'m sure you will laugh your ass off.
+
+Orc Dance:
+
+Just think of the Song \"Can\'t Touch This\" and you almost know what the Orc Dance is all about.I\'m sure the Blizzard Graphic Artists listened to this song while creating the Animation. Really funny.
+
+Night Elf Dance:
+
+Michael Jackson is all you have to know. Just hilarious.
+
+Undead Dance:
+
+First the Undead do some weird leg up and down motion and its not that exciting but THEN... after a few seconds, the undead grabs a Air guitar(you know, simulating a guitar in your hand) and banging with the head up and down, after a few seconds again, he stops this animation reaches with one hand towards the sky and is hadbanging even harder. Then they go totally nuts, they start jumping headbanging in one move. This is just incredible.
+
+A few Words on the emotes i saw, basically you can do anything that would come up to your mind like Beg,Wink,Applaud and so on. Some Animations didnt look finished yet but what do you know.. its beta. =)
+
+---End
+
+Due to my lack of time there, i only could visit the Azeroth World.But I\'m so glad there are Mounts ingame, i already got a little mad running from Ironforge to Stormwind and then to the Forest that is right to Stormwind.
+
+As you can imagine, I\'m so sad to leave game behind after 30minutes already. I\'m soooooooooo looking forward to the Retail Game. I like everything about the game except this unhuman waiting time. High Addiction Danger.
+
+I would love to continue writing on something more interesting, so im really sorryabout that =(
+
+Bye
+
+Written by elAceRo
+
+Feedbackcontact: el-acero@web.de
+
+
+
+
+
+
+
+
+
+
+Journal Entry: A Journey Into a New Word
+Character: 	Kusaru
+Date: 	05-04-2004 04:30:36 PM
+
+
+
+
+
+
+
+
+
+
+
+
+I was suddenly awoken. I had no memory of how I had gotten here or why I was here. I looked around and appeared to be in some sort of crypt. It seamed as if others had been here before by the dirty rags and rotten bones.
+
+
+
+Will no other choice but to climb the stairs, I ventured up until I reached a dark dark world. Where I met Mordo the Undertaker.
+
+
+
+At first startled I soon realized that I was not among the living any more. Being informed that I was lucky to havebeen awaken before I was cast into the fire, and that I should venture into town to find and speak to the Shadow Priest Sarvis. So, with no other choice at the time I headed down the rode toward what was left of a town.
+
+
+
+On my way totown I found a letter informing me that I was a mage and where I could find my trainer. Who could teach me more in the art of blowing stuff up. I was starting not to fate this undead thing as much.
+
+
+
+In an old broken church I found Sarvis and his helpers.
+
+
+
+I was given two simple tasks by Sarvis and his right hand women. One, to go and relieve some of the others who had fallen to the Lich king and had lost their mind. Two, to collect some bat and wolf paws. Now I had completed the first task without much trouble. Seeing as they had little control and most had missing limbs or a few arrows through the head. All I could think is, \"This could have been me...\". I just kept telling myself that over and over again, to ease the pain of killing others that I may have known in a past life.
+
+The second task which I had thought would have been as easy as the last. Did not appear to be at first. With what I had imagined as small bats flying around, I wasvery wrong.
+
+
+
+With all the items collected for what ever purpose (I did not want to know). I was told I had done a good job and too go look for others that may need my assistance. I did not have to go far for the first person I saw outside of the old church needed me. He told me how an old mine had been over run with deadly spiders.
+
+After remembering the bats and actually been given warning I was not surprised to find that these were no ordinary spiders.
+
+
+
+After killing a few outside I ventured into the mine to find some tougher prey. For my senses were being dulled by these mindless (no pun intended) tasks. After only a few feet into the mine I realized that they grew much bigger in here...
+
+
+
+After returning to the \"thing\" hat had given me the first task, of killing the spiders. I was giving a pat on the back and told that that was only a warm up. After he stopped acting so surprised that I had survived this little \"test\" of his. I was told of some humans that had moved into the territory and were setting up camp just out of town. They were undoubtedly going to try and retake their village. I was given the simple task of collecting 8 arm bands of theirs as proof of my deeds.
+
+It was not hard to find them for they were all over the hills just scouting around.
+
+
+
+I soon encountered one and learned that collecting these armbands would not be as easy. I had a tendency to burn these armbands off of their arms before they were dead. After some careful aiming and severely more kills I had amassed the armbands I needed.
+
+
+
+I headed back and was alerted of him learning that the humans had a messenger who had some important documents on him. After a quick scolding not to burn them, it was suggested to head over to the mage trainer and learn some new skills that might help me in this task. After a quick visit to the trainer and a few words exchanged, I left with some new spells, the ability to cast a ball of ice at the enemy and to conjure water out thin air, and her number.
+
+
+
+I left out towards the camp of the humans. After reaching it I easily dispatched of the messenger and recovered the documents. I returned themto the man who had requested them and was told that they held some very important information that must be taken to the next town. I was given directions and told the sooner the better. But being weary of my battles I decided to take a rest andmaybe give a certain mage trainer a phone call.
+
+So, for now I will say farewell.
+
+
+
+
+
+
+
+
+
+
+
+Journal Entry: Tripnotic's Adventures: Day 1
+Character: 	Tripnotic
+Date: 	05-05-2004 05:55:42 PM
+
+
+
+
+
+
+
+
+
+Argh, accidentally deleted this as I was typing. Here is the journal, second time around! I\'m a dwarf guy at heart, with a level 14 paladin who was locked at the beginning of this push. Dalgar be his name. Anyways, I figured I\'d go try out some of them dazzling new Horde races. I did some experimenting with an Orc Shaman (appropriately named StinkyDalgar). I wasn\'t having as much fun as with my Dwarf buddy, so I decided I\'d try out the Mage class. Vowing to have no more stinky characters in my future, I chose the Troll race over Undead. Erm, they both stink but Trolls stunk less I guess.
+
+Character creation was fun. So fun I forgot to take a screenshot! (grumbles) Trolls should be green, so I went with greenskin and neon green hair. I added some nice tusks, then picked a name. He shall be named Tripnotic! A simple click on [Enter World], a short load, and I wassa born mon!
+
+Even before I opened my eyes I smelled the stench of an Orc. A briefthought that it must be the scorching desert which makes them stink flew through my mind, but quickly vanished. Those orcs stink wherever they are... I once again longed for the sweet confines of Dun Morogh.
+
+I opened my eyes and saw the filthy monster standing but 2 feet in front of me. He had a quest to give, so I quickly right-clicked to get it over with. The quest sent me into the Den, literally a 5 second trip. There Gornek gave me a new quest, Cutting Teeth, to kill 10 Mottled Boars. I saluted him, and ran back out to the desert to begin my first job.
+
+http://wow.warcraftstrategy.com/sg_quests.php?QuestId=788
+
+
+
+
+I casted some Frost Armor to protect against the heat (heh, it also improves my armor and slows all who attack me). I moved until I was just within range of one of those crazy Boars, and let loose a giant Fireball of destruction. It was a direct hit, and I let loose another. SHABOOOOOM! The mottled boar was half dead before the got to me. His decaying teeth sunk into my left thigh (for 3 HP damage). Luckily, my Frost Armor chilled him enough that his speed was slowed and I was ableto run a good distance away. I turned, and 2 more <b>Fireballs</b> were enough to finish off the beast. 1 down, 9 to go!
+
+
+
+
+
+
+I finished that quest, and ran back to Gornek to get my reward. 1000 experience and some nice boots! I earned my second level. I also noticed I had earned a skill point while killing those boars, which I put into intellect.
+
+
+
+I grabbed Gornek\'s next quest (http://wow.warcraftstrategy.com/sg_quests.php?QuestId=789) to get 8 Scorpid Worker Tails. I headed off to find some, but not without taking a moment to try out the new Advanced Chat which was just implemented.
+
+
+
+
+You can change font sizes, add background colors, seperate different text messages into different windows, change colors, and much more. Very cool.
+
+I continue on to find some Scorpians, which wasn\'t too tough. After killing 2 (only 1 dropped what I was looking for), I saw a corpse lieing on the ground with an exclamation point over his head. The poor fella was dieing! I ran over to him to see what was up. The evil Scorpid Sarkoth had gotten the best of him, and I was sent to revenge the attack. Hmmm, more experience? Why not.
+
+Sarkoth was little problem. I finished up my quests, and headed back to The Den to get my reward from Gornek. I continued doing the quests from the area NPCs, and quickly racked up the experience. At level 4 I sold the loot I had scavenged, and bought a new skill. Frost Bolt looked cool. :) You have to open up your spellbook and drag the spell down onto your taskbar in order to get quick access to it. Easy easy.
+
+
+
+
+Unfortunately, my game time was cut short by the Timberwolves game starting on TNT. ESC + Logout. gg Tripnotic.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal Entry: Just a normal day
+Character: 	doomguard
+Date: 	06-06-2004 10:52:22 AM
+
+
+First of all i did some fishing in booty bay. While doing this i made some trades so i flew over to Grom Gol (by Ogrimmar Zeppelin). After finishing the trades i took wyvern back to booty bay and made some pictures of the ride.
+The second set of pictures is from questing in Tarren Mill (Undead village). I think i just did lvl 28 there which was quite fun. It was about 4 o clock in the morning when i finished last quest in an area called Hammerfall (lvl 30+). I took bat back to UC andmade some pictures of the ride. Have fun watching
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal Entry: Lighthammers Journals
+Character: 	Lighthammer
+Date: 	06-17-2004 09:08:19 AM
+No images for journal entry.
+
+i\'m in a big time crunch at school so sorry about the lack of activity.
+
+well here is my fist death, the first few levels go fast. The poor screen is due to a bad graphics card that I later got fixed.
+
+http://www.imagedump.com/pics/52484.jpg
+
+Me as a ghost, note the blue fog, it is around all dead bodies waiting for there spirit as well. you can\'t see far due to my grafics card.
+http://www.imagedump.com/pics/52485.jpg
+
+I found a cow, was hopping for an easter eg with a d2 refrence. :(
+
+http://www.imagedump.com/pics/52486.jpg
+
+Tried to kill the cow but he just ran. i eventually got one, but no loot not even a cow bell :(
+
+http://www.imagedump.com/pics/52487.jpg
+
+Up in azora\'s tower out in the wilderness, i was drawn to the glowing ball.
+it later showed a short cinematic.
+http://www.imagedump.com/pics/52488.jpg
+
+just some deer i thought it was neat that the baby followed the mom.
+http://www.imagedump.com/pics/52489.jpg
+
+i have not had much time to test other classes beside my paladin, i am just having to much fun playing him to stop. but here is a gnome created for a friend. also shows one of there first quests.
+
+http://www.imagedump.com/pics/52490.jpg
+
+Gnome inside
+
+http://www.imagedump.com/pics/52490.jpg
+
+Stormwind, the wierd things are caused by a 32 video card, thats also what caused the fog so ignore that. the kids follow the teacher.
+
+http://www.imagedump.com/pics/52493.jpg
+
+Some day i\'ll actually get a tabard. some day, wich remindes me i should talk to bobo, maybe he should do it,
+
+http://www.imagedump.com/pics/52494.jpg
+
+Catapult? you see some broken stuff all over the world from bast battles, but this is right out side stormwind.
+
+http://www.imagedump.com/pics/52495.jpg
+
+Note all the blue, but again due to the fog the screen did not turn out, but those are bodies. it should have been a warning of the tievs waiting to pounce on me.
+
+http://www.imagedump.com/pics/52496.jpg
+
+Later i found what there were guarding so closly........2 out houses(actually there was a boss in the house).
+
+http://www.imagedump.com/pics/52497.jpg
+
+Finally found Moriar.
+
+http://www.imagedump.com/pics/52498.jpg
+
+throught the world and at intersections you will find signs that tell you where things are, this is very usefull.
+
+http://www.imagedump.com/pics/52499.jpg
+
+My first dragon...a dragon welp, and well he worked me in about to hits, but i got a screen b4 i died :)
+http://www.imagedump.com/pics/52501.jpg
+
+It\'s a nice day out, also my hammer shines and it relects when i run, to bad 2 handed weapons are under powered at the moment :(
+
+http://www.imagedump.com/pics/52502.jpg
+
+my first ride, it was fun. i was almost sad it was done.
+
+http://www.imagedump.com/pics/53590.jpg
+
+After some random playing i finally got a new grafics card... yay. while now i\'m in iron forge(went there to find a trainer for mining and smithing). in the military section i found this, i found it funny at least. reminds me of d-day.
+
+http://www.imagedump.com/pics/53591.jpg
+
+This made me sad, i wanted to fly one.
+
+http://www.imagedump.com/pics/53593.jpg http://www.imagedump.com/pics/ 53594.jpg
+
+i later went back to stormwind to meet up with moriar and el. i started climbing around and look what i found a little streem that goes over a waterfall. also a smalle error.
+
+http://www.imagedump.com/pics/53597.jpg
+
+now i just had to jump off the falls.
+
+http://www.imagedump.com/pics/53599.jpg
+i tried dancing of the edge but that didn\'t work, so thats where i fell from, the screens did not turn out good vecause i could not turn around in time to take a screen. http://www.imagedump.com/pics/53601.jpg http://www.imagedump.com/pics/53602.jpg
+here is a catapult/war machine thingy this time a little crearer
+http://www.imagedump.com/pics/53604.jpg
+
+Staues that didn\'t turn out sorry
+http://www.imagedump.com/pics/54659.jpg
+hehe we can buff ghosts, smalle bug
+http://www.imagedump.com/pics/54661.jpg
+
+
+um i gtg class is over so i\'ll finish this later?
+
+
+
+
+
+
+
+
+
+
+
+
+Journal Entry: The Battle of Brill (BoB)
+Character: 	Rykio
+Date: 	06-19-2004 07:24:09 PM
+
+
+
+Well the raid started with some one saying early in the day, \"Hey lets set an attack on Brill tonight. We should gather in Goldshire at 8 server time.\" I have no idea who said this hehe, but I remember it being said, so I went. At about 8 theserver time all you heard were yells and people chatting in general chat saying, when is the raid? Is it now? Are you guys leaving? I Need A Group!
+
+After this I got fed up and just invited some people I say that wanted to join in some PvP action. I then started whispering people requesting that they start a group with people I told them to invite. After about half an hour of talking to people I have never meet or seen before we ended up here.
+
+
+I had a big group to manage, and I tried my best. Whether or not I was successful, I still don\'t know ;) but we did get to Brill haha.
+
+Even before getting to the Arathi Highlands we had taken some causulties. This is our trek starting through the Arathi Highlands, we hadjust crossed the bridge from the Wetlands and were about to cross into the terratory with all the Raptors and Spiders that would soon tear this group apart.
+
+
+
+Afterwords we had taken a pitstop in Silverpine with the Dalaran wizards whoseemed to welcome us with open arms.
+
+
+
+Shortly after this pitstop is when we ran north and ran into a small gathering of Horde players that seemed to already know we were coming. Because it was their terratory they already had the advantage, but they also had the warning of a traitor Alliance member.
+
+When we arrived on the hill just outside of our old beloved town of Lordaron we saw our welcoming party.
+
+
+
+As the battle continued it didn\'t look good at all. We were outnumbered two to one.
+
+
+
+And soon the Battle of Brill (BoB) ended
+
+
+
+It was a fun and glorous night that all should be apart of someday. It was a score for the Horde unfortunatly. We shall have our revenge one day...
+
+
+
+
+
+
+
+
+
+Journal Entry: Varimathras' Fall
+Character: 	Salaris
+Date: 	06-27-2004 01:16:37 AM
+
+
+
+
+
+
+
+
+The sun still hung brightly in the sky like a brilliant sphere of flame when the forces of the Alliance converged for plans much darker and more dire. I sat at the foot of Southshore\'s Town Hall, anxiously awaiting the arrival of my companions. Many of my close friends arrived promptly; Arora, Brandee, Lord Phoenix, and others. Lord Phoenix and I immediately began planning the specific details of the assault, while Brandee used her teleportation magic to spread the word to those in distant lands: the time for invasion had come. We were taking back Lordaeron.
+
+From distant Darnassus, Ironforge, and Stormwind, allies came in many shapes and sizes. Our numbers were small, but not one among our number was weak at heart orslow with blade and spell. Stormwind\'s lack of support was not surprising; I have long suspected that one of the king\'s advisors is preventing them from sending proper aid to any in need, and my Lord Banegrivm has determined greater specifics, but I cannot speak of them here. Needless to say, our group was smaller than I had hoped, but nevertheless they proved willing to give their lives to retake the rightful lands of the followers of the Holy Light.
+
+My scouts had reported justearlier in the morning an interesting crack in the Undercity\'s defenses; a sewer tunnel that lead almost directly to the throne room of the city. It seemed almost to good to be true, and though I suspected a trap, I knew that our forces could notstand a direct assault on the city in any case. As others trickled in, Lord Phoenix summoned his mighty charger from the Inn\'s stables and marshalled our forces between the Inn and the Town Hall of Southshore. When it became clear that no morewould arrive in time to begin, we rose and drew our blades, many whispering silent prayers to the Holy Light or Elune for salvation and guidance.
+
+Our small army marched boldly on the road unopposed, to the border of the Silverpine Forest and beyond. We rallied again at the entrance of the once-sacred Tirisfal Glades, home of the mighty Guardian of Tirisfal who once sought to oppose the coming of the Burning Legion. The Ruins of Lordaeron, looking majestic and almost untouched fromthe outside, loomed in the distance. But these ruins were not our destination; we sought the darkness beneath.
+
+One by one we arrived at the entrance to the glade, slowly calling upon blessings and arcane magics to prepare ourselves for the assault. When the time came, Lord Phoenix lead us on his mighty steed to the entrance of the sewers, then sent the noble creature home to the Inn.
+
+
+
+We proceeded on foot, Lord Phoenix and I at the head. A mighty Abombination was our firstopponent, offering us a large and taxing battle. Rested briefly afterward, then proceeded into the city itself.
+
+
+
+I ordered the group to stay in one place, attracting the attention of the next Abombination guardian, then bringing themback to the group. Lord Phoenix noted a second just nearby, and though we warned the others not to stray, someone moved too close and attracted the creature\'s attention. Soon, two of the creatures were upon us, and the undead present quickly heardthe commotion, learning of our presence. We were pushed back, and forced to retreat for the time being.
+
+Our next approach came with stealth. Many had fallen, and required careful ressurection from our Paladins and Priests to rejoin thebattle. We foughta back-and-forth battle with the Horde defenders for some time, before I decided that we were losing numbers too swiftly. The defenders had the advantage here; the undead knew the area, and would rise quickly again after falling. They also would swiftly raise their own fallen, making it difficult for us to gain ground. As such, I chose to lead a charge to the throne room, risking losing everyone to try to make our way in.
+
+The gamble had mixed results. Many of our numbers were slain, but miraculously, another Paladin and I managed to make our way by with Divine Shields and Seals of Protection. The Throne Room itself was almost completely unguarded, and from there, we could begin to ressurect our fallen comrades. The cost and the trauma of the experience was great, but in this way, we managed to rally again and return in full force. In the meantime, the Horde gathered yet greater numbers. One of our druids bravely departed from the main group in stealth, finding their way through the city and slaying weaker strategic targets while we remained in the throne room to rally.
+
+For a long time, the Horde defneded the Throne Room fiercely, but we eventually pushed them back to the Dreadlord\'sthrone. We gathered along the walls, our fallen being brought back more swiftly than the Horde was able to strike them down now.
+
+
+
+We whispered plans for a secret charge, and our Paladins focused their sights on the undead priests intheir ranks. We began the charge with mighty Exorcising blasts, severely damaging the undead before we even drew close enough to bring our blades to bear. It was not until the middle of the conlfict that the mighty Dreadlord himself sought fit to interpose, his mighty claws bringing down victims left and right.
+
+For a moment, it looked as if his actions might turn the tide in the Horde\'s favor. Quickly, though afraid, I grasped my blade in hand and struck the mighty Dreadlord withaHoly Strike, drawing hisattention and shouting for the others to handle the mages and priests of the Horde still assaulting us.
+
+
+
+Varimathras\' attacks were fierce. His first blow struck me so hard I was unable to move, and I was forcedto fall back and begin healing myself almost immediately. I was clearly overmatched, but at least I had the Dreadlord\'s attention. Though my blade\'s cuts seemed to barely effect him, the few times I managed to summon enough strength to call upon the Light to bolster my blade with Holy power, my sword struck true, burning large cuts across the demon\'s skin. Just as I was ready to fall, Lord Phoenix stunned the creature and gained their attention, and I fell back to nurse my wounds and oversee the battle.
+
+Nearly all the Horde defenders had fallen, but many of our number had as well. I began to cast a ressurection spell on Arora, one of my closest Paladin companions, but another blow from the Dreadlord sent me reeling tothe floor.
+
+By the time I had recovered, the Dreadlord was severely hurt.
+
+
+Our remaining attackers had converged upon the Dreadlord with great fury, seeing their friends and allies fallen beside them. Though my arm felt like it was weighed down by a block of mithral ore, I fought with my pain and raised my arm, pushing myself forward and thrusting the blade through the Dreadlord\'s chest, calling upon the power of the Light to empower my blade as I did so. The Dreadlordburst into a swarm of bats, defeated by the Holy Strike.
+
+
+
+I sighed and began to heal my wounds and those of my comrades. Many slain still were among us, and more depressing still were the bodies of the undead, twisted soldiers of Lordaeron now turned against their own. I offered a silent prayer for them, but I felt we had succeeded. I was wrong. A surprise strike to the back stunned me, and I realized too late that the heavily wounded dreadlord had re-formed behind me, tearing great gashes out of my back with his mighty claws. I was helpless, but my friends were not. A blast of arcane magic sent the dreadlord back, and I stumbled to the floor. Lord Phoenix interposed himself between us, bringing his own mighty weapon to bear and striking the demon down with Holy might. This time, the creature did not rise again.
+
+
+
+Severely beaten and bruised, I was dragged to my feet by my companions. I forced myself to smile. It was over now. We noted a few Horde defenders returning, and considered pressing the attack, but we knew we had lost too much in the initial assault. Still, our goal had been met. Varimathras had fallen to the might of the Alliance. We each reached into our bags for our Hearthstone, the objects seeming like a greater blessing in this nightmarish place than ever before. I offered a silent prayer to the fallen, and with all the others, activated my stone.
+
+
+
+I write this tale now, still recovering from my wounds, in Stormwind\'s Inn. I have yet to return to the battlefield, but I hope that I will recover swiftly enough to lead another assault shortly. May the Holy Light bless all those that fought valiantly this day by my side, and my Elune watch over them, for we have now won a great victory. My hope is that we will one day be able to find Lady Sylvannas herself and defeat her in a similar manner, thereby crushing the Forsaken. This successful attack gives me new hope that there can be an end to this great war. Perhaps I will see it in my lifetime after all. If you\'re still reading this, I thank you. Perhaps I will see you when the next time comes for the Alliance to rally as one.
+
+-Salaris, Knight of the First Fist of Light
+
+
+
+
+
+
+
+
+
+
+Journal Entry: VanCleef Instance
+Character: 	Dradic
+Date: 	07-01-2004 08:31:14 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I am writing this journal on my adventure through the Instance of Edward VanCleef. I am not going to ruin any storyline, or display the intire instance. This is my form of a teaser for those who want an inside look of the instances.
+
+This is our group. Suke, my guildmate, is the only one of the other four that I know.
+
+
+
+These Defias Workers prove to be no trouble for us. We plow through them on our way to the inner depts.
+
+
+
+
+We have our first runin with a \"Boss\" here. This Goblin Shreeder seemed too easy at first. He came down him ramp and we just ganked him. His health fell fast, and we thought the fight was over...
+
+
+
+
+
+As the Shreeder fell, Sneed jumped out of his machine and started attacking us with his claw weapons. He proved to be a worthy foe after all...
+
+
+
+After defeating sneed we continue on our way to find VanCleef\'s lair. We discovered a huge forge room with a spiraling ramp leading down to the bottom where all the Goblin Engineers were.
+
+
+
+They didn\'t seem like they\'d be trouble, until they started using their bombs, and whipped out their Harvester Pets.
+
+
+
+
+We did make it out of that forge and ontothe docks.
+
+
+
+And we pushed ourselves on to find Pirates, and their pets attacking us. The birds went down easy, but stung like a bee. The pirates were harder than the workers, but still easy to manage. Suke even ended up getting a petbird of his own off of them.
+
+
+
+
+Working our way down the docks we found the roughest fight of the entire instance so far. A Tauren warrior Pirate. He kept doing a Stomp attack from WC3 and stunning everyone, he would than clap, run off and laugh at us. He took a nice pose right before we got unstunned, and ran at us to attack once again. This fight lasted a good minute or two.
+
+
+
+
+
+
+
+After the Tauren was defeated we were finally on VanCleef\'s boat
+
+
+
+
+This experience was shortlived as we moved up the boat we found the captain of the Goblins. His life was also shortlived...
+
+
+
+Moving around the boat we found Cookie... A murloc... We have no idea what he was doing there, but he attacked us, so we disbatched him all the same...
+
+
+
+Now moving on to the whole reason why we were all here. Edward VanCleef himself. This was a long drawn out battle. At first it appeared that he was alone... We were soon proven wrong as his Rogue guards seemed to appear one right after the other. There ended up being 4 guards all together, and we have to use great ammounts of teamwork to focus on the same guard. The Priest had her hands full with keeping us alive, as did I as the backup healer. Several times I had to save the priests life =) After the long and drawn out epic battle with Edward VanCleef, we had finally achieved victory.
+
+
+
+
+
+Suke had obtained his ability to duel wield with the Skill Points earned, and equipment found on the trip. Also his leveling up to 20 happened during the trip.
+
+
+
+I had gained my ability to Shapeshift into Cat form because I also gained level 20 during this Trip.
+
+
+
+My most rewording portion of this trip item wise would be the new spear I had obtained. My new loot consisted of a new ring, a new spear, and the quest reword, a new leather vest (You got to choose between 3 options. A Staff Vest and Axe).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal Entry: Against the Scourge (Part 1 - Stratholme)
+Character: 	Salaris
+Date: 	10-20-2004 03:22:30 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Months had passed since my last adventure into the undead-infested lands of Lordaeron. While my battle against Varimathras in the Undercity had succeeded, I had heard recent reports that necromantic magic had been used to raise the dreadlord once again, and thus, the Forsaken remained as great a power in the ruins of Lordaeron's capitol as ever. Recent rumors of growing Scourge influence worried me even more greatly, however. Knowing that the great Lich Kel'Thuzad, most trusted advisor to the betrayer Arthas, still remained near Quel'Thalas, I decided to investigate. The chances of an impending attack on Ironforge or Stormwind were slim, but I knew smaller cities such as Southshore were extremely vulnerable, especially due to the constant fighting with the Horde in the Arathi Highlands, the Hillsbrad Foothills, and the Alterac Mountains.
+
+I set out through Alterac first, since it was familiar territory, and while I trusted the Dwarves of Aerie Peak, I had been told Courier Hammerfall in Ironforge that Commander Ashlan Valorfist at Chilliwind Point was in need of assistance. I felt that perhaps in exchange for my help, they could provide me with some information on the situation. Commander Ashlan greetedme kindly, and introduced me to the others in their surprisingly small encampment. Nearly all of them seemed to have troubles of their own; Weldon Barov feared his brother, Alexi, was stealing his inheritance; the powerful High Priestess MacDonell sought to find a way to battle the Scourge-carrying cauldrons on the nearby farms, and all the others had similar issues to deal with. Over the following days, I worked with the Priestess toward subduing the Cauldrons, and toward fighting theundead and placing beacon torches for the Commander. I felt that Barov's problem, though significant, was not imporant enough to delay my investigation of the Scourge. Having done what I could for those in Chilliwind for the time being, I foundmy way to the Eastern Plaguelands, and noticed a somewhat well-traveled path to the north along the river. I had heard from one of my closest companions, the part time mage, full-time barmaid Brandee, that she had encountered a hermit living inanarea that fit this description. Curious, I chose to investigate.
+
+The hermit she had spoke of was not hard to find, though not truly alone.
+
+
+
+An old, but clearly strong, horse paced around the old farmhouse where I found the hermit, and my instincts told me that this was not a untrained beast, but a paladin's warhorse, not unlike my own. I also could not help but notice that as the hermit approached, they carried a great platinum warhammer with them, the sign of an experienced Knight of the Silver Hand. Intrigued, I approached the hermit and greeted them. They returned my greeting with some level of warmth, but a slight air of distrust. After a brief conversation, I realized why -- they seemed to have something against the Alliance, and mentioned that they had met "orcs more honorable than any knight". This sounded to me like a speech from Lady Jaina of Theramore herself, and it was a concept I very much agreed with. Still, while I liked the hermit's attitude, they did not yet trust me. To appease the stranger, I offered to help them with a few of the problems around the farm -- he needed food for the winter, and disliked the demon dogs and bats in the area, as I'm sure any sane person would.
+
+In a few hours time, I had managed to kill enough of the demons in the area to mildly impress the hermit, and bring them back several slabs of worm meat for food. He explained that the worm meat was ideal for storage because the worms weretheonlycreatures in the area that were not infected by the Scourge, and the meat could be easily preserved. The taste, of course, was the only disadvantage. After sharing a small meal with them, the hermit warmed up to me a bit, and told me theirstory. I was both saddened and shocked to learn the truth. This man was Tirion Fordring; once the Lord Governor of Mardenholde, and now father of the Highlord of the Scarlet Crusade.
+
+Tirion was clearly saddened to repeat his tale, but I listened carefully, wishing to know how I could assist him.
+
+
+
+The poor Paladin had been banished from the Alliance, presumably for refusing to fight against the Horde like Lady Proudmoore once did. His child had been told that he was deadand shown a false grave.This only son, Taelan, grew up to be a noble Paladin himself, but event gradually caused him to lose his path. As Uther and the other Knights of the Silver Hand were killed before him, Taelan finally cast down his banner,joining the Scarlet Crusadebefore their turn to insanity.
+
+Tirion was forced to watch from a distance, knowing that he lacked the power to intervene, and other alliance members would attack him on sight. To right this old wrong, Tirion wishedfor me to gather for him three objects, to send to his son and reveal the truth to him before it becomes too late. First, I was sent to find a platinum hammer, a miniature of Tirion's own hammer that he had given to his son. This had been buried at Tirion's false grave.
+
+
+
+While I was assaulted by four graverobbers when attempting to retrieve the item, I found this to be relatively simple to do by myself. Next, I sought to find the banner that Taelan had once held as a Knightof the Silver Hand. This was more difficult, as the ruins where the banner was located was infested with undead, but nevertheless I was able to accomplish it alone. Finally, he wished me to retrieve a painting of his family, which he had last seenat Caer Darrow. Caer Darrow was now a ruins surrounded by Darrowmere lake, and not a long ride by horseback. Searching the ruins was difficult, and work I was not well suited for. When I was considering the possibility I was in the wrong place, Iheard the whisper ofa soft voice coming from the base of the keep, near the docks. I searched the area, and found the spectral image of a young woman -- a ghost. The ghost seemed confused at first, asking if I was Tirion coming to save her, but after a brief conversation they seemed to regain their alertness enough to understand what was going on. The ghostly girl was the Artist Renfray; the same lass that had painted the picture.
+
+
+
+She was a friend of Tirion's in life, andsided with him when he had been banished. Knowing the picture would be stolen, she was forced to hide it behind another picture in Stratholme -- in an area now controlled by the Scarlet Crusade. This, I knew, was beyond my ability to retrieve alone, but I was determined to aidTirion inbeing reunited with his son. Knowing well that a considerable force was needed, I told the ghost that all would be well, and wishing them rest, I returned to Ironforge to gather other adventurers to aidmein my mission.
+
+Back in Ironforge, I managed to gather adventurers for the journey quite swiftly. There was a great deal of interest in exploring Stratholme, as many other adventurers had tasks to perform there. I was informed that there wasa small Argent Dawn chapel called Light's Hope in the far eastern side of the Plaguelands, north of Tyr's Hand, where the Argent Dawn members were seeking assistance in fighting the undead and Scarlets in Stratholme.
+
+
+
+We took a shortdetour to speak to the noble crusaders at Light's Hope, where we were given several quests, and directed to speak to a man named Egan. Finding Egan wasn't particularily difficult; he was a lone living dwarf in the undead infested lands to the west of Stratholme's main gate. He gave each of us a"Blaster" of his making -- a magical item designed to release the souls of the ghostly citizens inside Stratholme's walls. Now better prepared, we fought our way to the inside of the city itself.
+
+
+
+Unfamiliar with the area, we fought through the seemingly endless amounts of undead with little direction at first. At the first intersection, we found a locked gate to the right, and an open passage to the left. Rather than havea rogue attempt to pick the lock, we decided it would be wise to followthe clear path, and made our way to the left. After fighting a few more groups of monsters, we turned left again, seeing the sign for Fras Siabi's shop. One of the workers at Light's Hope had asked for an item from the store, and we hoped toretrieve it for him. Before we could find Fras, however, we were attacked by a crazed ghostly courier.
+
+
+
+We brought the creature down swiftly, and it disappeared, leaving only three mail box keys behind. Knowing these were probably significant, we held on to them, noting the inscriptions of which mail boxes the corresponded to. One of our party members then noticed a box in front of Fras' shop, and went to investigate. As they opened the crate, the undead form of the shopkeeper assaulted us,and we had our first prolonged battle. The shopkeeper possesed few strengths of note, however, and we defeated them easily in time.
+
+
+This being done, ourgroup retrieved the items they needed from the shop. I pondered the morality of taking from the dead, but realized that anything of value here was likely better in our hands than that of the Scourge. We pressed on.
+
+The first gate we encountered closed after a small group of our party had moved through -- a trap. A swarm of rats decended on them from a small grate, and our mage, trapped inside, cast arcane explosion spells to destroy the rats before they reached the group. When the ratshad been slain, the gate opened. Clearly, some powerful force was controlling the gates here -- likely Kel'Thuzad himself, I considered. We continued, making another left after the gate, seeing the signs that this would lead to the Scarlet Bastion. I knew this was where Tirion's painting would be found, and many oftheothers had been asked by the Argent Dawn to burn the archive inside to prevent the Scarlets from retaining inside knowledge about the Alliance. We approached the well defended chapel, and I attempted to parlay, knowing these were still thinking humans, not monsters like the undead outside. They responded to my words with steel and fire. My friends were not so hesitant as I to attack, and quickly the battle was joined. We pushed our way through the entrance, fighting human and scourge alike to gain entrance.
+
+
+
+The front door was locked, by my key from the Scarlet Monastery in Tirisfal fit perfectly in the lock, and gained us easy entrance.
+
+
+
+We fought our way slowly through the Chapel, defeating a powerful and zealous Paladin inside thefirstroom off the main path. In his chamber, we found a Medallion of Faith, and chose to hold on to it, knowing that such an item must be of great value to a Paladin or Priest of the Holy Light. We continued straight aheadto another locked door, andagain the Scarlet Key worked perfectly. Inside, we found more Scarlets, including an enraged Hammersmith that assaulted us when one ofour blacksmiths found the plans to Serenity among the equipment in the armory. After fighting the Hammersmith, we continued on to find a single man at the end of the armory -- Cannon Master Willey.
+
+
+
+Flanking him were two huge cannons, and he looked to know how to use them. Knowing that giving him more time to prepare would be even more dangerous, we simply charged him after healing our old wounds, while I took control of the cannons for the duration of the fight. He called others from upstairs to his aid, but I used his own cannons to stem the tide of reinforcements, and thus we defeated him without much difficulty. With the Cannon Master defeated, we moved back upstairs and to the right, to the next closed door.
+
+
+
+As soon as we turned the key in the next door, we were assaulted by a large group of scarlets, lead by apowerful Battle Mage. We decided to target the Battle Mage first, as their area-of-effect magic proved extremely potent and damaging. Nursing our wounds after the battle, we continued through the Bastion, finally reaching the last two chambers. To our left was the well guarded Archive; to the right, the lone Grand Crusader, Dathrohan. We decided to deal with the Archive first,as everyone suspected that Dathrohan would call others to his aid if assaulted first. The Archivist was a powerful wizard, similar to the Battle Mages we had dealt with before, but with much better protective magic to keep him alive. The battle was the most difficult we had gone through thus far, but we managed to survive, and regrouped inside the Archive, fearing that if we did not Dathrohan would assault us in our weakened condition. Inside the Archive I noticed a painiting of two moons -the painting where Tirion's was supposed to be hidden. Behind the portrait of the moons I found whatI was seeking, a picture entitled "Of Love and Family", showing Tirion, his wife, and his son along the beach. I was touched by the image, and tucked it away safely in my backpack before assisting the others in burning the archive.
+
+
+
+With the Archive in flames, Dathrohan alone stood against us. He assaulted us with words as well as sword as we entered, but like any single man,he could not stand against so many of us for long..or so it seemed.
+
+
+
+A smirk on his face, Dathrohan murmured sveral words in an unfamilartongue, and those of us closest to him were frozen in place. This, in and of itself, was not that surprising -- as a Paladin, I was able to stun others with a similar ability. What happened next, however, was beyond even my wildest imagination about the crusade. Dathrohan's fingernails grew long and thickened, and his arms began to extend rapidly to an inhuman length. His legs, chest, and head quickly expanded in size and strength as as well. Hisskin began to change in color, and horns began to emerge from his head. In seconds, the man was no longer human at all -- Darthrohan had become a demon, and one of a all-too-familiar familiar kind. The Grand Crusader of the Scarlet Crusade was a Dreadlord.
+
+
+
+Those of us affected by his magic recovered as quickly as we could, scrambling to avoid the massive demon's two-handed sword. The Dreadlord charged toward the mages and priests in the back of our group, and all the rest of us threw ourselves at the massive creature, trying to bring him down with his blades before he reached the spellcasters.
+
+
+
+To myleft, a warrior suddenly blinked and stood upright, then turned to swing his weapon at one of our healers instead of the Dreadlord. Startled, but knowing from experience how a Mind Control spell worked, I threw myself on top of the warrior andpinned him to the ground as best I could. In the few seconds I managed to hold him down, the battle had concluded. Our combined forces had decimated the Dreadlord fromall sides, and he rose from the floor, his body bursting into a swarm of bats. I had seen this before, and knew that it meant the creature was truly dead -- though how long it would last, I could not say. As we emerged from Dathrohan's room, the area had been completely overtaken by undead. A massive ghoul assaulted us outside the building, and though deadly, the creature proved far weaker than the Dreadlord we had just faced.
+
+
+
+We took what we could find of his remains and emerged from Stratholme briefly, to immediately bring this news to Duke Nicholasat Light's Hope. He proved as surprised as anyone to hear the Scarlets had been lead by a Dreadlord, and revealed that from the body, this was none other than Balnazzar, the brother of Varimathras. The implications of that fact were too far reaching for me to even consider at the time, but the Duke revealed to us that an even more grave threat existed in the walls of Stratholme -- Baron Rivendare, a powerful Death Knight, and one of the greatest servants of Kel'Thuzad.
+
+We returned to Stratholme with haste, knowing that the undead were now alerted to our presence and would do the best they could to prepare. After clearing our way through hordesof mindless undead,we found a lone figure sitting in front of a building, singing softlyand playing a lute. It took us several moments to realize this was another ghost, but before we could move away, the creature attacked, using it's music to put our warriors to sleep as it attacked the more vulnerable spellcasters.
+
+
+
+Fortunately, enough of us were unaffected to keep the casters safe while the battle went on. We realized that we would have to be more careful if we intended to make itthrough the rest of the city -- another mistake like that could easilyprove fatal. The next creature of note we encountered was an undead mage, which we called "Skul".
+
+
+
+He wielded powerful ice magic, but likemost mages, fell quickly to a large number of attackers. With much of the area clear now, weopened the three mail boxes we had found the keys to earlier. Each summoned ghosts to assault us, finally lead by Postmaster Malown, who carried an object with powerful magical properties.
+
+
+
+Afterfighting the postmaster, we found our way to the Elder's Square, where a massive ghoul-like creature attacked us. Their powerful blows knocked our front-line fighters a long distance back, but they were subdued rather easily after a prolonged battle. As the creature fell, it's body changed back into the form of a human -- the Magistrate of the city, Barthilas.
+
+
+
+We mourned the fate of the poor magistrate, but pressed on, finding our way into a small chapel that seemed untouched by the darkness that covered the restof the area. In this chapel, we found the spirit of a Paladin, who identified themself as Aurius. They explained that they had been a powerful Paladin that lost their path, but they regained their faith quickly enough tomake their way herebeforebecoming aDeath Knight of the Scourge. They were unable to leave the Church, for if they did, they would immediately become a Death Knight like Baron Rivendare himself. We offered them the Medallion of Faith, which allowed them to become a human again for a short time. In exchange from this release, they offered to assist us with the battle against Rivendare -- help we knew we would need very much.
+
+
+
+After bidding Aurius well,we left for the next part of the city, known as the Gauntlet.
+
+
+This area was infested with powerful undead on a scale far greater than the previous areas, and we were forced to bring many of the undead to the gate where we could fight them more effectively. The gargoyles that patroledin the areawould bring many others, and cast fear spells that could leave even the most brave of warriors fleeing directly into the waiting claws of more undead. We made our way slowly, and with great care. The area was ringed by three Ziggurauts -- the powerful sentry towers of the Scourge.
+
+
+
+These towers each held a powerful crystal that cast bolts of energy at us as we approached, and made it impossible for us to make our way to the next area without first destroying them.The first Zigguraut was guarded by the Baroness herself -- a powerful Banshee that would possess members of our group and use them against us. We fought back by simply polymorphing the possessed group member or stuning them until she was forced to emerge,then attacking her in her normal form. Once this battle concluded, we were able to enter the first Zigguraut and destroy the crystal by defeating the necromancers inside. Outside, we also found plans for asword called Corruption, but a Black Guard Swordsmith attacked us as soon as we looked at the plans.
+
+
+
+The second Zigguraut was guarded by a powerful necromancer, Maleki the Pallid.
+
+
+
+We defeated him without incident and destroyed the next crystal. ThefinalZiggurautwas guarded by Nerub'enkan, a powerful Crypt Lord. This proved to be the hardest of the three Ziggurauts to clear, but when it was done, the gateway to the Necropolois was opened.
+
+
+
+We approached the gate together as a group, expecting another trap. While there was no actual trap at this final gate, a mysterious force closed it behind us as soon as we had passed, and made us glad we had all moved in together. Within moments, however, we realized how dangerous of anarea we were in -- masses of abombinations flooded toward us, attacking one after another.
+
+
+
+Unlike normal abombinations, these horrible creatures were also somehow capable of spewing poison, or creating powerful slime monsters when slain. This proved one of the hardest battleswe had fought, perhaps even more deadly than the Dreadlord himself. When all of the Abombinations had been brought down, Baron Rivendare sent his personal guard -- Ramstein the Gorger -- to greet us.
+
+
+
+This larger, more powerful abombination struck us with great force, but our healers were able to keep us alive through the fight. Ramstein was not the end of our problems, however. Literally dozens of mindlessundead assaulted us afterRamstein fell, followed by the Black Guard, Baron Rivendare's most powerful servants.
+
+When all these monsters had been defeated, we finally made our way to the Necropolis itself. Outside, our priests blessed us with Shadow Protection, knowing the Death Knight's abilities would rely on Shadow Magic. Now better prepared, we found our way inside together, and confronted the mighty Death Knight. The lone man sat on the largest undead steed I have ever encountered, both man and mount covered from head to toe in enchanted black plate armor.
+
+
+
+The Baron held a deadly vampyric runeblade like all of Death Knights, and when we finally attacked, he used it with great skill, fending off many of us with blade alone. His weapon was far from the greatest asset the Baron had, however -- as the fight pressed on, his powerful Unholy Aura sapped the strength of every person present, and the doors to the room sealed shut, preventing our healers from resting outside to escape the effect. Piles of bones lined the room, and the Baron used his unholy magic to raise these into skeletons. The creatures were small and weak, and we initially did not think them a great risk -- unfortunately, he used them to greateffect, casting a Death Pact spell to destroy the creatures he had raised and replenish his own health. As the battle pressed on, even with all our preparation, it seemed as if the Baron might prevail over our entire force.
+
+
+
+His mighty Death Coil spells wereburning through ourwards and sending even the strongest of us to the floor. As he raised his sword to cast such a spell at me, I raised my shield to protect myself, but I knew it would be of no use. I braced myself, butthe burningimpact never came. Then I heardwords in a familiar voice, "I come for you, Rivendare!"
+
+The Paladin, Aurius, stood in front of me, his mighty blade holding the Baron's at bay. Our wounded pushed themselves from the floor as Aurius fought the Death Knight. We thought for a moment the Paladin might overwhelm the Death Knight alone, but it became clear after a moment that the Medallion's effects were fading. Aurius struggled to fight the Baron, but the unholy aura was slowly bringing himdown. We rallied as they fought, and renewed the assault. Our blades and spells struck true against the overwhelmed Baron, and as he tried to raise more skeletons, we countered with our Retribution spells, harming the Death Knightand shattering the newly raised skeletons. The Baron and Aurius each struck one final blow at one another, and finally, the Death Knight fell. When it was clear the Death Knight was dead, we looked to Aurius to thank him for his aid, but he too had fallen to the ground, his wounds now mortal. He praised us for assisting him in finally defeating the lord of Stratholme, and refused our offers of healing. We raised our blades to Aurius in a silent salute as the Knight of the Silver Hand passed from this world.
+
+
+
+With Rivendare dead, I sent the rest of the adventurers to bear his body to Duke Nicholas, while I carried Aurius from the unholy place for a proper burial. As I left, I noted a shimmering green portal -- one I still believe might lead to Kel'Thuzad himself -- but my attempts at entry proved futile.
+
+
+
+I bore Aurius to Uther's Tomb, the only place I believed a suitable burial ground for such a noble Paladin. The caretaker there agreed to seethat a suitable grave was found for the knight, and I thanked them and returned to Light's Hope.
+
+
+
+Duke Nicholas had heard of my leadership in Stratholme, and informed me that Lord Maxwell Tyrosis himself would grant me an audiance --a privelage not issued in many years. I found my way to Lord Maxwell's chapel and knelt before him, explaining what had occurred.
+
+
+
+In exchange for my work, he granted me access to the Argent Hold for a suitable reward -- the Argent Avenger, an undead slaying sword he believed appropriate as a reward for my work. I took the sword inhand proudly with thanks to the Lord of the Argent Dawn, and made my way to Tirion to present him with the painting.
+
+
+
+Tirion reacted with surprise that I had succeeded, but he was clearly happy beyond words. Theold paladin fasioned the three items I had brought him into a small package and asked me to do one final task for him.
+
+
+
+I would meet with his friend, Myranda, at Uther's Tomb for instructions. I visited the Tomb once again, meeting with Myranda and learning that she would place an illusion on me to carry the package to Taelan.
+
+
+
+I agreed with the plan, but admittedly, I was a bit surprised with the results of the illusion spell.
+
+
+
+Now appearing to be a member of the Scarlet Crusade, I found my way to a camp north of the Tomb and was given directions to Hearthglenn.
+
+
+
+Once inside, I knew my illusion would not last long, but I did not know where Taelan would be found. I investigated the entire area, finding several people of note,including High Protector Lorik and Foreman Jerris.
+
+
+
+
+
+Inside the Town Hall, I was permitted to take Davil's Libram without question-- I knew this tome rightfully belonged to one of those at Light's Hope, and as a Scarlet, noone protested my picking it up.
+
+
+
+Inside a grand tower, I met with one of the leaders of the Scarlet Crusade-- Grand Inquisitor Isillien.
+
+
+
+From my studies, I knew this to be one of the founders of the order, and likely the one that turned it to madness. I resisted the urge to attack and bring the man to justice, knowing Tirion's mission wasmy priority. In the main keep, I finally found Taelan, who mistook me for one of the reinforcements from Tyr's Hand. He accepted the package, and after looking at the contents, he fell to his knees, realizing the truth.
+
+
+...to be continued.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal Entry: decay
+Character: 	Spynes
+Date: 	10-26-2004 06:23:03 PM
+No images for journal entry.
+
+i forsaken, i risen, i take back. strong than ever living and every living. bones ache always yet strong
+
+spear blight spreads disease. bought cheap 15 worthless gold pieces of trade
+
+drawn and jerked towards un'goro. so old old there. death no undeath. alien and enemy. blight leaves green pus stinking corpses of non living not risen.
+
+male tauren trick me. goad into battle with giant ancient raptor, teeth big so blight
+
+silly tauren friend followed, knit bones and flesh while i battled giant raptor. spear it rotting disease, tumble down, slash across shoulder and then into neck. blood was hot river, blight left trails of green in flow. trickle down mountain, hiss against soil
+
+whisper still of LICH KING
+saw ex boyfriend in LICH KING scourge rusty axe stupid helmet crazy viking look
+laugh at him laugh laugh
+
+left blight in eye socket, drip and melt his flesh, stinking scourge bones dissolve
+laugh and laugh
+
+i know i look better than him
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal Entry: end
+Character: 	Spynes
+Date: 	10-27-2004 03:22:55 PM
+No images for journal entry.
+
+i hate dwarves
+so big so loud as i try to sleep
+
+revenge! south arathi, west, then dwarven stronghold
+
+chopped guards to pieces
+
+snuck under the water, rose up with fury, slew blacksmith and assistants and stable keeper and guards
+
+bloody anvil, walls, stone floor slippery with blood. guards running, slipping in the blood, clang of the fallen chain mail on the floor. stupid dwarves.
+
+slunk back under the water, around, onto bridge
+
+got out fishing pole, tried to fish from bridge, but sneaky human comes out of nowhere, smash, own flesh flopping and splinter of bones
+
+fell down, down, into water, at the bottom of the stinking seabed, and after eternity i rose again, and the human was fishing
+
+salute and creep away. she will yet be ally in undeath (because she is not dwarven)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+The Paladin Chronicles - Adventure in Deadmines
+	
+
+
+[Be sure to read part 1 and part 2 of this series first! - WoW Staff]
+
+
+
+
+
+After having obtained level 20 with my stout dwarven paladin, Thurlar, I decided to get revenge on the dungeon that had previously taken my life: the Deadmines. Located in the already aggressive Westfall, the Deadmines marks the pinnacle of a 6 or more part quest spanning 3 zones. Though previously I had the quest at level 18, I was too low level (or skill!) to find success.
+
+I hopped on a gryphon and headed to Westfall to spam the locals for a group to do the quest with me. Here is the team we came up with:
+
+         
+
+
+
+>From left to right, we have Ahklan, our level 17 priest, who was the lowest level of the group. Next we have Duma, the human paladin, who was level 20 like me. Nice hammer. Next we have MsONLINE, our senior paladin of level 22. Lastly, but definitely not least, we have Rilantha, our talented and most senior of the group, level 25 human rogue.
+
+I agree that 3 paladins, 1 rogue and 1 priest doesn't sound like a matched group made in heaven, but we were quite efficient. With 3 paladins, we had constant 3 auras running and 2 seals on each player. The utility of 3 hybrid healers also made staying alive easier. Our rogue played a key roll in constantly sapping enemies asleep. Our priest also contributed to the sleeping, but was primarily the group's healer.
+
+
+
+
+
+Here you see the typical Deadmine enemy: the miner. These guys may look like busters, but they can take a lot of damage. We were exceptionally careful to stay back and let MsONLINE pull 1-3 of them at a time to us. Once a battle started though, it was tough for any mob to get away with so much stunning power within the group (gouge and fist of justice).
+
+
+
+
+
+Sadly, I missed a photo on the first mini-boss of Deadmines. It was an ogre with two defias henchmen. Really, there was not much different from the way he looked and fought compared to other ogres, like those in Loch Modan. The pic above is after leaving his area and reaching a doorway, we look into the harvest area. This is where the goblins are harvesting lumber, or at least, milling it. We re-buffed, took a breather, then slaughtered the pesky goblins.
+
+      
+
+
+
+The harvest room is not without its challenges. After an easy run thus far, we ran into our second mini-boss: the Goblin Shredder. Massive, damaging, and enduring, we fought the shredder for a a few minutes. When the machine was destroyed, its pilot jumped out to get scrappy too. You can see in one pic that I took a lashing (but we all know who lived).
+
+   
+
+
+
+Finally we reached the point which previously I had died at. The smelting room.
+
+
+
+
+
+Filled with gun-toting goblin engineers with attack robots, the smelting room can get hectic in a single pull. At one point, fighting our way down the ramp, our priest died in a flash moment of gunfire from engineers. I resurrected him and he was able to drink, come back, and heal us for a rally victory. In the photo above you can see the sleeping gunman in the back, dealt with so well by our rogue.
+
+
+
+
+
+Here you see our rogue again giving the sapping to our foes. This mechanic in groups is amazingly powerful, allowing us to choose the lowest denominator of opposition at each moment.
+
+
+
+
+
+Here you see me dumbly taking a pic of a bandit patrol. It had occurred while the group was sitting and rest and waiting for a pull. I warned them of the bandits, but their "aggro" was too great. We ended up with a pull of 2 taskmasters, 2 goblin engineers, and a defias wizard. However, between sapping, sleeping, and "/assist" we were able to survive.
+
+
+
+
+
+Here you see the defias taskmaster firing at my friend Duma. You can see that Thurlar wasn't too happy about that.
+
+   
+
+
+
+After finishing and exiting the smelting room, I found a gunpowder keg. With this, we were able to arm and shoot a cannon. The cannon's shot blew a hole through the wall, leading to an underground ship dock: Ironclad Cove. I was surprised there was a ship underground. Almost like Goonies! Baby RUUUUFF! :)
+
+      
+   
+
+
+
+Luckily, the ship hadn't set sail by the time we got done butchering its crew. However, nothing prepared me for the sight of the ship's first mate, MR. SMITE! Seeing the black tauren walk down, empty handed, was delightfully scary. We rushed at him and he stomped to stun us all. While were were stunned, he went and got his AXES. Our damage output was still too much for him. He stomped again (seen above) and tried to run. I was able to get out of stomp and run him down for a fist of justice. He looted one of the axes he has.
+
+
+
+
+
+As with all tales, ours has an end. This end, though, isn't a happy one. We began fighting our way onto the ship, when through an unfortunate alpha/beta style glitch, one of the ship's bosses was teleported to us during a pull. There was such a large train put upon us, that I could not even see which of my teammate's were running away and which had stayed. I was the last to leave the fight, but maybe one of the first to die.
+
+Don't Worry though, the deadmines will see her defeat some day soon!
+
+
+
+Afterthoughts
+Please leave me feedback on the article. This is not my typical one, as usually I stick to graphs and numbers (I hope there were enough here to be useful). However, since many of you do not have the beta, I wanted to include you on some of the fun.
+
+A thanks to all who grouped with me at the Deadmines!
+
+
+For Khaz Modan!
+-Phil, aka Crow/Thurlar
+
+
+
+
+
+
+
+
+
+
+

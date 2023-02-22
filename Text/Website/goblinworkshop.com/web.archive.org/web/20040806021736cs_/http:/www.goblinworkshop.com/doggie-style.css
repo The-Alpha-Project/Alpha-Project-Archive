@@ -1,0 +1,458 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #000;
+	background: #FFF;
+}
+
+#maintable {
+  	font-family: Verdana, Arial, Helvetica, sans-serif;
+  	font-size: 80%;
+}
+
+a { color: #2D2DB5; }
+a:link, a:visited { 	text-decoration: none; }
+a:hover{ 	text-decoration: underline; }
+
+
+
+
+.altcolor {color: #eef7e2; font-weight: bold; }
+
+.altcolor2 {color: #cde7a8; }
+
+.altcolor3 { color: #771464; font-weight: bold; }
+
+.right a:link strong, .right a:visited strong, .right a:link, .right a:visited {
+	color: #000; text-decoration: underline; background: #eef7e2; padding: 1px; }
+/*** Redundancy in this selector and the one below allows Op6 to display links properly ***/
+
+.right a:hover strong, .right a:hover {color: #771464; background: #f4e6ef; padding: 1px; }
+
+//strong {font-weight: bold; color: #233622; }
+//pre strong {color: #000; }
+
+
+.alignright  {margin: 0; padding: 1em 10px 2.5em 0; text-align: right; }
+
+.small {font-size: .9em; color: #771464; }
+
+.alignright strong {color: #771464; font-weight: bold; }
+
+.decoration {float: right; margin: 0.5em 1em 3px 3px; position: relative; } /*** for IE6 ***/
+html[xmlns] .decoration {margin: 0 1em 0 0; } /*** Moz put the image too low ***/
+
+#bottom {font-size: 1px; line-height:0 margin:0; padding:0;}
+
+#header {
+	margin: 0;
+	padding: 0;
+	background: #E1DE91;
+	background-image: url(https://web.archive.org/web/20040806023324im_/http://www.goblinworkshop.com/images/bkg2.jpg);
+	background-repeat: repeat-x;
+
+	height: 118px;
+} /*** must be set so the following absolutely positioned divs are
+			    placed correctly on initial load of the page***/
+
+///background: #333366;
+
+#container {
+	border-left: 1px solid #CCCCCC;
+}
+
+#globalNav{
+	padding: 0px 0px 5px 10px;
+	color: #666666;
+}
+
+#globalNav a {
+	font-size: x-small;
+	padding: 0px;
+	font-weight: bold;
+	color: #FFCC33;
+	font-style: normal;
+	text-transform: capitalize;
+}
+
+
+#navmenu {
+	color: #666666;
+	background-color: #333333;
+    font-size: 80%;
+	border-bottom: 2px solid #000000;
+	border-top: 1px solid #000000;
+
+ 	padding: 6px 0px 5px 10px;
+}
+
+
+#navmenu ul {
+	display: block;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-family: Verdana, sans-serif;
+}
+
+#navmenu ul li {
+ 	display: block;
+  	float: left;
+  	position: relative; /*** IE6 needs this to display the links ***/
+	padding: 0px 6px 5px 5px;
+	width: 10em;
+	border-right: 1px solid #666666;
+}
+
+#navmenu a {
+	padding: 0px;
+	font-weight: bold;
+	color: #FFCC33;
+	font-style: normal;
+	text-transform: capitalize;
+}
+
+#navmenu ul li.first {
+	margin-left: 0;
+	list-style: none; }
+
+#navmenu ul li.last {
+	border-right: none; }
+
+
+#navclear {
+  	display: block;
+	clear: both; }
+
+/*** IE5/Mac has trouble with right positioned boxes due to a secret margin. See
+     - http://www.l-c-n.com/IE5tests/right_pos/index.shtml - Philippe Wittenbergh's page
+     for an explanation of this problem and Sam Foster's page for an explanation of the
+     hack used  - http://www.sam-i-am.com/testsuite/css/mac_ie5_hack.html - ***/
+
+#rightbox {
+	background: #DFDFDF;
+	font-size: 80%;
+	padding: 20px 10px 10px 10px;
+	height: 100%;
+}
+
+#actionsearch {
+    font-size: 80%;
+    color: #000;
+
+    background: transparent url(https://web.archive.org/web/20040806023324im_/http://www.goblinworkshop.com/images/ccc.gif);
+    border: 1px dotted #8F8758;
+    font-weight: bold;
+   	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding: 3px 3px 3px 3px;
+	margin: 0px 4px 4px 0px;
+}
+
+.contents {
+	background-color: #FFF;
+	margin: 8px 15px 15px 10px;
+	color: #000;
+	padding: 13px 3px 15px 3px;
+
+} /*** IE6 needs this to display the div ***/
+
+
+.questtable {
+	font-size: 100%;
+}
+
+.contents h1 {
+	padding: 0px 0px 3px 0px;
+	margin: 0px 0px 0px 0px;
+	text-align: left;
+    color: #333366;
+	font-size: 170%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.contents h2 {
+	padding: 0px 0px 3px 0px;
+	margin: 0px 0px 0px 0px;
+	text-align: left;
+    color: #000000;
+	font-size: 130%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+}
+
+#storypic {
+    float: left;
+}
+
+.feature_img {
+    float: right;
+    border: solid 2px #000000;
+}
+
+.img_right {
+    float: right;
+    border: none;
+}
+
+.img_left {
+    float: left;
+    border: none;
+}
+.atable {
+    font-size: 80%;
+}
+
+/************* #search styles ***************/
+
+#search{
+	padding: 2px 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	font-size: 100%;
+	background-color: #F7F7F7;
+	font-weight: bold;
+	text-align: left;
+}
+
+#search form{
+ margin: 0px;
+ padding: 0px 5px 0px 10px;
+}
+
+#search input {
+	color: #000000;
+	font-size: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/*********** #sectionLinks styles ***********/
+
+#leftbox {
+	left: 0px;
+	width: 135px;
+	border-right: 1px solid #000;
+	color: #000;
+	font-size: 80%;
+	background: #DFDFDF;
+	height: 100%;
+}
+
+.questbox {
+	font-size: 80%;
+}
+.questbox h3 {
+    padding: 0px 0px 0px 0px;
+    margin: 0;
+    font-size: 100%;
+    color: #000000;
+}
+
+
+#leftbox ul, #rightbox ul, .questbox ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+}
+
+
+/* hack to fix IE/Win's broken rendering of block-level anchors in lists */
+#leftbox li, #rightbox li {border-bottom: 1px solid #DFDFDF;}
+.questbox ul { border-bottom: 1px solid #FFF;}
+
+/* fix for browsers that don't need the hack */
+html>body #leftbox li, #rightbox li {border-bottom: none;}
+
+
+#leftbox h3 {
+	padding: 0px 0px 0px 10px;
+	margin: 10px 0px 0px 0px;
+	font-size: 12px;
+	color:	#333366;
+}
+#rightbox h3 {
+    padding: 0px 0px 3px 0px;
+    margin: 0;
+    font-size: 100%;
+    color: #000000;
+}
+
+
+#leftbox a { color: #000; }
+#leftbox a {
+	display: block;
+	padding: 2px 0px 2px 10px;
+}
+
+#leftbox a:hover {
+	background-color: #F7F7F7;
+	color: #000000;
+}
+
+
+/* THE FOOTER */
+
+#footer {
+	font-size: 80%;
+	color: #CCCCCC;
+	padding: 0px;
+	background-color: #000000;
+	border-top: 1px none;
+	border-right: 1px none;
+	border-bottom: 1px none;
+	border-left: 1px none;
+	font-weight: normal;
+	clear: both;
+}
+
+
+#footer img{
+	padding: 0px 11px 0px 0px;
+	vertical-align: middle;
+}
+#footer a{
+	color: #F7CF0B;
+}
+
+.Posted {
+	font-size: 80%;
+	color: #666666;
+}
+
+
+/************* commentblock styles ***************/
+
+.CommentBlock {
+	padding: 0px;
+	font-size: 80%;
+	text-align: justify;
+}
+
+.CommentsPosted {
+	font-size: 100%;
+	color: #666;
+}
+
+.CommentBlock img {
+    float: left;
+    border: none;
+}
+.Comment h3 {
+	padding: 0px 0px 4px 0px;
+	margin: 0px 0px 0px 0px;
+}
+.CommentBlock h3{
+	text-align: left;
+
+	font-size: 12px;
+	font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: underline;
+}
+
+.Comment, .ItemInfo {
+	background-color: #F7F7F7;
+	border: 1px solid #CCCCCC;
+	padding: 4px;
+}
+/************* #siteInfo styles ***************/
+
+
+
+.DataTable {
+	font-size: 100%;
+	padding: 2px 2px 2px 2px;
+	margins: 0px 0px 0px 0px;
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+}
+
+.SmallDataTable {
+	font-size: 100%;
+	padding: 2px 2px 2px 2px;
+	margins: 0px 0px 0px 0px;
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+}
+
+.DataTableHeader {
+	padding: 2px 2px 2px 2px;
+	font-weight: bold;
+	font-size: 100%;
+	color: #FFCC33;
+	background-color: #333333;
+}
+
+.DataTableHeader a  {
+	text-decoration: underline;
+	color: #FFCC33;
+}
+
+.Grey, .Black {
+    color: #000000;
+}
+
+.Green {
+    color: #3F6F09;
+}
+
+.Blue {
+    color: #333399;
+}
+
+.Yellow {
+    color: #CC9900;
+}
+
+.Purple {
+    color: #663366;
+}
+
+.IconBox {
+    background-color: #CCC;
+    border: 1px solid #000;
+}
+
+.IconTable {
+    background-color: #333;
+}
+.IconTable a {
+	font-size: 60%;
+	padding: 0px;
+
+	color: #FFCC33;
+	font-style: normal;
+	text-transform: capitalize;}
+
+
+/*
+     FILE ARCHIVED ON 02:33:24 Aug 06, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:58 Dec 21, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 193.527
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.071
+  RedisCDXSource: 22.408
+  esindex: 0.006
+  LoadShardBlock: 151.447 (3)
+  PetaboxLoader3.datanode: 200.632 (4)
+  CDXLines.iter: 16.846 (3)
+  load_resource: 197.774
+  PetaboxLoader3.resolve: 96.122
+*/

@@ -1,0 +1,5299 @@
+Worn Shortsword
+	Stats
+	Min Level: 1
+Damage: 6-10
+Speed: 1.90
+DPS: 4.21
+Pawn Price: 7
+	
+	
+
+Peasant Sword
+	Stats
+	Min Level: 1
+Damage: 9-14
+Speed: 2.60
+DPS: 4.42
+Pawn Price: 10
+	
+	
+
+Pitted Defias Shortsword
+	Stats
+	Min Level: 1
+Damage: 7-12
+Speed: 2.00
+DPS: 4.75
+Pawn Price: 16
+	
+	
+
+Militia Shortsword
+	Stats
+	Min Level: 1
+Damage: 9-14
+Speed: 2.50
+DPS: 4.60
+Pawn Price: 17
+	
+	
+
+Forsaken Shortsword
+	Stats
+	Min Level: 1
+Damage: 3-6
+Speed: 2.10
+DPS: 2.14
+Pawn Price: 17
+	
+	
+
+Peon Sword
+	Stats
+	Min Level: 1
+Damage: 3-7
+Speed: 2.40
+DPS: 2.08
+Pawn Price: 17
+	
+	
+
+Thistlewood Blade
+	Stats
+	Min Level: 1
+Damage: 8-13
+Speed: 2.20
+DPS: 4.77
+Pawn Price: 17
+	
+	
+
+Commoner's Sword
+	Stats
+	Min Level: 1
+Damage: 7-11
+Speed: 2.00
+DPS: 4.50
+Pawn Price: 55
+	
+	
+
+Frostmane Shortsword
+	Stats
+	Min Level: 1
+Damage: 10-16
+Speed: 2.00
+DPS: 6.50
+Pawn Price: 83
+	
+	
+
+Copper Shortsword
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 2.10
+DPS: 6.67
+Pawn Price: 1 10
+	
+	
+
+Notched Shortsword
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 2.10
+DPS: 6.67
+Pawn Price: 1 13
+	
+	
+
+Rockjaw Blade
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 2.10
+DPS: 6.67
+Pawn Price: 1 13
+	
+	
+
+Rodentia Shortsword
+	Stats
+	Min Level: 1
+Damage: 12-19
+Speed: 2.00
+DPS: 7.75
+Pawn Price: 1 39
+	
+	
+
+Well-used Sword
+	Stats
+	Min Level: 1
+Damage: 13-20
+Speed: 2.10
+DPS: 7.86
+Pawn Price: 1 44
+	
+	
+
+Stonesplinter Blade
+	Stats
+	Min Level: 1
+Damage: 12-19
+Speed: 2.00
+DPS: 7.75
+Pawn Price: 1 46
+	
+	
+
+Pale Skinner
+	Stats
+	Min Level: 2
+Damage: 17-27
+Speed: 2.20
+DPS: 10.00
+Pawn Price: 3 86
+	
+	
+
+Warped Shortsword
+	Stats
+	Min Level: 3
+Damage: 13-20
+Speed: 2.30
+DPS: 7.17
+Pawn Price: 1 93
+	
+	
+
+Fine Scimitar
+	Stats
+	Min Level: 4
+Damage: 4-8
+Speed: 1.90
+DPS: 3.16
+Pawn Price: 55
+	
+	
+
+Raider Shortsword
+	Stats
+	Min Level: 5
+Damage: 6-12
+Speed: 2.50
+DPS: 3.60
+Pawn Price: 80
+	
+	
+
+Grey Iron Sword
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 20-30
+Speed: 2.10
+DPS: 11.90
+Pawn Price: 6 88
+	
+	
+
+Haggard's Sword
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 20-30
+Speed: 2.10
+DPS: 11.90
+Pawn Price: 6 90
+	
+	
+
+Silver Steel Sword
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 20-30
+Speed: 2.10
+DPS: 11.90
+Pawn Price: 6 96
+	
+	
+
+Footman Sword
+	Stats
+	Min Level: 6
+Damage: 11-17
+Speed: 2.10
+DPS: 6.67
+Pawn Price: 1 7
+	
+	
+
+Defias Rapier
+	Stats
+	Min Level: 6
+Damage: 16-24
+Speed: 1.60
+DPS: 12.50
+Pawn Price: 7 87
+	
+	
+
+Redridge Machete
+	Stats
+	Min Level: 6
+Damage: 23-35
+Speed: 2.30
+DPS: 12.61
+Pawn Price: 8 23
+	
+	
+
+Daryl's Shortsword
+	Stats
+	Min Level: 7
+Damage: 26-33
+Speed: 2.30
+DPS: 12.83
+Pawn Price: 9 72
+	
+	
+
+Feral Blade
+	Stats
+	Min Level: 8
+Damage: 10-20
+Speed: 2.60
+DPS: 5.77
+Pawn Price: 4 81
+	
+	
+
+Solid Shortblade
+	Stats
+	Min Level: 8
+Damage: 30-37
+Speed: 2.50
+DPS: 13.40
+Pawn Price: 10 54
+	
+	
+
+Enamelled Broadsword
+	Stats
+	Min Level: 9
+Damage: 10-19
+Speed: 2.40
+DPS: 6.04
+Pawn Price: 5 75
+	
+	
+
+Scimitar of Atun
+	Stats
+	Min Level: 9
+Damage: 28-43
+Speed: 2.60
+DPS: 13.65
+Pawn Price: 11 80
+	
+	
+
+Blackwater Cutlass
+	Stats
+	Min Level: 9
+Damage: 23-29
+Speed: 1.90
+DPS: 13.68
+Pawn Price: 12 58
+	
+	
+
+Thun'grim's Sword
+	Stats
+	Min Level: 10
+Damage: 9-18
+Speed: 2.10
+DPS: 6.43
+Pawn Price: 6 74
+	
+	
+
+Heirloom Sword
+	Stats
+	Min Level: 10
+Damage: 9-18
+Speed: 2.10
+DPS: 6.43
+Pawn Price: 6 90
+	
+	
+
+Buzz Saw
+	Stats
+	Min Level: 10
+Damage: 31-38
+Speed: 2.40
+DPS: 14.38
+Pawn Price: 14 78
+	
+	
+
+Militant Shortsword
+	Stats
+	Min Level: 12
+Damage: 19-29
+Speed: 2.20
+DPS: 10.91
+Pawn Price: 4 4
+	
+	
+
+Thief's Blade
+  Unique item
+	Stats
+	Min Level: 12
+Damage: 22-33
+Speed: 1.70
+DPS: 16.18
+Pawn Price: 21 63
+	
+	
+
+Cruel Barb
+  Unique item
+	Stats
+	Min Level: 12
+Damage: 34-52
+Speed: 2.80
+DPS: 15.36
+Special Ability! (coming soon)
+Pawn Price: 23 21
+	
+	
+
+Seraph's Strike
+	Stats
+	Min Level: 13
+Damage: 36-55
+Speed: 2.90
+DPS: 15.69
+Pawn Price: 21 16
+	
+	
+
+Night Watch Shortsword
+	Stats
+	Min Level: 13
+Damage: 38-47
+Speed: 2.60
+DPS: 16.35
+Pawn Price: 26 4
+	
+	
+
+Gentleman's Rapier
+	Stats
+	Min Level: 14
+Damage: 13-20
+Speed: 1.60
+DPS: 10.31
+Pawn Price: 9 88
+	
+	
+
+Northern Shortsword
+	Stats
+	Min Level: 14
+Damage: 12-23
+Speed: 2.20
+DPS: 7.95
+Pawn Price: 12 30
+	
+	
+
+Bronze Shortsword
+	Stats
+	Min Level: 14
+Damage: 24-37
+Speed: 2.10
+DPS: 14.52
+Pawn Price: 14 39
+	
+	
+
+Bluegill Kukri
+	Stats
+	Min Level: 14
+Damage: 36-55
+Speed: 2.80
+DPS: 16.25
+Pawn Price: 24 61
+	
+	
+
+Scorpion Sting
+	Stats
+	Min Level: 14
+Damage: 18-35
+Speed: 2.40
+DPS: 11.04
+Pawn Price: 27 70
+	
+	
+
+Shadowfang
+	Stats
+	Min Level: 14
+Damage: 35-53
+Speed: 2.70
+DPS: 16.30
+Special Ability! (coming soon)
+Pawn Price: 29 64
+	
+	
+
+Twisted Sabre
+	Stats
+	Min Level: 14
+Damage: 24-37
+Speed: 1.80
+DPS: 16.94
+Pawn Price: 30 7
+	
+	
+
+Smotts' Cutlass
+  Unique item
+	Stats
+	Min Level: 15
+Damage: 22-34
+Speed: 1.90
+DPS: 14.74
+	
+	
+
+Elegant Shortsword
+	Stats
+	Min Level: 15
+Damage: 11-22
+Speed: 2.00
+DPS: 8.25
+Pawn Price: 14 84
+	
+	
+
+Phytoblade
+	Stats
+	Min Level: 15
+Damage: 36-55
+Speed: 2.80
+DPS: 16.25
+Special Ability! (coming soon)
+Pawn Price: 26 19
+	
+	
+
+Lucine Longsword
+	Stats
+	Min Level: 15
+Damage: 33-50
+Speed: 2.50
+DPS: 16.60
++1 Stamina
+Pawn Price: 27 61
+	
+	
+
+Stock Shortsword
+	Stats
+	Min Level: 16
+Damage: 6-12
+Speed: 1.80
+DPS: 5.00
+Pawn Price: 5 1
+	
+	
+
+Fighter Broadsword
+	Stats
+	Min Level: 16
+Damage: 11-22
+Speed: 2.30
+DPS: 7.17
+Pawn Price: 7 63
+	
+	
+
+Butcher's Slicer
+	Stats
+	Min Level: 16
+Damage: 18-34
+Speed: 2.90
+DPS: 8.97
+Pawn Price: 16 40
+	
+	
+
+Black Metal Shortsword
+	Stats
+	Min Level: 16
+Damage: 23-35
+Speed: 1.70
+DPS: 17.06
+Pawn Price: 29 49
+	
+	
+
+Skeletal Longsword
+	Stats
+	Min Level: 17
+Damage: 30-46
+Speed: 2.20
+DPS: 17.27
+Pawn Price: 32 69
+	
+	
+
+Dragonmaw Shortsword
+	Stats
+	Min Level: 18
+Damage: 31-48
+Speed: 2.20
+DPS: 17.95
+Pawn Price: 38 42
+	
+	
+
+Sword of Decay
+	Stats
+	Min Level: 18
+Damage: 40-61
+Speed: 2.70
+DPS: 18.70
+Special Ability! (coming soon)
+Pawn Price: 45 62
+	
+	
+
+Rebel Shortsword
+	Stats
+	Min Level: 19
+Damage: 25-38
+Speed: 2.70
+DPS: 11.67
+Pawn Price: 15 63
+	
+	
+
+Talonstrike
+	Stats
+	Min Level: 19
+Damage: 11-22
+Speed: 1.60
+DPS: 10.31
+Pawn Price: 22 83
+	
+	
+
+Sword of the Night Sky
+	Stats
+	Min Level: 19
+Damage: 12-23
+Speed: 1.70
+DPS: 10.29
+Pawn Price: 23
+	
+	
+
+Shortsword of Vengeance
+	Stats
+	Min Level: 19
+Damage: 39-48
+Speed: 2.40
+DPS: 18.13
+Special Ability! (coming soon)
+Pawn Price: 50 90
+	
+	
+
+Wingblade
+	Stats
+	Min Level: 20
+Damage: 17-32
+Speed: 2.20
+DPS: 11.14
++1 Strength
+Pawn Price: 27 62
+	
+	
+
+Hardened Iron Shortsword
+	Stats
+	Min Level: 22
+Damage: 28-42
+Speed: 1.80
+DPS: 19.44
++42 Health
+Pawn Price: 54 68
+	
+	
+
+Mercenary Blade
+	Stats
+	Min Level: 23
+Damage: 28-43
+Speed: 2.30
+DPS: 15.43
+Pawn Price: 17 48
+	
+	
+
+Ebon Scimitar
+	Stats
+	Min Level: 24
+Damage: 26-49
+Speed: 2.80
+DPS: 13.39
+Pawn Price: 40 32
+	
+	
+
+Jade Serpentblade
+	Stats
+	Min Level: 25
+Damage: 47-71
+Speed: 2.60
+DPS: 22.69
++3 Agility
+Pawn Price: 73 4
+	
+	
+
+Light Scimitar
+	Stats
+	Min Level: 26
+Damage: 22-34
+Speed: 1.90
+DPS: 14.74
+Pawn Price: 30 48
+	
+	
+
+Rune Sword
+	Stats
+	Min Level: 28
+Damage: 30-46
+Speed: 1.50
+DPS: 25.33
+Pawn Price: 97 16
+	
+	
+
+Knightly Longsword
+	Stats
+	Min Level: 33
+Damage: 39-59
+Speed: 2.30
+DPS: 21.30
+Pawn Price: 49 25
+	
+	
+
+Noble's Broadsword
+	Stats
+	Min Level: 43
+Damage: 56-84
+Speed: 2.20
+DPS: 31.82
+Pawn Price: 1 3 67
+
+
+
+Inferior Tomahawk
+	Stats
+	Min Level: 1
+Damage: 2-5
+Speed: 2.10
+DPS: 1.67
+Pawn Price: 11
+	
+	
+
+Trogg Hand Axe
+	Stats
+	Min Level: 1
+Damage: 7-12
+Speed: 2.00
+DPS: 4.75
+Pawn Price: 16
+	
+	
+
+Old Hand Axe
+	Stats
+	Min Level: 1
+Damage: 7-12
+Speed: 2.00
+DPS: 4.75
+Pawn Price: 16
+	
+	
+
+Stone Tomahawk
+	Stats
+	Min Level: 1
+Damage: 3-6
+Speed: 2.10
+DPS: 2.14
+Pawn Price: 16
+	
+	
+
+Primitive Hatchet
+	Stats
+	Min Level: 1
+Damage: 3-7
+Speed: 2.20
+DPS: 2.27
+Pawn Price: 17
+	
+	
+
+Anvilmar Hand Axe
+	Stats
+	Min Level: 1
+Damage: 7-12
+Speed: 2.00
+DPS: 4.75
+Pawn Price: 17
+	
+	
+
+Lumberjack Axe
+	Stats
+	Min Level: 1
+Damage: 13-20
+Speed: 2.60
+DPS: 6.35
+Pawn Price: 57
+	
+
+
+Sharp Axe
+	Stats
+	Min Level: 1
+Damage: 13-21
+Speed: 2.60
+DPS: 6.54
+Pawn Price: 80
+
+
+Rough Broad Axe
+	Stats
+	Min Level: 1
+Damage: 6-9
+Speed: 2.80
+DPS: 2.68
+Pawn Price: 14
+	
+	
+
+Thistlewood Axe
+	Stats
+	Min Level: 1
+Damage: 15-21
+Speed: 3.50
+DPS: 5.14
+Pawn Price: 21
+	
+	
+
+Dull Broad Axe
+	Stats
+	Min Level: 1
+Damage: 13-19
+Speed: 3.10
+DPS: 5.16
+Pawn Price: 21
+	
+	
+
+Beaten Battle Axe
+	Stats
+	Min Level: 1
+Damage: 13-18
+Speed: 3.10
+DPS: 5.00
+Pawn Price: 65
+	
+	
+
+Wood Chopper
+	Stats
+	Min Level: 1
+Damage: 19-26
+Speed: 3.30
+DPS: 6.82
+Pawn Price: 70
+	
+	
+
+Crude Battle Axe
+	Stats
+	Min Level: 2
+Damage: 18-24
+Speed: 3.00
+DPS: 7.00
+Pawn Price: 1 94
+	
+	
+
+Twin-bladed War Axe
+	Stats
+	Min Level: 5
+Damage: 17-24
+Speed: 2.80
+DPS: 7.32
+Pawn Price: 96
+	
+	
+
+Rock Chipper
+	Stats
+	Min Level: 5
+Damage: 35-48
+Speed: 3.50
+DPS: 11.86
+Pawn Price: 5 5
+	
+	
+
+Double-bladed Axe
+	Stats
+	Min Level: 6
+Damage: 13-21
+Speed: 3.20
+DPS: 5.31
+Pawn Price: 1 43
+	
+	
+
+Copper Battle Axe
+	Stats
+	Min Level: 8
+Damage: 20-31
+Speed: 3.20
+DPS: 7.97
+Pawn Price: 6 13
+	
+	
+
+Mo'grosh Can Opener
+	Stats
+	Min Level: 9
+Damage: 41-56
+Speed: 3.20
+DPS: 15.16
+Pawn Price: 16 18
+	
+	
+
+Skullchipper
+	Stats
+	Min Level: 10
+Damage: 47-64
+Speed: 3.50
+DPS: 15.86
++2 Strength
+Pawn Price: 17 17
+	
+	
+
+Dwarven Tree Chopper
+	Stats
+	Min Level: 10
+Damage: 44-60
+Speed: 3.30
+DPS: 15.76
+Pawn Price: 17 55
+	
+	
+
+Miner's Revenge
+	Stats
+	Min Level: 10
+Damage: 47-64
+Speed: 3.50
+DPS: 15.86
+Pawn Price: 17 75
+	
+	
+
+Lupine Axe
+	Stats
+	Min Level: 10
+Damage: 30-42
+Speed: 2.30
+DPS: 15.65
+Pawn Price: 18 7
+	
+	
+
+Large Broad Axe
+	Stats
+	Min Level: 11
+Damage: 19-29
+Speed: 3.20
+DPS: 7.50
+Pawn Price: 4 42
+	
+	
+
+Taskmaster Axe
+  Unique item
+	Stats
+	Min Level: 11
+Damage: 39-53
+Speed: 2.70
+DPS: 17.04
++2 Spirit
++2 Stamina
+Pawn Price: 23 69
+	
+	
+
+Shadowhide Battle Axe
+	Stats
+	Min Level: 13
+Damage: 47-64
+Speed: 3.20
+DPS: 17.34
+Pawn Price: 26 83
+	
+	
+
+Short-handled Battle Axe
+	Stats
+	Min Level: 14
+Damage: 15-23
+Speed: 3.10
+DPS: 6.13
+Pawn Price: 4 52
+	
+	
+
+Barbaric Battle Axe
+	Stats
+	Min Level: 14
+Damage: 31-47
+Speed: 3.60
+DPS: 10.83
+Pawn Price: 15 78
+	
+	
+
+Blackrock Champion's Axe
+	Stats
+	Min Level: 14
+Damage: 48-66
+Speed: 3.20
+DPS: 17.81
+Pawn Price: 29 31
+	
+	
+
+Zhovur Axe
+	Stats
+	Min Level: 15
+Damage: 28-43
+Speed: 3.10
+DPS: 11.45
+Pawn Price: 17 89
+	
+	
+
+Giant Axe
+	Stats
+	Min Level: 17
+Damage: 27-42
+Speed: 3.30
+DPS: 10.45
+Pawn Price: 10 60
+	
+	
+
+Stone War Axe
+	Stats
+	Min Level: 17
+Damage: 27-37
+Speed: 2.60
+DPS: 12.31
+Pawn Price: 16 9
+	
+	
+
+Heavy Ogre War Axe
+	Stats
+	Min Level: 17
+Damage: 62-84
+Speed: 3.80
+DPS: 19.21
+Pawn Price: 41 33
+	
+	
+
+Battle Slayer
+	Stats
+	Min Level: 18
+Damage: 35-54
+Speed: 3.30
+DPS: 13.48
+Pawn Price: 25 56
+	
+	
+
+Gladiator War Axe
+	Stats
+	Min Level: 19
+Damage: 52-71
+Speed: 3.10
+DPS: 19.84
+Pawn Price: 49 46
+	
+	
+
+Burning War Axe
+	Stats
+	Min Level: 19
+Damage: 58-79
+Speed: 3.30
+DPS: 20.76
++2 Stamina
++7 Strength
+Pawn Price: 59 81
+	
+	
+
+Shiny War Axe
+	Stats
+	Min Level: 20
+Damage: 16-25
+Speed: 2.40
+DPS: 8.54
+Pawn Price: 11 4
+	
+	
+
+Arced War Axe
+	Stats
+	Min Level: 20
+Damage: 40-60
+Speed: 3.30
+DPS: 15.15
++1 Stamina
++1 Strength
+Pawn Price: 34 14
+	
+	
+
+Massive Battle Axe
+	Stats
+	Min Level: 22
+Damage: 53-72
+Speed: 3.80
+DPS: 16.45
+Pawn Price: 19 56
+	
+	
+
+Hefty War Axe
+	Stats
+	Min Level: 22
+Damage: 32-44
+Speed: 2.80
+DPS: 13.57
+Pawn Price: 28 35
+	
+	
+
+Corpsemaker
+  Unique item
+	Stats
+	Min Level: 22
+Damage: 72-99
+Speed: 3.80
+DPS: 22.50
++8 Strength
++45 Health
+Pawn Price: 77 76
+	
+	
+
+Brutal War Axe
+	Stats
+	Min Level: 23
+Damage: 69-94
+Speed: 3.60
+DPS: 22.64
+Pawn Price: 74 89
+	
+	
+
+Massive Iron Axe
+	Stats
+	Min Level: 27
+Damage: 80-109
+Speed: 3.50
+DPS: 27.00
++5 Strength
++6 Stamina
+Pawn Price: 1 12 48
+	
+	
+
+Shadow Crescent Axe
+	Stats
+	Min Level: 30
+Damage: 65-88
+Speed: 2.50
+DPS: 30.60
++7 Strength
++5 Stamina
+Pawn Price: 1 42 21
+	
+	
+
+Whirlwind Axe
+  Unique item
+	Stats
+	Min Level: 30
+Damage: 98-133
+Speed: 3.60
+DPS: 32.08
++9 Strength
++40 Health
+Pawn Price: 1 67 66
+	
+	
+
+Gigantic War Axe
+	Stats
+	Min Level: 32
+Damage: 73-99
+Speed: 3.80
+DPS: 22.63
+Pawn Price: 56 57
+	
+	
+
+Colossal Great Axe
+	Stats
+	Min Level: 41
+Damage: 99-135
+Speed: 3.60
+DPS: 32.50
+Pawn Price: 1 12 33
+	
+	
+
+Skull Hatchet
+	Stats
+	Min Level: 1
+Damage: 10-16
+Speed: 2.00
+DPS: 6.50
+Pawn Price: 81
+	
+	
+
+Frostmane Hand Axe
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 2.00
+DPS: 7.00
+Pawn Price: 1 6
+	
+	
+
+Copper Axe
+	Stats
+	Min Level: 1
+Damage: 10-16
+Speed: 1.90
+DPS: 6.84
+Pawn Price: 1 9
+	
+	
+
+Defender Axe
+	Stats
+	Min Level: 3
+Damage: 20-31
+Speed: 2.30
+DPS: 11.09
+Pawn Price: 4 72
+	
+	
+
+Stonesplinter Axe
+	Stats
+	Min Level: 3
+Damage: 19-29
+Speed: 2.20
+DPS: 10.91
+Pawn Price: 4 77
+	
+	
+
+Worn Hatchet
+	Stats
+	Min Level: 4
+Damage: 12-18
+Speed: 2.10
+DPS: 7.14
+Pawn Price: 2 37
+	
+	
+
+Scalping Tomahawk
+	Stats
+	Min Level: 5
+Damage: 4-9
+Speed: 1.80
+DPS: 3.61
+Pawn Price: 78
+	
+	
+
+Small Tomahawk
+	Stats
+	Min Level: 5
+Damage: 4-9
+Speed: 1.80
+DPS: 3.61
+Pawn Price: 81
+	
+	
+
+Grey Iron Axe
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 25-39
+Speed: 2.70
+DPS: 11.85
+Pawn Price: 6 72
+	
+	
+
+Haggard's Axe
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 25-39
+Speed: 2.70
+DPS: 11.85
+Pawn Price: 6 75
+	
+	
+
+Deadmines Cleaver
+	Stats
+	Min Level: 5
+Damage: 24-37
+Speed: 2.60
+DPS: 11.73
+Pawn Price: 6 90
+	
+	
+
+Silver Steel Axe
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 25-39
+Speed: 2.70
+DPS: 11.85
+Pawn Price: 6 93
+	
+	
+
+Brutish Riverpaw Axe
+	Stats
+	Min Level: 5
+Damage: 26-40
+Speed: 2.80
+DPS: 11.79
+Pawn Price: 7 32
+	
+	
+
+Rusty Hatchet
+	Stats
+	Min Level: 6
+Damage: 4-8
+Speed: 2.10
+DPS: 2.86
+Pawn Price: 72
+	
+	
+
+Small Hand Axe
+	Stats
+	Min Level: 6
+Damage: 9-14
+Speed: 1.70
+DPS: 6.76
+Pawn Price: 1 8
+	
+	
+
+Dwarven Hatchet
+	Stats
+	Min Level: 8
+Damage: 8-15
+Speed: 2.00
+DPS: 5.75
+Pawn Price: 5 15
+	
+	
+
+Thelsamar Axe
+	Stats
+	Min Level: 8
+Damage: 22-34
+Speed: 2.10
+DPS: 13.33
+Pawn Price: 10 94
+	
+	
+
+Unbalanced Axe
+	Stats
+	Min Level: 9
+Damage: 17-26
+Speed: 2.40
+DPS: 8.96
+Pawn Price: 4 86
+	
+	
+
+Grunt Axe
+	Stats
+	Min Level: 9
+Damage: 10-19
+Speed: 2.30
+DPS: 6.30
+Pawn Price: 6 10
+	
+	
+
+Serpent's Kiss
+  Unique item
+	Stats
+	Min Level: 9
+Damage: 29-44
+Speed: 2.50
+DPS: 14.60
+Pawn Price: 14 66
+	
+	
+
+Thun'grim's Axe
+	Stats
+	Min Level: 10
+Damage: 12-23
+Speed: 2.70
+DPS: 6.48
+Pawn Price: 6 74
+	
+	
+
+Heirloom Axe
+	Stats
+	Min Level: 10
+Damage: 12-23
+Speed: 2.70
+DPS: 6.48
+Pawn Price: 6 83
+	
+	
+
+Gouging Pick
+	Stats
+	Min Level: 12
+Damage: 14-21
+Speed: 1.80
+DPS: 9.72
+Pawn Price: 7 68
+	
+	
+
+Thick War Axe
+	Stats
+	Min Level: 12
+Damage: 12-24
+Speed: 2.50
+DPS: 7.20
+Pawn Price: 9 37
+	
+	
+
+Spiked Axe
+	Stats
+	Min Level: 12
+Damage: 23-35
+Speed: 1.90
+DPS: 15.26
+Pawn Price: 18 30
+	
+	
+
+Butcher's Cleaver
+	Stats
+	Min Level: 12
+Damage: 34-52
+Speed: 2.70
+DPS: 15.93
++15 Health
+Pawn Price: 22 87
+	
+	
+
+Chopping Axe
+	Stats
+	Min Level: 13
+Damage: 22-34
+Speed: 2.50
+DPS: 11.20
+Pawn Price: 4 81
+	
+	
+
+Bearded Axe
+  Unique item
+	Stats
+	Min Level: 13
+Damage: 24-37
+Speed: 1.90
+DPS: 16.05
+Pawn Price: 24 34
+	
+	
+
+Guillotine Axe
+	Stats
+	Min Level: 13
+Damage: 35-53
+Speed: 2.70
+DPS: 16.30
+Pawn Price: 24 52
+	
+	
+
+Black Metal Axe
+	Stats
+	Min Level: 14
+Damage: 27-41
+Speed: 2.10
+DPS: 16.19
+Pawn Price: 23
+	
+	
+
+Sharp Cleaver
+	Stats
+	Min Level: 17
+Damage: 11-22
+Speed: 2.20
+DPS: 7.50
+Pawn Price: 8 83
+	
+	
+
+Meat Cleaver
+	Stats
+	Min Level: 17
+Damage: 21-32
+Speed: 2.40
+DPS: 11.04
+Pawn Price: 12 82
+	
+	
+
+Forester's Axe
+	Stats
+	Min Level: 18
+Damage: 16-31
+Speed: 2.40
+DPS: 9.79
+Pawn Price: 20 20
+	
+	
+
+Stalvan's Reaper
+	Stats
+	Min Level: 18
+Damage: 43-65
+Speed: 2.90
+DPS: 18.62
+Pawn Price: 45 30
+	
+	
+
+Curve-bladed Ripper
+	Stats
+	Min Level: 19
+Damage: 28-43
+Speed: 1.90
+DPS: 18.68
+Pawn Price: 49 84
+	
+	
+
+Bronze Axe
+	Stats
+	Min Level: 20
+Damage: 13-25
+Speed: 2.10
+DPS: 9.05
+Pawn Price: 12 69
+	
+	
+
+Hacking Cleaver
+	Stats
+	Min Level: 21
+Damage: 29-44
+Speed: 2.50
+DPS: 14.60
+Pawn Price: 13 90
+	
+	
+
+Blurred Axe
+	Stats
+	Min Level: 22
+Damage: 14-27
+Speed: 1.70
+DPS: 12.06
+Pawn Price: 33 71
+	
+	
+
+Barreling Reaper
+	Stats
+	Min Level: 22
+Damage: 29-45
+Speed: 1.90
+DPS: 19.47
++3 Stamina
+Pawn Price: 53 8
+	
+	
+
+Fish Gutter
+	Stats
+	Min Level: 22
+Damage: 32-49
+Speed: 2.10
+DPS: 19.29
+Pawn Price: 54 47
+	
+	
+
+Guerrilla Cleaver
+	Stats
+	Min Level: 24
+Damage: 48-72
+Speed: 2.80
+DPS: 21.43
+Pawn Price: 63 96
+	
+	
+
+Pronged Reaver
+  Unique item
+	Stats
+	Min Level: 24
+Damage: 43-65
+Speed: 2.40
+DPS: 22.50
++1 Spirit
++2 Strength
+Pawn Price: 75 27
+	
+	
+
+Crescent of Forlorn Spirits
+	Stats
+	Min Level: 25
+Damage: 29-44
+Speed: 1.60
+DPS: 22.81
++3 Spirit
+Pawn Price: 73 57
+	
+	
+
+Callous Axe
+	Stats
+	Min Level: 26
+Damage: 40-61
+Speed: 2.80
+DPS: 18.04
+Pawn Price: 40 94
+	
+	
+
+Gloom Reaper
+	Stats
+	Min Level: 27
+Damage: 53-80
+Speed: 2.70
+DPS: 24.63
+Pawn Price: 89 64
+	
+	
+
+Splitting Hatchet
+	Stats
+	Min Level: 32
+Damage: 42-64
+Speed: 2.60
+DPS: 20.38
+Pawn Price: 45 9
+
+
+
+Worn Mace
+	Stats
+	Min Level: 1
+Damage: 2-4
+Speed: 1.90
+DPS: 1.58
+Pawn Price: 7
+	
+	
+
+Splintered Board
+	Stats
+	Min Level: 1
+Damage: 2-5
+Speed: 2.00
+DPS: 1.75
+Pawn Price: 10
+	
+	
+
+Short Cudgel
+	Stats
+	Min Level: 1
+Damage: 6-10
+Speed: 1.90
+DPS: 4.21
+Pawn Price: 10
+	
+	
+
+Small Wooden Hammer
+	Stats
+	Min Level: 1
+Damage: 7-11
+Speed: 1.90
+DPS: 4.74
+Pawn Price: 16
+	
+	
+
+Rock Mace
+	Stats
+	Min Level: 1
+Damage: 3-6
+Speed: 1.90
+DPS: 2.37
+Pawn Price: 16
+	
+	
+
+Militia Mace
+	Stats
+	Min Level: 1
+Damage: 8-13
+Speed: 2.30
+DPS: 4.57
+Pawn Price: 17
+	
+	
+
+Anvilmar Mace
+	Stats
+	Min Level: 1
+Damage: 8-12
+Speed: 2.10
+DPS: 4.76
+Pawn Price: 17
+	
+	
+
+Primitive Club
+	Stats
+	Min Level: 1
+Damage: 3-6
+Speed: 2.10
+DPS: 2.14
+Pawn Price: 17
+	
+	
+
+Forsaken Mace
+	Stats
+	Min Level: 1
+Damage: 3-6
+Speed: 1.90
+DPS: 2.37
+Pawn Price: 17
+	
+	
+
+Flanged Mace
+	Stats
+	Min Level: 1
+Damage: 10-15
+Speed: 2.00
+DPS: 6.25
+Pawn Price: 57
+	
+	
+
+Kobold Mining Mallet
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 2.30
+DPS: 6.09
+Pawn Price: 58
+	
+	
+
+Frostmane Club
+	Stats
+	Min Level: 1
+Damage: 10-16
+Speed: 2.00
+DPS: 6.50
+Pawn Price: 75
+	
+	
+
+Stone Gnoll Hammer
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 2.10
+DPS: 6.67
+Pawn Price: 1 10
+	
+	
+
+Solid Metal Club
+	Stats
+	Min Level: 1
+Damage: 17-26
+Speed: 2.70
+DPS: 7.96
+Pawn Price: 1 46
+	
+	
+
+Studded Blackjack
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 1.80
+DPS: 7.78
+Pawn Price: 1 48
+	
+	
+
+Trogg Club
+	Stats
+	Min Level: 1
+Damage: 13-20
+Speed: 2.00
+DPS: 8.25
+Pawn Price: 1 91
+
+
+
+Battleworn Hammer
+	Stats
+	Min Level: 1
+Damage: 11-16
+Speed: 2.90
+DPS: 4.66
+Pawn Price: 9
+	
+	
+
+Large Stone Mace
+	Stats
+	Min Level: 1
+Damage: 6-10
+Speed: 3.20
+DPS: 2.50
+Pawn Price: 13
+	
+	
+
+Large Crooked Club
+	Stats
+	Min Level: 1
+Damage: 13-18
+Speed: 3.20
+DPS: 4.84
+Pawn Price: 14
+	
+	
+
+Anvilmar Sledge
+	Stats
+	Min Level: 1
+Damage: 13-19
+Speed: 3.10
+DPS: 5.16
+Pawn Price: 20
+	
+	
+
+Militia Warhammer
+	Stats
+	Min Level: 1
+Damage: 12-17
+Speed: 2.90
+DPS: 5.00
+Pawn Price: 21
+	
+	
+
+Kobold Mining Shovel
+	Stats
+	Min Level: 1
+Damage: 13-18
+Speed: 2.70
+DPS: 5.74
+Pawn Price: 47
+	
+	
+
+Cracked Sledge
+	Stats
+	Min Level: 1
+Damage: 14-20
+Speed: 3.30
+DPS: 5.15
+Pawn Price: 97
+	
+	
+
+Beatstick
+	Stats
+	Min Level: 1
+Damage: 16-22
+Speed: 2.60
+DPS: 7.31
+Pawn Price: 99
+	
+	
+
+Thicket Hammer
+	Stats
+	Min Level: 1
+Damage: 23-32
+Speed: 3.10
+DPS: 8.87
+Pawn Price: 2 35
+	
+	
+
+Coldridge Hammer
+	Stats
+	Min Level: 2
+Damage: 25-34
+Speed: 2.70
+DPS: 10.93
+Pawn Price: 4 66
+	
+	
+
+Icebane Warhammer
+	Stats
+	Min Level: 2
+Damage: 31-42
+Speed: 3.30
+DPS: 11.06
+Pawn Price: 5 6
+	
+	
+
+Oak Mallet
+	Stats
+	Min Level: 3
+Damage: 36-49
+Speed: 3.50
+DPS: 12.14
+Pawn Price: 6 22
+	
+	
+
+Rusty Warhammer
+	Stats
+	Min Level: 4
+Damage: 20-27
+Speed: 3.00
+DPS: 7.83
+Pawn Price: 2 94
+	
+	
+
+Burrowing Shovel
+	Stats
+	Min Level: 5
+Damage: 25-35
+Speed: 2.30
+DPS: 13.04
+Pawn Price: 8 43
+	
+	
+
+Spiked Club
+	Stats
+	Min Level: 6
+Damage: 13-20
+Speed: 3.10
+DPS: 5.32
+Pawn Price: 1 38
+	
+	
+
+Wooden Mallet
+	Stats
+	Min Level: 6
+Damage: 16-23
+Speed: 2.60
+DPS: 7.50
+Pawn Price: 1 40
+	
+	
+
+Wooden Warhammer
+	Stats
+	Min Level: 6
+Damage: 13-20
+Speed: 3.00
+DPS: 5.50
+Pawn Price: 1 44
+	
+	
+
+Heavy Copper Maul
+	Stats
+	Min Level: 6
+Damage: 29-40
+Speed: 2.80
+DPS: 12.32
+Pawn Price: 5 95
+	
+	
+
+Goblin Smasher
+	Stats
+	Min Level: 7
+Damage: 18-28
+Speed: 3.10
+DPS: 7.42
+Pawn Price: 5 3
+	
+	
+
+Battered Mallet
+	Stats
+	Min Level: 9
+Damage: 23-32
+Speed: 2.90
+DPS: 9.48
+Pawn Price: 6 3
+	
+	
+
+Heavy Gnoll War Club
+	Stats
+	Min Level: 11
+Damage: 51-69
+Speed: 3.70
+DPS: 16.22
+Pawn Price: 20 64
+	
+	
+
+Trogg Beater
+	Stats
+	Min Level: 11
+Damage: 49-67
+Speed: 3.60
+DPS: 16.11
+Pawn Price: 21 18
+	
+	
+
+Giant Club
+	Stats
+	Min Level: 12
+Damage: 35-48
+Speed: 3.50
+DPS: 11.86
+Pawn Price: 5 33
+	
+	
+
+Wooden Maul
+	Stats
+	Min Level: 12
+Damage: 26-36
+Speed: 2.90
+DPS: 10.69
+Pawn Price: 9 63
+	
+	
+
+Shadowhide Maul
+	Stats
+	Min Level: 13
+Damage: 44-60
+Speed: 3.00
+DPS: 17.33
++3 Stamina
+Pawn Price: 26 23
+	
+	
+
+Black Malice
+	Stats
+	Min Level: 14
+Damage: 52-71
+Speed: 3.30
+DPS: 18.64
+Special Ability! (coming soon)
+Pawn Price: 36 65
+	
+	
+
+Ironwood Maul
+	Stats
+	Min Level: 15
+Damage: 35-48
+Speed: 2.80
+DPS: 14.82
+Pawn Price: 14 8
+	
+	
+
+Ironwood Treebranch
+	Stats
+	Min Level: 15
+Damage: 52-71
+Speed: 3.40
+DPS: 18.09
+Pawn Price: 33 24
+	
+	
+
+Heavy Spiked Mace
+	Stats
+	Min Level: 16
+Damage: 44-60
+Speed: 3.40
+DPS: 15.29
+Pawn Price: 14 70
+	
+	
+
+Headbasher
+	Stats
+	Min Level: 16
+Damage: 36-50
+Speed: 2.30
+DPS: 18.70
++6 Strength
+Pawn Price: 36 71
+	
+	
+
+Rock Maul
+	Stats
+	Min Level: 17
+Damage: 30-41
+Speed: 2.90
+DPS: 12.24
+Pawn Price: 17 65
+	
+	
+
+Battering Hammer
+	Stats
+	Min Level: 17
+Damage: 31-48
+Speed: 3.10
+DPS: 12.74
+Pawn Price: 24 26
+	
+	
+
+Orc Crusher
+	Stats
+	Min Level: 17
+Damage: 59-80
+Speed: 3.60
+DPS: 19.31
++3 Stamina
++4 Strength
+Pawn Price: 40 23
+	
+	
+
+Kazon's Maul
+	Stats
+	Min Level: 17
+Damage: 55-75
+Speed: 3.40
+DPS: 19.12
++6 Strength
+Pawn Price: 41 97
+	
+	
+
+Enormous Rock Hammer
+	Stats
+	Min Level: 18
+Damage: 46-63
+Speed: 3.70
+DPS: 14.73
+Pawn Price: 12 57
+	
+	
+
+Dense Triangle Mace
+	Stats
+	Min Level: 18
+Damage: 35-53
+Speed: 2.40
+DPS: 18.33
+Pawn Price: 54 36
+	
+	
+
+Slaghammer
+	Stats
+	Min Level: 19
+Damage: 49-67
+Speed: 2.80
+DPS: 20.71
++4 Stamina
++4 Strength
+Pawn Price: 63 40
+	
+	
+
+Glacial Stone
+	Stats
+	Min Level: 20
+Damage: 62-85
+Speed: 3.60
+DPS: 20.42
+Special Ability! (coming soon)
+Pawn Price: 53 37
+	
+	
+
+Demolition Hammer
+	Stats
+	Min Level: 21
+Damage: 29-44
+Speed: 2.30
+DPS: 15.87
++3 Strength
+Pawn Price: 40 16
+	
+	
+
+Solid Iron Maul
+	Stats
+	Min Level: 21
+Damage: 61-83
+Speed: 3.50
+DPS: 20.57
++7 Stamina
+Pawn Price: 62 58
+	
+	
+
+Stout Maul
+	Stats
+	Min Level: 23
+Damage: 41-57
+Speed: 2.90
+DPS: 16.90
+Pawn Price: 21 94
+	
+	
+
+Goblin Power Shovel
+	Stats
+	Min Level: 24
+Damage: 66-90
+Speed: 3.30
+DPS: 23.64
++9 Stamina
+Pawn Price: 83 57
+	
+	
+
+Golden Iron Destroyer
+	Stats
+	Min Level: 24
+Damage: 55-75
+Speed: 2.75
+DPS: 23.64
++9 Strength
+Pawn Price: 83 60
+	
+	
+
+Backbreaker
+	Stats
+	Min Level: 27
+Damage: 78-106
+Speed: 3.40
+DPS: 27.06
+Pawn Price: 1 10 84
+	
+	
+
+Thornstone Sledgehammer
+	Stats
+	Min Level: 27
+Damage: 77-105
+Speed: 3.20
+DPS: 28.44
++10 Strength
++33 Health
+Pawn Price: 1 32 8
+	
+	
+
+Huge Maul
+	Stats
+	Min Level: 32
+Damage: 67-91
+Speed: 3.50
+DPS: 22.57
+Pawn Price: 52 97
+	
+	
+
+Fierce War Maul
+	Stats
+	Min Level: 42
+Damage: 95-129
+Speed: 3.30
+DPS: 33.94
+Pawn Price: 1 22 21
+	
+	
+
+Priest's Mace
+	Stats
+	Min Level: 2
+Damage: 16-24
+Speed: 2.00
+DPS: 10.00
+Pawn Price: 3 86
+	
+	
+
+Compact Hammer
+	Stats
+	Min Level: 3
+Damage: 20-31
+Speed: 2.30
+DPS: 11.09
+Pawn Price: 4 90
+	
+	
+
+Thornroot Club
+	Stats
+	Min Level: 3
+Damage: 18-28
+Speed: 2.10
+DPS: 10.95
+Pawn Price: 5 12
+	
+	
+
+Light Mace
+	Stats
+	Min Level: 4
+Damage: 9-14
+Speed: 1.80
+DPS: 6.39
+Pawn Price: 56
+	
+	
+
+Light Hammer
+	Stats
+	Min Level: 4
+Damage: 4-7
+Speed: 1.70
+DPS: 3.24
+Pawn Price: 58
+	
+	
+
+Grey Iron Mace
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 22-33
+Speed: 2.30
+DPS: 11.96
+Pawn Price: 6 83
+	
+	
+
+Haggard's Mace
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 22-33
+Speed: 2.30
+DPS: 11.96
+Pawn Price: 6 85
+	
+	
+
+Weighted Sap
+	Stats
+	Min Level: 5
+Damage: 21-32
+Speed: 2.20
+DPS: 12.05
+Pawn Price: 6 87
+	
+	
+
+Silver Steel Mace
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 22-33
+Speed: 2.30
+DPS: 11.96
+Pawn Price: 6 98
+	
+	
+
+Stonesplinter Mace
+	Stats
+	Min Level: 5
+Damage: 19-29
+Speed: 2.00
+DPS: 12.00
+Pawn Price: 7 11
+	
+	
+
+Driftwood Club
+	Stats
+	Min Level: 5
+Damage: 16-24
+Speed: 1.70
+DPS: 11.76
+Pawn Price: 7 40
+	
+	
+
+Carpenter's Mallet
+	Stats
+	Min Level: 6
+Damage: 3-6
+Speed: 1.70
+DPS: 2.65
+Pawn Price: 72
+	
+	
+
+Copper Mace
+	Stats
+	Min Level: 6
+Damage: 6-12
+Speed: 2.20
+DPS: 4.09
+Pawn Price: 1 6
+	
+	
+
+Billy Club
+	Stats
+	Min Level: 6
+Damage: 6-12
+Speed: 2.20
+DPS: 4.09
+Pawn Price: 1 10
+	
+	
+
+Stinging Mace
+	Stats
+	Min Level: 6
+Damage: 8-16
+Speed: 2.30
+DPS: 5.22
+Pawn Price: 3 26
+	
+	
+
+Ornamental Mace
+	Stats
+	Min Level: 7
+Damage: 18-28
+Speed: 2.80
+DPS: 8.21
+Pawn Price: 3 66
+	
+	
+
+Skorn's Hammer
+	Stats
+	Min Level: 7
+Damage: 10-20
+Speed: 2.70
+DPS: 5.56
+Pawn Price: 3 83
+	
+	
+
+Gnoll Punisher
+	Stats
+	Min Level: 7
+Damage: 24-37
+Speed: 2.40
+DPS: 12.71
+Pawn Price: 9 30
+	
+	
+
+Fist of the People's Militia
+	Stats
+	Min Level: 7
+Damage: 16-25
+Speed: 1.60
+DPS: 12.81
+Pawn Price: 9 54
+	
+	
+
+Wicked Blackjack
+	Stats
+	Min Level: 7
+Damage: 23-36
+Speed: 2.30
+DPS: 12.83
+Pawn Price: 9 71
+	
+	
+
+Petrified Shinbone
+	Stats
+	Min Level: 7
+Damage: 20-31
+Speed: 2.00
+DPS: 12.75
+Pawn Price: 9 75
+	
+	
+
+Mo'grosh Masher
+	Stats
+	Min Level: 8
+Damage: 27-41
+Speed: 2.50
+DPS: 13.60
+Pawn Price: 11 17
+	
+	
+
+Heavy Club
+	Stats
+	Min Level: 9
+Damage: 5-11
+Speed: 2.40
+DPS: 3.33
+Pawn Price: 1 50
+	
+	
+
+Staunch Mace
+	Stats
+	Min Level: 9
+Damage: 9-18
+Speed: 2.20
+DPS: 6.14
+Pawn Price: 6 12
+	
+	
+
+Gnoll Skull Basher
+	Stats
+	Min Level: 9
+Damage: 30-45
+Speed: 2.70
+DPS: 13.89
+Pawn Price: 12 30
+	
+	
+
+Hardwood Cudgel
+	Stats
+	Min Level: 10
+Damage: 29-45
+Speed: 2.60
+DPS: 14.23
+Pawn Price: 13 63
+	
+	
+
+Cookie's Tenderizer
+	Stats
+	Min Level: 10
+Damage: 32-48
+Speed: 2.80
+DPS: 14.29
+Pawn Price: 13 89
+	
+	
+
+Sturdy Flail
+	Stats
+	Min Level: 11
+Damage: 7-14
+Speed: 1.90
+DPS: 5.53
+Pawn Price: 3 47
+	
+	
+
+Engineer's Hammer
+	Stats
+	Min Level: 11
+Damage: 11-22
+Speed: 2.40
+DPS: 6.88
+Pawn Price: 7 76
+	
+	
+
+Bonegrinding Pestle
+	Stats
+	Min Level: 11
+Damage: 11-22
+Speed: 2.40
+DPS: 6.88
+Pawn Price: 8 39
+	
+	
+
+Blackrock Mace
+	Stats
+	Min Level: 11
+Damage: 29-45
+Speed: 2.50
+DPS: 14.80
+Pawn Price: 16 81
+	
+	
+
+Bludgeoning Cudgel
+	Stats
+	Min Level: 12
+Damage: 14-21
+Speed: 1.80
+DPS: 9.72
+Pawn Price: 7 79
+	
+	
+
+Sergeant's Warhammer
+	Stats
+	Min Level: 12
+Damage: 10-20
+Speed: 2.10
+DPS: 7.14
+Pawn Price: 9 33
+	
+	
+
+Bronze Mace
+	Stats
+	Min Level: 12
+Damage: 29-44
+Speed: 2.60
+DPS: 14.04
+Pawn Price: 11 19
+	
+	
+
+Shadowhide Mace
+	Stats
+	Min Level: 12
+Damage: 27-41
+Speed: 2.20
+DPS: 15.45
+Pawn Price: 18 50
+	
+	
+
+Block Mallet
+	Stats
+	Min Level: 12
+Damage: 22-33
+Speed: 1.80
+DPS: 15.28
+Pawn Price: 19 62
+	
+	
+
+Stinging Viper
+	Stats
+	Min Level: 12
+Damage: 19-36
+Speed: 2.80
+DPS: 9.82
+Special Ability! (coming soon)
+Pawn Price: 23 64
+	
+	
+
+Diamond Hammer
+  Unique item
+	Stats
+	Min Level: 13
+Damage: 32-49
+Speed: 2.50
+DPS: 16.20
+Pawn Price: 25 66
+	
+	
+
+Face Smasher
+	Stats
+	Min Level: 13
+Damage: 32-49
+Speed: 2.60
+DPS: 15.58
+Pawn Price: 26 32
+	
+	
+
+Baron's Sceptre
+	Stats
+	Min Level: 14
+Damage: 31-47
+Speed: 2.40
+DPS: 16.25
+Pawn Price: 23 11
+	
+	
+
+Skeletal Club of Pain
+	Stats
+	Min Level: 14
+Damage: 35-53
+Speed: 2.60
+DPS: 16.92
+Pawn Price: 29 96
+	
+	
+
+Wicked Spiked Mace
+	Stats
+	Min Level: 15
+Damage: 33-50
+Speed: 2.50
+DPS: 16.60
+Pawn Price: 28 21
+	
+	
+
+Heavy Mace
+	Stats
+	Min Level: 18
+Damage: 25-39
+Speed: 2.40
+DPS: 13.33
+Pawn Price: 10 13
+	
+	
+
+Bronze Morningstar
+	Stats
+	Min Level: 18
+Damage: 22-33
+Speed: 2.40
+DPS: 11.46
+Pawn Price: 15 48
+	
+	
+
+Stout Battlehammer
+	Stats
+	Min Level: 18
+Damage: 16-30
+Speed: 2.30
+DPS: 10.00
+Pawn Price: 22 25
+	
+	
+
+Iridescent Mace
+	Stats
+	Min Level: 18
+Damage: 25-39
+Speed: 1.80
+DPS: 17.78
++2 Strength
+Pawn Price: 36 93
+	
+	
+
+Midnight Mace
+	Stats
+	Min Level: 18
+Damage: 36-54
+Speed: 2.50
+DPS: 18.00
+Special Ability! (coming soon)
+Pawn Price: 45 63
+	
+	
+
+Mighty Iron Hammer
+	Stats
+	Min Level: 19
+Damage: 40-61
+Speed: 2.80
+DPS: 18.04
++2 Strength
+Pawn Price: 41 38
+	
+	
+
+Death Speaker Sceptre
+  Unique item
+	Stats
+	Min Level: 20
+Damage: 26-40
+Speed: 2.80
+DPS: 11.79
++3 Spirit
+Special Ability! (coming soon)
+Pawn Price: 55 2
+	
+	
+
+Heavy Bronze Mace
+	Stats
+	Min Level: 21
+Damage: 22-43
+Speed: 2.80
+DPS: 11.61
++1 Strength
+Pawn Price: 30 98
+	
+	
+
+Spiked Star
+	Stats
+	Min Level: 22
+Damage: 26-40
+Speed: 2.20
+DPS: 15.00
+Pawn Price: 15 59
+	
+	
+
+Leaden Mace
+	Stats
+	Min Level: 22
+Damage: 45-68
+Speed: 2.90
+DPS: 19.48
+Pawn Price: 56 5
+	
+	
+
+Kovork's Rattle
+	Stats
+	Min Level: 25
+Damage: 54-82
+Speed: 3.00
+DPS: 22.67
+Pawn Price: 72 27
+	
+	
+
+Mithril Warhammer
+	Stats
+	Min Level: 25
+Damage: 45-68
+Speed: 2.40
+DPS: 23.54
++5 Strength
+Pawn Price: 87
+	
+	
+
+Ryedol's Hammer
+	Stats
+	Min Level: 26
+Damage: 47-71
+Speed: 2.50
+DPS: 23.60
+Pawn Price: 79 76
+	
+	
+
+Herod's Sceptre
+	Stats
+	Min Level: 27
+Damage: 45-68
+Speed: 2.30
+DPS: 24.57
+Pawn Price: 83 84
+	
+	
+
+Stone Club
+	Stats
+	Min Level: 30
+Damage: 31-47
+Speed: 2.20
+DPS: 17.73
+Pawn Price: 42 89
+	
+	
+
+Hefty Battlehammer
+	Stats
+	Min Level: 31
+Damage: 39-59
+Speed: 2.50
+DPS: 19.60
+Pawn Price: 38 38
+
+
+
+Worn Dagger
+	Stats
+	Min Level: 1
+Damage: 5-8
+Speed: 1.60
+DPS: 4.06
+Pawn Price: 7
+	
+	
+
+Trogg Dagger
+	Stats
+	Min Level: 1
+Damage: 5-8
+Speed: 1.50
+DPS: 4.33
+Pawn Price: 10
+	
+	
+
+Simple Dagger
+	Stats
+	Min Level: 1
+Damage: 5-9
+Speed: 1.60
+DPS: 4.38
+Pawn Price: 11
+	
+	
+
+Militia Dagger
+	Stats
+	Min Level: 1
+Damage: 5-9
+Speed: 1.50
+DPS: 4.67
+Pawn Price: 16
+	
+	
+
+Skinning Knife
+	Stats
+	Min Level: 1
+Damage: 2-5
+Speed: 1.60
+DPS: 2.19
+Pawn Price: 16
+	
+	
+
+Anvilmar Knife
+	Stats
+	Min Level: 1
+Damage: 6-9
+Speed: 1.60
+DPS: 4.69
+Pawn Price: 16
+	
+	
+
+Thistlewood Dagger
+	Stats
+	Min Level: 1
+Damage: 6-10
+Speed: 1.70
+DPS: 4.71
+Pawn Price: 16
+	
+	
+
+Forsaken Dagger
+	Stats
+	Min Level: 1
+Damage: 2-5
+Speed: 1.60
+DPS: 2.19
+Pawn Price: 17
+	
+	
+
+Primitive Hand Blade
+	Stats
+	Min Level: 1
+Damage: 2-5
+Speed: 1.70
+DPS: 2.06
+Pawn Price: 17
+	
+	
+
+Small Knife
+	Stats
+	Min Level: 1
+Damage: 2-4
+Speed: 1.40
+DPS: 2.14
+Pawn Price: 17
+	
+	
+
+Sharpened Letter Opener
+	Stats
+	Min Level: 1
+Damage: 5-9
+Speed: 1.70
+DPS: 4.12
+Pawn Price: 38
+	
+	
+
+Carving Knife
+	Stats
+	Min Level: 1
+Damage: 8-13
+Speed: 1.60
+DPS: 6.56
+Pawn Price: 1 14
+	
+	
+
+Pruning Knife
+	Stats
+	Min Level: 1
+Damage: 8-13
+Speed: 1.60
+DPS: 6.56
+Pawn Price: 1 15
+	
+	
+
+Long Bayonet
+	Stats
+	Min Level: 1
+Damage: 10-16
+Speed: 1.70
+DPS: 7.65
+Pawn Price: 1 42
+	
+	
+
+Jeweled Dagger
+	Stats
+	Min Level: 1
+Damage: 11-17
+Speed: 1.60
+DPS: 8.75
+Pawn Price: 2 51
+	
+	
+
+Small Hand Blade
+	Stats
+	Min Level: 1
+Damage: 10-16
+Speed: 1.50
+DPS: 8.67
+Pawn Price: 3 5
+	
+	
+
+Curved Dagger
+	Stats
+	Min Level: 2
+Damage: 12-19
+Speed: 1.60
+DPS: 9.69
+Pawn Price: 4 3
+	
+	
+
+Stonesplinter Dagger
+	Stats
+	Min Level: 3
+Damage: 13-20
+Speed: 1.50
+DPS: 11.00
+Pawn Price: 4 79
+	
+	
+
+Craftsman's Dagger
+	Stats
+	Min Level: 3
+Damage: 15-23
+Speed: 1.70
+DPS: 11.18
+Pawn Price: 5 1
+	
+	
+
+Battle Knife
+	Stats
+	Min Level: 4
+Damage: 4-8
+Speed: 1.80
+DPS: 3.33
+Pawn Price: 58
+	
+	
+
+Fisherman Knife
+	Stats
+	Min Level: 4
+Damage: 8-12
+Speed: 1.40
+DPS: 7.14
+Pawn Price: 2 40
+	
+	
+
+Nicked Blade
+	Stats
+	Min Level: 5
+Damage: 7-12
+Speed: 1.50
+DPS: 6.33
+Pawn Price: 80
+	
+	
+
+Haggard's Dagger
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 16-24
+Speed: 1.70
+DPS: 11.76
+Pawn Price: 6 77
+	
+	
+
+Grey Iron Dagger
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 16-24
+Speed: 1.70
+DPS: 11.76
+Pawn Price: 6 80
+	
+	
+
+Silver Steel Dagger
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 16-24
+Speed: 1.70
+DPS: 11.76
+Pawn Price: 7 1
+	
+	
+
+Giant Tarantula Fang
+	Stats
+	Min Level: 5
+Damage: 13-20
+Speed: 1.40
+DPS: 11.79
+Pawn Price: 7 3
+	
+	
+
+Long Crawler Limb
+	Stats
+	Min Level: 5
+Damage: 15-23
+Speed: 1.60
+DPS: 11.88
+Pawn Price: 7 29
+	
+	
+
+Jagged Dagger
+	Stats
+	Min Level: 6
+Damage: 5-10
+Speed: 1.50
+DPS: 5.00
+Pawn Price: 3 25
+	
+	
+
+Compact Fighting Knife
+	Stats
+	Min Level: 7
+Damage: 5-11
+Speed: 1.50
+DPS: 5.33
+Pawn Price: 3 88
+	
+	
+
+Slicer Blade
+	Stats
+	Min Level: 7
+Damage: 15-23
+Speed: 1.50
+DPS: 12.67
+Pawn Price: 9 47
+	
+	
+
+Copper Dagger
+	Stats
+	Min Level: 8
+Damage: 5-9
+Speed: 1.50
+DPS: 4.67
+Pawn Price: 1 94
+	
+	
+
+Blade of Cunning
+  Unique item
+	Stats
+	Min Level: 8
+Damage: 8-15
+Speed: 2.00
+DPS: 5.75
+
+Pawn Price: 4 68
+	
+	
+
+War Knife
+	Stats
+	Min Level: 8
+Damage: 7-13
+Speed: 1.70
+DPS: 5.88
+Pawn Price: 5 14
+	
+	
+
+Hollowfang Blade
+	Stats
+	Min Level: 8
+Damage: 15-23
+Speed: 1.40
+DPS: 13.57
+Pawn Price: 10 49
+	
+	
+
+Scrimshaw Dagger
+	Stats
+	Min Level: 8
+Damage: 19-29
+Speed: 1.80
+DPS: 13.33
+Pawn Price: 11 13
+	
+	
+
+Goblin Screwdriver
+	Stats
+	Min Level: 8
+Damage: 15-23
+Speed: 1.40
+DPS: 13.57
+Pawn Price: 11 13
+	
+	
+
+Ceremonial Knife
+	Stats
+	Min Level: 9
+Damage: 4-9
+Speed: 1.40
+DPS: 4.64
+Pawn Price: 2 26
+	
+	
+
+Venom Web Fang
+	Stats
+	Min Level: 9
+Damage: 16-25
+Speed: 1.50
+DPS: 13.67
+Pawn Price: 12 48
+	
+	
+
+Brackclaw
+	Stats
+	Min Level: 9
+Damage: 15-23
+Speed: 1.40
+DPS: 13.57
+Pawn Price: 12 81
+	
+	
+
+Ritual Blade
+	Stats
+	Min Level: 10
+Damage: 6-12
+Speed: 1.40
+DPS: 6.43
+Pawn Price: 7 30
+	
+	
+
+Relic Blade
+	Stats
+	Min Level: 10
+Damage: 20-31
+Speed: 1.80
+DPS: 14.17
+Pawn Price: 13 79
+	
+	
+
+Thornblade
+	Stats
+	Min Level: 10
+Damage: 18-28
+Speed: 1.60
+DPS: 14.38
+Pawn Price: 14 9
+	
+	
+
+Threshadon Fang
+	Stats
+	Min Level: 13
+Damage: 4-9
+Speed: 1.50
+DPS: 4.33
+Pawn Price: 3 17
+	
+	
+
+Sharpened Knife
+	Stats
+	Min Level: 13
+Damage: 6-11
+Speed: 1.40
+DPS: 6.07
+Pawn Price: 4 78
+	
+	
+
+Hunting Knife
+	Stats
+	Min Level: 13
+Damage: 13-20
+Speed: 1.70
+DPS: 9.71
+Pawn Price: 8 11
+	
+	
+
+Serrated Knife
+	Stats
+	Min Level: 13
+Damage: 8-16
+Speed: 1.60
+DPS: 7.50
+Pawn Price: 10 46
+	
+	
+
+Hook Dagger
+	Stats
+	Min Level: 13
+Damage: 8-15
+Speed: 1.50
+DPS: 7.67
+Pawn Price: 10 54
+	
+	
+
+Assassin's Blade
+	Stats
+	Min Level: 14
+Damage: 25-39
+Speed: 1.90
+DPS: 16.84
+Pawn Price: 29 74
+	
+	
+
+Small Dagger
+	Stats
+	Min Level: 15
+Damage: 4-9
+Speed: 1.40
+DPS: 4.64
+Pawn Price: 4 40
+	
+	
+
+Tail Spike
+	Stats
+	Min Level: 15
+Damage: 10-20
+Speed: 1.80
+DPS: 8.33
+Pawn Price: 13 57
+	
+	
+
+Harpy Skinner
+	Stats
+	Min Level: 15
+Damage: 8-16
+Speed: 1.40
+DPS: 8.57
+Pawn Price: 14 36
+	
+	
+
+Blackfang
+  Unique item
+	Stats
+	Min Level: 15
+Damage: 12-23
+Speed: 1.50
+DPS: 11.67
+Pawn Price: 33 86
+	
+	
+
+Honed Dagger
+	Stats
+	Min Level: 16
+Damage: 6-12
+Speed: 1.30
+DPS: 6.92
+Pawn Price: 7 30
+	
+	
+
+Big Bronze Knife
+	Stats
+	Min Level: 16
+Damage: 11-22
+Speed: 1.90
+DPS: 8.68
+Pawn Price: 16 39
+	
+	
+
+Bite of Serra'kis
+	Stats
+	Min Level: 16
+Damage: 18-28
+Speed: 1.30
+DPS: 17.69
+Pawn Price: 35 11
+	
+	
+
+Blackvenom Blade
+	Stats
+	Min Level: 16
+Damage: 25-38
+Speed: 1.80
+DPS: 17.50
+Pawn Price: 35 94
+	
+	
+
+Talon of Vultros
+  Unique item
+	Stats
+	Min Level: 16
+Damage: 28-43
+Speed: 2.00
+DPS: 17.75
+Pawn Price: 38
+	
+	
+
+Buzzer Blade
+	Stats
+	Min Level: 17
+Damage: 8-15
+Speed: 1.50
+DPS: 7.67
+Pawn Price: 8 20
+	
+	
+
+Pearl-handled Dagger
+	Stats
+	Min Level: 17
+Damage: 11-21
+Speed: 1.70
+DPS: 9.41
+Pawn Price: 18 65
+	
+	
+
+Naraxis' Fang
+	Stats
+	Min Level: 17
+Damage: 22-34
+Speed: 1.60
+DPS: 17.50
+Pawn Price: 33 32
+	
+	
+
+Meteor Shard
+	Stats
+	Min Level: 17
+Damage: 22-33
+Speed: 1.50
+DPS: 18.33
+Special Ability! (coming soon)
+Pawn Price: 40 44
+	
+	
+
+Razormane Backstabber
+	Stats
+	Min Level: 18
+Damage: 9-18
+Speed: 1.70
+DPS: 7.94
+Pawn Price: 2 47
+	
+	
+
+Deft Stiletto
+	Stats
+	Min Level: 19
+Damage: 12-19
+Speed: 1.40
+DPS: 11.07
+Pawn Price: 15 64
+	
+	
+
+Flesh Piercer
+	Stats
+	Min Level: 19
+Damage: 29-44
+Speed: 2.00
+DPS: 18.25
+Pawn Price: 39 86
+	
+	
+
+Vendetta
+  Unique item
+	Stats
+	Min Level: 19
+Damage: 19-30
+Speed: 1.30
+DPS: 18.85
+Pawn Price: 47 64
+	
+	
+
+Thornspike
+	Stats
+	Min Level: 20
+Damage: 23-35
+Speed: 1.70
+DPS: 17.06
+Pawn Price: 25 70
+	
+	
+
+Deadly Bronze Poniard
+	Stats
+	Min Level: 20
+Damage: 14-26
+Speed: 1.80
+DPS: 11.11
++1 Agility
+Pawn Price: 27 31
+	
+	
+
+Shadow Claw
+  Unique item
+	Stats
+	Min Level: 20
+Damage: 28-43
+Speed: 1.90
+DPS: 18.68
+Pawn Price: 55 63
+	
+	
+
+Sharp-edged Stiletto
+	Stats
+	Min Level: 21
+Damage: 10-20
+Speed: 1.60
+DPS: 9.38
+Pawn Price: 14 23
+	
+	
+
+Wyvern Tailspike
+	Stats
+	Min Level: 21
+Damage: 14-27
+Speed: 1.80
+DPS: 11.39
+Pawn Price: 31 9
+	
+	
+
+Shadow Hunter Knife
+	Stats
+	Min Level: 22
+Damage: 24-36
+Speed: 1.70
+DPS: 17.65
+	
+	
+
+Cross Dagger
+	Stats
+	Min Level: 23
+Damage: 11-22
+Speed: 1.30
+DPS: 12.69
+Pawn Price: 38 30
+	
+	
+
+Swinetusk Shank
+  Unique item
+	Stats
+	Min Level: 23
+Damage: 25-39
+Speed: 1.50
+DPS: 21.33
++2 Stamina
+Pawn Price: 68 43
+	
+	
+
+Howling Blade
+  Unique item
+	Stats
+	Min Level: 26
+Damage: 27-41
+Speed: 1.40
+DPS: 24.29
++3 Agility
+Pawn Price: 91 8
+	
+	
+
+Shiny Dirk
+	Stats
+	Min Level: 29
+Damage: 21-33
+Speed: 1.60
+DPS: 16.88
+Pawn Price: 39 57
+	
+	
+
+Tigerbane
+	Stats
+	Min Level: 29
+Damage: 40-61
+Speed: 1.90
+DPS: 26.58
+Pawn Price: 1 6 10
+	
+	
+
+Razor Main Gauche
+	Stats
+	Min Level: 31
+Damage: 24-37
+Speed: 1.60
+DPS: 19.06
+Pawn Price: 38 67
+	
+	
+
+Sacrificial Kris
+	Stats
+	Min Level: 34
+Damage: 36-55
+Speed: 1.40
+DPS: 32.50
+Pawn Price: 1 48 70
+	
+	
+
+Deadly Stiletto
+	Stats
+	Min Level: 41
+Damage: 37-57
+Speed: 1.60
+DPS: 29.38
+Pawn Price: 90 86
+
+
+
+
+Boot Knife
+	Stats
+	Min Level: 1
+Damage: 4-6
+Speed: 2.00
+DPS: 2.50
+Stack Size: 100
+	
+	
+
+Small Throwing Knife
+	Stats
+	Min Level: 1
+Damage: 1-3
+Speed: 2.00
+DPS: 1.00
+Stack Size: 100
+	
+	
+
+Crude Throwing Axe
+	Stats
+	Min Level: 1
+Damage: 1-3
+Speed: 2.00
+DPS: 1.00
+Stack Size: 100
+	
+	
+
+Balanced Throwing Dagger
+	Stats
+	Min Level: 5
+Damage: 2-5
+Speed: 2.00
+DPS: 1.75
+Stack Size: 100
+	
+	
+
+Weighted Throwing Axe
+	Stats
+	Min Level: 5
+Damage: 2-5
+Speed: 2.00
+DPS: 1.75
+Stack Size: 100
+	
+	
+
+Keen Throwing Knife
+	Stats
+	Min Level: 13
+Damage: 4-8
+Speed: 2.00
+DPS: 3.00
+Stack Size: 100
+	
+	
+
+Sharp Throwing Axe
+	Stats
+	Min Level: 13
+Damage: 4-8
+Speed: 2.00
+DPS: 3.00
+Stack Size: 100
+	
+	
+
+Heavy Throwing Dagger
+	Stats
+	Min Level: 24
+Damage: 7-15
+Speed: 2.00
+DPS: 5.50
+Stack Size: 100
+Pawn Price: 1
+	
+	
+
+Deadly Throwing Axe
+	Stats
+	Min Level: 24
+Damage: 7-15
+Speed: 2.00
+DPS: 5.50
+Stack Size: 100
+Pawn Price: 1
+	
+	
+
+Bent Fire Wand
+	Stats
+	Min Level: 1
+Damage: 7-11
+Speed: 2.80
+DPS: 3.21
+Pawn Price: 2
+	
+	
+
+Alchemist's Wand
+	Stats
+	Min Level: 1
+Damage: 12-19
+Speed: 3.30
+DPS: 4.70
+Pawn Price: 41
+	
+	
+
+Dwarven Flamestick
+	Stats
+	Min Level: 8
+Damage: 26-40
+Speed: 3.30
+DPS: 10.00
+Pawn Price: 8 20
+	
+	
+
+Cookie's Stirring Rod
+  Unique item
+	Stats
+	Min Level: 10
+Damage: 20-31
+Speed: 2.30
+DPS: 11.09
+Pawn Price: 12 55
+	
+	
+
+Cinder Wand
+	Stats
+	Min Level: 11
+Damage: 11-21
+Speed: 1.40
+DPS: 11.43
+Pawn Price: 6 22
+	
+	
+
+Blazing Wand
+	Stats
+	Min Level: 12
+Damage: 12-24
+Speed: 1.50
+DPS: 12.00
+Pawn Price: 6 72
+	
+	
+
+Opaque Wand
+	Stats
+	Min Level: 14
+Damage: 13-24
+Speed: 1.40
+DPS: 13.21
+Pawn Price: 9 40
+	
+	
+
+Wand of Decay
+	Stats
+	Min Level: 16
+Damage: 15-29
+Speed: 1.50
+DPS: 14.67
+Pawn Price: 11 75
+	
+	
+
+Torchlight Wand
+	Stats
+	Min Level: 16
+Damage: 13-25
+Speed: 1.30
+DPS: 14.62
+Pawn Price: 12 44
+	
+	
+
+Spellcrafter Wand
+	Stats
+	Min Level: 16
+Damage: 32-49
+Speed: 3.20
+DPS: 12.66
+Pawn Price: 21 94
+	
+	
+
+Smoldering Wand
+	Stats
+	Min Level: 17
+Damage: 14-27
+Speed: 1.60
+DPS: 12.81
+Pawn Price: 6 68
+	
+	
+
+Sable Wand
+	Stats
+	Min Level: 17
+Damage: 19-36
+Speed: 1.80
+DPS: 15.28
+Pawn Price: 13 99
+	
+	
+
+Gloom Wand
+	Stats
+	Min Level: 18
+Damage: 26-40
+Speed: 3.30
+DPS: 10.00
+Pawn Price: 7 70
+	
+	
+
+Charred Razormane Wand
+	Stats
+	Min Level: 20
+Damage: 14-28
+Speed: 1.50
+DPS: 14.00
+Pawn Price: 2 40
+	
+	
+
+Consecrated Wand
+	Stats
+	Min Level: 20
+Damage: 28-42
+Speed: 2.50
+DPS: 14.00
+Pawn Price: 34 65
+	
+	
+
+Excavation Rod
+	Stats
+	Min Level: 20
+Damage: 38-57
+Speed: 3.40
+DPS: 13.97
+Pawn Price: 34 89
+	
+	
+
+Burning Wand
+	Stats
+	Min Level: 22
+Damage: 24-36
+Speed: 2.70
+DPS: 11.11
+Pawn Price: 11 61
+	
+	
+
+Dusk Wand
+	Stats
+	Min Level: 22
+Damage: 28-43
+Speed: 3.20
+DPS: 11.09
+Pawn Price: 11 66
+	
+	
+
+Wand of Eventide
+	Stats
+	Min Level: 22
+Damage: 30-46
+Speed: 2.60
+DPS: 14.62
+Pawn Price: 39 35
+	
+	
+
+Charred Wand
+	Stats
+	Min Level: 23
+Damage: 24-46
+Speed: 1.80
+DPS: 19.44
+Pawn Price: 26 46
+	
+	
+
+Scorching Wand
+	Stats
+	Min Level: 23
+Damage: 32-48
+Speed: 2.60
+DPS: 15.38
+Pawn Price: 43 12
+	
+	
+
+Flash Wand
+	Stats
+	Min Level: 27
+Damage: 38-58
+Speed: 2.60
+DPS: 18.46
+Pawn Price: 68 49
+	
+	
+
+Fizzle's Zippy Lighter
+	Stats
+	Min Level: 28
+Damage: 43-65
+Speed: 2.80
+DPS: 19.29
+Pawn Price: 67 63
+	
+	
+
+Rod of Sorrow
+	Stats
+	Min Level: 29
+Damage: 54-82
+Speed: 3.40
+DPS: 20.00
+Pawn Price: 79 61
+
+
+
+
+Worn Shortbow
+	Stats
+	Min Level: 1
+Damage: 4-7
+Speed: 2.30
+DPS: 2.39
+Pawn Price: 5
+	
+	
+
+Polished Shortbow
+	Stats
+	Min Level: 1
+Damage: 4-6
+Speed: 2.00
+DPS: 2.50
+Pawn Price: 11
+	
+	
+
+Cracked Shortbow
+	Stats
+	Min Level: 1
+Damage: 4-7
+Speed: 2.30
+DPS: 2.39
+Pawn Price: 39
+	
+	
+
+Ashwood Bow
+	Stats
+	Min Level: 1
+Damage: 8-12
+Speed: 2.10
+DPS: 4.76
+Pawn Price: 1 41
+	
+	
+
+Heavy Shortbow
+	Stats
+	Min Level: 2
+Damage: 11-17
+Speed: 2.50
+DPS: 5.60
+Pawn Price: 2 86
+	
+	
+
+Feeble Shortbow
+	Stats
+	Min Level: 3
+Damage: 5-9
+Speed: 1.80
+DPS: 3.89
+Pawn Price: 1 46
+	
+	
+
+Hornwood Recurve Bow
+	Stats
+	Min Level: 5
+Damage: 7-13
+Speed: 2.10
+DPS: 4.76
+Pawn Price: 57
+	
+	
+
+Light Bow
+	Stats
+	Min Level: 8
+Damage: 9-18
+Speed: 1.70
+DPS: 7.94
+Pawn Price: 3 55
+	
+	
+
+Orcish Battle Bow
+	Stats
+	Min Level: 9
+Damage: 11-21
+Speed: 1.90
+DPS: 8.42
+Pawn Price: 4 25
+	
+	
+
+Venomstrike
+	Stats
+	Min Level: 12
+Damage: 22-42
+Speed: 2.40
+DPS: 13.33
+Pawn Price: 16 15
+	
+	
+
+Laminated Recurve Bow
+	Stats
+	Min Level: 13
+Damage: 15-29
+Speed: 2.60
+DPS: 8.46
+Pawn Price: 3 50
+	
+	
+
+Mishandled Recurve Bow
+	Stats
+	Min Level: 14
+Damage: 11-17
+Speed: 2.40
+DPS: 5.83
+Pawn Price: 7 51
+	
+	
+
+Light Hunting Bow
+	Stats
+	Min Level: 16
+Damage: 8-15
+Speed: 1.70
+DPS: 6.76
+Pawn Price: 3 74
+	
+	
+
+Reinforced Bow
+	Stats
+	Min Level: 18
+Damage: 13-21
+Speed: 2.20
+DPS: 7.73
+Pawn Price: 7 62
+	
+	
+
+Stiff Recurve Bow
+	Stats
+	Min Level: 18
+Damage: 14-22
+Speed: 2.80
+DPS: 6.43
+Pawn Price: 10 62
+	
+	
+
+Archer's Longbow
+	Stats
+	Min Level: 19
+Damage: 19-36
+Speed: 1.90
+DPS: 14.47
+Pawn Price: 18 19
+	
+	
+
+Ranger Bow
+	Stats
+	Min Level: 19
+Damage: 23-35
+Speed: 2.70
+DPS: 10.74
+Pawn Price: 36 41
+	
+	
+
+Lunaris Bow
+	Stats
+	Min Level: 20
+Damage: 23-35
+Speed: 2.70
+DPS: 10.74
++1 Agility
+Pawn Price: 32 26
+	
+	
+
+Raptor's End
+	Stats
+	Min Level: 20
+Damage: 25-38
+Speed: 2.90
+DPS: 10.86
+Pawn Price: 34 26
+	
+	
+
+Taut Compound Bow
+	Stats
+	Min Level: 21
+Damage: 13-21
+Speed: 2.50
+DPS: 6.80
+Pawn Price: 15 41
+	
+	
+
+Heavy Recurve Bow
+	Stats
+	Min Level: 22
+Damage: 16-25
+Speed: 2.40
+DPS: 8.54
+Pawn Price: 12 69
+	
+	
+
+Ravenwood Bow
+	Stats
+	Min Level: 22
+Damage: 17-26
+Speed: 1.90
+DPS: 11.32
+Pawn Price: 42 7
+	
+	
+
+Nightstalker Bow
+  Unique item
+	Stats
+	Min Level: 22
+Damage: 16-24
+Speed: 1.70
+DPS: 11.76
++2 Agility
+Pawn Price: 46 65
+	
+	
+
+Bow of Plunder
+	Stats
+	Min Level: 23
+Damage: 31-59
+Speed: 2.60
+DPS: 17.31
+Pawn Price: 28 62
+	
+	
+
+Cliffrunner's Aim
+	Stats
+	Min Level: 24
+Damage: 29-54
+Speed: 2.30
+DPS: 18.04
++10 Health
+Pawn Price: 29 91
+	
+	
+
+Whipwood Recurve Bow
+	Stats
+	Min Level: 24
+Damage: 17-27
+Speed: 1.80
+DPS: 12.22
+Pawn Price: 48 14
+
+
+
+
+
+Old Blunderbuss
+	Stats
+	Min Level: 1
+Damage: 4-7
+Speed: 2.30
+DPS: 2.39
+Pawn Price: 5
+	
+	
+
+Solid Blunderbuss
+	Stats
+	Min Level: 1
+Damage: 4-7
+Speed: 2.20
+DPS: 2.50
+Pawn Price: 8
+	
+	
+
+Rust-covered Blunderbuss
+	Stats
+	Min Level: 1
+Damage: 4-7
+Speed: 2.40
+DPS: 2.29
+Pawn Price: 28
+	
+	
+
+Rough Boomstick
+	Stats
+	Min Level: 1
+Damage: 9-14
+Speed: 2.30
+DPS: 5.00
+Pawn Price: 1 87
+	
+	
+
+Cheap Blunderbuss
+	Stats
+	Min Level: 3
+Damage: 7-11
+Speed: 2.20
+DPS: 4.09
+Pawn Price: 1 47
+	
+	
+
+Hunter's Muzzle Loader
+	Stats
+	Min Level: 3
+Damage: 9-14
+Speed: 1.80
+DPS: 6.39
+Pawn Price: 3 73
+	
+	
+
+Ornate Blunderbuss
+	Stats
+	Min Level: 6
+Damage: 8-16
+Speed: 2.20
+DPS: 5.45
+Pawn Price: 82
+	
+	
+
+Compact Shotgun
+	Stats
+	Min Level: 7
+Damage: 10-20
+Speed: 2.00
+DPS: 7.50
+Pawn Price: 2 85
+	
+	
+
+Daryl's Hunting Rifle
+	Stats
+	Min Level: 7
+Damage: 15-23
+Speed: 2.50
+DPS: 7.60
+Pawn Price: 6 84
+	
+	
+
+Dwarven Fishing Pole
+	Stats
+	Min Level: 9
+Damage: 12-18
+Speed: 1.90
+DPS: 7.89
+Pawn Price: 9 22
+	
+	
+
+Hunter's Boomstick
+	Stats
+	Min Level: 11
+Damage: 11-21
+Speed: 2.10
+DPS: 7.62
+Pawn Price: 2 64
+	
+	
+
+Deadly Blunderbuss
+	Stats
+	Min Level: 11
+Damage: 17-27
+Speed: 2.60
+DPS: 8.46
+Pawn Price: 11 79
+	
+	
+
+Lovingly Crafted Boomstick
+	Stats
+	Min Level: 14
+Damage: 13-20
+Speed: 1.80
+DPS: 9.17
+Pawn Price: 18
+	
+	
+
+Double-barreled Shotgun
+	Stats
+	Min Level: 14
+Damage: 18-27
+Speed: 2.30
+DPS: 9.78
+Pawn Price: 21 50
+	
+	
+
+Dirty Blunderbuss
+	Stats
+	Min Level: 15
+Damage: 10-19
+Speed: 2.20
+DPS: 6.59
+Pawn Price: 3 35
+	
+	
+
+Privateer Musket
+	Stats
+	Min Level: 15
+Damage: 18-34
+Speed: 2.30
+DPS: 11.30
+Pawn Price: 10 38
+	
+	
+
+Silver-plated Shotgun
+	Stats
+	Min Level: 16
+Damage: 21-32
+Speed: 2.70
+DPS: 9.81
+Pawn Price: 23 57
+	
+	
+
+Large Bore Blunderbuss
+	Stats
+	Min Level: 18
+Damage: 19-36
+Speed: 2.50
+DPS: 11.00
+Pawn Price: 7 54
+	
+	
+
+Shoddy Blunderbuss
+	Stats
+	Min Level: 19
+Damage: 12-22
+Speed: 2.10
+DPS: 8.10
+Pawn Price: 5 90
+	
+	
+
+Oiled Blunderbuss
+	Stats
+	Min Level: 19
+Damage: 10-16
+Speed: 2.00
+DPS: 6.50
+Pawn Price: 11 73
+	
+	
+
+Moonsight Rifle
+	Stats
+	Min Level: 19
+Damage: 14-21
+Speed: 1.70
+DPS: 10.29
+Pawn Price: 31 83
+	
+	
+
+BKP 2700 "Enforcer"
+	Stats
+	Min Level: 23
+Damage: 27-51
+Speed: 2.70
+DPS: 14.44
+Pawn Price: 14 19
+	
+	
+
+Long-barreled Musket
+	Stats
+	Min Level: 23
+Damage: 15-24
+Speed: 2.60
+DPS: 7.50
+Pawn Price: 18 77
+	
+	
+
+BKP "Sparrow" Smallbore
+	Stats
+	Min Level: 23
+Damage: 16-24
+Speed: 1.70
+DPS: 11.76
+Pawn Price: 45 77
+	
+	
+
+Flash Rifle
+	Stats
+	Min Level: 27
+Damage: 20-31
+Speed: 1.80
+DPS: 14.17
++2 Agility
+Pawn Price: 63 86
+	
+	
+
+Shrapnel Blaster
+	Stats
+	Min Level: 30
+Damage: 24-37
+Speed: 1.90
+DPS: 16.05
+Pawn Price: 80 73
+
+
+
+
+Bent Staff
+	Stats
+	Min Level: 1
+Damage: 5-8
+Speed: 2.90
+DPS: 2.24
+Pawn Price: 9
+	
+	
+
+Cane of Elders
+	Stats
+	Min Level: 1
+Damage: 8-13
+Speed: 3.50
+DPS: 3.00
+Pawn Price: 20
+	
+	
+
+Acolyte Staff
+	Stats
+	Min Level: 1
+Damage: 6-9
+Speed: 2.40
+DPS: 3.13
+Pawn Price: 20
+	
+	
+
+Initiate Staff
+	Stats
+	Min Level: 1
+Damage: 14-19
+Speed: 3.20
+DPS: 5.16
+Pawn Price: 20
+	
+	
+
+Militia Quarterstaff
+	Stats
+	Min Level: 1
+Damage: 12-17
+Speed: 2.80
+DPS: 5.18
+Pawn Price: 21
+	
+	
+
+Thistlewood Staff
+	Stats
+	Min Level: 1
+Damage: 13-19
+Speed: 3.10
+DPS: 5.16
+Pawn Price: 21
+	
+	
+
+Smooth Walking Staff
+	Stats
+	Min Level: 1
+Damage: 15-21
+Speed: 3.30
+DPS: 5.45
+Pawn Price: 32
+	
+	
+
+Gnarled Short Staff
+	Stats
+	Min Level: 1
+Damage: 17-24
+Speed: 2.80
+DPS: 7.32
+Pawn Price: 99
+	
+	
+
+Long Bo Staff
+	Stats
+	Min Level: 1
+Damage: 15-21
+Speed: 2.50
+DPS: 7.20
+Pawn Price: 1
+	
+	
+
+Frostbit Staff
+	Stats
+	Min Level: 1
+Damage: 19-27
+Speed: 2.70
+DPS: 8.52
+Pawn Price: 1 86
+	
+	
+
+Frostmane Staff
+	Stats
+	Min Level: 1
+Damage: 22-31
+Speed: 3.10
+DPS: 8.55
+Pawn Price: 1 88
+	
+	
+
+Executor Staff
+	Stats
+	Min Level: 2
+Damage: 8-13
+Speed: 2.90
+DPS: 3.62
+Pawn Price: 30
+	
+	
+
+Balanced Fighting Stick
+	Stats
+	Min Level: 3
+Damage: 22-31
+Speed: 2.20
+DPS: 12.05
+Pawn Price: 5 85
+	
+	
+
+Withered Staff
+	Stats
+	Min Level: 5
+Damage: 8-12
+Speed: 3.00
+DPS: 3.33
+Pawn Price: 68
+	
+	
+
+Apprentice Short Staff
+	Stats
+	Min Level: 5
+Damage: 15-21
+Speed: 2.50
+DPS: 7.20
+Pawn Price: 1
+	
+	
+
+Sturdy Quarterstaff
+	Stats
+	Min Level: 5
+Damage: 11-17
+Speed: 2.80
+DPS: 5.00
+Pawn Price: 1 2
+	
+	
+
+Adept Short Staff
+	Stats
+	Min Level: 5
+Damage: 9-14
+Speed: 2.40
+DPS: 4.79
+Pawn Price: 1 3
+	
+	
+
+Staff of Conjuring
+  Unique item
+	Stats
+	Min Level: 5
+Damage: 33-46
+Speed: 3.00
+DPS: 13.17
+Special Ability! (coming soon)
+Pawn Price: 9 5
+	
+	
+
+Dwarven Magestaff
+	Stats
+	Min Level: 5
+Damage: 31-43
+Speed: 2.80
+DPS: 13.21
++2 Intellect
+Pawn Price: 9 25
+	
+	
+
+Vile Fin Oracle Staff
+	Stats
+	Min Level: 6
+Damage: 12-19
+Speed: 2.90
+DPS: 5.34
+Pawn Price: 1 41
+	
+	
+
+Defias Mage Staff
+	Stats
+	Min Level: 6
+Damage: 32-44
+Speed: 2.80
+DPS: 13.57
++2 Intellect
+Pawn Price: 9 95
+	
+	
+
+Dreamwatcher Staff
+	Stats
+	Min Level: 7
+Damage: 15-23
+Speed: 3.20
+DPS: 5.94
+Pawn Price: 1 83
+	
+	
+
+Medicine Staff
+	Stats
+	Min Level: 7
+Damage: 15-23
+Speed: 2.50
+DPS: 7.60
+Pawn Price: 4 72
+	
+	
+
+Blemished Wooden Staff
+	Stats
+	Min Level: 8
+Damage: 16-25
+Speed: 3.20
+DPS: 6.41
+Pawn Price: 2 36
+	
+	
+
+Darkwood Staff
+	Stats
+	Min Level: 8
+Damage: 20-31
+Speed: 3.20
+DPS: 7.97
+Pawn Price: 5 92
+	
+	
+
+Staff of Nobles
+	Stats
+	Min Level: 8
+Damage: 40-55
+Speed: 3.20
+DPS: 14.84
++2 Spirit
+Pawn Price: 13 17
+	
+	
+
+Rough Wooden Staff
+	Stats
+	Min Level: 9
+Damage: 12-19
+Speed: 3.30
+DPS: 4.70
+Pawn Price: 1 96
+	
+	
+
+Riverside Staff
+	Stats
+	Min Level: 9
+Damage: 40-55
+Speed: 3.10
+DPS: 15.32
++2 Spirit
+Pawn Price: 14 97
+	
+	
+
+Cauldron Stirrer
+	Stats
+	Min Level: 10
+Damage: 21-33
+Speed: 3.10
+DPS: 8.71
+Pawn Price: 9 19
+	
+	
+
+Lesser Staff of the Spire
+	Stats
+	Min Level: 10
+Damage: 45-62
+Speed: 3.40
+DPS: 15.74
++2 Intellect
++3 Spirit
+Pawn Price: 18 54
+	
+	
+
+Emberstone Staff
+  Unique item
+	Stats
+	Min Level: 11
+Damage: 43-59
+Speed: 3.00
+DPS: 17.00
++3 Intellect
++1 Spirit
+Special Ability! (coming soon)
+Pawn Price: 24 33
+	
+	
+
+Foamspittle Staff
+	Stats
+	Min Level: 12
+Damage: 25-38
+Speed: 3.20
+DPS: 9.84
++1 Spirit
+Pawn Price: 11 84
+	
+	
+
+Living Root
+	Stats
+	Min Level: 12
+Damage: 43-59
+Speed: 2.90
+DPS: 17.59
++5 Spirit
+Special Ability! (coming soon)
++1 Nature Resistance
+Pawn Price: 26 92
+	
+	
+
+Journeyman Quarterstaff
+	Stats
+	Min Level: 13
+Damage: 18-27
+Speed: 2.70
+DPS: 8.33
+Pawn Price: 6 4
+	
+	
+
+Cedar Walking Stick
+	Stats
+	Min Level: 13
+Damage: 26-35
+Speed: 2.80
+DPS: 10.89
+Pawn Price: 10 96
+	
+	
+
+Dwarven War Staff
+	Stats
+	Min Level: 13
+Damage: 26-40
+Speed: 3.20
+DPS: 10.31
+Pawn Price: 13 32
+	
+	
+
+Nightbane Staff
+	Stats
+	Min Level: 13
+Damage: 39-54
+Speed: 2.70
+DPS: 17.22
++2 Intellect
++2 Strength
+Pawn Price: 26 33
+	
+	
+
+Staff of the Purifier
+	Stats
+	Min Level: 13
+Damage: 54-74
+Speed: 3.70
+DPS: 17.30
++3 Stamina
+Special Ability! (coming soon)
+Pawn Price: 26 35
+	
+	
+
+Twisted Chanter's Staff
+	Stats
+	Min Level: 13
+Damage: 52-71
+Speed: 3.40
+DPS: 18.09
++5 Intellect
++25 Mana
+Pawn Price: 31 13
+	
+	
+
+Gnarled Hermit's Staff
+	Stats
+	Min Level: 14
+Damage: 24-37
+Speed: 2.80
+DPS: 10.89
+Pawn Price: 15 72
+	
+	
+
+Odo's Ley Staff
+	Stats
+	Min Level: 14
+Damage: 34-52
+Speed: 2.90
+DPS: 14.83
++2 Spirit
++2 Stamina
+Pawn Price: 37 61
+	
+	
+
+Chipped Quarterstaff
+	Stats
+	Min Level: 15
+Damage: 16-25
+Speed: 3.10
+DPS: 6.61
+Pawn Price: 5 22
+	
+	
+
+Wind Rider Staff
+	Stats
+	Min Level: 15
+Damage: 25-39
+Speed: 2.80
+DPS: 11.43
++1 Spirit
+Pawn Price: 17 10
+	
+	
+
+Staff of Westfall
+	Stats
+	Min Level: 15
+Damage: 46-62
+Speed: 3.00
+DPS: 18.00
++5 Spirit
+Pawn Price: 34 26
+	
+	
+
+Icicle Rod
+	Stats
+	Min Level: 15
+Damage: 37-50
+Speed: 3.80
+DPS: 11.45
+Special Ability! (coming soon)
+Pawn Price: 34 76
+	
+	
+
+Hardened Root Staff
+	Stats
+	Min Level: 15
+Damage: 50-69
+Speed: 3.30
+DPS: 18.03
++4 Spirit
++2 Strength
+Pawn Price: 35
+	
+	
+
+Gnarled Ash Staff
+  Unique item
+	Stats
+	Min Level: 15
+Damage: 51-70
+Speed: 3.20
+DPS: 18.91
++5 Stamina
++30 Health
+Pawn Price: 38 84
+	
+	
+
+Witching Stave
+	Stats
+	Min Level: 15
+Damage: 58-79
+Speed: 3.60
+DPS: 19.03
++5 Intellect
++32 Mana
+Special Ability! (coming soon)
+Pawn Price: 42 16
+	
+	
+
+Cryptbone Staff
+	Stats
+	Min Level: 16
+Damage: 46-63
+Speed: 2.90
+DPS: 18.79
++3 Intellect
++2 Spirit
++2 Strength
+Pawn Price: 36 44
+	
+	
+
+Magician Staff
+	Stats
+	Min Level: 17
+Damage: 24-36
+Speed: 2.90
+DPS: 10.34
+Pawn Price: 11 8
+	
+	
+
+Ceranium Rod
+	Stats
+	Min Level: 17
+Damage: 27-42
+Speed: 2.70
+DPS: 12.78
++10 Health
+Pawn Price: 23 22
+	
+	
+
+Dark Iron Walking Stick
+	Stats
+	Min Level: 17
+Damage: 45-62
+Speed: 2.80
+DPS: 19.11
++3 Agility
++4 Intellect
+Pawn Price: 40 23
+	
+	
+
+Ogremage Staff
+	Stats
+	Min Level: 17
+Damage: 55-75
+Speed: 3.40
+DPS: 19.12
++6 Intellect
+Pawn Price: 41 17
+	
+	
+
+Rod of the Sleepwalker
+	Stats
+	Min Level: 17
+Damage: 48-65
+Speed: 2.80
+DPS: 20.18
++6 Intellect
++35 Health
+Pawn Price: 49 20
+	
+	
+
+Staff of the Shade
+	Stats
+	Min Level: 17
+Damage: 44-60
+Speed: 2.60
+DPS: 20.00
++3 Spirit
+Special Ability! (coming soon)
++1 Shadow Resistance
+Pawn Price: 50 16
+	
+	
+
+Oaken War Staff
+	Stats
+	Min Level: 18
+Damage: 39-54
+Speed: 3.70
+DPS: 12.57
+Pawn Price: 17 90
+	
+	
+
+Staff of Horrors
+	Stats
+	Min Level: 18
+Damage: 37-56
+Speed: 3.40
+DPS: 13.68
+Special Ability! (coming soon)
+Pawn Price: 26 92
+	
+	
+
+Black Duskwood Staff
+	Stats
+	Min Level: 19
+Damage: 49-67
+Speed: 2.80
+DPS: 20.71
+Pawn Price: 62 96
+	
+	
+
+Crescent Staff
+	Stats
+	Min Level: 20
+Damage: 35-53
+Speed: 2.90
+DPS: 15.17
++1 Intellect
++1 Spirit
++1 Stamina
+Pawn Price: 34 65
+	
+	
+
+Diviner Long Staff
+	Stats
+	Min Level: 22
+Damage: 42-57
+Speed: 3.00
+DPS: 16.50
+Pawn Price: 19 72
+	
+	
+
+Acrobatic Staff
+	Stats
+	Min Level: 22
+Damage: 29-44
+Speed: 2.20
+DPS: 16.59
++2 Agility
++2 Stamina
+Pawn Price: 41 50
+	
+	
+
+Wind Spirit Staff
+  Unique item
+	Stats
+	Min Level: 22
+Damage: 63-86
+Speed: 3.30
+DPS: 22.58
++4 Intellect
++5 Stamina
++3 Strength
+Pawn Price: 82 67
+	
+	
+
+Monk's Staff
+	Stats
+	Min Level: 23
+Damage: 42-58
+Speed: 2.20
+DPS: 22.73
+Armor: 5
+Pawn Price: 77 35
+	
+	
+
+Tanglewood Staff
+	Stats
+	Min Level: 28
+Damage: 85-116
+Speed: 3.40
+DPS: 29.56
++5 Spirit
++60 Mana
+Special Ability! (coming soon)
+Pawn Price: 1 41 60
+	
+	
+
+Thaumaturgist Staff
+	Stats
+	Min Level: 33
+Damage: 67-92
+Speed: 3.40
+DPS: 23.38
+Pawn Price: 58 71
+	
+	
+
+Magus Long Staff
+	Stats
+	Min Level: 42
+Damage: 95-129
+Speed: 3.30
+DPS: 33.94
+Pawn Price: 1 23 11
+
+
+
+

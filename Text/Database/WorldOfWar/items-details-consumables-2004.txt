@@ -1,0 +1,1982 @@
+Rough Arrow
+	Stats
+	Min Level: 1
+Damage: 1-2
+Speed: 3.00
+DPS: 0.50
+Stack Size: 100
+	
+	
+
+Light Shot
+	Stats
+	Min Level: 1
+Damage: 2-3
+Speed: 3.00
+DPS: 0.83
+Stack Size: 100
+	
+	
+
+Sharp Arrow
+	Stats
+	Min Level: 5
+Damage: 5-6
+Speed: 3.00
+DPS: 1.83
+Stack Size: 100
+	
+	
+
+Heavy Shot
+	Stats
+	Min Level: 5
+Damage: 5-6
+Speed: 3.00
+DPS: 1.83
+Stack Size: 100
+	
+	
+
+Razor Arrow
+	Stats
+	Min Level: 20
+Damage: 12-13
+Speed: 3.00
+DPS: 4.17
+Stack Size: 100
+Pawn Price: 2
+	
+	
+
+Solid Shot
+	Stats
+	Min Level: 20
+Damage: 12-13
+Speed: 3.00
+DPS: 4.17
+Stack Size: 100
+Pawn Price: 2
+	
+	
+
+
+
+Shiny Bauble
+	Stats
+	When applied to your fishing pole, it increases your fishing skill by 25 for 10 minutes.
+Stack Size: 20
+Pawn Price: 12
+	
+	
+
+Nightcrawlers
+	Stats
+	When applied to your fishing pole, it increases your fishing skill by 50 for 10 minutes.
+Stack Size: 20
+Pawn Price: 25
+	
+	
+
+Bright Baubles
+	Stats
+	When applied to your fishing pole, it increases your fishing skill by 75 for 10 minutes.
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+Aquadynamic Fish Attractor
+	Stats
+	When applied to your fishing pole, it increases your fishing skill by 100 for 5 minutes.
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+Iron Shield Spike
+	Stats
+	Attaches an Iron Spike to your shield that deals damage every time you block with it.
+Stack Size: 5
+Pawn Price: 2 50
+	
+	
+
+Oil of Olaf
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 3
+	
+	
+
+Light Armor Kit
+	Stats
+	Min Level: 1
+Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 2.
+Stack Size: 10
+Pawn Price: 15
+	
+	
+
+Medium Armor Kit
+	Stats
+	Min Level: 5
+Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 4.
+Stack Size: 10
+Pawn Price: 2
+	
+	
+
+Fishliver Oil
+	Stats
+	Min Level: 11
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 68
+	
+	
+
+Crippling Poison
+	Stats
+	Min Level: 20
+Coats a weapon with poison that lasts for 30 minutes. Each strike has a 30% chance of poisoning the enemy, slowing their movement speed by 70% for 15 seconds.
+Stack Size: 10
+Pawn Price: 5
+	
+	
+
+Mind-numbing Poison
+	Stats
+	Min Level: 24
+Coats a weapon with poison that lasts for 30 minutes. Each strike has a 20% chance of poisoning the enemy, increasing their casting time by 70% for 10 seconds. 60 charges.
+Stack Size: 10
+Pawn Price: 5
+	
+	
+
+Instant Poison II
+	Stats
+	Min Level: 28
+Coats a weapon with poison that lasts for 30 minutes. Each strike has a 20% chance of poisoning the enemy which instantly inflicts 31-41 damage. 60 charges.
+Stack Size: 10
+Pawn Price: 25
+	
+	
+
+Deadly Poison
+	Stats
+	Min Level: 30
+Coats a weapon with poison that lasts for 30 minutes. Each strike has a 30% chance of poisoning the enemy for 32 damage over 12 seconds. Stacks up to 5 times on a single target. 70 charges.
+Stack Size: 10
+Pawn Price: 5
+	
+	
+
+Frost Oil
+	Stats
+	Min Level: 30
+When applied to a melee weapon it gives a 10% chance of casting Frostbolt at the opponent when it hits. Lasts 30 minutes.
+Stack Size: 5
+Pawn Price: 1 50
+	
+	
+
+Deadly Poison II
+	Stats
+	Min Level: 38
+Coats a weapon with poison that lasts for 30 minutes. Each strike has a 30% chance of poisoning the enemy for 48 damage over 12 seconds. Stacks up to 5 times on a single target. 90 charges.
+Stack Size: 10
+Pawn Price: 2
+	
+	
+
+Mind-numbing Poison II
+	Stats
+	Min Level: 38
+Coats a weapon with poison that lasts for 30 minutes. Each strike has a 20% chance of poisoning the enemy, increasing their casting time by 100% for 12 seconds. 80 charges.
+Stack Size: 10
+Pawn Price: 5
+	
+	
+
+
+
+Weak Troll's Blood Potion
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 10
+	
+	
+
+Elixir of Minor Agility
+	Stats
+	Min Level: 2
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 15
+	
+	
+
+Elixir of Fortitude
+	Stats
+	Min Level: 2
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 15
+	
+	
+
+Elixir of Tongues (NYI)
+	Stats
+	Min Level: 5
+Stack Size: 5
+Pawn Price: 25
+	
+	
+	This potion has no effect until we put languages in.
+
+Elixir of Water Breathing
+	Stats
+	Min Level: 8
+Allows the Imbiber to breathe water for 1800 seconds.
+Stack Size: 5
+Pawn Price: 95
+	
+	
+
+Swim Speed Potion
+	Stats
+	Min Level: 10
+Increases your swim speed significantly for 20 seconds.
+Stack Size: 5
+Pawn Price: 35
+	
+	
+
+Elixir of Wisdom
+	Stats
+	Min Level: 10
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 1
+	
+	
+
+Strong Troll's Blood Potion
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 40
+	
+	
+
+Elixir of Defense
+	Stats
+	Min Level: 16
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 40
+	
+	
+
+Elixir of Lesser Agility
+	Stats
+	Min Level: 18
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 35
+	
+	
+
+Elixir of Firepower
+	Stats
+	Min Level: 18
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 35
+	
+	
+
+Elixir of Ogre's Strength
+	Stats
+	Min Level: 20
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 20
+	
+	
+
+Greater Healing Potion
+	Stats
+	Min Level: 21
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 1 25
+	
+	
+
+Mana Potion
+	Stats
+	Min Level: 27
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 1 20
+
+
+
+Conjured Bread
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+	
+	
+
+Darnassian Bleu
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Small Pumpkin
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Ripe Watermelon
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Beer Basted Boar Ribs
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 10
+	
+	
+
+Goretusk Liver Pie
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 25
+	
+	
+
+Dalaran Sharp
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 6
+	
+	
+
+Tel'Abim Banana
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 6
+	
+	
+
+Blood Sausage
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 40
+	
+	
+
+Seasoned Wolf Kabob
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 1
+	
+	
+
+Moist Cornbread
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 25
+	
+	
+
+Curiously Tasty Omelet
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 1 50
+	
+	
+
+Tasty Lion Steak
+	Stats
+	Min Level: 20
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 3
+	
+	
+
+Stormwind Brie
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+Wild Hog Shank
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+Goldenbark Apple
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+Mulgore Spice Bread
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+
+
+Rhapsody Malt (needs effect)
+	Stats
+	Stack Size: 10
+Pawn Price: 1
+	
+	
+
+Thunder Ale (needs effect)
+	Stats
+	Stack Size: 10
+Pawn Price: 12
+	
+	
+
+Conjured Water
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+	
+	
+
+Skin of Dwarven Stout (needs effect)
+	Stats
+	Min Level: 5
+Pawn Price: 62
+	
+	
+
+Flagon of Mead (needs effect)
+	Stats
+	Min Level: 15
+Pawn Price: 3 75
+	
+	
+
+Sweet Nectar
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+
+
+Recipe: Kaldorei Caviar
+	Stats
+	Teaches you how to cook Kaldorei Caviar.
+Pawn Price: 10
+	
+	
+
+Recipe: Elixir of Minor Agility
+	Stats
+	Teaches you how to make an Elixir of Minor Agility.
+Pawn Price: 25
+	
+	
+
+Plans: Copper Chain Vest
+	Stats
+	Teaches you how to make a Copper Chain Vest.
+Pawn Price: 25
+	
+	
+
+Recipe: Rage Potion
+	Stats
+	Teaches you how to make a Rage Potion.
+Pawn Price: 25
+	
+	
+
+Pattern: Red Linen Robe
+	Stats
+	Teaches you how to sew a Red Linen Robe.
+Pawn Price: 30
+	
+	
+
+Recipe: Swiftness Potion
+	Stats
+	Teaches you how to make a Swiftness Potion.
+Pawn Price: 40
+	
+	
+
+Recipe: Elixir of Tongues
+	Stats
+	Teaches you how to make an Elixir of Tongues.
+Pawn Price: 40
+	
+	
+
+Recipe: Westfall Stew
+	Stats
+	Teaches you how to cook Westfall Stew.
+Pawn Price: 50
+	
+	
+
+Pattern: Red Linen Bag
+	Stats
+	Teaches you how to sew a Red Linen Bag.
+Pawn Price: 50
+	
+	
+
+Pattern: Red Linen Vest
+	Stats
+	Teaches you how to sew a Red Linen Vest.
+Pawn Price: 50
+	
+	
+
+Plans: Gemmed Copper Gauntlets
+	Stats
+	Teaches you how to make Gemmed Copper Gauntlets.
+Pawn Price: 50
+	
+	
+
+Recipe: Beer Basted Boar Ribs
+	Stats
+	Teaches you how to cook Beer Basted Boar Ribs.
+Pawn Price: 60
+	
+	
+
+Recipe: Smoked Bear Meat
+	Stats
+	Teaches you how to cook Smoked Bear Meat.
+Pawn Price: 62
+	
+	
+
+Pattern: Blue Linen Robe
+	Stats
+	Teaches you how to sew a Blue Linen Robe.
+Pawn Price: 75
+	
+	
+
+Formula: Enchant Chest - Minor Mana
+	Stats
+	Teaches you how to permanently enchant a piece of chest armor to give +10 mana.
+Pawn Price: 75
+	
+	
+
+Formula: Imbue Chest - Spirit
+	Stats
+	Teaches you how to temporarily imbue a piece of chest armor to give +3 Spirit for 60 min.
+Pawn Price: 87
+	
+	
+
+Recipe: Goretusk Liver Pie
+	Stats
+	Teaches you how to cook a Goretusk Liver Pie.
+Pawn Price: 1
+	
+	
+
+Recipe: Cooked Crab Claw
+	Stats
+	Teaches you how to cook a Crab Claw.
+Pawn Price: 1
+	
+	
+
+Recipe: Succulent Pork Ribs
+	Stats
+	Teaches you how to cook Succulent Pork Ribs.
+Pawn Price: 1
+	
+	
+
+Recipe: Crocilisk Steak
+	Stats
+	Teaches you how to cook a Crocilisk Steak.
+Pawn Price: 1
+	
+	
+
+Recipe: Blood Sausage
+	Stats
+	Teaches you how to cook a Blood Sausage.
+Pawn Price: 1
+	
+	
+
+Pattern: Heavy Woolen Cloak
+	Stats
+	Teaches you how to sew a Heavy Woolen Cloak.
+Pawn Price: 1
+	
+	
+
+Formula: Enchant Bracer - Minor Strength
+	Stats
+	Teaches you how to permanently enchant a bracer to give +1 Strength.
+Pawn Price: 1
+	
+	
+
+Recipe: Rainbow Fin Albacore
+	Stats
+	Teaches you how to cook Rainbow Fin Albacore.
+Pawn Price: 1
+	
+	
+
+Formula: Enchant Chest - Lesser Mana
+	Stats
+	Teaches you how to permanently enchant a piece of chest armor to give +20 mana.
+Pawn Price: 1
+	
+	
+
+Formula: Imbue Cloak - Protection
+	Stats
+	Teaches you how to temporarily imbue a cloak with magical protection that adds 5 points of armor for 60 minutes.
+Pawn Price: 1
+	
+	
+
+Pattern: Fine Leather Gloves
+	Stats
+	Teaches you how to craft Fine Leather Gloves.
+Pawn Price: 1 25
+	
+	
+
+Pattern: Red Woolen Bag
+	Stats
+	Teaches you how to sew a Red Woolen Bag.
+Pawn Price: 1 25
+	
+	
+
+Formula: Enchant Weapon - Minor Beast Sl
+	Stats
+	Teaches you how to permanently enchant a melee weapon so it does +2 damage to beasts.
+Pawn Price: 1 25
+	
+	
+
+Formula: Enchant 2H Weapon - Intellect
+	Stats
+	Teaches you how to permanently enchant a two-handed weapon so it grants +1 intellect.
+Pawn Price: 1 25
+	
+	
+
+Pattern: Murloc Scale Belt
+	Stats
+	Teaches you how to craft a Murloc Scale Belt.
+Pawn Price: 1 37
+	
+	
+
+Pattern: Deviate Scale Cloak
+	Stats
+	Teaches you how to craft a Deviate Scale Cloak.
+Pawn Price: 1 37
+	
+	
+
+Plans: Runed Copper Breastplate
+	Stats
+	Teaches you how to make a Runed Copper Breastplate.
+Pawn Price: 1 50
+	
+	
+
+Pattern: Murloc Scale Breastplate
+	Stats
+	Teaches you how to craft a Murloc Scale Breastplate.
+Pawn Price: 1 50
+	
+	
+
+Pattern: Stylish Blue Shirt
+	Stats
+	Teaches you how to sew a Stylish Blue Shirt.
+Pawn Price: 1 50
+	
+	
+
+Pattern: White Leather Jerkin
+	Stats
+	Teaches you how to craft a White Leather Jerkin.
+Pawn Price: 1 62
+	
+	
+
+Pattern: Hillman's Leather Vest
+	Stats
+	Teaches you how to craft a Hillman's Leather Vest.
+Pawn Price: 1 62
+	
+	
+
+Plans: Mechanical Squirrel
+	Stats
+	Teaches you how to make a Mechanical Squirrel.
+Pawn Price: 1 62
+	
+	
+
+Pattern: Thick Murloc Armor
+	Stats
+	Teaches you how to craft Thick Murloc Armor.
+Pawn Price: 1 62
+	
+	
+
+Pattern: Barbaric Leggings
+	Stats
+	Teaches you how to craft Barbaric Leggings.
+Pawn Price: 1 62
+	
+	
+
+Pattern: Phoenix Gloves
+	Stats
+	Teaches you how to sew Phoenix Gloves.
+Pawn Price: 1 75
+	
+	
+
+Pattern: Phoenix Pants
+	Stats
+	Teaches you how to sew Phoenix Pants.
+Pawn Price: 1 75
+	
+	
+
+Recipe: Redridge Goulash
+	Stats
+	Teaches you how to cook a delicious Redridge Goulash.
+Pawn Price: 2
+	
+	
+
+Pattern: Green Woolen Bag
+	Stats
+	Teaches you how to sew a Green Woolen Bag.
+Pawn Price: 2
+	
+	
+
+Plans: Small Seaforium Charge
+	Stats
+	Teaches you how to make a Small Seaforium Charge.
+Pawn Price: 2
+	
+	
+
+Pattern: Greater Adept's Robe
+	Stats
+	Teaches you how to sew a Greater Adept's Robe.
+Pawn Price: 2
+	
+	
+
+Plans: EZ-Thro Dynamite
+	Stats
+	Teaches you how to make EZ-Thro Dynamite.
+Pawn Price: 2
+	
+	
+
+Pattern: Shadow Hood
+	Stats
+	Teaches you how to sew a Shadow Hood.
+Pawn Price: 2 25
+	
+	
+
+Formula: Strong Anti-Venom
+	Stats
+	Teaches you how to make Strong Anti-Venom.
+Pawn Price: 2 25
+	
+	
+
+Recipe: Elixir of Poison Resistance
+	Stats
+	Teaches you how to make an Elixir of Poison Resistance.
+Pawn Price: 2 50
+	
+	
+
+Recipe: Limited Invulnerability Potion
+	Stats
+	Teaches you how to make a Limited Invulnerability Potion.
+Pawn Price: 2 50
+	
+	
+
+Recipe: Elixir of Lesser Agility
+	Stats
+	Teaches you how to make an Elixir of Lesser Agility.
+Pawn Price: 2 50
+	
+	
+
+Plans: Shadow Goggles
+	Stats
+	Teaches you how to make Shadow Goggles.
+Pawn Price: 2 50
+	
+	
+
+Recipe: Instant Toxin
+	Stats
+	Teaches you how to make an Instant Toxin.
+Pawn Price: 2 50
+	
+	
+
+Formula: Enchant Bracer - Lesser Spirit
+	Stats
+	Teaches you how to permanently enchant a bracer to give +2 Spirit.
+Pawn Price: 2 50
+	
+	
+
+Formula: Enchant Boots - Minor Stamina
+	Stats
+	Teaches you how to permanently enchant a pair of boots to grant +1 Stamina.
+Pawn Price: 2 50
+	
+	
+
+Formula: Enchant Boots - Minor Agility
+	Stats
+	Teaches you how to permanently enchant a pair of boots to grant +1 Agility.
+Pawn Price: 2 50
+	
+	
+
+Pattern: Boots of the Enchanter
+	Stats
+	Teaches you how to sew Boots of the Enchanter.
+Pawn Price: 2 75
+	
+	
+
+Pattern: Green Silk Pack
+	Stats
+	Teaches you how to sew a Green Silk Pack.
+Pawn Price: 2 75
+	
+	
+
+Plans: Silvered Bronze Shoulders
+	Stats
+	Teaches you how to make Silvered Bronze Shoulders.
+Pawn Price: 3
+	
+	
+
+Pattern: Spider Belt
+	Stats
+	Teaches you how to sew a Spider Belt.
+Pawn Price: 3
+	
+	
+
+Recipe: Bristle Whisker Catfish
+	Stats
+	Teaches you how to cook Bristle Whisker Catfish.
+Pawn Price: 3
+	
+	
+
+Pattern: Black Silk Pack
+	Stats
+	Teaches you how to sew a Black Silk Pack.
+Pawn Price: 3 50
+	
+	
+
+Plans: Moonsight Rifle
+	Stats
+	Teaches you how to make a Moonsight Rifle.
+Pawn Price: 3 75
+	
+	
+
+Recipe: Fire Protection Potion
+	Stats
+	Teaches you how to make a Fire Protection Potion.
+Pawn Price: 3 75
+	
+	
+
+Recipe: Shadow Oil
+	Stats
+	Teaches you how to make Shadow Oil.
+Pawn Price: 3 75
+	
+	
+
+Pattern: Deviate Scale Gloves
+	Stats
+	Teaches you how to craft Deviate Scale Gloves.
+Pawn Price: 3 75
+	
+	
+
+Recipe: Seasoned Wolf Kabob
+	Stats
+	Teaches you how to cook a Seasoned Wolf Kabob.
+Pawn Price: 4
+	
+	
+
+Recipe: Murloc Fin Soup
+	Stats
+	Teaches you how to cook a Murloc Fin Soup.
+Pawn Price: 4
+	
+	
+
+Recipe: Crocilisk Gumbo
+	Stats
+	Teaches you how to cook a Crocilisk Gumbo.
+Pawn Price: 4
+	
+	
+
+Recipe: Curiously Tasty Omelet
+	Stats
+	Teaches you how to cook a Curiously Tasty Omelet. Don't ask, you don't want to know.
+Pawn Price: 4
+	
+	
+
+Recipe: Gooey Spider Cake
+	Stats
+	Teaches you how to cook a Gooey Spider Cake.
+Pawn Price: 4
+	
+	
+
+Pattern: Hillman's Belt
+	Stats
+	Teaches you how to craft a Hillman's Belt.
+Pawn Price: 4
+	
+	
+
+Plans: Iridescent Mace
+	Stats
+	Teaches you how to make an Iridescent Mace.
+Pawn Price: 4 50
+	
+	
+
+Recipe: Elixir of Ogre's Strength
+	Stats
+	Teaches you how to make an Elixir of Ogre's Strength.
+Pawn Price: 4 50
+	
+	
+
+Plans: Portable Bronze Mortar
+	Stats
+	Teaches you how to make a Portable Bronze Mortar.
+Pawn Price: 4 62
+	
+	
+
+Plans: Mighty Iron Hammer
+	Stats
+	Teaches you how to make a Mighty Iron Hammer.
+Pawn Price: 5
+	
+	
+
+Plans: Green Iron Boots
+	Stats
+	Teaches you how to make Green Iron Boots.
+Pawn Price: 5
+	
+	
+
+Plans: Green Iron Gauntlets
+	Stats
+	Teaches you how to make Green Iron Gauntlets.
+Pawn Price: 5
+	
+	
+
+Recipe: Tasty Lion Steak
+	Stats
+	Teaches you how to cook a Tasty Lion Steak.
+Pawn Price: 5
+	
+	
+
+Recipe: Elixir of Great Fortitude
+	Stats
+	Teaches you how to make an Elixir of Great Fortitude.
+Pawn Price: 5
+	
+	
+
+Pattern: Guardian Armor
+	Stats
+	Teaches you how to craft Guardian Armor.
+Pawn Price: 5
+	
+	
+
+Recipe: Frost Protection Potion
+	Stats
+	Teaches you how to make a Frost Protection Potion.
+Pawn Price: 5
+	
+	
+
+Pattern: Deviate Scale Belt
+	Stats
+	Teaches you how to craft a Deviate Scale Belt.
+Pawn Price: 5
+	
+	
+
+Recipe: Soothing Turtle Bisque
+	Stats
+	Teaches you how to cook a Soothing Turtle Bisque.
+Pawn Price: 5 50
+	
+	
+
+Recipe: Mighty Troll's Blood Potion
+	Stats
+	Teaches you how to make a Mighty Troll's Blood Potion.
+Pawn Price: 5 50
+	
+	
+
+Plans: Large Seaforium Charge
+	Stats
+	Teaches you how to make a Large Seaforium Charge.
+Pawn Price: 6 75
+	
+	
+
+Pattern: Murloc Scale Bracers
+	Stats
+	Teaches you how to craft Murloc Scale Bracers.
+Pawn Price: 7
+	
+	
+
+Plans: Golden Scale Leggings
+	Stats
+	Teaches you how to make Golden Scale Leggings.
+Pawn Price: 8
+	
+	
+
+Plans: Golden Scale Shoulders
+	Stats
+	Teaches you how to make Golden Scale Shoulders.
+Pawn Price: 8 50
+	
+	
+
+Plans: Golden Iron Destroyer
+	Stats
+	Teaches you how to make a Golden Iron Destroyer.
+Pawn Price: 9 50
+	
+	
+
+Plans: Jade Serpentblade
+	Stats
+	Teaches you how to make a Jade Serpentblade.
+Pawn Price: 10
+	
+	
+
+Plans: Golden Scale Cuirass
+	Stats
+	Teaches you how to make a Golden Scale Cuirass.
+Pawn Price: 11
+	
+	
+
+Plans: Frost Tiger Blade
+	Stats
+	Teaches you how to make a Frost Tiger Blade.
+Pawn Price: 12 50
+	
+	
+
+Plans: Golden Scale Boots
+	Stats
+	Teaches you how to make Golden Scale Boots.
+Pawn Price: 12 50
+	
+	
+
+Manual: The Path of Defense
+	Stats
+	Min Level: 10
+Teaches Defensive Stance (Rank 1). Teaches Taunt (Rank 1).
+	
+	
+
+Libram: Resurrection
+	Stats
+	Min Level: 12
+Teaches Resurrection (Rank 1).
+	
+	
+
+Tome of Conjure Food II
+	Stats
+	Min Level: 14
+Teaches Conjure Food (Rank 2).
+Pawn Price: 3 25
+	
+	
+
+Tablet of Restoration III
+	Stats
+	Min Level: 16
+Teaches Healing Wave (Rank 3).
+Pawn Price: 4 50
+	
+	
+
+Grimoire of Burning Spirit II
+	Stats
+	Min Level: 16
+Teaches Life Tap (Rank 2).
+Pawn Price: 4 50
+	
+	
+
+Red Fireworks Rocket
+	Stats
+	Shoots a firework into the air that bursts into a thousand red stars.
+Stack Size: 5
+Pawn Price: 2 50
+	
+	
+
+Blue Ribboned Gift
+	Stats
+	
+	
+	
+
+Soulstone
+  Unique item
+	Stats
+	Special Ability! (coming soon)
+	
+	
+
+Vial of Phlogiston
+	Stats
+	
+	
+	
+
+Crate With Holes
+  Unique item
+	Stats
+	
+	
+	
+	Something in this crate is moving...
+
+Wailing Essence
+	Stats
+	Stack Size: 20
+	
+	
+
+Unlit Poor Torch
+	Stats
+	
+Stack Size: 10
+Pawn Price: 2
+	
+	
+
+Red Ribboned Wrapping Paper
+	Stats
+	Stack Size: 10
+Pawn Price: 12
+	
+	
+
+Blue Ribboned Wrapping Paper
+	Stats
+	Stack Size: 10
+Pawn Price: 12
+	
+	
+
+Southshore Stout (needs effect)
+	Stats
+	Stack Size: 10
+Pawn Price: 36
+	
+	
+
+Junglevine Wine (needs effect)
+	Stats
+	Stack Size: 10
+Pawn Price: 62
+	
+	
+
+Target Dummy
+	Stats
+	Drops a target dummy on the ground that attracts nearby monsters to attack it. Lasts for 3 minutes.
+Stack Size: 10
+Pawn Price: 75
+	
+	
+
+Mechanical Squirrel
+	Stats
+	Creates a Mechanical Squirrel that follows you for the next 3 minutes. It doesn't really do anything, but boy, it's cute!
+Stack Size: 10
+Pawn Price: 1
+	
+	
+
+Small Seaforium Charge
+	Stats
+	Blasts open simple locked objects.
+Stack Size: 10
+Pawn Price: 1 50
+	
+	
+
+Large Seaforium Charge
+	Stats
+	Blasts open difficult locked objects.
+Stack Size: 10
+Pawn Price: 9
+	
+	
+
+Explosive Sheep
+	Stats
+	Summons an Explosive Sheep which will charge at a nearby enemy and explode. Lasts for 3 minutes or until it explodes.
+Pawn Price: 10
+	
+	
+
+Minor Bloodstone
+  Unique item
+	Stats
+	Min Level: 1
+	
+	
+
+Healing Herb
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 2
+	
+	
+
+Minor Healing Potion
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 5
+	
+	
+
+Elixir of Minor Defense
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 5
+	
+	
+
+Tough Jerky
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Refreshing Spring Water
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Shiny Red Apple
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Tough Hunk of Bread
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Forest Mushroom Cap
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 1
+	
+	
+
+Explosive Rocket
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 7
+	
+	
+
+Really Sticky Glue
+	Stats
+	Min Level: 1
+Renders a target unable to move for 10 seconds.
+Stack Size: 20
+Pawn Price: 11
+	
+	
+
+Magic Candle
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 12
+	
+	
+
+Elixir of Lion's Strength
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 20
+	
+	
+
+Severed Voodoo Claw
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 23
+	
+	
+
+Scroll of Spirit
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 25
+	
+	
+
+Scroll of Protection
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 25
+	
+	
+
+Glowing Wax Stick
+	Stats
+	Min Level: 1
+Speed: 2.00
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 43
+	
+	
+
+Bottle of Pinot Noir (needs effect)
+	Stats
+	Min Level: 1
+Stack Size: 10
+Pawn Price: 62
+	
+	
+
+Bag of Marbles
+	Stats
+	Min Level: 1
+Special Ability! (coming soon)
+Pawn Price: 82
+	
+	
+
+Large Rope Net
+	Stats
+	Min Level: 2
+Renders a target unable to move for 10 seconds.
+Pawn Price: 23
+	
+	
+
+Lesser Healing Potion
+	Stats
+	Min Level: 3
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 25
+	
+	
+
+Lesser Healthstone
+  Unique item
+	Stats
+	Min Level: 4
+	
+	
+
+Green Tea Leaf
+	Stats
+	Min Level: 4
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 56
+	
+	
+
+Conjured Sourdough
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+	
+	
+
+Conjured Fresh Water
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+	
+	
+
+Poisonous Mushroom
+	Stats
+	Min Level: 5
+Don't eat me.
+Stack Size: 10
+Pawn Price: 5
+	
+	
+
+Minor Mana Potion
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 10
+	
+	
+
+Minor Rejuvenation Potion
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 15
+	
+	
+
+Swiftness Potion
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 25
+	
+	
+
+Ice Cold Milk
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 6
+	
+	
+
+Haunch of Meat
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 6
+	
+	
+
+Freshly Baked Bread
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 6
+	
+	
+
+Red-speckled Mushroom
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 6
+	
+	
+
+Raw Rainbow Fin Albacore
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 6
+	
+	
+
+Scroll of Intellect
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 37
+	
+	
+
+Scroll of Stamina
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 37
+	
+	
+
+Flask of Port (needs effect)
+	Stats
+	Min Level: 5
+Pawn Price: 62
+	
+	
+
+Westfall Stew
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 1
+	
+	
+
+Keg of Thunderbrew Lager
+	Stats
+	Min Level: 5
+Special Ability! (coming soon)
+Pawn Price: 1 11
+	
+	
+
+Raptor Punch
+	Stats
+	Min Level: 8
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 88
+	
+	
+
+Flash Bundle
+	Stats
+	Min Level: 10
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 25
+	
+	
+
+Scroll of Strength
+	Stats
+	Min Level: 10
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 50
+	
+	
+
+Scroll of Agility
+	Stats
+	Min Level: 10
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 50
+	
+	
+
+Redridge Goulash
+	Stats
+	Min Level: 10
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 1 50
+	
+	
+
+Magic Dust
+	Stats
+	Min Level: 10
+Puts the enemy target to sleep for up to 30 seconds. Any hostile action will awaken the target. Only one target can be asleep at a time.
+Stack Size: 10
+Pawn Price: 2 13
+	
+	
+
+Midnight Orb
+	Stats
+	Min Level: 12
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 67
+	
+	
+
+Healing Potion
+	Stats
+	Min Level: 12
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 75
+	
+	
+
+Lesser Mana Potion
+	Stats
+	Min Level: 14
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 30
+	
+	
+
+Restoring Balm
+	Stats
+	Min Level: 14
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 1 20
+	
+	
+
+Conjured Rye
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+	
+	
+
+Conjured Pure Water
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+	
+	
+
+Scroll of Protection II
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 62
+	
+	
+
+Scroll of Spirit II
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 62
+	
+	
+
+Crocilisk Gumbo
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 1
+	
+	
+
+Dwarven Mild
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 25
+	
+	
+
+Melon Juice
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 25
+	
+	
+
+Murloc Fin Soup
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 1 25
+	
+	
+
+Mutton Chop
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 25
+	
+	
+
+Snapvine Watermelon
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 25
+	
+	
+
+Spongy Morel
+	Stats
+	Min Level: 15
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 25
+	
+	
+
+Scroll of Stamina II
+	Stats
+	Min Level: 20
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 75
+	
+	
+
+Scroll of Intellect II
+	Stats
+	Min Level: 20
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 75
+	
+	
+
+Jungle Remedy
+	Stats
+	Min Level: 22
+Cures diseases and neutralizes poisons
+Stack Size: 10
+Pawn Price: 25
+	
+	
+
+Invisibility Potion
+	Stats
+	Min Level: 23
+Turns the Imbiber invisible for 30 seconds.
+Stack Size: 5
+Pawn Price: 1
+	
+	
+
+Shadow Oil
+	Stats
+	Min Level: 24
+When applied to a weapon it gives a chance of casting Shadowbolt III at the opponent when it hits. Lasts 30 minutes.
+Stack Size: 5
+Pawn Price: 1 50
+	
+	
+
+Scroll of Agility II
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 87
+	
+	
+
+Scroll of Strength II
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 5
+Pawn Price: 87
+	
+	
+
+Soothing Turtle Bisque
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 10
+Pawn Price: 3
+	
+	
+
+Cherry Grog
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+Delicious Cave Mold
+	Stats
+	Min Level: 25
+Special Ability! (coming soon)
+Stack Size: 20
+Pawn Price: 62
+	
+	
+
+Jug of Bourbon (needs effect)
+	Stats
+	Min Level: 25
+Pawn Price: 5 25
+	
+	
+
+Compact Harvest Reaper Kit
+	Stats
+	Min Level: 30
+Creates a Compact Harvest Reaper that will fight for you for 10 minutes or until it is destroyed.
+Pawn Price: 40
+
+

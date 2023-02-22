@@ -1,0 +1,237 @@
+Allakhazam - Guides Aug 13 2004
+
+########## A guide to Duskwood
+
+This guide is meant to be the shortcutter’s quick route through Duskwood. Duskwood is a great zone to make several levels really quickly, and it can be even quicker if you plan carefully. This guide is written with the assumption you will *mostly* solo, and as such it is recommended you start the zone at level 24. Earlier than that proves difficult and much later than that makes the quests go gray. The quests are easier when grouped, granted, but I advise that you work with no more than one other person, except when noted or when it’s convenient on a kill quest, for experience purposes.
+
+The zone has creatures ranging from level 20-30, mostly, and has a long horizontal road starting from Westfall most of the way to the eastern edge where the town, Darkshire is. The road goes north from there to the edge of Elwynn, and hooks back east to go into Redridge. The center of the zone is a large, currently unused Night Elf shrine area. To the west of it is Raven Hill Cemetary, to the south are a few farms and the ogre mound, to the east is Darkshire and environs, and the north shoreline is where all the spiders and wolves hide.
+
+
+Phase 1 – quest collection:
+Enter from Redridge. Get the Four-legged Menaces quest on your way to town. Check every building there and get every quest available. Set your hearthstone to the inn in Darkshire and get the griffin point. Then proceed down the road to the west and follow it to Raven Hill, stopping at the watcher camp on the left side long enough to get the Eight-legged Menaces quest. Talk to Jitters, and then go to the western bank and follow it north until you find Sven and Lars. After getting their quests, come east across the northern edge of the cemetery and onward until you see Abercrombie (the hermit). Get his quest and gate back to town.
+
+Phase 1 quests completed:
+(minor quests) Raven Hill, Jitters’ Growling Gut, Supplies From Darkshire
+
+
+Phase 2 – Spiders and Wolves:
+Check your quest log for any quests that involve talking to someone there. Resolve those, and if someone is selling a bronze tube, buy that for Looking to the Stars 1, assuming you aren’t an engineer. You should have an abundance of quests involving wolves and spiders right now. Go north out of town to the river that separates Duskwood from Elwynn. Patrol it, all the way from there to the bridge in Westfall – slightly away from the bank – for spiders and wolves that help you finish your quests. Namely, you should finish the following quests: Dusky Crab Cakes, Eight-legged Menaces, Four-legged Menaces, Seasoned Wolf Kabobs (wolf flanks only), The Totem of Infliction (vials of spider venom), and Wolves at Our Heels.
+When you finish the starving wolves, you should eventually pass by Lars and be able to turn in. Cross back to the northeast and finish the rabid wolves quest, and then return to town for Dusky Crab Cakes. Recheck all of town, as there may be some quests that weren’t showing before.
+
+Phase 2 quests completed:
+Dusky Crab Cakes
+Four-Legged Menaces
+Wolves at Our Heels
+(minor quests) The Legend of Stalvan 1, Deliveries to Sven, Awaiting Word
+
+
+Phase 3 – Blind Mary and Tranquil Gardens
+If you didn’t get that bronze tube before, you must get it now. You’ll note that you have two quests to visit a ghost named Blind Mary. Sounds like a good place to start. Go south out of town, but take the small path through the graveyard rather than continuing west. The path leads you to Tranquil Gardens Cemetary, where you find the objectives for another quest…how convenient. Hang around here and kill the skeletons you need for The Night Watch, and go back to town. Get the second part, and return. There are a bunch of the Horrors you need for the second phase here too, but continue past the Gardens to the north, and you’ll find a house by itself with Skeletal Horrors abound as well. While killing them, enter the house and talk to Blind Mary. She’ll give you the hair you need, but the mirror is in the cemetery. Go back up there and kill the Insane Ghoul inside the chapel. Once you finish the Horrors portion of The Night Watch 2, go back to town and do your hand-ins.
+
+Phase 3 quests completed:
+Look to the Stars 1, 2, & 3
+The Night Watch 1
+Ghost Hair Thread
+Return the Comb
+
+
+Phase 4 – Sven and Stalvan, part 1
+The town clerk asks you to go to Moonbrook, which is a pretty long hike from where you are, but you have some errands you can do along the way while you get this quest out of the way.
+The first thing you should do is find a friend or two and locate the Yorgen Farmstead on the south of zone, between the Rotting Orchard and the ogre mound. Sneak around the back from the west *carefully*, and fight a few mobs as you clear your way to the dirt mound in the back. This can be difficult, and is not good to do solo because its easy to get four or more creatures. Search the mound and head back to the road. Talk to the watchers to finish Eight-Legged Menaces, and then go to Sven in the northwest corner. After Sven, visit the hermit on the east side of the cemetery and get his next errand. Run back to the bridge to Westfall, and follow the road out to Moonbrook. Enter the northwest-most building, and search the chest on the ground in the last room. Use your hearthstone to return to Darkshire, and clean up.
+
+Phase 4 quests completed:
+Eight-legged Menaces (completed)
+The Legend of Stalvan 2 & 3
+Sven’s Revenge
+(minor quests) Deliver the Thread, Zombie Juice, Return to Jitters, Sven’s Camp, The Shadowy Figure, The Shadowy Search Continues, Inquire at the Inn
+
+
+Phase 5 – A Trip to Elwynn
+Take the griffin to Stormwind. You have some errands to tidy up there. The first thing you should do is report to the inn in Goldshire, and check the chest on the second floor. Then go back and deliver them to a man in the canals between the mage district and the garden. Next you need the Stormwind Seasonings from the flower shop in the canals between the trade district and old town. Then you need to go to the cathedral and find Brother Anton for a new quest. Finally you need to train – you’ve probably earned a new ability level by now.
+Optionally, you could also do the Stockade quest to kill Dextren Ward. There are four easily-found quests for the Stockades – one from Darkshire, one from Lakeridge, one from Old Town, and one from the Stockade entrance. There are at least two others, one from Wetlands and one from the letter on Van Cleef’s body.
+On your way out of town, finish the last phase for Stalvan, which is to travel to the Eastvale Logging company on the far side of Elwynn Forest. Talk to the guy in front of the east-most building, check the chest upstairs, and talk to him again. After that it’s time to return to town. Once you wrap up things in town, you can now at a time of your choosing join a group to kill Stalvan himself.
+
+Phase 5 quests
+Seasoned Wolf Kabobs (completed)
+The Legend of Stalvan 13
+(minor quests) The Legend of Stalvan 4-12
+(optional) Bazil Thredd, The Stockade Riots, Quell the Uprising, The Color of Blood, What Comes Around…, Crime and Punishment
+
+
+Intermission
+You've done all the kiddie stuff, and completed one of the three major quest lines in the zone. Hopefully by now you've gained at least two levels, three if you stopped to do all the Stockade quests, and we haven't even hit the meat and potatoes of the zone yet.
+
+Your quest log probably looks something like this by now: Ambushed in the Forest, Look to the Stars 4, Finding the Shadowy Figure, Gather Rot Blossoms, The Night Watch 2 (half-completed), The Totem of Infliction (partly done), Worgen in the Woods, and the quest from Stormwind, Down the Scarlet Path. Two of those quests are in the Rotting Orchard. Phase 6 addresses those, although phase 6 can be done at any time. ALL of the rest of the quests, save one, directly center around Raven Hill and the skeletons there. That is phase 7.
+
+
+Phase 6 – Worgen in the Woods
+This phase will be HARD unless you are at least level 28, so bring some friends to get these out of the way. The Rotting Orchard is down the road from Darkshire, off the first path past the graveyard. The shadow weavers are largely along the road as it sweeps in front of the buildings, but kill them however you can, with one minor point: as you first enter the area, before the first building on the left, there is a wagon. Next to the wagon is a chest. Inside the chest is the item for Ambushed in the Forest. Get that, and go back to town; return to kill the Dark Runners. You can find them in pockets further away from the road, out in the orchard.
+The final step to Worgen is in the mine next to Tranquil Gardens. There IS a cave in the back of the orchard with the right creatures, but DON’T use it – the spawns there are horrible. Take the path by the graveyard toward Tranquil Gardens, but swing wide to the right (west) and approach the mine. The Tainted Ones all spawn outside, and exactly the number of Vile Fangs you need spawn inside. These mobs are level 30 and you won’t always get just one. Do not assume you can solo this quest. (There is an Ashenvale quest that finishes in the back of this mine also, if you happened to have worked on that.)
+
+Phase 6 quests:
+Worgen in the Woods 1-4
+Ambushed in the Forest
+
+
+Phase 7 – The Joy That is Raven Hill
+Go talk to Jitters. Go talk to Sven. Now return to the front of the cemetery and kill Skeletal Fiends. You have *four* quests to complete by killing these – the Night Watch, Gather Rot Blossoms, and possibly Down the Scarlet Path and The Totem of Infliction. Make sure you finish the first two before proceeding north to where the crypt with the Skeletal Raiders are for Sven’s quest, Proving Your Worth. By the time you finish that, you should have your eyes for the Scarlet Path, and you should have had the fingers for the totem long ago. Return to Sven, and then find the lone gravestone outside the gates on the north side that looks like a sword, which will give you a quest if you are at least level 28. Come back to town to complete what is finished, and return.
+On your second pass, start by giving Abercrombie his zombie juice. Now try to join a group for The Night Watch 3. The Plague Spreaders all hang around and inside the crypt at the north-central part of Raven Hill, amidst all the other ghouls. Get your Plague Spreader kills, and get the last of your fangs and ribs off any ghoul if you aren’t done by then. Give the ribs to Abercrombie, and finish the circuit by killing Mor’Ladim outside the west crypt. Then start heading to Stormwind.
+
+Phase 7 quests:
+Proving Your Worth
+Gather Rot Blossoms
+Ghoulish Effigy
+The Night Watch 2 & 3
+The Totem of Infliction
+Mor’Ladim
+(minor quests) Finding the Shadowy Figure, The Weathered Grave, Juice Delivery, The Weathered Grave, Morgan Ladimore
+
+
+Phase 8 – Stormwind
+It’s time to go back to the big city. Go to the cathedral to talk to Brother Anton about his eyeballs and to Bishop Farthing about Sven. While you’re there, pick up the other quests in the cathedral. One is a five-second talk to a guy in Ironforge to point you to Gnomeregan. The other is from the altar boy and it is called the Missing Diplomat. It’s a very long quest, but you may as well start it now, since you’re going to the keep where Bishop Delavey is anyway. At some point, you probably got a book to drop that “starts a quest”, and that quest is in the library at the keep, located between the dwarven district and old town. The library is in a side hallway off the left that is easy to miss if you aren’t looking for it. The bishop is in one of the rooms at the top.
+DeLavey sends you to a man in the entrance area to Stormwind, down the left side immediately before the outer gates. He in turn sends you to Elias Triang, who is in the second building in Stormwind as you enter, on the right side. The master of cheese will send you to talk to one of the watchers in Duskwood. Now you can go back to town to do your turn-ins, and find Watcher Backus along the road to Redridge.
+
+Phase 8 quests:
+Down the Scarlet Path (completed)
+An Old History Book
+(minor quests) Seeking Wisdom, The Missing Diplomat 1-4
+
+
+Phase 9 – The Beginning of the End
+Watcher Backus asks you to locate the Defias Docket from Addle’s Stead, which is the southwest-most landmark in Duskwood. Along the way, stop at the ogre mound. You have two quests to complete here – one to loot an item just outside the entrance to the hole, and one to kill a boss ogre inside it. Pass through town on the return trip to Backus, who sends you back to Triang. Elias sends you to talk to some dope in the middle of Old Town who attacks you. Beat him down, find out what you need, and report back. You get sent to Menethil Harbor after that, which happens to be where Bishop Farthing asked you to go.
+Both of your contacts in Menethil are in the inn. For Diplomat, talk to him, immediately go outside and beat up Slim, and then talk to each of those twp people again. The quest goes to Dustwallow from here, so we don’t care.
+Glorin Steelbrow tells you to check the wreckage of a ship right outside the harbor. It’s guarded by murlocs, and after you check the chest, you have to kill the fish until you get the ingots you need. Return to Stormwind to talk to Grimand Elmoire, and the stage is set for the finale.
+
+The Missing Diplomat 5-13 (as far as we go here)
+Look to the Stars 4
+Lightforge Iron
+The Lost Ingots
+(minor quests) The Doomed Fleet, Blessed Arm, Armed and Ready
+
+
+Phase 10 – Morbent and the Bride
+Go to Abercrombie with his crate. He’ll give you a note for the mayor. Go back to town and run around some, until you find out what dastardly deed you’ve done for the hermit.
+Now get yourself a group. A good one.
+Go talk to Sven. He tells you that it’s time to kill Morbent Fel. MF is in the only house on the grounds of the cemetery, where the air gets all hazy, right on the northwest corner. You know the place.
+Take your group storming into the house to attack Morbent. The item you got from Grimand should lower his health quite a bit when you use it. While your group is collecting their reward from Sven, tell them you need help with the Bride too, and that it will only take two minutes. Right behind Abercrombie is a shallow grave. With your group watching, search the grave. If it isn’t bugged, Eliza will spawn along with two bodyguards. Kill her and loot her.
+Congratulations, you’ve just completed Duskwood. In silent memorium on the way back to town, visit Morgan Ladimore’s grave and leave his daughter’s ring there. Then go collect your reward from the mayor.
+
+Phase 10 quests:
+Ogre Thieves (completed)
+Bride of the Embalmer
+Morbent Fel
+(minor quests) Note to the Mayor, Translate Abercrombie’s Note, Translation to Ello, The Daughter Who Lived, A Daughter’s Love 
+
+
+
+
+
+
+################  Alliance Flight Paths
+
+By: Dalien, Posted at: Thu, Apr 8th 2:21 PM 2004
+Rated 0.00 by 0 people
+
+Southern Azeroth:
+
+*Stormwind: This is the hub for all flight paths in southern Azeroth. Humans and Dwarves/Gnomes start with this flight path enabled by default. Night elves will need to reach the city on foot to unlock the flight path (for now, but this is changing soon). Enter the city, and take your first right after entering the trade district. Take another right and you're there. It's basically straight east from the city entrance - you can see the flights taking off on your right in the Valley of Heroes. This flight path also connects to Ironforge, the hub for Northern Azeroth.
+
+Redridge: This is located in Redridge Mountains. If you are in Lakeshire, cross the bridge and it will be right past it on your right.
+
+Darkshire: This is located in Duskwood. It's up the hill on the east side of town.
+
+Westfall: This is located in Westfall. It's south and a bit east of Sentinel Hill. Hard to miss, but if you do, just ask in channel and someone is sure to help you find it.
+
+Booty Bay: This is located at the southern most tip of Stranglethorn Vale. This is a HIGH level zone (currently), most mobs around here are level 35 or higher. Unless you are at least level 25, you will get very frustrated trying to get to this point alive if you're running from Duskwood. There are two easy ways to unlock this path though. The first is just to run there as a ghost, and take the exp rez at spirit healer (if you don't mind the exp loss). The second, preferred way is to go to Ratchet in The Barrens (on Kalimdor), and take the boat over. This is a VERY good flight path to have unlocked currently for Alliance characters, as it is the fastest way to get to Razorfen Kraul (which is currently THE place for level 30 groups to go).
+
+Northern Azeroth:
+
+*Ironforge: This is located in Dun Modr. It is the home city for Dwarves and Gnomes. Once you enter the city, follow the signs to the Hall of Explorers (it's basically directly across from the city entrance, running the circle). This flight path also connects to Stormwind, the hub for Southern Azeroth.
+
+Loch Modan: I forgot the name of the city here, but it's marked with a flag on your ingame map. Go to the city, the griff guy is on the hill just south of town. Easy to find.
+
+Menethil Harbor: This is located in Wetlands. It's the city on the west end of the map (on an island). Just take a look at your ingame map, it's easy to spot. If you're coming from Loch Modan, just follow the road west all the way. The griffon guy is near the docks. This is a great flight path to have, because you can fly here and immediately catch the boat to Darkshore on Kalimdor.
+
+Refuge Pointe: This is located in Arathi Highlands. It's north of Wetlands if you follow the road past Dun Modr and through the Thandol Span. This is another HIGH level zone - mobs here are level 32 at minimum and up to 40 at least from what I've seen. There is a spirit healer at Refuge Pointe if you want to make the run as a ghost and take the exp rez to unlock this. There's no good reason to really though unless you are planning on hunting in this zone soon (in which case, you probably don't need to do the ghost run).
+
+Southshore: This is located in Hillsbrad Foothills. It's not as high a level zone as Arathi Highlands, but it is still ill advised for characters under level 25 to run around here. The road is fairly safe, just follow the signs and you'll get there. You can also make the run as a ghost if you desire, there is a spirit healer in town.
+
+Northern Kalimdor:
+
+*Auberdine: This is located in Darkshore. This is the Night elf town, and where you end up if you take the boat from Menethil Harbor in Wetlands. It is also the "hub" for all flight paths in Northern Kalimdor. If you are a Human, Gnome, or Dwarf you will most certainly want to unlock this flight path immediately upon arriving. Take a right after exiting the docks from the boat, griff guy is up the ramp there.
+
+Darnassus: This is unlocked for night elves by default, and is the Night elves capitol. For Humans, Gnomes, and Dwarves, it is pretty hard to get there currently. Basically you have to swim from Darkshore, but you will die from fatigue on the way. So you can either just swim it as a ghost and rez there, or "death hop" it if you have the patience and don't want to take the exp loss. Blizzard reps have posted that it will be easier for other Alliance races to get there after the next Beta push, so unless you have some strong reason to get there, you may want to just wait (and I found their "secret" way that they are going to put in to get there for other alliance races;)
+
+Astranaar: This is located in Ashenvale. If you follow the road south from Darkshore, and just stay on the road, you'll get here. Griff guy is on your left right when you enter town. Anyone level 20 or above will find the run here trivial (I made it at 18 with no problems at all). Just stay on the roads. There is a rezzer in town if you're a really low level character and just want to unlock the flight path early.
+
+Stonetalon Peak: This is in Stonetalon Mountains, at the NW corner of the map (it's marked by a house on the ingame map). The only spirit healer in zone is at Sun Rock Retreat in the SE corner of the zone (which is a Horde outpost, but it is safe for alliance chars to rez there, there are no guards). So it's really not advised for low level chars to bother unlocking this flight path early, it will take you a few hours to "death hop" up to it. Just come here when you're level 20+ and are able to do the quests here, and you'll have no problems getting to the griff guy.
+
+Southern Kalimdor:
+
+Thalanaar: This is actually located in Feralas, but for all purposes you can consider it on the west border of Thousand Needles. If you go to unlock this, do NOT go into the forest in Feralas. There are Guardians of Blizzard all over the border that will death touch you if you get anywhere near them. Some of them are invisible and you won't see them until you're dead. You've been warned;) I was able to scout this zone a bit using some "questionable" methods and I have a feeling it will be open next push:) This flight path is VERY good to unlock right now if you travel to Theramore at all.
+
+Theramore: This is located in Duskwallow Marsh, which is currently closed to players. There are Guardians of Blizzard all over this zone, and every "aggro" mob has death touch. It is possible to reach here if you swim from Ratchet, and stay well away from the coast (where the Guardians of Blizzard are). There are random death touching merlocs scattered around the ocean around there though, so its STRONGLY advised you have some form of invis, otherwise it will take you several hours to "death hop" there. There is no spirit healer here, so travelling as a ghost is not an option. If you do decide to travel here, it is STRONGLY advised you unlock the Thalanaar flight path first, so you'll able to return here without all the hassle again. There are boats in Theramore that go to Wetlands and Darkshore, but they are one-way (you can leave, but you can't come back). I have a strong feeling that this town will be the "hub" for Alliance chars in Southern Azeroth, when they open alot of the zones that are currently blocked off down there. Once they open those zones, I have a feeling it will be alot easier to reach Theramore also. Oh, and for you WC3 fans, Lady Jaina Proudmoore is here, and is actually involved in a few quests
+WOW: General: Alliance Flight Paths, by Dalien
+[Post] Forum Preferences: 	Logged in as: Anonymous [Login]
+Save:
+2 threads, 1 page(s) long	 
+
+     dated Reply...
+    Posted @ Wed, Aug 4th 11:16 AM 2004
+    By: Azuarc
+    Scholar
+    300 posts
+    Score: Decent [3.06]	
+
+    This content is several months old. There are more flight paths than this, and the location of the Ironforge griffin is now inaccurate. As of the end of July...
+
+    From Stormwind:
+    Ironforge
+    Sentinel Hill, Westfall
+    Lakeridge, Redridge
+    Darkshire, Duskwood
+    Booty Bay, Stranglethorn
+    Nethergarde Keep, Blasted Lands
+    -Go east out of Duskwood, follow the southern road in Swamp of Sorrows, and take the right fork into Blasted Lands. Nethergarde Keep is to your east as you enter the zone.
+
+    From Ironforge:
+    -Ironforge griffin is in the central hub of the city
+    Stormwind
+    Thelsamar, Loch Modan
+    Menethil Harbor, Wetlands
+    Refuge Point, Arathi Highlands
+    Southshore, Hilsbrad
+    -Aerie Peak in the Hinterlands connects to Southshore. The entrance to the Hinterlands is northeast of Tarren Mill in Hilsbrad.
+
+    From Auberdine:
+    Rut'theran Village, Teldrassil
+    Astranaar, Ashenvale
+    Stonetalon Peak, Stonetalon Mts.
+    Feathermoon Village, Feralas
+    Theramore
+
+    From Theramore:
+    Auberdine
+    Thalanaar, Thousand Needles
+    Nijel's Point, Desolace
+    -leave Stonetalon through the Charred Vale, and follow the left wall. When you see the ramp leading into the mountains, go up it, and up the hill past the questgivers in the back
+    Gadgetzan, Tanaris
+    -go to Thousand Needles, pass through the Shimmering Flats, and continue south through the passage into Tanaris. Gadgetzan is the town as you enter, and the griffins are on the southern exterior. (Horde wind master is to the north.)
+
+    Boats:
+    Menethil Harbor, Wetlands
+    Auberdine, Darkshore
+    Theramore, Dustwallow Marsh
+
+    Ratchet, The Barrens
+    Booty Bay, Stranglethorn Vale
+     
+    0 Replies
+     Stonetalon Reply...
+    Posted @ Wed, Apr 14th 11:38 PM 2004
+    By: opienmc
+    12 posts
+    Score: Decent [3.00]	
+
+    Flying INTO Stonetalon is bugged at the moment.  When you land you fall through the earth and end up at the southern most part of the map (forget the name atm)                                                   
+     

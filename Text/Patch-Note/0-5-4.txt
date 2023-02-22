@@ -1,0 +1,124 @@
+Patch 0.5.4 was an alpha patch for World of Warcraft that was released on January 15, 2004. 
+
+
+Patch 0.5.4
+Release date	January 15, 2004
+Interface .toc	—
+Highlights & notes
+
+    Tri-Horde push
+
+
+
+Patch notes
+
+Welcome to the Tri-Horde push. Break out that ugly stick, it's time to try out the Orcs, Trolls & tauren! We've added many new features and tweaked a whole lot in this build, so you'll want to scan these notes carefully.
+
+Windows 98 and ME users must download a new patcher from the Friends and Family website.
+
+There is a known instability problem in the instance dungeons. Please enter them at your own risk. There's a good possibility that they will crash, locking you and your party inside. If this happens, you will need to contact EDIT@blizzard.com for a rescue.
+
+When the time comes for everyone to get their older characters back, all of your quest logs will be deleted. Don't panic, you won't have to redo any quests already completed, however all quests in progress will be wiped. You will only have to revisit those NPCs to reaccept the missing quest(s).
+Major Changes
+
+    Orcs, Trolls & Tauren are now playable. Undead are on hold along with Dwarves and Humans. They will be available at a later time.
+    Shaman are now playable.
+    Orgrimmar and Thunder Bluff have been made playable.
+    You can now unlearn skills that you have by clicking on the cancel button to the left of the skill line. Be warned: You will lose all knowledge of that skill, so think twice before canceling it. This does not apply to talents.
+    MACROS are in! Type /macro in the chat menu. Name the macro, select an icon and drag it to the action bar. Use the action bar or type /m [macro name] to run it.
+    /cast has been added which allows you to cast spells by name. Type /cast [spell name] (spell subtext) - Example: "/cast Fireball (Rank 1). To add spell casting to a macro you can type it manually or shift-click a spell in your spell book to add the proper /cast line to the macro.
+
+Mage
+
+    Mages can now train in dagger proficiency for 2 skill points.
+    [Frostbolt] and Chilled Effects no longer stack their movement slowing effects.
+
+Priest
+
+    [Inner Fire] was raised to level 12 and [Mind Vision] was raised to level 22.
+    New Priest Spells: [Mind Blast] (lvl 10), [Psychic Scream] (lvl 14), Pacify (lvl 20), [Brainwash] (lvl 20), and [Mana Burn] (lvl 26).
+    Healing over time generates hate.
+
+Warlock
+
+    Warlocks can now train in staves proficiency for 2 skill points.
+    [Drain Soul] now causes damage over time, has a limited duration, and can be resisted.
+    Health funnel has been fixed.
+    Pet transferred hate has been greatly reduced.
+    [Curse of Recklessness] now prevents the target from fleeing, even if Feared.
+    Hate generation caused by both [Life Tap] and [Curse of Agony] have been reduced.
+    Summoned pets should now be able to follow much more closely.
+    Pet summoning will no longer affect the chat window.
+
+Warrior
+
+    Punishing Blow has been moved to [Battle Stance].
+    [Cleave] has been removed from Warriors.
+    New Warrior Abilities: Thunderclap (lvl 6 - Battle Stance) & [Bloodrage] (lvl 10 - [Defensive Stance])
+    Warriors under the effect of Holy Word: Shield should now generate appropriate rage.
+    Warriors will now generate rage when blocking, parrying and dodging attacks as well as when being blocked, parried, dodged or deflected. Rage generation favors damage caused rather than damage taken.
+    Rage decay rate has been reduced.
+    Sundering Strike has improved.
+
+Items
+
+    Items with random properties are now dropping in addition to normal drops.
+
+Tradeskills
+
+    First Aid has been revamped and made significantly more useful.
+    Survival bonuses have increased and the second tier survival fire has been improved.
+    Campfires now go away when the cozy fire effect wears off.
+    Damage now completely interrupts mining, herb gathering and lock picking.
+    Bait has been added to fishing.
+    You can now fish in the Undercity slime.
+    You can now turn in place while fishing.
+    There are new types of fishing areas and new types of things to catch in the Kalimdor zones.
+
+Combat
+
+    Creatures now call for help when they flee.
+    Players can no longer use items while stunned.
+    Creatures now face and follow their targets while casting a spell.
+    Creature pursuit is now timer based rather than distance based.
+
+Quests
+
+    H [15] Arugal's Folly: Reduced the number of Pyrewood Shackles required from 12 to 6.
+    Recipe for Death: Increased the number of Bear Hearts required to 6. Changed Spider Marrow to  [Skittering Blood] and reduced the number required to 6.
+    Recipe for Death: Increased the coin reward for returning  [Berard's Journal] to the Apothecary.
+    H [15] Pyrewood Ambush: Should now be functioning correctly.
+    Fixed issues with Deathstalker Adamant to open the courtyard door.
+
+Creatures/Spawns
+
+    Dalaran Protector/Warder summoned snakes have been increased in size and given a new texture to make them more noticeable.
+    More Young Night Web Spiders added.
+    More Mindless and Wretched Zombies added.
+    More Scarlet Missionaries and Scarlet Friars added.
+    Dynamic respawn rate slowed in the Azureload Mine.
+    The roads of Hillsbrad are safer to travel now.
+    Various immunities have been removed from monsters throughout Silverpine.
+    Moonrage Whitescalps will no longer deal cold damage.
+    Lupine Horrors will summon fewer illusions.
+    Arugal's teleport spell has had the casting time decreased to make it slightly more challenging to interrupt.
+
+Bugs
+
+    Fixed problems with elevators.
+    Fixed player movement crashes.
+    Mouse look no longer causes players to run faster.
+    The magic shield around Dalaran Keep no longer appears white in the distance.
+    The pathing problems with wandering creatures are now fixed.
+    Creatures no longer "moon-walk" when they spawn.
+    Toughness bonuses no longer go away temporarily when you level up.
+    In some instances players may get stuck for around 15 second while trying to loot a corpse.
+    There is a known collision error which is being worked on.
+    Macintosh Users: Fixed many crash and cosmetic bugs in the patcher, sound and graphics code. File loading/streaming performance has been improved.
+    Macintosh Users: The minimap still has some known rendering bugs which are being worked on.
+
+Misc.
+
+    Guild officers are now able to set a "Guild Message of the Day."
+    Key binding layouts are now stored per-account on the local computer.
+    Players can now log out while they are swimming, flying or dead.

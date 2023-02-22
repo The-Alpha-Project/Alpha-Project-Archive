@@ -1,0 +1,525 @@
+Elwynn Forest 	
+
+[Click to enlarge]
+	Description
+
+Elwynn Forest is a vast woodland that cradles the Human civilization of Azeroth. Several farms stretch across the fertile fields, and the Garrison Guard Towers stand vigilant every few miles, helping to keep the forest safe from evil forces. The tranquil forest is also inhabited by wild bears, wolves and giant tarantulas that hunt throughout the woodlands in hope of finding easy prey. Scraggly Gnolls and grimy Kobolds wander the forest's outlying regions, but seldom do these timorous creatures attack property in Elwynn or Stormwind directly. For the most part, Elwynn exudes a feeling of comfort and serenity, its road well patrolled by the Stormwind Guard
+Locations
+
+    Northshire Abbey
+    Herb & Alchemy Hut - Alchemy Trainer, Herbalism Trainer
+    Westbrook Garrison - General Goods Supplier, Blacksmith
+    Echoridge Mine - Kobold
+    Fargodeep Mine - Kobold
+    Jasperlode Mine - Kobold
+    Northshire Vineyard - Defias Brotherhood
+    The Stonefield Farm
+    The Maclure Farm
+    Brackwell Pumpkin Patch - Defias Brotherhood
+    Mirror Lake Orchard - Defias Brotherhood
+    Tower of Azora - Alchemy, Enchanting Supplier
+    Watchtower
+    Watchtower
+
+
+
+City: Goldshire
+
+    Cooking, Fishing, Tailoring, Skinning, Physician and All Class Trainers
+    Weaponsmith, Armor & Shieldcrafter, Leather & Clothier, General Goods Supplier, Trade Supplier, Butcher, Bartender
+    Bindstone
+    Forge
+    Anvil
+
+
+
+City: Northshire
+
+    Tailoring, All Class Trainers
+    Armorer, Weaponsmith, General Goods Merchant
+    Human Starting Location,
+    Bindstone
+
+
+
+Town: EastVale Logging Camp
+
+    Tailoring, Survival Trainers
+    General Goods Merchant, Bowyer
+
+
+
+
+
+
+
+
+
+Dun Morogh 	
+ 
+	
+
+[Click to enlarge]
+	Description
+
+The snow capped highland is teeming with life, bears and snow leopards hunger for weary traveller's flesh. Home to the dwarves and the gnomes after the Fall, it is well guarded with the city of Ironforge looking over its realm. Though in the corner of the realm, troggs and frostmane trolls multiplies, threatening peace in the area.
+Locations
+
+    Brewnall Village - Brewer, General Goods Supplier
+    Steelgrills Depot - Mining Trainer, Engineering Trainer, Supplier
+    Misty Pine Refuge
+    Ram Farm - Ram Merchant
+    Go'Bolar Quarry - General Goods Supplier, Mining Trainer, Supplier, Apprentice Blacksmith, Ale & Food Vendor, Cook Trainer
+    Go'Bolar Quarry Mine - Trogg
+    Gnomeregan
+    Frostmane Hold - Frostmane Troll
+    Frostmane Mountain Cave - Frostmane Troll
+    The Grizzled Den - Yeti (very cute)
+    Guard Tower - Engineering Trainer, General Goods Supplier
+
+
+
+City: Anvilmar
+
+    All Class Trainer
+    General Goods Merchant, Weaponsmith, Clothier & Leather, Armorer
+    Dwarf, Gnome Starting Location
+    Bindstone
+
+
+
+City: Kharanos
+
+    Blacksmithing, Cooking and All Class Trainer
+    Tradesman, Gunsmith, Weaponsmith, Armorer, Blacksmith Supplier, Leather & Clothier, General Goods Supplier, Bartender
+    Bindstone
+    Forge
+    Anvil
+
+
+
+
+
+
+
+
+Ironforge 	
+ 
+	
+
+[Click to enlarge]
+    Description
+
+Dwarven Capital City, situated within a tall snow capped mountain in the northern ranges of Dun Morogh. With its simple circular structure, the city is not difficult to get around in once you have familiarised yourself with the layout.
+Locations
+
+Sector: Entranceway
+
+    Fizzlespinner's General Goods - General Goods Vendor, Trade Supplier
+    Barims Reagent - Reagent Vendor
+    The Stonefire Tavern - Bartender, Barmaid
+
+Sector: Mystic Ward
+    The Fighting Wizard - Robe Merchant, Staff Merchant
+    Ironforge Physician - First Aid Trainer, Reagent Vendor
+    Hall of Mysteries - Priest, Mage, Portal, Paladin Trainers
+    Stonebrow's Clothier - Tailoring Trainer, Supplier, Cloth & Armor Merchant
+    Thistlefuzz Arcanery - Enchanting Trainer, Supplier
+
+Sector: Explorer's Hall
+    Guild Tabar Designer - Tabar Vendor
+    Pithwick's Bags & Supplies - Bags Vendor, General Goods Vendor
+    Fountain Map - Empty
+    Fountain Map - Cartography Trainer, Supplier
+
+Sector: Military Ward
+
+    Stonebranch Herbalist - Herbalism Trainer, Supplier
+    Goldfury's Hunting Supplies - Bow Merchant, Gun Merchant
+    Bruuk's Corner - Bartender, Barmaid
+    Finspindle's Leather Goods - Skinning Trainer, Leatherworking Trainer, Light Armor Merchant
+    Hall of Arms - Warrior, Hunter Trainers
+    Timberline Arms - Mace & Staves Merchant, Axe Merchant, Blade Merchant
+    Craghelm's Plate & Chains - Mail Armor Merchant, Heavy Armor Merchant
+    Empty House with Statues
+
+Sector: Market Walk
+    Steelfury's Weapon Emporium - Weapon Merchant
+    Thundershot Guns'n Ammos - Gun & Ammonunition Merchant
+    Vault of Ironforge - The Bank
+    Fisthammer's Armor & Clothier - Light Armor Merchant, Heavy Armor Merchant
+    Ironforge Armory - Heavy Armor Merchant, Light Armor Merchant
+
+Sector: Forlorn Cavern
+    Rogue Trainer
+    Blade Merchant
+    Poison Vendor
+    Lockpicking Trainer
+    Warlock Trainer
+
+Sector: Commerce Ward
+    Elevator to High Seat
+    Royal Stone Cutter Union
+    Deep Mountain Mining - Mining Trainer, Supplier
+    Bronze Kittle - Cooking Trainer, Supplier
+    Trade Supplier
+    Travelling Fisherman - Fishing Trainer, Supplier
+    Elevator to Gnomes
+
+Sector: The Great Forge
+    Blacksmith Trainer
+    Blacksmith Supplier
+
+
+    Forge
+    Anvil
+
+Sector: Gnomes
+    BerryFizz Potion & Mixed Drinks - Alchemy Trainer, Supplier
+    Springspindles Gadgets - Engineering Trainer, Supplier
+    Fireworks Merchant
+
+
+
+
+
+
+
+Loch Modan 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    A green forest land of the dwarves, with its great Stonewrought Dam looking over the Loch.
+    Locations
+    
+    1. Ironband's Excavation Site - Tailor
+    2. Farstrider Lodge - Gunsmith, Bowyer, General Supplies, Leathercrafter
+    3. Mogosh Stronghold
+    4. Mine
+    5. Silver Stream Mine
+    6. Southern Guard Tower
+    7. Northern Guard Tower - Armorer
+    
+    Town: Thelsamar
+    
+        Herbalist (Trainer), Alchemist (Tainer),
+        General Supplies, Baker, Tradesman, Metalsmith, GunSmith, Cartography Supplier
+        Bindstone
+        Gryphon
+        Anvil
+    
+    
+    
+    Garrison: Stonewrought Dam
+    
+        Engineer (Trainer)
+        Macecrafter
+
+
+
+
+
+
+
+
+Stormwind, Cathedral Square 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    The holy power is the backbone of Stormwind, with its paladin and priests it marshals power not to be reckoned with. The Cathedral is home to the servants of light, as well as those in need of a blessing before a long trip.
+    Locations
+    
+    31. The Finest Thread
+    32. Just Maces - Mace Merchant
+    33. Righteous Plates - Robe Vendor, Mail Armor Merchant
+    34. The Argent Dawn
+    35. City Hall
+    36. Paladin Trainer
+    37. Reagent Vendor
+    38. First Aid Trainer
+    39. Priest Trainer
+
+
+
+
+Stormwind, Dwarven District 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+
+    The air here is permanently filled with ashes and dust from the forges of the laboring dwarves. The place rings of metal upon anvil, and a sure place to go if one is in need of a sharp blade.
+    Locations
+
+    40. Empty Armorer House
+    41. Explorer's League
+    42. Swordsmith
+    43. Hunter Trainer
+    44. Blacksmith Supplier, Trainer
+    45. Guns Vendor
+    46. Axes Merchant
+    47. Mining Supplier, Trainer
+    48. Engineering Supplier, Trainer
+    Forge
+    Anvil
+
+
+
+
+Stormwind, Mage Quarter 	
+ 
+        
+
+    [Click to enlarge]
+        Description
+
+    A magnificent place of wonders, with the Sanctum's access ramp spiralling toward the sky over the green courtyard.
+
+    In its corners beneath the Slaughtered Lamb, is the dungeons where warlocks gather to share their latest dark art.
+    Locations
+
+    13. Enchanting Supplier
+    14. Duncan's Textiles - Light Armor Merchant, Tailoring Supplier, Trainer
+    15. Alchemy Needs - Herbalism Supplier, Alchemy Supplier, Trainer
+    16. Herbalism Trainer
+    17. Larsen Clothier - Hatter, Robe Merchant
+    18. The Blue Recluse - Arcane Bartender
+    19. Wizard's Sanctum - Mage Trainer, Portal Trainer
+    20. Ancient Curios - Arcane Tinkers Vendor
+    21. The Slaughtered Lamb/Warlock Tavern - Bartender, Warlock Trainer, Summoning Circle
+    22. Pyrotechnics - Fireworks Vendor
+    23. Stormwind Staves - Wand Merchant, Staves Merchant
+
+
+
+ Stormwind, Old Town 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    Every city need its seedy sectors, where thieves, vagabonds and low lives watch at passerbies with shifty eyes. Old Town has it all, plus a tavern for the drunken warriors to crash.
+    Locations
+    
+    50. The Protective Hide - Leatherworking Supplier, Trainer, Bag Vendor, Leather Armor Merchant, Skinning Trainer
+    51. Pig & Whistle Tavern - Warrior Trainer, Tavern Keeper, Cooking Supplier, Trainer, Master of Cooking Recipes
+    52. Honest Blades - Blade Merchant
+    53. Limited Immunity - Heavy Armor Merchant, Mail Armor Merchant
+    54. Heavy Handed Weapon - Two Handed Sword Merchant
+    55. The Seven Deadly Venoms - Poison Supplier, Shady Dealer
+    56. Lockpicking Trainer
+
+
+
+
+
+Stormwind, Overview 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    Stormwind, the last show of human's former glory, capital of the wanning kingdom beseiged by forces of darkness. Still it retains its seat as the focus of trading and teaching. The gryphon hub of the southern continent of Azeroth, it is a key rest stop for weary travellers.
+    Locations
+    
+    Sector :
+    Trade District
+    1. The Cheese Cutters - Apprentice of Cheese, Mistress of Cheese
+    2. Everyday Merchandise - Trade Supplier, General Goods Vendor
+    3. Stormwind Visitor Center - Guild Master, Tabard Vendor
+    4. Pestle's Apothecary - Reagent Vendor, Arcane Goods Vendor
+    5. Weller's Arsenal - Weapon Merchant
+    6. Lionheart Armory - Cloth Armor Merchant, Leather Armor Merchant, Mail Armor Merchant
+    7. The Empty Quiver - Bow & Arrow Merchant, Arrow Merchant
+    8. City Architect
+    9. The Wine Cask - Merlot Connoisseur, Wine Vendor
+    10. Jetty - Fishing Supplier, Trainer
+    11. Canal Tailor & Fit Shop - Clothier
+    12. Fragrant Flowers - Florist, Herbalism Supplier
+    Gryphon
+    Stormwind Counting House (Bank)
+    Forge
+    Anvil
+    
+    
+    Sector :
+    Mage Quarter
+    13. Enchanting Supplier
+    14. Duncan's Textiles - Light Armor Merchant, Tailoring Supplier, Trainer
+    15. Alchemy Needs - Herbalism Supplier, Alchemy Supplier, Trainer
+    16. Herbalism Trainer
+    17. Larsen Clothier - Hatter, Robe Merchant
+    18. The Blue Recluse - Arcane Bartender
+    19. Wizard's Sanctum - Mage Trainer, Portal Trainer
+    20. Ancient Curios - Arcane Tinkers Vendor
+    21. The Slaughtered Lamb/Warlock Tavern - Bartender, Warlock Trainer, Summoning Circle
+    22. Pyrotechnics - Fireworks Vendor
+    23. Stormwind Staves - Wand Merchant, Staves Merchant
+    
+    Sector :
+    Park
+    24. Empty Tailoring House
+    25. Survival Trainer
+    26. Druid Trainer
+    27. Empty Tavern
+    28. Herbalism Supplier, Trainer
+    29. Empty Bowyer House
+    30. Empty Inn
+    
+    Sector :
+    Cathedral Square
+    31. The Finest Thread
+    32. Just Maces - Mace Merchant
+    33. Righteous Plates - Robe Vendor, Mail Armor Merchant
+    34. The Argent Dawn
+    35. City Hall
+    36. Paladin Trainer
+    37. Reagent Vendor
+    38. First Aid Trainer
+    39. Priest Trainer
+    
+    Sector :
+    Dwarven District
+    40. Empty Armorer House
+    41. Explorer's League
+    42. Swordsmith
+    43. Hunter Trainer
+    44. Blacksmith Supplier, Trainer
+    45. Guns Vendor
+    46. Axes Merchant
+    47. Mining Supplier, Trainer
+    48. Engineering Supplier, Trainer
+    Forge
+    Anvil
+    
+    Sector :
+    Royal Chamber
+    
+    49. Librarian
+    
+    
+    Sector :
+    Old Town
+    50. The Protective Hide - Leatherworking Supplier, Trainer, Bag Vendor, Leather Armor Merchant, Skinning Trainer
+    51. Pig & Whistle Tavern - Warrior Trainer, Tavern Keeper, Cooking Supplier, Trainer, Master of Cooking Recipes
+    52. Honest Blades - Blade Merchant
+    53. Limited Immunity - Heavy Armor Merchant, Mail Armor Merchant
+    54. Heavy Handed Weapon - Two Handed Sword Merchant
+    55. The Seven Deadly Venoms - Poison Supplier, Shady Dealer
+    56. Lockpicking Trainer
+
+
+
+
+Stormwind, Park 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    Built in the image of the mystic architecture of the night elves, the park is a tranquil green coutyard lit by soothing blue lights.
+    Locations
+    
+    24. Empty Tailoring House
+    25. Survival Trainer
+    26. Druid Trainer
+    27. Empty Tavern
+    28. Herbalism Supplier, Trainer
+    29. Empty Bowyer House
+    30. Empty Inn
+
+
+
+
+Stormwind, Royal Chamber 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    The halls of the king and lords of Stormwind. Its grand halls paved with white marble, while paintings of epic battles lined the walls of the Gallery, where within holds the statues of the heroes of old.
+    Locations
+    
+    49. Librarian
+
+
+
+Stormwind, Trade District 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    The Trade District is where the fun and actions are. People shouting out bargain deals on the lastest equipment and arcane components, new comers asking for directions around the city, people looking for group of adventures willing to embark on epic quests.
+    
+    And let's not forget the rather frequent and amusing duels that seems to spark now and then.
+    Locations
+    
+    1. The Cheese Cutters - Apprentice of Cheese, Mistress of Cheese
+    2. Everyday Merchandise - Trade Supplier, General Goods Vendor
+    3. Stormwind Visitor Center - Guild Master, Tabard Vendor
+    4. Pestle's Apothecary - Reagent Vendor, Arcane Goods Vendor
+    5. Weller's Arsenal - Weapon Merchant
+    6. Lionheart Armory - Cloth Armor Merchant, Leather Armor Merchant, Mail Armor Merchant
+    7. The Empty Quiver - Bow & Arrow Merchant, Arrow Merchant
+    8. City Architect
+    9. The Wine Cask - Merlot Connoisseur, Wine Vendor
+    Forge
+    Anvil
+    10. Jetty - Fishing Supplier, Trainer
+    11. Canal Tailor & Fit Shop - Clothier
+    12. Fragrant Flowers - Florist, Herbalism Supplier
+
+
+
+
+
+
+
+
+
+
+
+Westfall 	
+ 
+	
+
+    [Click to enlarge]
+        Description
+    
+    Once the breadbasket of the kingdom of Stormwind, the land of Westfall has now grown fallow from years of conflict and neglect. Crops are no longer cultivated in the fields, and the once abundant mines have been deserted. Westfall is now little more than a wasteland, refuge to the Defias Brotherhood.
+    
+    The farmers of Westfall have not given up thier homes despite Stormwind's abandonment. Based off Sentinel Hill, the People's Protector s fights a battle against the Brotherhood, and offers some protection to travellers with their patrols.
+    Locations
+    
+    Town: Sentinel Hill
+    
+        Lumberjack Trainer
+        General Goods Merchant, Bread Merchant, Bowyer
+        Gryphon
+        Bindstone
+    
+    
+    
+    Town: Moonbrook
+    
+    
+        Forge
+        Anvil
+        Caution: Occupied by Defias Brotherhood
+    
+    
+    
+    Note: Saldean's Farm has an anvil

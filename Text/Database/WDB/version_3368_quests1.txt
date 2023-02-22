@@ -1,0 +1,209 @@
+
+
+Entry: 364
+Title: The Mindless Ones
+QuestType: 2
+QuestLevel: 2
+QuestSort: 154
+StartItem: 0
+RewardMoney: 0
+NextQuest: 0
+LogDescription: Shadow Priest Sarvis wants you to kill 5 Mindless Zombies and 3 Wretched Zombies.
+QuestDescription: We Forsaken are at war with the Lich King's army of the Scourge: necromantically raised armies of the undead, foul beasts of the north, and tormented spectres.$b$bThe northern part of the village has become overrun with the Mindless Ones, and they must be destroyed. Destroy them, show them no mercy, our former brothers and sisters as they might be. The Fallen are nothing but The Lich King's slaves.
+AreaDescription: 
+RewardItem: 3275
+Qty: 1
+RequiredMobKill: 1501
+Qty: 5
+RequiredMobKill: 384512
+Qty: 768
+
+
+Entry: 376
+Title: The Damned
+QuestType: 2
+QuestLevel: 2
+QuestSort: 154
+StartItem: 0
+RewardMoney: 0
+NextQuest: 0
+LogDescription: Novice Elreth requires 4 Scavenger Paws and 4 Duskbat Wings.
+QuestDescription: My duties include tending to our wounded warriors, tailoring armor and clothes, and assisting Shadow Priest Sarvis with whatever else he might need.$b$bFrom the look of it, you'll be enlisted in his service also... hunting the Mindless Ones, if I know his mind. Well, if you'd like to stay in one piece--and I've no doubt you do--perhaps I can help. I'm running out of paws and wings, and if you bring me some, I'll find some armor for you. You'll find a good number of wolves and bats to the northwest.
+AreaDescription: 
+RewardChoiceItem: 3274
+Qty: 1
+RewardChoiceItem: 6060
+Qty: 1
+RequiredMobKill: 3265
+Qty: 4
+RequiredMobKill: 835584
+Qty: 1024
+
+
+Entry: 380
+Title: Night Web's Hollow
+QuestType: 2
+QuestLevel: 4
+QuestSort: 154
+StartItem: 0
+RewardMoney: 0
+NextQuest: 381
+LogDescription: Executor Arren wants you to kill 8 Young Night Web Spiders and 6 Night Web Spiders.
+QuestDescription: One of our greatest struggles is obtaining the natural resources we need to survive. Gold was scarce even in the height of the Alliance's power.$b$bThere is a gold mine to the northwest that has been overrun with spiders. We need gold from the mine, but we can't very well get it while the spiders are crawling around in there. I've not much manpower to commit to the task, so we'll just have to do it little by little. Get out there and see what you can do.
+AreaDescription: 
+RewardChoiceItem: 3270
+Qty: 1
+RewardChoiceItem: 3273
+Qty: 1
+RewardChoiceItem: 3272
+Qty: 1
+RequiredMobKill: 1504
+Qty: 8
+RequiredMobKill: 385280
+Qty: 1536
+
+
+Entry: 381
+Title: The Scarlet Crusade
+QuestType: 2
+QuestLevel: 4
+QuestSort: 154
+StartItem: 0
+RewardMoney: 0
+NextQuest: 382
+LogDescription: Bring Executor Arren 8 Scarlet Armbands from Scarlet Converts and Scarlet Initiates.
+QuestDescription: You'll be happy to know we appear to be making progress in the mine (thanks in no small part to your efforts), and we can turn our eyes to other concerns.$b$bMy scouts have reported that a detachment of the Scarlet Crusade is setting up a camp southeast of here. The Scarlet Crusade is a despicable organization that hunts us, and they will not rest until every undead--Lich King's Scourge or no--is destroyed. We must strike first!$b$bBe careful, their unholy zeal makes them dangerous adversaries.
+AreaDescription: 
+RewardItem: 159
+Qty: 5
+RewardChoiceItem: 3268
+Qty: 1
+RewardChoiceItem: 3269
+Qty: 1
+RewardChoiceItem: 3267
+Qty: 1
+RewardChoiceItem: 5779
+Qty: 1
+RequiredMobKill: 3266
+Qty: 8
+
+
+Entry: 363
+Title: Rude Awakening
+QuestType: 2
+QuestLevel: 1
+QuestSort: 154
+StartItem: 0
+RewardMoney: 0
+NextQuest: 364
+LogDescription: Speak with Shadow Priest Sarvis.
+QuestDescription: About time you woke up. We were ready to toss you into the fire with the others, but it looks like you made it.$b$bI am Mordo, the caretaker of the crypt of Deathknell. And you are the Lich King's slave no more.$b$bSpeak with Shadow Priest Sarvis in the chapel at the base of the hill, he will tell you more of what you must know.
+AreaDescription: 
+
+
+Entry: 382
+Title: The Red Messenger
+QuestType: 2
+QuestLevel: 5
+QuestSort: 154
+StartItem: 0
+RewardMoney: 0
+NextQuest: 383
+LogDescription: Kill Meven Korgal, the messenger, at the Crusader camp, then return any information you find to Executor Arren.
+QuestDescription: Reports from my superiors in Brill indicate that an agent of the Scarlet Crusade was dispatched from the Scarlet Monastery and sent here to Deathknell. According to the reports, the messenger possesses important information on his person. I do not have further details, but whatever it is, we must have it!$b$bYou're the most qualified person I have to send, $n. Find that messenger and bring me whatever information you can find.
+AreaDescription: 
+RewardChoiceItem: 3277
+Qty: 1
+RewardChoiceItem: 3276
+Qty: 1
+RequiredMobKill: 2885
+Qty: 1
+
+
+Entry: 383
+Title: Vital Intelligence
+QuestType: 2
+QuestLevel: 5
+QuestSort: 154
+StartItem: 2885
+RewardMoney: 75
+NextQuest: 0
+LogDescription: Deliver the Scarlet Crusade Documents to Executor Zygand in Brill.
+QuestDescription: These will need to be taken to my superior, Executor Zygand, in Brill. With this information, we'll be able to deal a decisive blow to the Scarlet Crusade. Your services have been useful here in Deathknell, but I need someone to deliver this to Zygand, and I believe he'll be able to find you more appropriate work.$b$bTake the road north out of Deathknell. Soon after entering Tirisfal proper, you'll hit a crossroads. Take the eastern fork, and keep going east. You'll pass Cold Hearth Manor along the way.
+AreaDescription: 
+RequiredMobKill: 2885
+Qty: 1
+
+
+Entry: 404
+Title: A Putrid Task
+QuestType: 2
+QuestLevel: 6
+QuestSort: 85
+StartItem: 0
+RewardMoney: 100
+NextQuest: 0
+LogDescription: Bring 7 Putrid Claws to Deathguard Dillinger in Brill.
+QuestDescription: Scourge have trickled into Tirisfal Glades and have infested the area west of Brill, near the old bridge.$B$BGo there and beat back the Rotting Dead and Ravaged Corpses you find.  Scatter their bones and bring back their Putrid Claws, and the Deathguards will reward you.
+AreaDescription: 
+RequiredMobKill: 2855
+Qty: 7
+
+
+Entry: 426
+Title: The Mills Overrun
+QuestType: 2
+QuestLevel: 8
+QuestSort: 85
+StartItem: 0
+RewardMoney: 200
+NextQuest: 0
+LogDescription: Gather 5 Notched Ribs and 3 Blackened Skulls, then return to Deathguard Dillinger in Brill.
+QuestDescription: The Scourge are trying to form a base at the Agamand Mills.  If they do, then they can stage further attacks within Tirisfal.$B$BThe orders have been given.  The Scourge in the Mills must be destroyed.$B$BGo to the Mills.  Collect Notched Ribs from Rattlecage and Cracked Skull Soldiers, and Blackened Skulls from Darkeye Bonecasters.$B$BTo get to the Mills, follow the road west.  After crossing the bridge, take the next fork north then keep going north.  When you see windmills, the battle will begin.
+AreaDescription: 
+RewardChoiceItem: 3447
+Qty: 1
+RewardChoiceItem: 3834
+Qty: 1
+RequiredMobKill: 3162
+Qty: 5
+RequiredMobKill: 809728
+Qty: 768
+
+
+Entry: 375
+Title: The Chill of Death
+QuestType: 2
+QuestLevel: 8
+QuestSort: 85
+StartItem: 0
+RewardMoney: 180
+NextQuest: 0
+LogDescription: Bring five Duskbat Pelts and some Coarse Thread to Gretchen Dedmar in Brill.
+QuestDescription: It's so cold, now.  The Plague of Undeath crawls through my veins like an icy serpent.  The Mindless State will be upon me soon.  But no doomed destiny will prevent me from serving our Dark Lady.  When the call arose I sewed body bags for the fallen soldiers of Sylvanas's mighty army.$b$bNow my hands shake from the chill.  If you would bring me five Duskbat Pelts and some Coarse Thread I could sew myself a blanket.  Help me, $N, so that I can continue to serve the cause.
+AreaDescription: 
+RewardChoiceItem: 3833
+Qty: 1
+RewardChoiceItem: 5939
+Qty: 1
+RequiredMobKill: 2876
+Qty: 5
+RequiredMobKill: 593920
+Qty: 256
+
+
+Entry: 367
+Title: A New Plague
+QuestType: 2
+QuestLevel: 6
+QuestSort: 85
+StartItem: 0
+RewardMoney: 50
+NextQuest: 368
+LogDescription: Apothecary Johaan in the town of Brill wants you to collect 5 Vials of Darkhound Blood.
+QuestDescription: Lady Sylvanas has called upon the Royal Apothecary Society. The Dark Lady believes our knowledge coupled with the newfound magic will provide the key to Arthas's demise.  She has challenged us to concoct a new plague, a plague deadlier than any ailment on Azeroth. This new disease will bring Arthas's Scourge Army to ruin.$b$bMy studies show that the blood of beasts might prove to be the key. Bring to me 5 vials of darkhound blood so I can test my theory. 
+AreaDescription: 
+RewardItem: 3382
+Qty: 3
+RequiredMobKill: 2858
+Qty: 5

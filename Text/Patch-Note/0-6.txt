@@ -1,0 +1,340 @@
+
+
+ Patch 0.6
+ Release date	April 13, 2004
+ Initial version	3592
+ Interface .toc	—
+ Highlights & notes
+ 
+    Rest State, Inns & Hearthstones and Guilds implemented
+    Changes to the Combat system
+    2 new Dungeons introduced: The Scarlet Monastery and Blackfathom Deeps
+    New Skill system
+    Class changes
+
+
+
+
+
+Patch 0.6 was a beta patch for World of Warcraft that was released on April 13, 2004.
+
+We've finally made all of the races available for simultaneous testing in this Alliance & Horde Phase of our Beta Test. Once the client is downloaded, you will have the option to play all eight races: Human, Undead, Dwarf, Tauren, Gnome, Orc, Night Elf and Troll. Eight classes will also be available, as applicable to each race: Druid, Mage, Paladin, Priest, Rogue, Shaman, Warlock and Warrior. You read that right, Druids are available!
+
+We've also added many new features, fixed some broken ones and changed a few things here and there. So, sit back, start the download and take a moment to scan these lengthy patch notes.
+Major Changes
+Windows 98/ME Loading Bug
+
+There are three common crash errors affecting the World of Warcraft Beta running on Windows 98/ME systems.
+
+These are known issues and fixes are currently under development:
+
+If you start the game and your computer locks up immediately.
+
+Solution:
+
+    Make a shortcut to wow.exe.
+    Right click on the shortcut and go to properties.
+    In the shortcut tab, go to the target line and add the following two switches after the quotes so that it reads something similar to: "/patchnotes/path to game/wow.exe" -windowed -opengl
+    Start the game by using this shortcut.
+    You can select a character at the selection screen and then try to enter the world.
+
+If after rebooting or when running the game for the first time you crash out with the (FLT_INVALID_OPERATION) error.
+
+Solution:
+
+    Make a shortcut to wow.exe.
+    Right click on the shortcut and go to properties.
+    In the shortcut tab, go to the target line and add the following two switches after the quotes so that it reads something similar to: "/patchnotes/path to game/wow.exe" -windowed -opengl
+    Re-start the game with the shortcut and you should be able to enter the world.
+
+If you are able to select your character but your computer locks 1/4 of the way through loading.
+
+Solution:
+
+    Start the game and get to the character selection screen.
+    When you are at the character selection screen, Alt-Tab out of the game.
+    You will get a crash
+    Re-start the game.
+    Select a character and you should be able to get into the game at this point.
+
+Patching
+
+Due to heavy changes in the way we store the games data, this push will be of nearly the same size as your last download. Unfortunately, this means we wont be able to patch this time around, and instead will ask everyone to download the client again.
+
+If you haven't already done so, please check your email as we are re-sending you your Authentication Key, so you can have it ready for use with the downloader.
+Character Hold
+
+All current characters have been placed on hold at this time. This is due in part to all of the changes in our low level areas, the new combat system and the addition of the rest state. We feel that its important to test world advancement from the ground up and we want to take this opportunity to do so.
+
+Secondly, with the new skill system in place, we want to find a way to convert older characters to the new system without having to do a character wipe.
+Rest State, Inns & Hearthstones
+
+To broaden and balance some of the gameplay elements, we've incorporated a few new features. One of them is the Rest State modifier, which gives players a time-limited bonus to combat (PvE) experience. This frees up time for exploring other aspects of the game without penalty, such as tradeskilling and social activities, and helps players avoid level-grinding. We've also added Inns, which serve as a good place to hang up your sword or staff for the night because they confer special bonuses. Inns also act as home locations, which our third new feature, Hearthstones, take advantage of. Hearthstones provide a speedy way to travel back to an Inn when you need to take care of business in town or when you're ready to check in and call it a night. The basics of these new features are covered below.
+
+    Rest State
+
+        The Rest state modifier only affects experience earned from killing monsters. It does not affect experience earned from quest rewards or other experience rewards in the game (such as future PvP experience rewards).
+        As players kill monsters and gain experience points, they become increasingly tired. Their rest level reflects this tiredness in five tiers: well rested, rested, normal, fatigued and exhausted.
+        Well-rested players receive bonus experience points for killing monsters. Rested players receive a smaller bonus. At the normal rest level, players receive no bonus experience points for killing monsters. Fatigued players receive half of the normal experience points from their kills, and when exhausted they will receive a quarter of normal experience from a kill.
+        To become well rested and start earning bonus experience from killing monsters again, players must either log out or rest online at an Inn (see below) for several hours.
+        Thanks to the comforts of a warm bed and a hearty meal, players who rest or log out at an Inn can regain energy up to the maximum level: well rested (it takes 8 hours to go from exhausted back to well rested). Players who log out anywhere else in the world will only regain energy up to the normal level.
+        Note that while your character is resting at an Inn, you can play other characters on your account. The rest state is per character only.
+
+    Inns
+
+        Players can rest or log out at any Inn in the world.
+        Inns will be located in all major cities and some towns.
+        Whenever players enter an Inn or log out at an Inn, they will effectively be "resting," which is indicated by their portrait flashing yellow.
+        Players can leave an Inn at any time and continue fighting monsters; the experience they gain will be based on the Rest level that they have rested up to.
+        If players log out in an Inn, they will be able to instantly exit the game as opposed to having to wait 20 seconds before exiting.
+        When players log in to play the next day, their well-rested characters will have slept off the ill effects of any nasty debuffs from the day before.
+
+    Hearthstones
+
+        Players use Hearthstones (an inventory item) to cast a spell that teleports them back to their "home locations." Casting the spell will take a reasonable amount of time, to prevent it from being used as an escape mechanism from combat.
+        "Checking in" with an Innkeeper will make that Inn the player's current home location, and the player's Hearthstone will then take the player back to that Inn (as opposed to any previous home locations). If the player doesn't have a Hearthstone, the Innkeeper will provide one at no cost.
+        Because Hearthstones let players quickly return to town, players can easily log off from within an Inn when they're done playing for the night (or day). If they so choose, players can also use Hearthstones just to return to town to sell items, trade, or train. However, Hearthstones can only be used once per hour.
+        Having home locations in the game will let us incorporate other spells that teleport players to these locations, such as how Astral Recall worked when we had bind stones.
+
+Combat Changes
+
+    Characters have a new combat stat called "Attack Power." Attack Power helps determine melee damage dealt. The new Attack Power value is displayed in your character sheet as Power. This value is based on class, level and ability scores. Most classes use strength, but rogues and hunters use a combination of strength and agility. The main purpose of Attack Power is to provide a more consistent effect from buffs, regardless of weapon speed. Slow weapons will receive a larger bonus from your Attack Power than faster weapons which will ultimately balance slow and fast weapons. It is important to note that most attack bonuses in the game now add to your Attack Power.
+    The amount of melee damage directly attributed from your weapon has been reduced. Damage is now more closely connected with class, strength and buffs than before. Your weapons are still very meaningful but the combat effect you get from using a higher (or lower) level weapon has been reduced.
+    Block values have been added to shields. Blocking an attack no longer avoids all of the damage of an attack. Blocked attacks avoid an amount of damage based on your shield and your character's strength.
+    Players will now find it more difficult to fight monsters that are a good deal higher in level than they are. Player chance to hit and damage ("glancing blows") are reduced while the monster's chance to hit and damage ("crushing blows") are increased.
+    Miss, Parry, Block, Dodge, Critical Hit, and "Stun from Behind" all have new formulae for determining their percentage chance of occurrence.
+    The effect Spirit has on mana and hit point regeneration has been improved. Spirit affects all characters' mana and hit point regeneration rates in and out of combat.
+    Your chance to hit with each weapon when fighting with two weapons has gone down, but the total hits from both weapons has gone up. Your total damage output when fighting with two weapons should be higher than fighting with one weapon and a shield, but roughly equal to fighting with a two-handed weapon.
+    Off-hand attacks deal of the weapon's designated damage.
+
+New Skill System
+
+The new skill system is in place! Players now earn skill points based on experience points gained from killing monsters. Earned skill points can be spent on tradeskills, weapon proficiencies or to increase attributes.
+
+The new skill UI is in place. You will be able to increase your attributes by spending skill points. Attributes will cost different amounts to increase depending on your class. Attributes with a green bar are your characters primary attributes and will cost the least, while attributes displayed with a red bar are less necessary attributes and will be the most expensive.
+
+New Weapon skills will now be purchased with skill points allowing a wider variety of weapons being available to any given class. Different weapons will have different skill point costs associated with them.
+
+Finally, tradeskills will still be purchased with skill points. You will still need to buy the tradeskills at the tradeskill trainer.
+Talents Disabled
+
+Some of the talent functionality, like increasing attributes, has been moved to our new skill system. The rest of the Talent system is being reworked and therefore disabled. Don't worry, you will get talents back, and they will be even cooler than before!
+Monster Claiming
+
+Now the first player or group to damage a monster will "tap" them. When the tapped monster dies, that player or group will get the experience and loot from the kill. Other players will be able to tell if a monster is tapped because it's portrait will turn grey. Players are free to help kill the tapped monster, but they will receive no experience or loot from the kill. Even with help, the player or group who initially tapped the monster will gain full experience from the kill. In situations where a much higher level player helped with the kill, some of the experience reward will be reduced.
+Experience Distribution Changes
+
+As players become higher level, they will be able to receive experience from a large range of monsters. At low levels, you may get experience from monsters 5 levels lower than you, while at level 60 you will gain experience from monsters 12 levels lower. In the future we will add a user interface to monster portraits so you will always know which monsters give experience for your level.
+Quest Rewards
+
+Quest rewards are now labeled as Bind on Acquire. Quest rewards can still be equipped or sold to a merchant, but you will no longer be able to sell or give them to other players. This has been implemented to deter these items from flooding the game economy.
+World
+
+Many objects in the world such as buildings, dungeons and cities have undergone a significant data format change to reduce memory usage, increase render performance and minimize future patch sizes.
+Cloaks
+
+Due to popular demand, cloaks have been made visible. This will help players customize their characters even more than before.
+Other Changes
+Death System
+
+    Bodies will decompose after a player is resurrected or revived. We are working on some better art to represent this process.
+    The corpse retrieval area has increased to 40 yards.
+    Players that revive will now have 50% health and mana.
+    Spirit healers are now ghosts and can only be seen by players in ghost form.
+    Players can no longer use ghost form as a means to travel to far off locations. Having a spirit healer resurrect you in a graveyard other than the one you appeared at when you died, will always teleport you back to that initial graveyard.
+    Players can now use all of the UI in ghost form (i.e. move things around in your backpack, read your quest log, interact with your spellbook etc.)
+
+Cities/Zones
+
+    Darnassus, Stormwind, Orgrimmar and Undercity have all undergone layout changes.
+    Swamp of Sorrows, Dustwallow Marsh, Desolace and Badlands are now open and itemized.
+    Inns have been added to the following towns throughout the world for resting: Goldshire, Lakeshire, Darkshire, Kharanos, Thelsamar, Menethil, Southshore, Dolanaar, Auberdine, Astranaar, Razor Hill, Bloodhoof Village, Crossroads, Ratchet, Booty Bay, Brill, Tirisfal, Stonard, Swamp of Sorrows, Theramore, Dustwallow Marsh and all major cities.
+    Early versions of our mapping and exploration system are in and working in Elwynn, Teldrassil, Dun Morogh, Tirisfal Glades, Mulgore and Durotar. More functionality will be added to these maps in future patches.
+    Westfall Lumber Mill now has lumberjacks working around it.
+    Guards in Stormwind now provide directions for those who ask. (Coming soon to all cities.)
+
+Dungeons
+
+    Blackfathom Deeps, a level 20 - 27 dungeon is now opened and itemized in Northern Ashenvale.
+    The Scarlet Monastery, a level 30 - 40 dungeon is now opened and itemized in Tirisfal Glades.
+    The VanCleef encounter and Goblin Foundry in the Deadmines have been returned.
+    Creatures located in the Stormwind Stockade now have spells and abilities.
+    Shadowthread Cave in Teldrassil is expanded and the number of Webwood Spider spawns has been increased.
+    We have added acoustic values to various interiors to make them more believable. Example: Echoing inside of caves.
+
+Guild System
+
+Guild creation is now in the game as intended, and here is how it works:
+
+    Find a Guildmaster NPC in any of the major cities.
+    Acquire a  [Guild Charter] from the Guildmaster
+    Add 9 other people to the Guild Charter
+    Return the Guild Charter to any Guildmaster.
+    You have a guild!
+
+Tradeskills
+
+    Blacksmithing: Low level dagger added. - Low level weapons now require cloth instead of leather as a component.
+    Cooking: Recipes that require fish have been added to the Alliance areas.
+    Engineering: New recipes added including rocket boots and jumper cables. - Many recipes now require more cloth and less leather. - The  [Mechanical Dragonling]'s level and health have been reduced.
+    Fishing: Fishing will now improve faster with use. - The fishing bobber now has a much louder noise when a fish is hooked.
+    Herbalism: The names of some herbs have been changed to make them less confusing. - Underground herbs show up as gray on the minimap so you can tell them apart from above ground herbs. - When underground, above ground herb nodes will not be visible. - You no longer need to face the herb node to gather the herbs.
+    Leatherworking: Nearly 30 new recipes added. - Ingredients for the  [Toughened Leather Gloves] have changed. - Light Hides are no longer required for as many recipes as before.
+    Mining:  [Citrine] drop rate from iron has been reduced. - Iron has been set to 125 skill as was originally intended. -  [Jade] drops have been slightly increased. - Underground mines show up as gray on the minimap so you can tell them apart from above ground mines. - When underground, above ground mining nodes will not be visible. - You no longer need to face the mining node to gather the minerals.
+    Skinning: Skinning a beast will always produce a skin of some quality. - Skill increases and time to skin have both been reduced. - Some ambient creatures can now be skinned. - You can now right click a creature that has no loot to skin it.
+    Tailoring: Thirty new level 25 and above recipes have been added. - Tailoring creation times have been increased.
+
+General Spells/Abilities:
+
+    The ALT key now allows a player to cast a spell on themselves automatically by pressing both the spell or quick key and ALT at the same time.
+    When [Fear] wears off, you will no longer keep running.
+    Helpful actions such as healing and paladin auras no longer extend a creature's pursuit timer.
+
+Druid Druid:
+
+    Now available as a character class!
+
+Mage Mage:
+
+    [Amplify Magic] and [Dampen Magic] are both instant cast.
+    [Frost Armor] 3 has been moved to level 20.
+    [Fire Ward] 1 and 3 have been moved to levels 20 and 40.
+    [Frost Ward] 1 has been moved to level 22.
+    [Conjure Food] spells have been moved to levels 6, 12, 22 and 32.
+    [Conjure Water] spells have been moved to levels 4, 10, 20 and 30.
+    [Blink] has been moved to level 20.
+    [Phantasm] has been removed.
+    [Mana Shield] now drains 2 mana per hit point absorbed.
+    New Spell: [Sleep] is gained at levels 8, 20 and 40. Sleep duration has changed to 20, 30 and 40 seconds.
+    New Spell: [Cone of Cold] is gained at levels 26 and 34.
+
+Paladin Paladin:
+
+    [Holy Strike] and [Crusader Strike] are now considered spells and no longer supersede previous versions.
+    The damage and mana cost for Holy Strike have both been reduced.
+    Crusader Strike causes physical damage, has a damage bonus and has replacements at levels 22 and 34.
+    The duration and mana cost of [Fist of Justice] have been reduced, its cooldown time has increased.
+    [Turn Undead]'s duration, mana cost and cooldown time are reduced. Turn Undead has also been moved to levels 24 and 36.
+    The cooldown times for [Divine Favor] and [Divine Shield] have increased.
+    The durations for Divine Favor 2 and Divine Shield 2 have both decreased.
+    Divine Shield slows the Paladin's attack speed.
+    The ranges for [Purify] and [Cleanse] have increased.
+    The duration for [Seal of Righteousness] has increased.
+    [Seal of Protection] is only usable on party members.
+    [Seal of Fury] has been moved to level 22.
+    The range for [Exorcism] has increased.
+
+Priest Priest:
+
+    Pacify has been renamed [Mind Soothe].
+    [Renew] is now an instant cast spell.
+    [Shadow Word: Pain] will now stack with [Corruption].
+    The casting time has been reduced to 3 seconds for [Prayer of Healing].
+    Sleep spell removed.
+    [Holy Smite] has been moved to levels 1, 6, 14, 22, 30 and 38.
+    New Spell: [Shackle Undead] is gained at levels 20 and 40.
+    New Spell: [Fade] is gained at levels 8, 20, 30 and 40.
+    New Spell: [Flash Heal] is gained at levels 20, 26, 32 and 38.
+
+Rogue Rogue:
+
+    Any damage will cancel the [Blind] effect.
+    [Cheap Shot] no longer requires the Rogue to be behind the target. Its duration has been reduced.
+    [Sap] no longer requires the Rogue to be behind the target. Using Sap now breaks [Stealth] and is only usable on one target at a time. In addition, Sap will not work on a target that is in combat.
+    Charges on poisoned weapons are now displayed in the weapon tooltip.
+    [Eviscerate] damage is no longer based on the equipped weapon and the cooldown has been removed.
+    The damage and energy cost have both been reduced for [Kick]. It now has a 75% of working, similar to other interrupts. The duration has decreased while the cooldown has increased.
+    The duration and effect of [Slice and Dice] has increased.
+    [Feint] no longer requires the target to be facing you. Detaunt value now scales with level.
+    [Feign Death] has been removed.
+    [Gouge] now only cancels combat if the Gouge succeeds.
+    Successfully pick pocketing can now increase the skill.
+    Dodge will work more frequently than before.
+    Abilities now cost less energy if they miss or are blocked.
+    A new stealth command bar has been implemented.
+    New Ability: [Distract] is gained at level 24.
+
+Shaman Shaman:
+
+    Several low-level spells have received a slight mana cost increase.
+    The mana cost has been reduced and the duration increased for both the [Healing Stream] and Mana Font Totems.
+    [Stoneclaw Totem] has had its hit points retuned.
+
+Warlock Warlock:
+
+    Bloodstone has been renamed to  [Healthstone].
+    [Banish] can now only be used on one target at a time and has a 30 minute cooldown.
+    [Corruption] will now stack with [Shadow Word: Pain].
+    [Fear] can only be used on one target at a time.
+    [Lash of Pain] (Succubus) is now instant and no longer adds weapon damage.
+    New Spell: (Imp) - [Fire Shield] gained at levels 15, 25 and 35.
+
+Warrior Warrior:
+
+    Punishing Blow no longer requires the Warrior to be behind the target.
+    [Defensive Stance] and Sundering Strike (Rank 1) have been removed from the trainers. These abilities are now available through quests.
+    [Bloodrage] has been moved to the [Savage Combat] skill line.
+    The values for Sundering Strike have been reduced.
+    The damage for [Cleave] has been increased.
+    The damage for [Slam] has been increased and the cast time reduced.
+    Slam and Cleave are both now [Berserker Stance] abilities, as originally intended.
+    [Charge] no longer teleports you to the target, but speeds you along a path towards the target.
+    The duration for [Hamstring] has decreased.
+    The cooldown for [Pummel] has increased.
+    The duration for [Shield Bash] has decreased and the cooldown has increased.
+
+Combat
+
+    [Disarm] will now only disarm weapons and will select the weapon in the off-hand if there is no weapon in the main hand slot.
+    Creatures will no longer hurt one another with AE spells unless they are enemies.
+    Gouge is no longer broken by missed attacks.
+
+Items
+
+    Items only display their required level now.
+    Minimum level requirements on many items have changed.
+    Stats only items have changed to reflect the new combat system.
+    Wands are much faster now.
+    More random items have been created including off-hand items and necklaces.
+
+Quests
+
+    Gossip will no longer show up as a quest.
+    Quest con colors have changed slightly: Grey = Trivial; Green = Easy; Yellow = Normal; Orange = Hard; Red = Very Hard.
+    Some Mage, Warrior, Shaman, Rogue and Paladin class specific quests have been added.
+    Existing Paladin and Shaman quests have been tweaked and fixed.
+
+Creatures/Spawns
+
+    Two of Vancleef's Guards have been removed.
+    Fetid Corpses no longer cast Overwhelming Musk.
+    The recast time for Skeletal Horrors to cast Terrify has been increased.
+    Raiding parties are now itemized.
+    Spawns and camps in Redridge have been tweaked.
+    Zzarc Vul no longer instantly respawns.
+    Timberlings will now spawn more often.
+    Seedlings will now respawn much faster and in greater quantities.
+    Rockjaw Bonesnappers will spawn more often in the quarry cave.
+    More Rockjaw Skullthumpers have been added to the quarry.
+
+New Advanced Chat System
+
+    Our new advanced chat system is in its early testing stages. These advanced features are disabled by default because they are still pretty buggy. For those brave enough to experiment please send us feedback on your findings!
+    To utilize this feature, check the "Advanced Chat" checkbox under the Video Options screen.
+    Advanced Chat customizable features include: Size, Color, Opacity, Chat Channels, Channel Text Color, Chat Message Types, Message Type Colors and Font Size options.
+
+Bugs
+
+    If you modify your speed before taking a flight, your speed will be correct when you land.
+    Splitting stacks of inventory items while in flight no longer teleports you to your destination.
+    You can no longer complete exploration quests while flying.
+    The collision system has been totally revamped. Players will no longer pass through solid obstacles or fall through the world.
+    Cooldown can no longer be reset by logging out and in or by entering an instance zone.
+
+Miscellaneous
+
+    You will no longer automatically sit down while following someone.
+    Mageweave is now dropping on level 35 and above monsters.
+    Players can no longer loot or use items while invulnerable.
+    You will no longer be interrupted while looting when someone initiates a trade with you.
+    Your loot window will no longer close when other windows open. This will make it impossible for players to grief by trying to trade while they are mining.

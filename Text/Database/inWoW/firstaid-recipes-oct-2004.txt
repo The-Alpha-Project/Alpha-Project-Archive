@@ -1,0 +1,70 @@
+
+Linen Bandage 
+
+Result Heals 45 - 75 life points. Has a 9 second cooldown.
+1 Linen Cloth
+drops from humanoid creatures
+
+
+Heavy Linen Bandage 
+
+From skill level: 40
+Result Heals 83 - 137 life points.
+Where can you get the recipe? Is taught by the FirstAid trainers.
+2 Linen Cloth
+drops from humanoid creatures
+
+
+Anti-Venom 
+
+From skill level: 80
+Result The target is protected from all poisons up to level 25.
+Where can you get the recipe? Is taught by the FirstAid trainers.
+1 Small Venom Sac
+Mostly dropped by Lurkers and Spiders.
+
+
+Wool Bandage 
+
+From skill level: 80
+Result Heals 120 - 200 life points.
+Where can you get the recipe? Is taught by the FirstAid trainers.
+1 Wool Cloth
+drops from humanoid creatures
+
+
+Strong Anti-Venom 
+
+From skill level: 100
+Result The target is protected from all poisons up to level 35.
+Contains 3 charges.
+Where can you get the recipe? Formula for Strong Anti-Venom (Drop)
+1 Large Venom Sac
+Found on monsters including spiders ala Venom Web Spider (Duskwood).
+
+
+Heavy Wool Bandage 
+
+From skill level: 115
+Result Heals 225 - 375 life points.
+Where can you get the recipe? Is taught by the FirstAid trainers.
+2 Wool Cloth
+is dropped by humanoid creatures
+
+
+Silk Bandage 
+
+From skill level: 160
+Result Heals 300 - 500 life points.
+Where can you get the recipe? Is taught by the FirstAid trainers.
+1 Silk Cloth
+drops from humanoid creatures
+
+
+Heavy Silk Bandage 
+
+From skill level: 190
+Result Heals 450 - 750 life points.
+Where can you get the recipe? Is taught by the FirstAid trainers.
+2 Silk Cloth
+drops from humanoid creatures

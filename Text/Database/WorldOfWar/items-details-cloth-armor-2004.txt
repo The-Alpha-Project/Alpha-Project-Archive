@@ -1,0 +1,3634 @@
+Flying Tiger Goggles
+	Stats
+	Armor: 11
++1 Stamina
+Pawn Price: 4 8
+	
+	
+
+Shadow Goggles
+	Stats
+	Armor: 11
++3 Spirit
+Pawn Price: 7 22
+	
+	
+
+Green Tinted Goggles
+	Stats
+	Armor: 13
++7 Stamina
+Pawn Price: 14 10
+	
+	
+
+Dread Mage Hat
+  Unique item
+	Stats
+	Min Level: 20
+Armor: 13
++7 Intellect
+Pawn Price: 12 85
+	
+	
+
+Holy Shroud
+	Stats
+	Min Level: 20
+Armor: 15
++5 Spirit
++3 Stamina
++1 Shadow Resistance
+Pawn Price: 16 38
+	
+	
+
+Enchanter's Cowl
+	Stats
+	Min Level: 21
+Armor: 13
++4 Intellect
+Pawn Price: 14 96
+	
+	
+
+Frostweave Cowl
+	Stats
+	Min Level: 22
+Armor: 12
+Pawn Price: 10 20
+	
+	
+
+Azure Silk Hood
+	Stats
+	Min Level: 24
+Armor: 13
+Pawn Price: 7 45
+	
+	
+
+Shadow Hood
+	Stats
+	Min Level: 24
+Armor: 14
++3 Intellect
+Special Ability! (coming soon)
+Pawn Price: 19 99
+	
+	
+
+Hooded Cowl
+	Stats
+	Min Level: 25
+Armor: 13
+Pawn Price: 8 1
+	
+	
+
+Russet Hat
+	Stats
+	Min Level: 27
+Armor: 14
++5 Intellect
+Pawn Price: 15 84
+	
+	
+
+Tribal Headdress
+	Stats
+	Min Level: 27
+Armor: 15
++5 Intellect
++5 Spirit
++1 Nature Resistance
+Pawn Price: 26 3
+	
+	
+
+Darkweave Cowl
+	Stats
+	Min Level: 27
+Armor: 15
++5 Intellect
++6 Spirit
++1 Shadow Resistance
+Pawn Price: 26 81
+	
+	
+
+Brightweave Cowl
+	Stats
+	Min Level: 30
+Armor: 16
++11 Intellect
++1 Holy Resistance
+Pawn Price: 34 1
+	
+	
+
+Embroidered Hat
+	Stats
+	Min Level: 40
+Armor: 17
++9 Intellect
+Pawn Price: 43 88
+	
+	
+
+Flax Bracers
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 3
+	
+	
+
+Frayed Bracers
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 3
+	
+	
+
+Tattered Cloth Bracers
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 4
+	
+	
+
+Thin Cloth Bracers
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 4
+	
+	
+
+Silver-lined Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 28
+	
+	
+
+Strapped Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 28
+	
+	
+
+Ivy-weave Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 29
+	
+	
+
+Knitted Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 29
+	
+	
+
+Elastic Wristguards
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 29
+	
+	
+
+Cord Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 35
+	
+	
+
+Patchwork Bracers
+	Stats
+	Min Level: 4
+Armor: 3
+Pawn Price: 14
+	
+	
+
+Heavy Cord Bracers
+	Stats
+	Min Level: 5
+Armor: 6
+Pawn Price: 28
+	
+	
+
+Ancestral Bracers
+	Stats
+	Min Level: 5
+Armor: 6
+Pawn Price: 29
+	
+	
+
+Woven Bracers
+	Stats
+	Min Level: 5
+Armor: 6
+Pawn Price: 29
+	
+	
+
+Calico Bracers
+	Stats
+	Min Level: 7
+Armor: 4
+Pawn Price: 30
+	
+	
+
+Green Linen Bracers
+	Stats
+	Min Level: 7
+Armor: 6
+Pawn Price: 45
+	
+	
+
+Quilted Bracers
+	Stats
+	Min Level: 7
+Armor: 6
+Pawn Price: 46
+	
+	
+
+Disciple's Bracers
+	Stats
+	Min Level: 7
+Armor: 6
+Pawn Price: 48
+	
+	
+
+Magister's Bracers
+	Stats
+	Min Level: 7
+Armor: 7
+Pawn Price: 1 12
+	
+	
+
+Bracers of the People's Militia
+	Stats
+	Min Level: 9
+Armor: 7
+Pawn Price: 72
+	
+	
+
+Runic Cloth Bracers
+	Stats
+	Min Level: 12
+Armor: 8
+Pawn Price: 1 13
+	
+	
+
+Heavy Weave Bracers
+	Stats
+	Min Level: 12
+Armor: 8
+Pawn Price: 1 15
+	
+	
+
+Willow Bracers
+	Stats
+	Min Level: 12
+Armor: 8
+Pawn Price: 1 16
+	
+	
+
+Brocade Cloth Bracers
+	Stats
+	Min Level: 12
+Armor: 6
+Pawn Price: 1 52
+	
+	
+
+Canvas Bracers
+	Stats
+	Min Level: 14
+Armor: 6
+Pawn Price: 99
+	
+	
+
+Seer's Bracers
+	Stats
+	Min Level: 15
+Armor: 8
+Pawn Price: 1 72
+	
+	
+
+Shimmering Bracers
+	Stats
+	Min Level: 16
+Armor: 8
+Pawn Price: 2 4
+	
+	
+
+Thick Cloth Bracers
+	Stats
+	Min Level: 17
+Armor: 9
+Pawn Price: 2 17
+	
+	
+
+Padded Cloth Bracers
+	Stats
+	Min Level: 17
+Armor: 9
+Pawn Price: 4 20
+	
+	
+
+Cross-stitched Bracers
+	Stats
+	Min Level: 18
+Armor: 6
+Pawn Price: 3 3
+	
+	
+
+Frostweave Bracers
+	Stats
+	Min Level: 20
+Armor: 10
++25 Health
++25 Mana
++1 Frost Resistance
+Pawn Price: 9 7
+	
+	
+
+Flameweave Bracers
+	Stats
+	Min Level: 21
+Armor: 10
++1 Spirit
++1 Fire Resistance
+Pawn Price: 6 26
+	
+	
+
+Sage's Bracers
+	Stats
+	Min Level: 22
+Armor: 11
++1 Fire Resistance
+Pawn Price: 6 76
+	
+	
+
+Frost Bracers
+	Stats
+	Min Level: 22
+Armor: 11
+Special Ability! (coming soon)
+Pawn Price: 11 97
+	
+	
+
+Darkweave Cuffs
+	Stats
+	Min Level: 25
+Armor: 12
++2 Intellect
++2 Spirit
+Pawn Price: 14 50
+	
+	
+
+Russet Bracers
+	Stats
+	Min Level: 27
+Armor: 11
++2 Intellect
+Pawn Price: 10 99
+	
+	
+
+Arcane Runed Bracers
+	Stats
+	Min Level: 29
+Armor: 13
++2 Intellect
++35 Health
++2 Fire Resistance
+Pawn Price: 19 86
+	
+	
+
+Embroidered Bracers
+	Stats
+	Min Level: 40
+Armor: 14
++3 Intellect
+Pawn Price: 28 73
+
+
+
+Brocade Cloth Shoulderpads
+	Stats
+	Min Level: 12
+Armor: 9
+Pawn Price: 2 22
+	
+	
+
+Reinforced Woolen Shoulders
+	Stats
+	Min Level: 14
+Armor: 14
+Pawn Price: 4 25
+	
+	
+
+Canvas Shoulderpads
+	Stats
+	Min Level: 15
+Armor: 9
+Pawn Price: 1 63
+	
+	
+
+Seer's Mantle
+	Stats
+	Min Level: 15
+Armor: 13
+Pawn Price: 2 62
+	
+	
+
+Slime Encrusted Pads
+	Stats
+	Min Level: 15
+Armor: 16
++2 Intellect
++2 Stamina
+Pawn Price: 9 57
+	
+	
+
+Feline Mantle
+	Stats
+	Min Level: 16
+Armor: 18
++1 Agility
++1 Spirit
++5 Health
+Pawn Price: 10 78
+	
+	
+
+Shimmering Mantle
+	Stats
+	Min Level: 17
+Armor: 14
+Pawn Price: 3 21
+	
+	
+
+Double-stitched Woolen Shoulders
+	Stats
+	Min Level: 17
+Armor: 14
+Pawn Price: 3 31
+	
+	
+
+Rose Mantle
+	Stats
+	Min Level: 17
+Armor: 16
++1 Intellect
++5 Health
+Pawn Price: 10 3
+	
+	
+
+Faerie Mantle
+	Stats
+	Min Level: 17
+Armor: 16
++25 Mana
+Pawn Price: 10 7
+	
+	
+
+Cross-stitched Shoulderpads
+	Stats
+	Min Level: 18
+Armor: 10
+Pawn Price: 4 64
+	
+	
+
+Silk Mantle of Gamn
+	Stats
+	Min Level: 18
+Armor: 16
++1 Intellect
++1 Stamina
+Pawn Price: 11 53
+	
+	
+
+Death Speaker Mantle
+	Stats
+	Min Level: 20
+Armor: 17
++2 Intellect
+Pawn Price: 13 10
+	
+	
+
+Frostweave Mantle
+	Stats
+	Min Level: 20
+Armor: 17
++1 Intellect
++1 Spirit
+Pawn Price: 13 90
+	
+	
+
+Voodoo Mantle
+	Stats
+	Min Level: 21
+Armor: 17
++10 Mana
+Pawn Price: 8 92
+	
+	
+
+Sage's Mantle
+	Stats
+	Min Level: 21
+Armor: 17
+Pawn Price: 9 36
+	
+	
+
+Flameweave Mantle
+	Stats
+	Min Level: 22
+Armor: 17
++1 Spirit
+Pawn Price: 10 22
+	
+	
+
+Batwing Mantle
+  Unique item
+	Stats
+	Min Level: 22
+Armor: 19
++2 Intellect
++3 Spirit
+Pawn Price: 18 66
+	
+	
+
+Ghostly Mantle
+	Stats
+	Min Level: 23
+Armor: 18
++10 Health
+Pawn Price: 11 19
+	
+	
+
+Palm Frond Mantle
+	Stats
+	Min Level: 24
+Armor: 19
++50 Mana
+Pawn Price: 18 75
+	
+	
+
+Mantle of Honor
+  Unique item
+	Stats
+	Min Level: 25
+Armor: 19
++2 Spirit
++2 Stamina
+Pawn Price: 21 2
+	
+	
+
+Darkweave Mantle
+	Stats
+	Min Level: 28
+Armor: 20
++3 Spirit
+Pawn Price: 29 5
+
+
+
+Black Tuxedo
+	Stats
+	Min Level: 1
+Pawn Price: 1
+	
+	
+
+Soft Wool Vest
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 6
+	
+	
+
+Flax Vest
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 6
+	
+	
+
+Tattered Cloth Vest
+	Stats
+	Min Level: 1
+Armor: 6
+Pawn Price: 9
+	
+	
+
+Thin Cloth Armor
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 10
+	
+	
+
+Brown Linen Vest
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 31
+	
+	
+
+Knitted Vest
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 56
+	
+	
+
+Journeyman's Vest
+	Stats
+	Min Level: 1
+Armor: 12
++1 Spirit
+Pawn Price: 1 19
+	
+	
+
+Patchwork Armor
+	Stats
+	Min Level: 2
+Armor: 6
+Pawn Price: 14
+	
+	
+
+Red Linen Vest
+	Stats
+	Min Level: 2
+Armor: 13
++2 Spirit
+Pawn Price: 1 60
+	
+	
+
+Calico Vest
+	Stats
+	Min Level: 3
+Armor: 8
+Pawn Price: 80
+	
+	
+
+Woven Vest
+	Stats
+	Min Level: 5
+Armor: 11
+Pawn Price: 59
+	
+	
+
+Magister's Vest
+	Stats
+	Min Level: 5
+Armor: 14
++3 Stamina
+Pawn Price: 2 88
+	
+	
+
+Disciple's Vest
+	Stats
+	Min Level: 6
+Armor: 12
+Pawn Price: 78
+	
+	
+
+Ancestral Tunic
+	Stats
+	Min Level: 7
+Armor: 14
++4 Health
+Pawn Price: 1 62
+	
+	
+
+Green Woolen Vest
+	Stats
+	Min Level: 7
+Armor: 14
++2 Stamina
++1 Intellect
+Pawn Price: 2 16
+	
+	
+
+Stonesplinter Rags
+	Stats
+	Min Level: 7
+Armor: 14
+Pawn Price: 2 23
+	
+	
+
+Heavy Weave Armor
+	Stats
+	Min Level: 7
+Armor: 14
+Pawn Price: 2 24
+	
+	
+
+Barbaric Linen Vest
+	Stats
+	Min Level: 9
+Armor: 15
++1 Stamina
+Pawn Price: 2 24
+	
+	
+
+Banshee Armor
+	Stats
+	Min Level: 9
+Armor: 15
++5 Health
+Pawn Price: 2 27
+	
+	
+
+Willow Vest
+	Stats
+	Min Level: 10
+Armor: 16
+Pawn Price: 2 79
+	
+	
+
+Runic Cloth Vest
+	Stats
+	Min Level: 10
+Armor: 16
++1 Intellect
+Pawn Price: 2 90
+	
+	
+
+Canvas Vest
+	Stats
+	Min Level: 12
+Armor: 11
+Pawn Price: 1 43
+	
+	
+
+Thick Cloth Vest
+	Stats
+	Min Level: 12
+Armor: 16
+Pawn Price: 4 54
+	
+	
+
+Corsair's Overshirt
+  Unique item
+	Stats
+	Min Level: 12
+Armor: 18
++3 Intellect
++3 Spirit
++1 Stamina
+Pawn Price: 8 98
+	
+	
+
+Whispering Vest
+	Stats
+	Min Level: 15
+Armor: 18
++2 Spirit
+Pawn Price: 5 47
+	
+	
+
+Flameweave Armor
+	Stats
+	Min Level: 16
+Armor: 19
++6 Intellect
++1 Fire Resistance
+Pawn Price: 12 7
+	
+	
+
+Shimmering Armor
+	Stats
+	Min Level: 17
+Armor: 19
+Pawn Price: 7 18
+	
+	
+
+Seer's Padded Armor
+	Stats
+	Min Level: 17
+Armor: 19
++2 Intellect
+Pawn Price: 7 77
+	
+	
+
+Padded Cloth Armor
+	Stats
+	Min Level: 17
+Armor: 18
+Pawn Price: 8 32
+	
+	
+
+Brocade Vest
+	Stats
+	Min Level: 18
+Armor: 13
+Pawn Price: 3 37
+	
+	
+
+Cross-stitched Vest
+	Stats
+	Min Level: 19
+Armor: 13
+Pawn Price: 6 83
+	
+	
+
+Nightwalker Armor
+	Stats
+	Min Level: 20
+Armor: 21
++1 Agility
++4 Intellect
++3 Spirit
+Pawn Price: 18 6
+	
+	
+
+Sage's Armor
+	Stats
+	Min Level: 22
+Armor: 21
++1 Fire Resistance
+Pawn Price: 13 33
+	
+	
+
+Interlaced Vest
+	Stats
+	Min Level: 27
+Armor: 16
+Pawn Price: 14 60
+	
+	
+
+Russet Vest
+	Stats
+	Min Level: 27
+Armor: 22
++5 Intellect
+Pawn Price: 20 27
+	
+	
+
+Darkweave Armor
+	Stats
+	Min Level: 32
+Armor: 27
++2 Intellect
++6 Spirit
++1 Stamina
+Pawn Price: 33 29
+	
+	
+
+Embroidered Armor
+	Stats
+	Min Level: 40
+Armor: 28
++9 Intellect
+Pawn Price: 55 36
+
+
+
+Frayed Belt
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Soft Wool Belt
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 3
+	
+	
+
+Tattered Cloth Belt
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 4
+	
+	
+
+Thin Cloth Belt
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 4
+	
+	
+
+Red Linen Sash
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 21
+	
+	
+
+Dirtwood Belt
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 27
+	
+	
+
+Knitted Belt
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 29
+	
+	
+
+Patchwork Belt
+	Stats
+	Min Level: 3
+Armor: 3
+Pawn Price: 10
+	
+	
+
+Journeyman's Belt
+	Stats
+	Min Level: 3
+Armor: 5
+Pawn Price: 61
+	
+	
+
+Linen Belt
+	Stats
+	Min Level: 4
+Armor: 4
+Pawn Price: 21
+	
+	
+
+Foreman Belt
+	Stats
+	Min Level: 5
+Armor: 6
++1 Spirit
+Pawn Price: 1 34
+	
+	
+
+Rat Cloth Belt
+	Stats
+	Min Level: 5
+Armor: 6
++15 Mana
+Pawn Price: 1 40
+	
+	
+
+Captain Sander's Sash
+  Unique item
+	Stats
+	Min Level: 5
+Armor: 6
++1 Spirit
+Pawn Price: 1 45
+	
+	
+
+Ancestral Belt
+	Stats
+	Min Level: 6
+Armor: 5
+Pawn Price: 36
+	
+	
+
+Apprentice Sash
+	Stats
+	Min Level: 7
+Armor: 6
+Pawn Price: 44
+	
+	
+
+Disciple's Belt
+	Stats
+	Min Level: 7
+Armor: 6
+Pawn Price: 45
+	
+	
+
+Heavy Weave Belt
+	Stats
+	Min Level: 7
+Armor: 6
+Pawn Price: 1 15
+	
+	
+
+Canvas Belt
+	Stats
+	Min Level: 8
+Armor: 4
+Pawn Price: 86
+	
+	
+
+Girdle of Nobility
+	Stats
+	Min Level: 8
+Armor: 7
++20 Health
+Pawn Price: 2 9
+	
+	
+
+Calico Belt
+	Stats
+	Min Level: 9
+Armor: 4
+Pawn Price: 45
+	
+	
+
+Runic Cloth Belt
+	Stats
+	Min Level: 10
+Armor: 7
++4 Mana
+Pawn Price: 1 35
+	
+	
+
+Magister's Belt
+	Stats
+	Min Level: 10
+Armor: 7
++4 Mana
+Pawn Price: 1 48
+	
+	
+
+Brocade Cloth Belt
+	Stats
+	Min Level: 11
+Armor: 5
+Pawn Price: 1 32
+	
+	
+
+Willow Belt
+	Stats
+	Min Level: 12
+Armor: 7
+Pawn Price: 1 12
+	
+	
+
+Thick Cloth Belt
+	Stats
+	Min Level: 12
+Armor: 7
+Pawn Price: 2 16
+	
+	
+
+Lesser Belt of the Spire
+	Stats
+	Min Level: 12
+Armor: 8
++1 Spirit
+Pawn Price: 3 90
+	
+	
+
+Tarantula Silk Belt
+	Stats
+	Min Level: 13
+Armor: 8
++2 Spirit
+Pawn Price: 4 24
+	
+	
+
+Keller's Girdle
+	Stats
+	Min Level: 13
+Armor: 8
++2 Spirit
++30 Mana
+Pawn Price: 5 24
+	
+	
+
+Grassland Sash
+	Stats
+	Min Level: 15
+Armor: 8
++5 Health
++5 Mana
+Pawn Price: 2 74
+	
+	
+
+Wise Man's Belt
+	Stats
+	Min Level: 15
+Armor: 8
++10 Mana
+Pawn Price: 2 78
+	
+	
+
+Shimmering Sash
+	Stats
+	Min Level: 16
+Armor: 8
+Pawn Price: 3 15
+	
+	
+
+Seer's Belt
+	Stats
+	Min Level: 17
+Armor: 8
++1 Intellect
+Pawn Price: 3 86
+	
+	
+
+Padded Cloth Belt
+	Stats
+	Min Level: 17
+Armor: 8
+Pawn Price: 4 19
+	
+	
+
+Belt of Arugal
+	Stats
+	Min Level: 17
+Armor: 9
++2 Spirit
++35 Mana
++4 Shadow Resistance
+Pawn Price: 7 72
+	
+	
+
+Dreamer's Belt
+	Stats
+	Min Level: 19
+Armor: 9
++2 Spirit
+Pawn Price: 8 30
+	
+	
+
+Flameweave Belt
+	Stats
+	Min Level: 20
+Armor: 9
++1 Spirit
++1 Fire Resistance
+Pawn Price: 5 22
+	
+	
+
+Sage's Sash
+	Stats
+	Min Level: 20
+Armor: 9
+Pawn Price: 5 40
+	
+	
+
+Frostweave Sash
+	Stats
+	Min Level: 21
+Armor: 9
++2 Stamina
++1 Frost Resistance
+Pawn Price: 9 97
+	
+	
+
+Nightscape Belt
+	Stats
+	Min Level: 22
+Armor: 9
++10 Health
++4 Shadow Resistance
+Pawn Price: 6 84
+	
+	
+
+Wizard's Belt
+	Stats
+	Min Level: 23
+Armor: 10
++12 Mana
+Pawn Price: 7 49
+	
+	
+
+Darkweave Sash
+	Stats
+	Min Level: 25
+Armor: 10
++2 Spirit
++2 Strength
++1 Shadow Resistance
+Pawn Price: 14 93
+	
+	
+
+Spider Belt
+	Stats
+	Min Level: 26
+Armor: 10
++55 Mana
+Pawn Price: 15 24
+	
+	
+
+Russet Belt
+	Stats
+	Min Level: 27
+Armor: 10
++2 Spirit
+Pawn Price: 10 95
+	
+	
+
+Brightweave Sash
+	Stats
+	Min Level: 30
+Armor: 10
++2 Intellect
+Pawn Price: 12 82
+	
+	
+
+Star Belt
+	Stats
+	Min Level: 30
+Armor: 11
++4 Spirit
+Pawn Price: 21 20
+	
+	
+
+Embroidered Belt
+	Stats
+	Min Level: 40
+Armor: 12
++60 Mana
+Pawn Price: 28 62
+
+
+
+Squire's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Footpad's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Acolyte's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Squire's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Recruit's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Primitive Kilt
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Brawler's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Primitive Kilt
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Thug Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Recruit's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Neophyte's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Apprentice's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Novice's Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Frayed Pants
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Dwarven Cloth Pants
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 6
+	
+	
+
+Tapered Pants
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 9
+	
+	
+
+Thin Cloth Pants
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 10
+	
+	
+
+Ripped Pants
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 10
+	
+	
+
+Knitted Pants
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 55
+	
+	
+
+Urchin's Pants
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 60
+	
+	
+
+Journeyman's Pants
+	Stats
+	Min Level: 1
+Armor: 10
++1 Intellect
+Pawn Price: 94
+	
+	
+
+Patchwork Pants
+	Stats
+	Min Level: 3
+Armor: 5
+Pawn Price: 20
+	
+	
+
+Sturdy Cloth Trousers
+	Stats
+	Min Level: 3
+Armor: 8
+Pawn Price: 32
+	
+	
+
+Woven Pants
+	Stats
+	Min Level: 5
+Armor: 10
+Pawn Price: 59
+	
+	
+
+Brown Linen Pants
+	Stats
+	Min Level: 5
+Armor: 10
+Pawn Price: 60
+	
+	
+
+Ancestral Woolies
+	Stats
+	Min Level: 5
+Armor: 11
++4 Mana
+Pawn Price: 99
+	
+	
+
+Calico Pants
+	Stats
+	Min Level: 6
+Armor: 7
+Pawn Price: 51
+	
+	
+
+Magister's Pants
+	Stats
+	Min Level: 6
+Armor: 13
++3 Spirit
+Pawn Price: 3 33
+	
+	
+
+Disciple's Pants
+	Stats
+	Min Level: 7
+Armor: 11
+Pawn Price: 89
+	
+	
+
+Lucky Trousers
+	Stats
+	Min Level: 7
+Armor: 13
++3 Spirit
++5 Mana
+Pawn Price: 3 62
+	
+	
+
+Silk-threaded Trousers
+	Stats
+	Min Level: 8
+Armor: 14
++4 Spirit
+Pawn Price: 4 34
+	
+	
+
+Handstitched Linen Britches
+	Stats
+	Min Level: 9
+Armor: 13
++5 Health
+Pawn Price: 2 26
+	
+	
+
+Canvas Pants
+	Stats
+	Min Level: 10
+Armor: 9
+Pawn Price: 2 17
+	
+	
+
+Seafarer's Pantaloons
+	Stats
+	Min Level: 10
+Armor: 14
++2 Intellect
++2 Stamina
+Pawn Price: 5 57
+	
+	
+
+Scarecrow Trousers
+	Stats
+	Min Level: 10
+Armor: 14
++4 Stamina
+Pawn Price: 5 72
+	
+	
+
+Brocade Cloth Pants
+	Stats
+	Min Level: 11
+Armor: 9
+Pawn Price: 2 57
+	
+	
+
+Willow Pants
+	Stats
+	Min Level: 11
+Armor: 14
+Pawn Price: 3 26
+	
+	
+
+Heavy Weave Pants
+	Stats
+	Min Level: 12
+Armor: 13
+Pawn Price: 2 25
+	
+	
+
+Runic Loin Cloth
+	Stats
+	Min Level: 12
+Armor: 15
++1 Stamina
+Pawn Price: 3 83
+	
+	
+
+Thick Cloth Pants
+	Stats
+	Min Level: 12
+Armor: 14
+Pawn Price: 4 55
+	
+	
+
+Stamped Trousers
+	Stats
+	Min Level: 13
+Armor: 15
++5 Health
++5 Mana
+Pawn Price: 4 44
+	
+	
+
+Scarab Trousers
+	Stats
+	Min Level: 15
+Armor: 16
++1 Spirit
++1 Stamina
+Pawn Price: 5 41
+	
+	
+
+Shimmering Pants
+	Stats
+	Min Level: 15
+Armor: 16
+Pawn Price: 5 45
+	
+	
+
+Sea Dog Britches
+	Stats
+	Min Level: 15
+Armor: 16
++1 Spirit
++1 Strength
+Pawn Price: 5 55
+	
+	
+
+Seer's Pants
+	Stats
+	Min Level: 15
+Armor: 16
++2 Intellect
+Pawn Price: 5 65
+	
+	
+
+Phoenix Pants
+	Stats
+	Min Level: 15
+Armor: 16
++3 Spirit
++2 Stamina
+Special Ability! (coming soon)
+Pawn Price: 10 76
+	
+	
+
+Sage's Pants
+	Stats
+	Min Level: 16
+Armor: 17
++1 Fire Resistance
+Pawn Price: 11 70
+	
+	
+
+Cross-stitched Pants
+	Stats
+	Min Level: 17
+Armor: 11
+Pawn Price: 5 46
+	
+	
+
+Heavy Woolen Pants
+	Stats
+	Min Level: 17
+Armor: 17
++2 Spirit
+Pawn Price: 7 43
+	
+	
+
+Padded Cloth Pants
+	Stats
+	Min Level: 17
+Armor: 15
+Pawn Price: 8 29
+	
+	
+
+Leech Pants
+	Stats
+	Min Level: 19
+Armor: 19
++8 Spirit
++15 Health
++1 Holy Resistance
+Pawn Price: 18 69
+	
+	
+
+Necromancer Leggings
+	Stats
+	Min Level: 19
+Armor: 20
++2 Intellect
++4 Spirit
++1 Strength
++1 Holy Resistance
+Pawn Price: 20 43
+	
+	
+
+Swampland Trousers
+	Stats
+	Min Level: 21
+Armor: 19
++6 Intellect
++2 Stamina
++1 Nature Resistance
+Pawn Price: 19 74
+	
+	
+
+Frostweave Pants
+	Stats
+	Min Level: 21
+Armor: 19
++7 Spirit
++1 Frost Resistance
+Pawn Price: 20 3
+	
+	
+
+Flameweave Pants
+	Stats
+	Min Level: 22
+Armor: 19
++2 Spirit
++15 Health
++1 Fire Resistance
+Pawn Price: 14 2
+	
+	
+
+Azure Silk Pants
+	Stats
+	Min Level: 23
+Armor: 19
++4 Intellect
++1 Frost Resistance
+Pawn Price: 14 94
+	
+	
+
+Artisan's Trousers
+	Stats
+	Min Level: 23
+Armor: 20
++5 Intellect
++3 Spirit
++48 Mana
+Pawn Price: 24 42
+	
+	
+
+Night Watch Pantaloons
+	Stats
+	Min Level: 23
+Armor: 20
++7 Spirit
++25 Health
+Pawn Price: 24 85
+	
+	
+
+Darkweave Trousers
+	Stats
+	Min Level: 25
+Armor: 21
++4 Intellect
++6 Stamina
+Pawn Price: 28 79
+	
+	
+
+Russet Pants
+	Stats
+	Min Level: 27
+Armor: 19
++5 Spirit
+Pawn Price: 20 43
+	
+	
+
+Sacred Burial Trousers
+	Stats
+	Min Level: 27
+Armor: 21
++1 Intellect
++5 Spirit
++1 Strength
++1 Nature Resistance
+Pawn Price: 22 43
+	
+	
+
+Embroidered Pants
+	Stats
+	Min Level: 40
+Armor: 24
++9 Spirit
+Pawn Price: 55 78
+
+
+
+Soft Fur-lined Shoes
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 3
+	
+	
+
+Soft Wool Boots
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 3
+	
+	
+
+Frayed Shoes
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 3
+	
+	
+
+Snow Boots
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 4
+	
+	
+
+Flax Boots
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 5
+	
+	
+
+Thin Cloth Shoes
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 7
+	
+	
+
+Viny Wrappings
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 16
+	
+	
+
+Web-covered Boots
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 41
+	
+	
+
+Knitted Sandals
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 41
+	
+	
+
+Cavalier's Boots
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 89
+	
+	
+
+Dirt-trodden Boots
+	Stats
+	Min Level: 3
+Armor: 6
+Pawn Price: 23
+	
+	
+
+Cozy Moccasins
+	Stats
+	Min Level: 3
+Armor: 8
+Pawn Price: 86
+	
+	
+
+Patchwork Shoes
+	Stats
+	Min Level: 5
+Armor: 5
+Pawn Price: 29
+	
+	
+
+Disciple's Boots
+	Stats
+	Min Level: 5
+Armor: 8
+Pawn Price: 44
+	
+	
+
+Woven Boots
+	Stats
+	Min Level: 5
+Armor: 8
+Pawn Price: 44
+	
+	
+
+Magister's Shoes
+	Stats
+	Min Level: 5
+Armor: 9
+Pawn Price: 1 30
+	
+	
+
+Ancestral Boots
+	Stats
+	Min Level: 6
+Armor: 8
+Pawn Price: 57
+	
+	
+
+Heavy Weave Boots
+	Stats
+	Min Level: 7
+Armor: 10
+Pawn Price: 1 70
+	
+	
+
+Calico Shoes
+	Stats
+	Min Level: 8
+Armor: 6
+Pawn Price: 58
+	
+	
+
+Linen Boots
+	Stats
+	Min Level: 8
+Armor: 9
+Pawn Price: 87
+	
+	
+
+Walking Boots
+	Stats
+	Min Level: 8
+Armor: 11
++2 Agility
+Pawn Price: 3 24
+	
+	
+
+Reconnaissance Boots
+	Stats
+	Min Level: 9
+Armor: 10
+Pawn Price: 1 5
+	
+	
+
+Runic Cloth Boots
+	Stats
+	Min Level: 10
+Armor: 10
+Pawn Price: 1 29
+	
+	
+
+Willow Boots
+	Stats
+	Min Level: 11
+Armor: 10
+Pawn Price: 1 45
+	
+	
+
+Soft-soled Linen Boots
+	Stats
+	Min Level: 11
+Armor: 11
++5 Health
+Pawn Price: 2 37
+	
+	
+
+Bluegill Sandals
+	Stats
+	Min Level: 11
+Armor: 12
++1 Agility
++1 Spirit
+Pawn Price: 5 13
+	
+	
+
+Canvas Shoes
+	Stats
+	Min Level: 12
+Armor: 7
+Pawn Price: 1 13
+	
+	
+
+Thick Cloth Boots
+	Stats
+	Min Level: 12
+Armor: 11
+Pawn Price: 3 42
+	
+	
+
+Kimbra Boots
+	Stats
+	Min Level: 12
+Armor: 12
++2 Intellect
++25 Health
+Pawn Price: 5 38
+	
+	
+
+Smoldering Boots
+	Stats
+	Min Level: 13
+Armor: 12
++2 Spirit
++28 Mana
+Pawn Price: 6 36
+	
+	
+
+Woolen Boots
+	Stats
+	Min Level: 14
+Armor: 12
++1 Intellect
+Pawn Price: 3 59
+	
+	
+
+Wandering Boots
+	Stats
+	Min Level: 14
+Armor: 13
++2 Spirit
++2 Stamina
+Pawn Price: 6 87
+	
+	
+
+Red Woolen Boots
+	Stats
+	Min Level: 15
+Armor: 13
++1 Spirit
+Pawn Price: 4 16
+	
+	
+
+Sage's Boots
+	Stats
+	Min Level: 15
+Armor: 13
+Pawn Price: 7 76
+	
+	
+
+Nimbus Boots
+	Stats
+	Min Level: 15
+Armor: 13
++2 Spirit
++1 Stamina
++1 Strength
+Pawn Price: 7 76
+	
+	
+
+Dark Runner Boots
+	Stats
+	Min Level: 15
+Armor: 13
++2 Agility
++2 Stamina
+Pawn Price: 8 12
+	
+	
+
+Spidersilk Boots
+	Stats
+	Min Level: 15
+Armor: 13
++3 Spirit
++3 Intellect
+Pawn Price: 9 79
+	
+	
+
+Seer's Boots
+	Stats
+	Min Level: 16
+Armor: 13
++1 Spirit
+Pawn Price: 4 90
+	
+	
+
+Shimmering Boots
+	Stats
+	Min Level: 17
+Armor: 13
+Pawn Price: 5 84
+	
+	
+
+Padded Cloth Boots
+	Stats
+	Min Level: 17
+Armor: 12
+Pawn Price: 6 15
+	
+	
+
+Brocade Shoes
+	Stats
+	Min Level: 18
+Armor: 9
+Pawn Price: 2 47
+	
+	
+
+Firewalker Boots
+	Stats
+	Min Level: 18
+Armor: 14
++6 Health
++7 Mana
+Pawn Price: 6 44
+	
+	
+
+Spider Silk Slippers
+	Stats
+	Min Level: 18
+Armor: 14
++2 Stamina
++37 Mana
+Pawn Price: 11 20
+	
+	
+
+Cross-stitched Boots
+	Stats
+	Min Level: 19
+Armor: 9
+Pawn Price: 4 89
+	
+	
+
+Apothecary Boots
+	Stats
+	Min Level: 19
+Armor: 14
++10 Mana
+Pawn Price: 7 17
+	
+	
+
+Flameweave Boots
+	Stats
+	Min Level: 20
+Armor: 14
++1 Spirit
++1 Health
+Pawn Price: 8 40
+	
+	
+
+Wispy Silk Boots
+	Stats
+	Min Level: 20
+Armor: 14
++2 Stamina
++40 Mana
+Pawn Price: 14 6
+	
+	
+
+Frostweave Boots
+	Stats
+	Min Level: 21
+Armor: 13
++2 Intellect
+Pawn Price: 9 14
+	
+	
+
+Darkweave Boots
+	Stats
+	Min Level: 25
+Armor: 15
++2 Spirit
++30 Health
+Pawn Price: 13
+	
+	
+
+Boots of the Enchanter
+	Stats
+	Min Level: 25
+Armor: 16
++3 Spirit
++30 Mana
+Pawn Price: 22 72
+	
+	
+
+Russet Boots
+	Stats
+	Min Level: 27
+Armor: 15
++3 Intellect
+Pawn Price: 15 38
+	
+	
+
+Junglewalker Sandals
+	Stats
+	Min Level: 27
+Armor: 17
++3 Spirit
++3 Stamina
+Pawn Price: 27 49
+	
+	
+
+Embroidered Boots
+	Stats
+	Min Level: 40
+Armor: 19
++5 Stamina
+Pawn Price: 41 99
+
+
+
+Frayed Gloves
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Flax Gloves
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 2
+	
+	
+
+Rabbit Handler Gloves
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 3
+	
+	
+
+Thin Cloth Gloves
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 4
+	
+	
+
+Tattered Cloth Gloves
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 5
+	
+	
+
+Gardening Gloves
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 23
+	
+	
+
+Knitted Gloves
+	Stats
+	Min Level: 1
+Armor: 6
+Pawn Price: 27
+	
+	
+
+Fingerless Gloves
+	Stats
+	Min Level: 1
+Armor: 6
+Pawn Price: 35
+	
+	
+
+Patchwork Gloves
+	Stats
+	Min Level: 2
+Armor: 3
+Pawn Price: 7
+	
+	
+
+Journeyman's Gloves
+	Stats
+	Min Level: 2
+Armor: 7
+Pawn Price: 46
+	
+	
+
+Salma's Oven Mitts
+	Stats
+	Min Level: 2
+Armor: 7
+Pawn Price: 47
+	
+	
+
+Disciple's Gloves
+	Stats
+	Min Level: 5
+Armor: 6
+Pawn Price: 28
+	
+	
+
+Heavy Linen Gloves
+	Stats
+	Min Level: 5
+Armor: 6
+Pawn Price: 29
+	
+	
+
+Woven Gloves
+	Stats
+	Min Level: 5
+Armor: 6
+Pawn Price: 30
+	
+	
+
+Coppercloth Gloves
+	Stats
+	Min Level: 5
+Armor: 8
++2 Strength
+Pawn Price: 1 39
+	
+	
+
+Ancestral Gloves
+	Stats
+	Min Level: 6
+Armor: 7
+Pawn Price: 38
+	
+	
+
+Magister's Gloves
+	Stats
+	Min Level: 8
+Armor: 9
++20 Health
++20 Mana
+Pawn Price: 2 21
+	
+	
+
+Calico Gloves
+	Stats
+	Min Level: 10
+Armor: 6
+Pawn Price: 57
+	
+	
+
+Adept's Gloves
+	Stats
+	Min Level: 10
+Armor: 9
++3 Mana
+Pawn Price: 1 39
+	
+	
+
+Beerstained Gloves
+	Stats
+	Min Level: 10
+Armor: 9
++2 Spirit
+Pawn Price: 2 80
+	
+	
+
+Willow Gloves
+	Stats
+	Min Level: 11
+Armor: 9
+Pawn Price: 1 63
+	
+	
+
+Runic Cloth Gloves
+	Stats
+	Min Level: 11
+Armor: 9
++4 Mana
+Pawn Price: 1 65
+	
+	
+
+Wayfaring Gloves
+	Stats
+	Min Level: 11
+Armor: 9
++4 Health
+Pawn Price: 1 67
+	
+	
+
+Gold-flecked Gloves
+	Stats
+	Min Level: 11
+Armor: 10
++1 Spirit
++1 Strength
+Pawn Price: 3 17
+	
+	
+
+Heavy Weave Gloves
+	Stats
+	Min Level: 12
+Armor: 9
+Pawn Price: 1 13
+	
+	
+
+Heavy Woolen Gloves
+	Stats
+	Min Level: 12
+Armor: 9
++1 Spirit
+Pawn Price: 1 80
+	
+	
+
+Thick Cloth Gloves
+	Stats
+	Min Level: 12
+Armor: 9
+Pawn Price: 2 29
+	
+	
+
+Canvas Gloves
+	Stats
+	Min Level: 14
+Armor: 6
+Pawn Price: 1 1
+	
+	
+
+Smoldering Gloves
+	Stats
+	Min Level: 14
+Armor: 10
++30 Health
++30 Mana
+Pawn Price: 4 76
+	
+	
+
+Brocade Cloth Gloves
+	Stats
+	Min Level: 15
+Armor: 7
+Pawn Price: 2 12
+	
+	
+
+Riding Gloves
+	Stats
+	Min Level: 15
+Armor: 10
++1 Strength
+Pawn Price: 2 79
+	
+	
+
+Phoenix Gloves
+	Stats
+	Min Level: 15
+Armor: 10
+Special Ability! (coming soon)
+Pawn Price: 5 26
+	
+	
+
+Cross-stitched Gloves
+	Stats
+	Min Level: 16
+Armor: 7
+Pawn Price: 2 47
+	
+	
+
+Seer's Gloves
+	Stats
+	Min Level: 16
+Armor: 11
++11 Mana
+Pawn Price: 3 27
+	
+	
+
+Shimmering Gloves
+	Stats
+	Min Level: 16
+Armor: 11
+Pawn Price: 3 42
+	
+	
+
+Gloves of Meditation
+	Stats
+	Min Level: 16
+Armor: 11
++3 Spirit
+Pawn Price: 6 10
+	
+	
+
+Serpent Gloves
+	Stats
+	Min Level: 17
+Armor: 11
++1 Spirit
++5 Mana
+Pawn Price: 3 70
+	
+	
+
+Padded Cloth Gloves
+	Stats
+	Min Level: 17
+Armor: 10
+Pawn Price: 4 13
+	
+	
+
+Sage's Gloves
+	Stats
+	Min Level: 20
+Armor: 11
+Pawn Price: 5 48
+	
+	
+
+Flameweave Gloves
+	Stats
+	Min Level: 20
+Armor: 11
++2 Intellect
+Pawn Price: 5 62
+	
+	
+
+Insulated Sage Gloves
+	Stats
+	Min Level: 23
+Armor: 13
++45 Health
++50 Mana
+Pawn Price: 12 16
+	
+	
+
+Frostweave Gloves
+	Stats
+	Min Level: 26
+Armor: 12
++1 Spirit
++1 Strength
+Pawn Price: 6 7
+	
+	
+
+Darkweave Gloves
+	Stats
+	Min Level: 26
+Armor: 13
++5 Spirit
+Pawn Price: 16 30
+	
+	
+
+Russet Gloves
+	Stats
+	Min Level: 27
+Armor: 13
++3 Stamina
+Pawn Price: 10 33
+	
+	
+
+Brightweave Gloves
+	Stats
+	Min Level: 30
+Armor: 15
++2 Stamina
++40 Mana
+Pawn Price: 22 75
+	
+	
+
+Embroidered Gloves
+	Stats
+	Min Level: 40
+Armor: 15
++5 Stamina
+Pawn Price: 28 19
+	
+	
+
+
+Frayed Cloak
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 4
+	
+	
+
+Draped Cloak
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 4
+	
+	
+
+Patchwork Cloak
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 7
+	
+	
+
+Linen Cloak
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 11
+	
+	
+
+Wispy Cloak
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 11
+	
+	
+
+Oil-stained Cloak
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 33
+	
+	
+
+Old Blanchy's Blanket
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 45
+	
+	
+
+Journeyman's Cloak
+	Stats
+	Min Level: 2
+Armor: 9
+Pawn Price: 73
+	
+	
+
+Adept's Cloak
+	Stats
+	Min Level: 3
+Armor: 7
+Pawn Price: 24
+	
+	
+
+Magister's Cloak
+	Stats
+	Min Level: 5
+Armor: 10
+Pawn Price: 1 32
+	
+	
+
+Gustweald Cloak
+	Stats
+	Min Level: 5
+Armor: 11
++1 Spirit
+Pawn Price: 2 8
+	
+	
+
+Rat Cloth Cloak
+	Stats
+	Min Level: 5
+Armor: 11
++1 Stamina
+Pawn Price: 2 11
+	
+	
+
+Finely Woven Cloak
+	Stats
+	Min Level: 5
+Armor: 11
++1 Spirit
+Pawn Price: 2 13
+	
+	
+
+Demon Scarred Cloak
+  Unique item
+	Stats
+	Min Level: 7
+Armor: 10
+	
+	
+
+Reinforced Linen Cape
+	Stats
+	Min Level: 7
+Armor: 10
+Pawn Price: 67
+	
+	
+
+Ancestral Cloak
+	Stats
+	Min Level: 7
+Armor: 10
+Pawn Price: 68
+	
+	
+
+Disciple's Cloak
+	Stats
+	Min Level: 7
+Armor: 10
+Pawn Price: 69
+	
+	
+
+Handsewn Cloak
+	Stats
+	Min Level: 7
+Armor: 10
+Pawn Price: 72
+	
+	
+
+Canvas Cloak
+	Stats
+	Min Level: 8
+Armor: 8
+Pawn Price: 1 31
+	
+	
+
+Calico Cloak
+	Stats
+	Min Level: 9
+Armor: 7
+Pawn Price: 71
+	
+	
+
+Runic Cloth Cloak
+	Stats
+	Min Level: 10
+Armor: 11
+Pawn Price: 1 21
+	
+	
+
+Mystic Shawl
+	Stats
+	Min Level: 10
+Armor: 12
++5 Mana
+Pawn Price: 2 7
+	
+	
+
+Enchanted Moonstalker Cloak
+  Unique item
+	Stats
+	Min Level: 10
+Armor: 12
++1 Spirit
+Transform into a Moonstalker and become invisible for 300 seconds.
+Pawn Price: 4 23
+	
+	
+
+Woolen Cape
+	Stats
+	Min Level: 11
+Armor: 11
+Pawn Price: 1 42
+	
+	
+
+Willow Cape
+	Stats
+	Min Level: 12
+Armor: 11
+Pawn Price: 1 74
+	
+	
+
+Sporid Cape
+	Stats
+	Min Level: 12
+Armor: 13
++1 Intellect
++20 Health
+Pawn Price: 5 57
+	
+	
+
+Pearl-clasped Cloak
+	Stats
+	Min Level: 13
+Armor: 13
++1 Intellect
+Pawn Price: 3 22
+	
+	
+
+Brocade Cloth Cloak
+	Stats
+	Min Level: 14
+Armor: 9
+Pawn Price: 2 81
+	
+	
+
+Sylvan Cloak
+	Stats
+	Min Level: 14
+Armor: 14
++1 Stamina
++18 Mana
+Pawn Price: 7 44
+	
+	
+
+Heavy Woolen Cloak
+	Stats
+	Min Level: 15
+Armor: 14
++1 Spirit
+Pawn Price: 4 13
+	
+	
+
+Inferno Cloak
+	Stats
+	Min Level: 15
+Armor: 14
++2 Stamina
++4 Fire Resistance
+Pawn Price: 8 31
+	
+	
+
+Resilient Poncho
+	Stats
+	Min Level: 16
+Armor: 14
++35 Mana
++1 Fire Resistance
+Pawn Price: 8 95
+	
+	
+
+Seer's Cape
+	Stats
+	Min Level: 17
+Armor: 14
++1 Intellect
++4 Fire Resistance
+Pawn Price: 5 88
+	
+	
+
+Shimmering Cloak
+	Stats
+	Min Level: 17
+Armor: 14
++4 Fire Resistance
+Pawn Price: 5 88
+	
+	
+
+Prelacy Cape
+	Stats
+	Min Level: 17
+Armor: 15
++2 Intellect
++8 Health
+Pawn Price: 9 65
+	
+	
+
+Spirit Cloak
+	Stats
+	Min Level: 18
+Armor: 15
++1 Spirit
+Pawn Price: 6 55
+	
+	
+
+Flameweave Cloak
+	Stats
+	Min Level: 20
+Armor: 15
++10 Mana
++4 Fire Resistance
+Pawn Price: 7 98
+	
+	
+
+Sage's Cloak
+	Stats
+	Min Level: 20
+Armor: 15
+Pawn Price: 8 19
+	
+	
+
+Cloak of the Faith
+  Unique item
+	Stats
+	Min Level: 20
+Armor: 16
++2 Spirit
+Pawn Price: 13 5
+	
+	
+
+Mourning Shawl
+	Stats
+	Min Level: 20
+Armor: 16
++1 Spirit
++1 Stamina
++15 Mana
+Pawn Price: 14 11
+	
+	
+
+Cloak of Rot
+	Stats
+	Min Level: 21
+Armor: 16
++25 Health
++25 Mana
+Pawn Price: 14 25
+	
+	
+
+Engineer's Cloak
+	Stats
+	Min Level: 22
+Armor: 16
++1 Intellect
+Pawn Price: 9 92
+	
+	
+
+Vibrant Silk Cape
+	Stats
+	Min Level: 23
+Armor: 17
++2 Intellect
++30 Mana
+Pawn Price: 17 78
+	
+	
+
+Frostweave Cloak
+	Stats
+	Min Level: 23
+Armor: 17
++2 Intellect
++2 Spirit
++1 Frost Resistance
+Pawn Price: 18 4
+	
+	
+
+Apothecary Cloak
+	Stats
+	Min Level: 25
+Armor: 17
++1 Intellect
++1 Spirit
+Pawn Price: 13 20
+	
+	
+
+Darkweave Cloak
+	Stats
+	Min Level: 25
+Armor: 18
++3 Intellect
++1 Shadow Resistance
+Pawn Price: 22 31
+	
+	
+
+Long Silken Cloak
+	Stats
+	Min Level: 27
+Armor: 18
++3 Spirit
+Pawn Price: 24 96
+	
+	
+
+Icy Cloak
+	Stats
+	Min Level: 30
+Armor: 20
++6 Stamina
++6 Frost Resistance
+Pawn Price: 37 88
+
+
+
+
+White Woolen Dress
+	Stats
+	Armor: 16
+Pawn Price: 4 66
+	
+	
+
+Neophyte's Robe
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Apprentice's Robe
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Neophyte's Robe
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Apprentice's Robe
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Acolyte's Robe
+	Stats
+	Min Level: 1
+Armor: 1
+Pawn Price: 1
+	
+	
+
+Light Magesmith Robe
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 6
+	
+	
+
+Plain Robe
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 32
+	
+	
+
+Violet Robes
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 44
+	
+	
+
+Warm Winter Robe
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 55
+	
+	
+
+Well-stitched Robe
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 55
+	
+	
+
+Simple Dress
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 59
+	
+	
+
+Journeyman's Robe
+	Stats
+	Min Level: 1
+Armor: 12
++1 Spirit
+Pawn Price: 1 19
+	
+	
+
+Double-stitched Robes
+	Stats
+	Min Level: 3
+Armor: 12
+Pawn Price: 1 21
+	
+	
+
+Harvester's Robe
+	Stats
+	Min Level: 5
+Armor: 14
++3 Spirit
+Pawn Price: 2 68
+	
+	
+
+Magister's Robe
+	Stats
+	Min Level: 5
+Armor: 14
++3 Stamina
+Pawn Price: 2 69
+	
+	
+
+Robe of the Keeper
+	Stats
+	Min Level: 5
+Armor: 14
++3 Spirit
+Pawn Price: 2 94
+	
+	
+
+Robe of Apprenticeship
+	Stats
+	Min Level: 7
+Armor: 14
+Pawn Price: 2 32
+	
+	
+
+Noble's Robe
+	Stats
+	Min Level: 8
+Armor: 16
++3 Intellect
++20 Health
+Pawn Price: 4 23
+	
+	
+
+Gray Woolen Robe
+	Stats
+	Min Level: 11
+Armor: 17
++4 Intellect
+Pawn Price: 6 38
+	
+	
+
+Bloody Apron
+	Stats
+	Min Level: 12
+Armor: 17
++5 Stamina
+Pawn Price: 7 88
+	
+	
+
+Shimmering Silk Robes
+	Stats
+	Min Level: 13
+Armor: 16
++3 Stamina
+Pawn Price: 5 31
+	
+	
+
+Greater Adept's Robe
+	Stats
+	Min Level: 13
+Armor: 18
++5 Spirit
+Pawn Price: 8 84
+	
+	
+
+Black Velvet Robes
+	Stats
+	Min Level: 13
+Armor: 19
++2 Intellect
++5 Spirit
+Pawn Price: 10 56
+	
+	
+
+Scholarly Robes
+	Stats
+	Min Level: 14
+Armor: 18
++5 Intellect
+Pawn Price: 9 16
+	
+	
+
+Robe of Solomon
+	Stats
+	Min Level: 15
+Armor: 19
++4 Spirit
++15 Health
+Pawn Price: 10 32
+	
+	
+
+Fen Keeper Robe
+	Stats
+	Min Level: 15
+Armor: 19
++5 Spirit
++1 Nature Resistance
+Pawn Price: 10 44
+	
+	
+
+Robes of Antiquity
+	Stats
+	Min Level: 15
+Armor: 19
++3 Spirit
++30 Health
++30 Mana
++1 Fire Resistance
+Pawn Price: 11 29
+	
+	
+
+Necrology Robes
+	Stats
+	Min Level: 15
+Armor: 19
++5 Intellect
++32 Mana
++1 Shadow Resistance
+Pawn Price: 13 34
+	
+	
+
+Smoldering Robe
+	Stats
+	Min Level: 16
+Armor: 19
++3 Intellect
++4 Spirit
+Pawn Price: 12 7
+	
+	
+
+Sage's Robe
+	Stats
+	Min Level: 17
+Armor: 19
++1 Fire Resistance
+Pawn Price: 12 87
+	
+	
+
+Lesser Wizard's Robe
+	Stats
+	Min Level: 17
+Armor: 19
++6 Intellect
+Pawn Price: 13 38
+	
+	
+
+Chromatic Robe
+	Stats
+	Min Level: 19
+Armor: 19
++4 Spirit
+Pawn Price: 10 18
+	
+	
+
+Death Speaker Robes
+	Stats
+	Min Level: 20
+Armor: 21
++3 Intellect
++3 Spirit
++40 Health
++1 Shadow Resistance
+Pawn Price: 17 13
+	
+	
+
+Robes of Arcana
+	Stats
+	Min Level: 20
+Armor: 21
++4 Intellect
++4 Spirit
+Pawn Price: 18 7
+	
+	
+
+Frostweave Robe
+	Stats
+	Min Level: 22
+Armor: 22
++4 Intellect
++5 Spirit
++1 Frost Resistance
+Pawn Price: 21 87
+	
+	
+
+Pressed Felt Robe
+	Stats
+	Min Level: 24
+Armor: 23
++5 Intellect
++5 Spirit
+Pawn Price: 25 38
+	
+	
+
+Beastwalker Robe
+	Stats
+	Min Level: 24
+Armor: 23
++1 Agility
++6 Intellect
++4 Spirit
+Pawn Price: 27 34
+	
+	
+
+Burning Robes
+	Stats
+	Min Level: 27
+Armor: 22
++1 Fire Resistance
+Pawn Price: 21 98
+	
+	
+
+Darkweave Robe
+	Stats
+	Min Level: 27
+Armor: 24
++3 Intellect
++6 Spirit
++2 Stamina
++1 Shadow Resistance
+Pawn Price: 35 62
+	
+	
+
+Robe of the Magi
+  Unique item
+	Stats
+	Min Level: 29
+Armor: 27
++6 Intellect
+Special Ability! (coming soon)
+Pawn Price: 46 91
+	
+	
+
+Brightweave Robe
+	Stats
+	Min Level: 30
+Armor: 26
++10 Spirit
++10 Health
++1 Fire Resistance
+Pawn Price: 42 27
+	
+	
+
+Doomsayer's Robe
+	Stats
+	Min Level: 30
+Armor: 26
++15 Intellect
+-5 Spirit
++1 Shadow Resistance
+Pawn Price: 43 24
+	
+	
+
+Silver Arcane Robes
+	Stats
+	Min Level: 40
+Armor: 28
++9 Intellect
+Pawn Price: 53 27
+
+
+

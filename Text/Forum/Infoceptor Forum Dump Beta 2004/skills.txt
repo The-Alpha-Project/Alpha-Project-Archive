@@ -1,0 +1,82 @@
+The New Skill System, It's Ups and Downs
+Track this topic | Email this topic | Print this topic
+Deathwing 	
+Posted: Apr 16th 2004, 04:42 AM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+There's a lot of rumours going around on how the new Skill System will work, so I though at post a summary:
+
+Previously:
+
+- Players earned skill points and talent points separately when and only when they gained a level.
+- Talent Points were spent boosting character attributes and other combat oriented abilities
+- Skill Points were used to learn Trade Skills and other Weapon Proficiencies
+- While Skill Points were used to learn a trade skill, players increases their trade skills by practicing them.
+- Players are unrestricted to choosing which attributes to level up when they raise a level.
+
+In New Push:
+
+- Talent Points temporarily removed.
+- Skill Points used to learn Trade Skills, Weapon Proficiencies and Increase Attributes.
+- 1 Skill Point is earned for 600XP worth of creatures killed, BEFORE rest state modifier is taken into account.
+- Players now increase their trade skills by allocating more skill points. Practicing them doesn't help.
+- Classes now have Primary, Secondary and Tertiary Attributes. Players can level up Primary Attributes by 1 per level, Secondary by 1 per 3 levels, and very very rarely tertiary.
+
+Notes of About New Patch
+
+- There is no cap on the amount of skill points you can earn.
+- Players can gain skill points even when they've reached the level cap.
+- Quest EXP does not give you skill points.
+- Skill Points are given based on EXP gained, not total EXP, thus a player who dies and loses EXP won't lose skill points, and will gain skill points again when he kills to regain his lost EXP.
+- People find that after they used their skill points to max their attributes for their given level, they almost always have skill points left for trade skills, but if they wanted to be good at a trade skill, the may need to sacrifice attributes.
+
+So what do we think of it? It'll take a week before we can make a final decision, but for now, we wish to analyse what huge effects these will have on character development.
+
+In the previous system, players needed not sacrifice trade skills for combat abilities. The systems were separate, and thus everyone could choose their favourite trade skills without penalty. Now, to be great at say Tailoring, a player will need to make a difficult choice between whether to trade or to fight. Given that beginning items are usually fairly week, there's a very strong incentive to not get good at trade skills till a player is high levelled.
+
+Some players view this as a advantage, where players in WoW will become either specialised as warriors, or as traders. Yet many others consider this a step backwards, since one of the most fun aspects of WoW was that players didn't need to invest too much into trade skills, and so, they were much more fun to use than in any other MMORPG.
+
+Secondly, the restrictions in place for attributes really cripples the creative flare when it comes to customising your character. As every player will have the necessary skill points to max their attributes at each level, that's what nearly everyone will do. What this means is that if you met two mages of the same level, they'd have roughly and even identical attributes. Decreasing the diversity and freedom a player has in developing their character is never a good thing.
+
+One of the best aspects I liked about WoW prior to the push was that while as a mage, and Chib was a mage, we could tuned our characters to completely different playstyles. He levelled up Intelligence a lot more, and could thus act as artillery in a party a lot longer. While I levelled up stamina, so while I only had 800 mana to his 1000, I had 600hp to his 350 at similar levels. Thus I could venture a lot closer to enemy, strike them with close range spells with less fear of being kill outright. Armed with a deadly staff, I was even a half decent fighter.
+
+Similar, around the world there were Paladins who were tanks and Paladins who were healers. There was a lot of diversity between classes by the time you reached Level 15, and I fear this new system had destroyed that. You had warriors who maxed out on strength, dealing massive damage, and warriors that maxed on stamina, being great tanks.
+
+Blizzard promises that when they bring back Talents, Character Diversity will be restored. Yet I still feel that they should not restrict attribute choice, for more freedom in character development is definitely a good thing!
+
+The third and final issue is the lack of skill cap. It means that eventually, a player who hits the level cap is up to power up his skill points and become the master of all trades. While this may take a long time, with people doing 50 Bhaal Runs to reach Level 90 in Diablo 2, you know it can be done. The great thing about the Trade Skills previously was that it was a finite resource, so everyone could only become experts at a maximum of two. There was a whole economy going, with Smiths buying copper off Miners, buying enchantments off enchanters and selling their enchanted crafted weapons for lots of cash. Yet I fear, such trade diversity may diminish as more and more people master more and more trades.
+
+All these doubts of course, need to be tested. And so, we draw no final conclusion, expect a complete review of changes in a week's time.
+	
+Top
+Andwarf 	
+Posted: Apr 18th 2004, 07:44 PM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+I cry a lonely tear. I weep in the cemetary of all those who were different in every demeanor in life, but now share identical gravestones.
+
+~\A/ 
