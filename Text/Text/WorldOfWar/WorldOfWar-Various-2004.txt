@@ -1,0 +1,316 @@
+
+
+Neither faction can party with members of the other faction or enter each others towns {unless in stealth somehow}.  Reputation is said to help characters of the other faction to mix but how this is to be implemented hasn't been elaborated on yet.  They can not understand each others language {Common & Orcish} unless in possession of language skills or ride each others mounts {unless masters of the Riding skill} or hire their flying mounts. The Undead as former Humans, begin the game with the advantage of understanding both Common {Alliance} and Orcish {Horde}.
+
+However, we have also seen other race specific languages in screenshots. This shot demonstrates very nicely a few other languages, such as Dwarven, Old Tongue, Demon Tongue, Darnassian, Thalassian. You can read more about languages in the Characters Section.
+
+Reputation
+
+"Some things that a character’s reputation will help decide are whether certain quests are accessible and whether or not certain non-faction groups will attack on sight." - Blizzard Nov. '03
+
+The Reputation interface has never been seen and not much has been released about it. We do know however that it will affect how NPCs and certain Monsters react to you and it is in some way connection to your faction alignment {Alliance or Horde}.  The NPCs is easy enough to see as there will be NPCs of all races so it's only natural they'll be more accommodating to those of their own faction.  Monsters, on the other hand, is an interesting slant on this and it'll be very interesting to see how Blizzard balances this.
+
+Appearance
+
+The appearance of the character can be modified, everything from skin colour and tone to hairstyles and facial features and expressions. For Tauren you will even be able to change the breadth of their horns. The central character avatar changes as you click new options. When choosing the bone structure of the face you can zoom in to get a better view of how your character's face is shaping up. The selection process will remember what you currently have set when you change race and gender. So if you create a female Orc you like the look of, you can change to a male Human and the same traits will be present there. Male and female characters are equally effective in all areas of the game. You will also set the name of your character at this time and your name will be unique to the Realm you created the character on.
+
+Well being
+
+As you can see from the character portrait the two reserves you will call upon are health {red vial} and mana {blue vial}.  Mana {and sometime reagents too} is needed for magic casting and Health for remaining upright and not dead.  There are a number of ways to keep these reserves topped up.  First, they replenish over time, probably different rates for different classes and no doubt there will be skills, charms or imbued equipment that are beneficial to the volume of these reserves and the amount of time they take to replenish.  Quick and immediate methods are potions.  Potions are in WoW but that's not to suggest it's a potion fest ala Diablo, besides potions will have a cool-down period and will probably not be instantaneous, rather filling you reserves at a very accelerated rate.  The other way is food and drink.  Food such as cheese will replenish your character's health and ale their mana.  Characters do not need to consume food and drink to survive, it is merely another way to replenish characters' reserves.  There may be other benefits to these that Blizzard have yet to reveal. It's believed food and drink will be amongst items monsters can drop. We have seen evidence of dedicated watering holes and even perhaps some place to eat.
+
+Death
+
+Well there's no Hardcore mode in WoW so death isn't the be-all-and-end-all in this case.  Mortal characters would be very interesting. Right now the only major MMORPG that has an element of mortal danger is the newly released Star Wars Galaxies. {Although even in this mode, a Jedi character is given a few chances to clone to account for disconnects.}  It would be great if the option for Hardcore {mortal characters} was made available in WoW but alas Blizzard have made it clear it won't be.  There seems no reason not to. There's no doubt permanent death in an MMO is a massive loss, in the scheme of things. 
+
+However it could be set that only accounts that have another character of a certain level can create Hardcore characters and then there are  warning/acceptance screens to make absolutely sure that the person realises they are not immortal.  The added realism, fear and trepidation players will feel could be the buzz that keeps some quarters playing for much longer.  If there is some sort of PvP switch {on/off} then these players can be sure that when they're out of the reach of monsters they are safe. Unfortunately it doesn't look like an HC mode will be added to the game by release.
+
+"The trick with death is to make it painful enough so that player's respect the world but not so painful that is is overly frustrating." - Blizzard 24, Oct. '02
+
+So, no Hardcore but there will be death and there will be penalties. According to the team at E3 2003, death penalties were to be very light but the original death system has changed as development through the Alpha test progressed. 
+
+Previously when you died a message appeared stating 'release your spirit' which would sit there for five minutes giving time for someone to resurrect you on the spot. If you are were not resurrected by that time you will reappear at your last saved Bind Point. This has now been changed.
+
+Blizzard have changed death as they feared players would use the Bind points as a free teleport system to get back to key locations quickly and negate much of the game's transport system. Now players will appear as a ghost and have to make their way back to their corpse on a 'corpse run'. 
+
+One concern of this system has been the ability to scout but Blizzard have stated that not all monsters will be visible when you're a ghost and some may even attack. You will also not be able to enter instanced Dungeons as a Ghost. If you die as a ghost again then you appear back at the nearest graveyard. There will be a max time set between corpse and ghost spawn point so you won't be running for hours on end to reach your corpse. While this time has not been determined as yet, Blizzard have stated that between 5-10 minutes will be the maximum corpse retrieval time. You will also be able to see other ghosts and there may even be special ghost quests from ghostly NPCs.
+
+Skills and Spells
+
+Class Skills
+
+All character classes have a set of class skills {i.e. sword, axe and mace skills for the Warrior} and use a hybrid leveling and skill system.  There are no skill trees or point allocation in the same way there are in say Diablo II. As you attain new character levels the cap rises on the skills' potential so the more you use these skills the better they become, up to the cap for your level {level cap}. Your control on their improvement comes by way of use rather than allocating points, this way you do not waste points if you've made a wrong choice, you simply stop using that skill and use another which then starts to improve the overriding class skill. For example, swapping from Frost Nova to Firebolt will mean you're Frost Magic class skill will stop improving and instead your Fire Magic class skill will begin to improve. Basically, practice makes perfect. Blizzard don't want players to be able to mess up their characters by choosing wrong abilities and skills.  This way ensures that you are a competent mage or warrior because you have the core skills necessary to be such.
+
+You can gain skills, not necessarily restricted to your chosen race, by completing quests and by seeking out NPC mentors who will aid you in different ways.
+
+Secondary Skills {Trade Skills}
+
+The Secondary Skills section has grown too large to house within this page so it has it's very own section which can be found here.
+
+Language
+
+Both factions have their own language - Alliance has Common and the Horde speak Orchish.   Neither faction will, at least initially, understand each other, apart from the Undead who begin the game understanding both, what with them being former Humans and now part of the enemy Horde.
+
+If you're an Orc and type 'hello', for example, it would appear as Orchish to other races unless they have learnt Orcish as a language skill. This will be the case with literature (books, tomes, scrolls) also. If an Orc found a recipe in the human land he may not be able to read it, unless he had learned Common. This is a really fun feature and we hope this idea stays in the game come release.
+
+We have seen 'Dwarvish' spoken in a movie and other language secondary skills in this screenshot.
+
+Talents
+
+Talents are another area that offers customization over the development of your character. Talent Points may be applied to skills or attributes significant to your class such as mana regeneration for a Mage, Fire specialization for the Shaman or increased damage with a Mace. A Talent Trainer will present a list of areas that you can hone and if you have enough Talent points accrued the talent will improve a level.
+
+Spells/Abilities
+Click me and I'll show you the big one
+
+Some of the spells and special abilities already revealed are familiar from Warcraft, such as Bloodlust and Lightning Shield and there will be more, however there will also be plenty of brand new spells to get excited about.  Spells are not acquired by working your way up a skill tree either.  These can be found in scrolls, purchased from a local wizened old man with a toothy grin or researched and placed into your Spell Book. 
+
+Learn more about the main menu bar...>Your most used spells and abilities can be dragged to the menu bar which runs along the bottom of the screen and accessed through hotkeys. You can change them whenever you wish, your choices aren't set in stone.  You can read more about the spells mentioned so far in the specific class pages.
+
+You use the right mouse button to perform a combat move or cast a spell on your target.  Spells and special abilities will normally require mana and/or reagents and can be temporarily increased in level by wearing particular items or carrying gems or charms in your backpack.
+
+Multi-User Spells
+
+Multi-user spells or Rituals as they are known will require a group of characters to cast.  Groups are currently capped at five {although super groups can be set for special tasks}, but it's unlikely these Rituals will require five people to cast, that would be too awkward to arrange, so possibly two or maybe three people will be needed. One such ritual are Teleportation Portals which can be placed within cities.
+
+Hero Classes
+
+When a character reaches a suitably high level, level 40 or higher it can start specializing in skills to become a hero class as found in Warcraft III. There are race and class restrictions but for example a Dwarven warrior could become a Mountain King and a Night Elf Hunter the Demon Hunter. In Warcraft III, these heroes had special skills such as Thunderclap, Bash and Avatar and for the Demon Hunter Mana Burn, Immolation, Evasion and Metamorphosis.  Whether we'll see skills such as these in WoW remains to be seen.
+
+Attributes
+
+What has been revealed about character attributes and the effects on the characters' performance can be written on the back of a postage stamp.  All we do know is there will be attributes and that you will be able to allocate points awarded when your character levels up or from quest rewards.  Possible attributes we may see could be:
+
+Strength - Improves weapon damage and slight improvement to blocking and critical damage.
+
+Agility - Improves chances to dodge and proc (changes that a weapons imbued ability such as poison will successfully execute)
+
+Stamina - Improves hit points
+
+Intellect - Increases spell damage and healing (how much you heal when you perform a healing spell)
+
+Spirit - Increases mana regeneration
+
+The base levels of these statistics are different between all classes but not genders and they are increased with skill points you choose to assign when leveling up. How many points awarded with each level-up has yet to be set. Items will also increase these attributes. 
+
+Resistances
+
+Resistances consist of Holy, Fire, Nature, Frost, Shadow {protection against dark skills, demonic magiks, the kind you see the Warlock has access to}. They can be augmented with equipment and possible gems or charms kept in the backpack, buffer spells or shrines perhaps.
+
+
+
+
+
+
+
+
+
+n essential part of World of Warcraft is the combat and player control. Blizzard have stressed they want to make World of Warcraft a game that will be easy to pick up, even for the MMORPG novice. Control is the key to any MMO, it's what links the player with the character in the game and interaction with the characters and creatures of the game universe. We have seen snippets of action in gameplay movies and we have also had the pleasure of trying out a build at E3 2002 and E3 2003, where even in the earlier stages of development, the game was simple to get to grips with. In this section we talk about how the combat works in World of Warcraft and how the player will control their character in the game world.
+
+Perspective
+
+The perspective you view the screen is controlled by the mouse and it's the right button which enables you to 'freelook' and rotate the camera angle.  The wheel on the mouse enables you to zoom in and out of the action. This means you can view the game at an angle that suits you at the time.  There will even be times that you will be able to view areas that are out of your character's line of site.
+
+Combat will probably be most comfortable in first person perspective where you see nothing of your character, in effect you see through your characters' eyes with no hands or weapons showing. Third person, which you'll be familiar with from the Tomb Raider games can be seen demonstrated in the image on the left and this angle allows you to see your character perform its combat moves and skills.  It would be a shame to fight in first person and miss seeing how cool you look doing your thang so this view will perhaps be the most favoured. If you follow the linked image you'll see a selection of six camera angles caught from an in game movie.
+
+
+To move use the arrow keys or the standard A, S, W and D keys {configurable}
+	
+
+Perform a context-sensitive action such as select target {and display their information}, pick up, open window {NPC}, or walk/run.
+
+Mouse wheel to zoom in and out.
+	Squeak! 	Consume a potion or food.
+
+Perform a combat move or spell on a target.
+
+Rotate the camera angle.
+
+Cursor Cue
+Look at the lovely nav bar. Isn't it purdy.
+
+The cursor is context sensitive which basically means when you hover your cursor over an object it will change to indicate the action you can perform by left clicking on it.  So, for example, if you hover your cursor over an NPC your cursor changes to an Exclamation mark inside a white speech bubble.  If you hover your mouse over a corpse your cursor changes to a wee loot pouch to indicate there is booty to be had if you click on the corpse.  The attack cursor is, appropriately, a sword placed at the base of the hand icon. The default cursor is the familiar silver gauntlet {above left}.
+
+Attack! Attack!
+
+Once you are in range of your target your 'hand icon' changes to indicate that the next click will cause you character to attack.  As of E3 2003 there was only one attack mode cursor as seen above. Anyhow, once you have clicked on your target, your character will continuously attack {automatically moving up close if melee attacking} until the target or you are dead. This allows you time to cast spells or execute special abilities and even change equipment.  You can disengage from combat with that target by clicking to move elsewhere or even clicking on another enemy to start your attack on them.  There is no click, click, click in World of Warcraft.  Don't be fooled into thinking you will be able to click an enemy sit back and admire your Britney poster for 2 minutes while your character bashes your target about the head.  The skill lies in the timing of your spells and special abilities.
+ 
+ 
+Learn more about target portraits in our Interfaces section.
+    
+
+Visuals cues will keep you apprised of how much damage you're character is doing, if your dexterity is a tad wanting and you are missing completely and also the XPs you are gaining.  A successful strike will flash the target red and a small number will float up above their head indicating the hit points you just drained from them with your attack. If you miss a 'Miss' will float up.  The XPs you are gaining will rise above your head and the damage you take will appear over your character portrait, as will you combat defensive moves such as 'Defend'. You can see how many hit points your target has remaining by their target portrait. Hover over the health dial for a numerical readout.
+
+Spells & Abilities
+
+As with melee attacking spells and abilities are executed with one click, although projectile spells will give the player greater distance between themselves and their target. All spells and abilities can be assigned a hotkey and can also be accessed by clicking on the icons in the skill/item slots, featured below.
+
+Spells & Abilities menu which sits at the bottom of your screen
+
+More on specific control functions read the Interfaces section and for more on skills and abilities read the Character section. 
+
+Teamplay
+
+Currently the maximum number of people in a party is five, however parties can join forces to form Super-groups in order to take on tougher monsters or pursue guild activities.  Experience points and gold is automatically divvied between party members but the party leader (the player who invited other players to their group) can change looting options. As of E3 2003, modes included the following:
+
+    'Round Robin', looting which means party members loot in turns, you'll know when it's your turn as you'll see small glowing sparkles floating above the corpse, if there are none there you will not be able to take the loot no matter how hard you try.
+    'Free For all', which'll be very much 'last one there is a big loser' mode.
+    'leader only', good for guild raiding where you may want only the leader to pick up the loot to distribute amongst members afterwards. 
+
+Learn more about InterfacesTo indicate who's in control, a small crown sits on the portrait of the party leader.
+
+The party leader can remove people from the party by right clicking on their icon and selecting "uninvite" or by using the "/kick playername" command in the chat window. Party chat can be initiated by using the "/p" command to just chat to your party. Inviting people into your party is equally easy. You can right click on their avatar and invite them or use the chat command "/invite playername".
+"players will be able to "link" groups in order to form larger parties for raids or guild activities." - Blizzard Entertainment, November 2002
+
+Blizzard have stated that there will be special 'large party' quests which will require larger groups to complete, but as WoW is meant to be as playable for those who play on their own as it is for groups, the quests would more than likely be non-essential. Rituals, the multi-user spells will require some sort of grouping also but probably not more than five players. That would make them prohibitive and Blizzard aren't known for going down that road.
+
+As there is no PvP outside of the special PvP areas, there is currently no friendly fire between party members.
+
+Player Vs. Player
+ 
+ 
+Learn more about guilds in our Guild Support section
+    
+
+At the opposite end of Teamplay we have PvP and this will feature in World of Warcraft. Unlike many MMORPGs PvP will be consensual and can only be carried out in special PvP areas of the game such as arena areas or 'battlefields' where players will fight for control of towers or other such buildings. About 90% of World of Warcraft's zones will not be PvP enabled.
+
+Special arenas will be implemented so that crowds of players will be able to purchase tickets to watch these spectacles. These arenas will also be geared towards PvP guild wars where guilds will purchase special 'guild war' tickets and invite other clans to come fight in the arena. Special events such as these will be broadcast to players in the game world and can be viewed as organised events. While WoW may be criticised for not having a more open ended PvP system, the development team are doing their best to make sure that those who want an enthralling PvP experience will be more than satisfied with what's in store and those that don't want to take part can still get some enjoyment from that aspect.
+
+Anything to add?  Have we missed something?  Let us know here.
+
+
+
+
+
+
+
+What's a Quest?
+"We're planning a vast number of quests, that provide meaningful amounts of experience and lots of good loot." - Blizzard Entertainment, October 2002 	
+
+~ Contents ~
+• What's a Quest
+• How to get Quests
+• Tracking Quests
+• How to Complete Quests
+• What Rewards?
+
+World of Warcraft isn't all about fighting the bad guys and leveling up.  To draw you into the world's story and encourage you to explore the vast continents challenges can be accepted through a quest system.  These can range from quick gathering quests to those that require you to complete a number of objectives to fully finish, to much lengthier endeavors requiring a group effort and many hours to complete. Some of the quests will be repeatable and their rewards will be nominal. However. the non-repeatable requests will offer the most coveted items and large amounts of experience points on completion. This will satisfy players with only a few hours free gaming time a week and those with considerably more free time to play.
+
+How to get Quests
+
+All quests in the game can not be accepted willy nilly, there are prerequisites needing to be met first.  The level of your character, its reputation, race and class can play a part.
+
+When walking into a town or area for the first time you won't have to go up to each individual NPC one after the other to see if they have a quest for you. Those with quests will either have a yellow exclamation mark above their head meaning they have a level-appropriate quest for you or a grey mark indicating they have a quest but you're not quite high enough level to be given it so you should revisit them in about another 5 or 10 character levels.  A yellow question mark means you need to speak with that NPC as they have more information regarding the quest you've accepted.
+
+Clicking on an NPC with a quest available will activate the quest window with a full description and brief overview and the reward/s for completing the quest. There will be quests that list a selection of reward items so you can pick and choose which you prefer.
+
+Quests may appear on ships while in transit which will ease the boredom of traveling across the vast sea to other continents. The ship may come under attack for example and you may be needed to help in some way.
+
+Tracking Quests
+
+Once you've accepted the quest it is logged in your Quest Log along with any other outstanding quests. Clicking on the title of a quest in your list will display the full details and the item you have chosen to be rewarded with should you complete the quest.  You can also sort quests in the Quest Log, placing them in the order you wish to complete them. You can also abandon quests at any point. As well as the descriptions to help you complete the quest, there will sometimes be visual markers on the minimap but Blizzard want you to explore the world so the markers won't be there all the time or you'll just move from marker to marker and complete the quests without thinking about the challenge or exploring the world.
+
+How to Complete Quests
+"There will be "small" multipart quests, which you might be able to finish in several days, and epic "life quests" that will span your entire adventuring career." - Blizzard, April 2003 	
+
+Quests are a great way to explore the world and as all quests are level appropriate there's no danger of finding yourself way out of your depth as far as opponents are concerned.  However, if you get a quest at an early level, say 10, and you don't complete it until much later, say level 20, you will be rewarded the experience points of a level 10 character. The quests will not disappear from your Quest Log if you don't do them so there will be no chance of losing out on that important quest item simply because you forgot to complete the quest 15 levels before.  You'll simply not be awarded as many experience points for it but that won't matter much as it's the item you're after in quests you'd be bothering to go back and do much later.  Some quests can also be on a timer, the 'race against time' element adds some excitement.
+
+What Rewards?
+
+Rewards will be wide ranging, for example in the city of Stormwind players can visit the various faction specific districts and  gain faction specific quests.  Other quests may have long term benefits to the player such as opening up new Gryphon routes making it easier to traverse the vast game world. Quests will have other benefits by giving players new skills. For example, you may undertake a quest with the Orcs while you are playing as a Human, the reward may well enable you to ride their wolf mounts. If you have completed a quest in a group and there are specific quest items they will drop for each member of the group involved in that quest {not opportunist people loitering around}. Spells, skills, items, Talent Points and more will be up for grabs for successful adventurers.
+
+
+
+
+
+
+
+ 
+
+s many of you may already know from playing other MMORPGs, the game world is more often than not vast. Like the good old days before automobiles, trains and planes, our ancestors traveled on foot or on the back of some variety of beast. MMORPGs are no different in that respect.  You need to get from A to B in the quickest time possible and MMMORPG developers employ different methods of transportation, anything from jump-gates to teleports, they're all placed in the game to remove the tedium of traveling the game world on foot.
+
+We already know that the actual game world in World Of Warcraft is fairly large based on what we've been shown by Blizzard. In a recent interview in GMR Blizzard said it would take "At least 3 to 4 hours to go from one side of the world to the other in a straight line." To scale that down to something more tangible, to travel from Stormwind Keep to Iron Forge on foot would take the player, on average, 40 minutes but by utilising a flying mount as your mode of transport, the travel time is reduced to around 3 minutes. Frees up plenty more time to quest and adventure.
+
+All that said what methods have been introduced in World of Warcraft.
+
+Mounts
+
+A much requested form of transport are mounts.  Mid to high level characters (level 30+) will be able to master riding and if they specialize in this skill they may be able to ride mounts normally reserved for other races.  So far horses for humans, Battle Rams for dwarves,  wolves for orcs, Night Elves Nightsabres and Undead Fel Steed {demonic horses}. Tauren will not have their own mounts rather they have Plains Running, a skill based improvement}. The full list of race mounts is as follows:
+
+    Human: Horse
+    Troll: Undetermined
+    Night Elf: Large Cat
+    Orc: Wolf
+    Dwarves: Ram
+    Undead: Undead Steed
+    Gnome: Undetermined
+    Tauren: None: Plainswalk
+
+Blizzard have said characters will not be able to fight on mounts and armour will not be available for them. This could change of course during the development process but for the sake of balancing it's unlikely it will.
+
+Players will be able to purchase mounts in the game world or they may even be given as quest rewards. If Players are for example, a human and want to ride a wolf they have to earn the privilege by increasing their reputation with the Orcs and spend skill points to have the ability. This applies to all the races. 
+
+    Confirmed at E3 2003 that stables will not be available to the player.
+    When a mount dies the mount will simply disappear.
+    Players will not be allowed to ride pillion. One player for each mount.
+    Players will be able to name their mounts.
+    To access the mount players simply 'summon' it with a click on a scroll and it materializes in front of them. There is no animation for the character 'mounting' the mount, they automatically appear on the mount.
+    There will be different types of mount, some better than others but the benefits of these special mounts has yet to be revealed.
+    Mounts are not available until the player reaches level 30.
+    Druids will have access to an underwater mount.
+
+Horsey pictures can be found here, here and here and for the first time in action in the second official game play movie released in March 2003.  You can download that 23.6mb movie here and see our full analysis here.
+
+For now, all Alliance races (except NEs) use gryphons, while NEs use hyppogryphs. All Horde races except Undead fly wind runners, While undead fly bat-like creature.
+
+Portals
+
+While Blizzard have stated that portals will not be available in the final game once it's released the idea has not been totally discounted. When we visited Blizzard in January 2004, they did state that portal spells through Mages and Warlocks who will be available as a mass teleport type spell, a ritual spell that they could cast to bring a character right to his location making it easier for parties of characters to reform.
+
+Flying
+
+If it's vast expanses of land you're needing to cross and you aren't skilled in riding then you will need another form of transport and that will be provided by Gryphons for Alliance races apart from Night Elves who will use hyppogryphs and the Horde races will fly Windrunner except for Undead who can hire bat-like creatures {yet to be named}.  These units featured in Warcraft III and here will form the public transport system. The flying transportation for each race is as follows:
+
+    Human: Gryphons
+    Troll: Wyvern
+    Night Elf: Hippogryph
+    Orc: Wyvern
+    Dwarves: Gryphons
+    Undead: Giant Bat
+    Gnome: Gryphons
+    Tauren: Wyvern
+
+    "There will be many forms of transportation within the World of Warcraft including portals, ships and zeppelins." - Blizzard Entertainment, FAQ 2002
+
+Zeppelin's  will be available to the Horde, speeding from one continent to the other. 
+Gryphon Masters' Destination Map
+
+Where to?
+
+We last saw Gryphons in Warcraft III and there they were only rode by Humans.  
+
+Throughout the gameworld there will be Stations manned by NPC Tamers. Players can purchase a ride on one of these magnificent flying beasts. These stations may not always be easy to find and players will have to complete quests to open up these special flying routes.  
+
+A typical 40 minute journey on foot will be cut to 3 minutes on the back of a Gryphon.  Players can tend to their inventory, chat with their team mates while en route but best of all they can watch the world slip by below them.  Although players can not control the Gryphon, they can control their camera angles, a full 360 degrees.  They'll get to see all the familiar landmarks from a unique perspective and get a better understanding of the lay of the land. What's more they can see any action taking place on the ground. If they fly over a battle they can see and hear it.  They can take a mental note of villages to return to later and explore or entrances to caves and ways through passes.
+
+The Gryphon can be seen flying in our E5 movie #5 and also in the 4Gamer E3 movie #3.
+
+Water Transport
+
+As we already know, players will have access to mounts, boats and ships to ferry them between ports. While no screenshots of small boats ferrying people across lakes have been seen, moorings have. In the city of Stormwind gondolas will serve as transport ferrying you along the network of canals which link up the various districts within the human stronghold.  Transport ships will ferry people across greater expanses of water. In fact we have seen a transport ship moored at Menethil Harbor in The Wetlands. Other specific harbours have not been seen named yet.  We have seen what we believe is a Ship's Captain who players would probably pay for passage on his ship and an NPC ship's hand.
+
+Blizzard are well aware that moving from place to place on slower modes of transport can be rather dull so there will be gambling on ships and even quests to help pass the time. A transportation ship may come under attack in transit for example and players will have to fend off the enemy.  The frequency of departures and how many passengers a transport ship needs before it will leave have not been revealed.  Finer details as those are usually balanced during beta when Blizzard will get a better idea of the demand they need to satisfy.
+
+The Alliance will utilise the sea and travel from shore to shore.  As an example, Goblins will offer a ship service from Racket to Booty Bay for the daring who wish to see how the other faction lives.
+
+Swimming
+
+It has been confirmed that characters will be able to swim and that there will be underwater environments to explore and fight in.  In the second gameplay movie we saw an entire group of characters swimming under water, through a hole in the hull of a ship. Specifics on combat under water have not been revealed and none has been seen in action.
+
+Bind Points
+
+Bind points were first seen in our demo in September 2001 and these massive monoliths will act as respawn points for when you have died or restart your game.  The graphics for the actual structures will vary between areas.  The image on the left is a statue we've seen a few times, twice as a town fountain and once here and it could be that this is the art for Bind Points in Elwynn.  There will be Bind Points across the land and they will be situated in places you'd naturally wish to 'save' if you were playing a single player game for example.  Bind Points are not restricted by class or race.  This Bind Point is in Kalimdor, the Night Elves native lands.  Thos most common seen are these plain stone monoliths.
+
+
+
+
+
+

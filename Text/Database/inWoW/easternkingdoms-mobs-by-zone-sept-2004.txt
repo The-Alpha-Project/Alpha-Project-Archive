@@ -1,0 +1,2036 @@
+################################ TIRISFAL GLADE ################################
+
+	
+
+Darkhounds
+
+The Darkhounds are demonic, canine beasts that have roamed the Tirisfal Glades for some time. They are loners, hunting both the Forsaken followers and the last human remnant in this desolate and dead land.
+
+Existing variants:
+
+Decirit Darkhound  Alliance| Horde   [Level 5-7]
+Special Attributes: Nothing
+Ravenous Darkhound  Alliance| Horde   [Level 9-10]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+Duskbat
+
+The Bats are giant bats that fly through the Tirisfal Glades and pounce on adventurers, killing and eating them instantly. The Vampiric Duskbats are the most dangerous specimens of this genus.
+
+Existing variants:
+
+Duskbat  Alliance| Horde   [Level 1-2]
+Special Qualities: none
+Mangy Duskbat  Alliance| Horde   [Level 1-2]
+Special Qualities: none
+Greater Duskbat  Alliance| Horde   [Level 5-6]
+Special Qualities: none
+Vamipric Duskbat  Alliance| Horde   [Level 7-8]
+Special Qualities: none
+
+
+
+
+
+
+
+
+scavengers
+
+Scavengers are wolves that roam near Deathknell. They are mostly found in smaller packs consisting of about 3-4 scavengers. On their own, they're easy to take down even for inexperienced adventurers, but when they appear in packs, they can make life miserable.
+
+Existing variants:
+
+Young Scavenger  Alliance| Horde   [Level 1-2]
+Special Qualities: none
+Ragged Scavenger  Alliance| Horde   [Level 3-4]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+zombies
+
+The flesh-eating undead of the Tirisfal Glades are undead puppets and tools of the Light King. Obeying their master's every command, they make life miserable for the denizens of the Tirisfal Glades, undead or alive. They can be found throughout the Tirisfal Glades, individually not much of a challenge, but when banded together they will a tough nut to crack even for seasoned adventurers.
+
+Existing variants:
+
+Wretched Zombie  Alliance| Horde   [Level 1-2]
+Special Qualities: none
+Ravaged Corpse  Alliance| Horde   [Level 6-7]
+Special Attributes: Nothing
+Rotting Dead  Alliance| Horde   [Level 5-6]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+rattle cages
+
+The skeletons are servants of the Lich King and were created to nip the last remaining resistance of humans and the Forsaken in the bud. They can usually be found in smaller groups. There are two different types of skeletons, the magically gifted Darkeye Bonecaster and the Rattlecage Skeletons, which represent the warriors. The Bonecaster are good magicians and can use some powerful spells to strike down adventurers. The Rattlecage Skeletons are the strong melee fighters and take a few hits before they collapse.
+
+Existing variants:
+
+Rattlecage Skeleton  Alliance| Horde   [Level 3-5]
+Special Qualities: none
+Darkeye Bonecaster  Alliance| Horde   [Level 7-8]
+Special Qualities: none
+
+
+
+
+
+
+
+
+ScarletHumans
+
+The Scarlet Crusaders are humanity's self-proclaimed undead hunters, and accordingly hunt down the Forsaken and the Lich King's minions. They are well trained and equipped to fight against all unlife that roams the Tirisfal Glades. The Scarlet Crusaders can only be found in camps or near destroyed towers or ruins. They're tough opponents and you'll never find them alone, so frontal attacks aren't a good idea if you're going up against the Crusaders. The Crusaders are not only strong melee fighters, among their ranks there are also mages, priests and trainee paladins.
+
+Existing variants:
+
+Scarlet Convert  Alliance| Horde   [Level 3-4]
+Special Qualities: none
+Scarlet Warrior  Alliance| Horde   [Level 6-7]
+Special Qualities: none
+Scarlet Friar  Alliance | Horde   [Level 9-10]
+Special Qualities: none
+Scarlet Zealot  Alliance | Horde   [Level 8-9]
+Special Qualities: none
+Scarlet Vanguard  Alliance | Horde   [Level 10-11]
+Special Qualities: none
+Scarlet Neophyte  Alliance | Horde   [Level 10-11]
+Special Qualities: none
+Scarlet Adapt  Alliance| Horde   [Level 33+, 34+]
+Special Attributes: Healing spells
+Scarlet Gallant  Alliance| Horde   [Level 33+, 34+]
+Special Qualities: Strike, Stun
+Scarlet Diviner  Alliance| Horde   [Level 34+, 35+]
+Special Attributes: Fireball
+Scarlet Preserver  Alliance| Horde   [Level 29+, 30+]
+Special Qualities: Holy Strike
+Scarlet Wizard  Alliance| Horde   [Level 38+, 39+]
+Special Traits: Slow, Fireshield II
+Scarlet Soldier  Alliance| Horde   [Level 35+, 36+]
+Special Attributes: Improved Blocking
+Scarlet Protector  Alliance| Horde   [Level 36+, 37+]
+Special Attributes: Holy Light
+Scarlet Evoker  Alliance| Horde   [Level 36+, 37+]
+Special Attributes: Flamestrike, Fireball
+Scarlet Guardman  Alliance| Horde   [Level 36+, 37+]
+Special Qualities: Unarm
+
+
+
+
+
+
+
+
+Spirits
+
+The Wandering Spirits are spirits that haunt Balnir Farm in eastern Tirisfal Glades. Lost souls who have not yet found their way into the realm of eternal rest.
+
+Existing variants:
+
+Bleeding Horror  Alliance | Horde   [Level 10]
+Special Qualities: none
+Wandering Spirit  Alliance | Horde   [Level 10-11]
+Special Qualities: none
+Lost Soul  Alliance | Horde   [Level 6-7]
+Special Qualities: none
+Wailing Ancestor  Alliance | Horde   [Level 9-10]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Web Spiders
+
+These giant spiders inhabit the northwestern part of the Tirisfal Glades, the Venomweb Vale. They are cunning hunters and poison their victims with a deadly poison that slowly kills them. They mostly hunt alone, but where one of these beasts is, another can't be far away.
+
+Existing variants:
+
+Vicious Night Web Spider  Alliance| Horde   [Level 9-10]
+Special Traits: Poison (DoT)
+
+
+
+
+
+
+
+
+Vile Fin Murlocs
+
+Another genus of the Murloc family that roams the beaches and steep coastal slopes of the Tirisfal Glades. They live in packs and seek help when attacked. They are very fast and cunning hunters, circling and then overpowering their prey.
+
+Existing variants:
+
+Vile Fin Mudweller  Alliance| Horde   [Level 9-10]
+Special Qualities: none
+Vile Fin Minor Oracle  Alliance| Horde   [Level 9-10]
+Special Attributes: Lightning Bolt
+Vile Fin Puddlejumper  Alliance| Horde   [Level 7]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Tirisfal Humans
+
+The last surviving humans of the Tirisfal Glades do not want to give up their farms and therefore defend them with any means at their disposal. But soon they too will have to leave the land or they will fall victim to the Forsaken, or even worse, the servants of the Lich King and then become his mindless slaves.
+
+Existing variants:
+
+Tirisfal Farmhand  Alliance | Horde   [Level 6]
+Special Qualities: none
+Tirisfal Farmer  Alliance | Horde   [Level 6-7]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Red Hide Gnolls
+
+The Rot Hide Gnolls are undead gnolls who serve as tomb robbers for the Lich King. They open the mass graves in the Tirisfal Glades to raise the corpses within to enlist in the Lich King's army. They mostly travel in groups, but are not serious opponents.
+
+Existing variants:
+
+Red Hide Graverobber  Alliance| Horde   [Level 6-7]
+Special Qualities: none
+Red Hide Gnoll  Alliance| Horde   [Level 6-7]
+Special Qualities: none
+Red Hide Mongrell  Alliance| Horde   [Level 7-8]
+Special Qualities: none
+
+
+################################ END TIRISFAL GLADE ################################
+
+
+
+
+################################ HILLSBRAD ################################
+
+syndicate of humans
+
+The Syndicate is a sub-organization of the human military. They are mainly found in Durnholde Keep, a fortress in the east and protect the area against Horde invaders from the east. This place is also used as a prison for prisoners of war. They also have several well-secured outposts in the border area.
+
+Existing variants:
+
+Syndicate Watchman  Alliance| Horde   [Level 20-21]
+Special Traits: Torch Burst (DoT)
+Syndicate Shadow Mage  Alliance| Horde   [Level 21-22]
+Special Traits: Shadow Bolt, Curse of Thorns
+Syndicate Rogue  Alliance| Horde   [Level 21-22]
+Special Attributes: Backstab, Poison (DoT)
+
+
+
+
+
+
+
+
+yetis
+
+Unlike the famous snow yeti, this genus prefers to live in caves. They are large, furry creatures that avoid daylight and only come out to hunt. One should not underestimate their strength.
+
+Existing variants:
+
+Ferocious Yeti  Alliance| Horde   [Level 31-32]
+Special Qualities: Enrage (Faster Attack, increased Damage)
+Cave Yeti  Alliance| Horde   [Level 30-31]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Moss Creepers
+
+The extremely aggressive spider species, the Moss Creeper, is particularly found in wooded areas. Their venom is deadly in most cases and their hunger boundless.
+
+Existing variants:
+
+Giant Moss Creeper  Alliance | Horde   [Level 24-25]
+Special Traits: Corrosive Poison (DoT), Dazed (Silenced)
+Elder Moss Creeper  Alliance | Horde   [Level 26-27]
+Special Traits: Corrosive Poison (DoT)
+Forest Moss Creeper  Alliance | Horde   [Level 20-21]
+Special Qualities: none
+
+
+
+
+
+
+
+
+People of Hillsbrad
+
+The farm complex in the west of the Hillsbrad Foothills is a small human settlement. From here they supply food to Southshore in the south of the country. Independent of Stormwind and Ironforge, dwarves and humans have found a new home here with their own laws and have built a beautiful town hall from which they observe and guide the fortunes of the region.
+
+Existing variants:
+
+Hillsbrad Footman  Alliance | Horde   [Level 25-26]
+Special Traits: Torture, Shield Bash, Improved Blocking
+Hillsbrad Farmhand  Alliance | Horde   [Level 22-23]
+Special Qualities: none
+Hillsbrad Farmer  Alliance | Horde   [Level 23-24]
+Special Qualities: Disarm
+Hillsbrad Peasant  Alliance | Horde   [Level 24-25]
+Special Qualities: none
+Hillsbrad Tailor  Alliance | Horde   [Level 24-25]
+Special Qualities: none
+Hillsbrad Apprentice Blacksmith  Alliance | Horde   [Level 24-25]
+Special Traits: Head Crack (Drain Stamina)
+Hillsbrad Councilman  Alliance | Horde   [Level 25-26]
+Special Attributes: Magic Attacks
+Hillsbrad Miner  Alliance | Horde   [Level 26-27]
+Special Attributes: Sundering Strike
+Hillsbrad Foreman  Alliance | Horde   [Level 27-28]
+Special Qualities: none
+Hillsbrad Sentry  Alliance | Horde   [Level 27-28]
+Special Attributes: Shield Bash
+
+
+
+
+
+
+
+
+grizzlies
+
+Bears are a freak of nature and at home almost everywhere. This region is largely home to grizzly bears, but one or two brown bears can also be found. Their tongues, used in soups, are considered a delicacy among the undead.
+
+Existing variants:
+
+Gray Bear  Alliance | Horde   [Level 21-22]
+Special Qualities: none
+Vicious Gray Bear  Alliance | Horde   [Level 22-23]
+Special Qualities: none
+Elder Gray Bear  Alliance | Horde   [Level 25-26]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Mudsnout Gnolls
+
+In the course of food security, Mudsnout Gnolls have secured the farm to the south and driven the owner from there. Since not only wheat grows on the special soil, but also a rare plant that is needed for mixing poison potions. Therefore brave heroes are always found near the Nethander Farmstead to pick them. The gnolls don't like this at all, which is why they basically attack everyone.
+
+Existing variants:
+
+Mudsnout Gnoll  Alliance | Horde   [Level 26-27]
+Special Attributes: Sling Mud
+Mudsnout Shaman  Alliance | Horde   [Level 27-28]
+Special Attributes: Lightning Bolt
+
+
+
+
+
+
+
+
+Daggerspin Nagas
+
+Little is known about these water creatures. They came out of the sea and guard the shore as if there was something important to protect in the sea. Accordingly, they act rigorously against intruders.
+
+Existing variants:
+
+Daggerspin Shorestalker  Alliance | Horde   [Level 28-29]
+Special Attributes: Shield Bash
+Daggerspin Screamer  Alliance | Horde   [Level 29-30]
+Special Qualities: none
+Daggerspin Shorehunter  Alliance | Horde   [Level 30-31]
+Special Qualities: none
+Daggerspin Siren  Alliance | Horde   [Level 31-32]
+Special Traits: Lightning Bolt, Shadow Word: Pain (DoT), Whirlwind
+
+
+
+
+
+
+
+
+Dun Garok Dwarves
+
+The country of the dwarves extends to the south, among other things Dun Garok is a first branch of this area. A huge fortress is protected by well-trained dwarves.
+
+Existing variants:
+
+Dun Garok Mountaineer  Alliance| Horde   [Level 29+, 30+]
+Special Attributes: Improved Blocking, Devotion Aura
+Dun Garok Rifleman  Alliance| Horde   [Level 29+, 30+]
+Special Attributes: Piercing Shot
+Dun Garok Priest  Alliance| Horde   [Level 29+, 30+]
+Special Traits: Turn Undead, Holy Bolt
+
+
+
+
+
+
+
+
+To grab
+
+Of course, the giant griffins used by humans as mounts also exist in the wild, untamed. While some of them go about their lives more like this, there are also griffins that are evil and attack their prey with their beak and claws.
+
+Existing variants:
+
+Wild Gryphon  Alliance | Horde   [Level 40]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Torn Fin Murlocs
+
+The shell-rich coves of the Hillsbrad Foothills have also attracted murlocs here, and they patrol up and down the coast. This strain is particularly aggressive and you should have a good excuse ready when you come across one of its kind.
+
+Existing variants:
+
+Torn Fin Muckdweller  Alliance | Horde   [Level 28-29]
+Special Traits: Infected Wound (Add. Damage-Curse)
+Torn Fin Coastrunner  Alliance | Horde   [Level 29-30]
+Special Ability: Throw
+Torn Fin Tidehunter  Alliance | Horde   [Level 30-31]
+Special Attributes: Unknown
+Torn Fin Oracle  Alliance | Horde   [Level 31-32]
+Special Attributes: Lightning Bolt
+
+
+
+
+
+
+
+
+mountain lions
+
+In an area like the Foothills, home to spiders, mighty bears, and yetis, the lions don't have it easy to hold their own. They are therefore sometimes quite malnourished and are only too happy to attack roaming adventurers and pursue them until they collapse from exhaustion. Their hunger drives them to unimaginable power and strength, making them very dangerous.
+
+Existing variants:
+
+Starving Mountain Lion  Alliance | Horde   [Level 23-24]
+Special Qualities: none
+Feral Mountain Lion  Alliance | Horde   [Level 27-28]
+Special Qualities: Fast Attack
+
+
+
+
+
+
+################################ END HILLSBRAD ################################
+
+
+
+
+
+################################ ARATHI ################################
+
+
+	
+
+Plains Creeper
+
+The furry Plains Creeper mainly stay near the mountains and crawl around there. They are more venomous than any species of spider in northern Azeroth, which likes to weave their victims into large sticky webs.
+
+Existing variants:
+
+Plains Creeper  Alliance | Horde   [Level 32, 33]
+Special Qualities: Nothing
+Giant Plains Creeper  Alliance | Horde   [Level 35, 36]
+Special Ability: Can immobilize the player with a web
+
+
+
+
+
+
+
+
+Syndicate Humans
+
+Syndicate Humans, as a syndicate, own a few towers and even a small fort in the Hillsbrad Foothills. To the north are other followers of this group of people who report to Commander Singer and want to gain control here. This is achieved not least with the help of the strong militia in Stormgarde, a gigantic fortress on a mountain in the south.
+
+Existing variants:
+
+Syndicate Mercenary  Alliance | Horde   [Level 31, 32]
+Special Qualities: Nothing
+Syndicate Highwayman  Alliance | Horde   [Level 33, 34]
+Special Qualities: Is cloaked most of the time
+
+
+
+
+
+
+
+
+Boulderfist Ogres
+
+These are really mean boys: the ogres roam around the area and in a cave they guard. They tower way above your head and can hit you really hard once they get angry.
+
+Existing variants:
+
+Boulderfist Ogre  Alliance | Horde   [Level 32, 33]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+Mesa Buzzards
+
+The mesa birds flying around individually are always on the lookout for small prey for their brood, but are not afraid to attack larger targets, i.e. humans or orcs. They only actually do this when they feel threatened, so don't tempt the wrath of these feathered winged creatures. Their claws and sharp beaks create nasty scars.
+
+Existing variants:
+
+Mesa Buzzard  Alliance | Horde   [Level 34, 35]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+Witherbark Trolls
+
+This bunch of trolls seems to have gone completely nuts as they don't even stop at their own race representatives. They ambush insidious heroes and even cooperate with the ogres. Some of them are also skilled in dark magic and can summon imps. They also have a small village in the south of the country, built of tents and totems where they indulge in their occultism.
+
+Existing variants:
+
+Witherbark Troll  Alliance | Horde   [Level 30, 31]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+Highland Raptors
+
+The large brood of Highland Raptors literally leaps at their opponent. They are good fighters and quick to kill when there is easy prey. You should beware of them, as their mostly nearby colleagues also like to interfere to get something. The orcs find the increased number of raptors in recent years a nuisance and even post bounty.
+
+Existing variants:
+
+Highland Strider  Alliance | Horde   [Level 30, 31]
+Special Qualities: Nothing
+Highland Thrasher  Alliance | Horde   [Level 33, 34]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+elementals
+
+Elementals are creatures from the unknown. They are evil, strong and not to be underestimated. Many adventurers have lost their lives, not even realizing what just attacked them. Luckily they only stay in certain places to protect important points like circles.
+
+Existing variants:
+
+Thundering Exile  Alliance | Horde   [Level 38, 39]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+Dabyrie Humans
+
+Located just north of Refuge Point, the Dabyries' farm is home to a veritable family herd. They cultivate their land there and resell the goods. In the Undercity, the heads of the Dabyries are hated, and those who match that hatred will be richly rewarded.
+
+Existing variants:
+
+Dabyrie Laborer  Alliance | Horde   [Level 30, 31]
+Special Qualities: Nothing
+Dabyrie Militia  Alliance | Horde   [Level 31, 32]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+Hammerfall Orcs
+
+On a farm called Go'Shek, many peons work the fertile land in Arathi. Protected by a few Grunts, the farm is a popular target for Alliance attacks to disrupt food supplies. Unfortunately, Lord Thrall is currently unable to deploy more soldiers to prevent this.
+
+Existing variants:
+
+Hammerfall Grunt  Alliance | Horde   [Level 34, 35]
+Special Traits: Infected Wound (increases damage taken)
+Hammerfall Peon  Alliance | Horde   [Level 33, 34]
+Special Qualities: Nothing
+
+
+
+
+################################ END ARATHI ################################
+
+
+
+
+
+################################ WETLANDS ################################
+
+orcs
+
+The orcs are in the mountains planning their next attacks on the Alliance city of Menethil Harbor. Rumor has it that they have already built several catapults.
+
+Existing variants:
+
+Dragonmaw Grunt  Alliance| Horde   [Level 20, 21]
+Special Qualities: Nothing
+Dragonmaw Raider  Alliance| Horde   [Level 26, 27]
+Special Qualities: Nothing
+Dragonmaw Swamprunner  Alliance| Horde   [Level 27, 28]
+Special Qualities: Nothing
+Dragonmaw Bonewarder  Alliance| Horde   [Level 27, 28]
+Special Ability: Can summon a skeleton to fight at his side.
+
+
+
+
+
+
+
+
+gnolls
+
+The sneaky gnolls rarely venture outside of their camps. They pounce on the player with clubs, crossbows and even hammer-like weapons. Some gnolls have taken the path of magic and attack with powerful spells.
+
+Existing variants:
+
+Mosshide Brute  Alliance| Horde   [Level 24, 25]
+Special Qualities: Nothing
+Mosshide Fenrunner  Alliance| Horde   [Level 22, 23]
+Special Qualities: Nothing
+Mosshide Gnoll  Alliance| Horde   [Level 20, 21]
+Special Attributes:
+Mosshide Trapper  Alliance| Horde   [Level 23, 24]
+Special Attributes:
+
+
+
+
+
+
+
+
+crocodiles
+
+The crocodiles lurk in the semi-deep water, waiting for their next meal. Once a suitable victim is nearby, the hunter will spring out from its lair and attack with its massive fangs.
+
+Existing variants:
+
+Young Wetlands Crocilisk  Alliance | Horde   [Level 21-22]
+Special Attributes:
+Wetlands Crocilisk  Alliance | Horde   [Level 24]
+Special Attributes:
+Giant Wetlands Crocilisk  Alliance| Horde   [Level 25, 26]
+Special abilities: slow down the player's movement speed by 51%
+
+
+
+
+
+
+
+
+raptors
+
+These vicious raptors attack their foes with such force that some heroes have been knocked down. They are good fighters and quick to kill when there is easy prey. You should beware of them, as their mostly nearby colleagues also like to interfere to get something.
+
+Existing variants:
+
+Mottled Raptor  Alliance| Horde   [Level 22, 23]
+Special Qualities: Nothing
+Mottled Screecher  Alliance| Horde   [Level 24, 25]
+Special Qualities: Nothing
+Mottled Screecher  Alliance| Horde   [Level 24, 25]
+Special Qualities: Nothing
+Mottled Razormaw  Alliance| Horde   [Level 26, 27]
+Special Traits: Infected Wound (player takes more damage)
+Mottled Riptooth  Alliance| Horde   [Level 28]
+Special Qualities: Nothing
+Mottled Scytheclaw  Alliance| Horde   [Level 25, 26]
+Special Attributes: Rend Flesh (DoT)
+Highland Scytheclaw  Alliance| Horde   [Level 25, 26]
+Special Qualities: Nothing
+Highland Razormaw  Alliance| Horde   [Level 27, 28]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+murlocs
+
+The murlocs stay primarily in the swampy areas of wetlands. They prefer to attack adventurers who venture too close to their straw huts in groups.
+
+Existing variants:
+
+Bluegill Murloc  Alliance| Horde   [Level 20, 21]
+Special Qualities: Nothing
+Bluegill Puddlejumper  Alliance| Horde   [Level 21, 22]
+Special Attributes:
+Bluegill Oracle  Alliance| Horde   [Level 25, 26]
+Special Qualities: Master an area heal spell
+Bluegill Warrior  Alliance| Horde   [Level 25, 26]
+Special Attributes:
+
+
+
+
+
+
+
+
+Bogbeast
+
+These strange creatures hide in the swamps and attack unwary players who venture too close to their habitat.
+
+Existing variants:
+
+Fen Dweller  Alliance| Horde   [Level 20, 21]
+Special Qualities: Nothing
+Fan Dweller  Alliance| Horde   [Level 24, 25]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+undead sailors
+
+They were once ordinary seafarers, but then their ships got into trouble and capsized. Since then they have found no peace and have defended their wet grave.
+
+Existing variants:
+
+Cursed Naval  Alliance| Horde   [Level 27, 28]
+Special abilities: can temporarily turn the player into an undead
+Fetid Corpse  Alliance| Horde   [Level 29, 30]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+Dark Iron Dwarves
+
+This group of dwarves has broken away from the Alliance and is now waging a bitter war against them. In the meantime they have already taken Dun Modr and are defending this city with all means.
+
+Existing variants:
+
+Dark Iron Bombardier  Alliance| Horde   [Level 30, 31]
+Special Ability: Throw dynamite
+Dark Iron Demolitionist  Alliance| Horde   [Level 30+, 31+]
+Special abilities: attack with sticks of dynamite
+Dark Iron Dwarf  Alliance| Horde   [Level 27+, 28+]
+Special Qualities: Nothing
+Dark Iron Rifleman  Alliance| Horde   [Level 28+]
+Special Qualities: Nothing
+Dark Iron Saboteur  Alliance| Horde   [Level 28+, 29+]
+Special abilities: throw sticks of dynamite and blow themselves up just before they die
+Dark Iron Tunneler  Alliance| Horde   [Level 29+, 30+]
+Special Qualities: Nothing
+
+################################ END WETLANDS ################################
+
+
+
+
+################################ LOCH MODAN ################################
+
+
+black bears
+
+These ferocious beasts are lumbering beasts, but they are extremely aggressive and effective against their enemies. One alone is enough to terrify small and weak groups.
+
+Existing variants:
+
+Black Bear Patriarch  Alliance| Horde   [Level 16-17]
+Special Qualities: none
+Elder Black Bear  Alliance| Horde   [Level 11-12]
+Special Qualities: none
+Grizzled Black Bear  Alliance| Horde   [Level 13-14]
+Special Qualities: none
+
+
+
+
+
+
+
+
+wild boars
+
+These beasts like to hang out near and on farms in Westfall. They have no natural aggression towards the player, but can become very angry if attacked. With their tremendous power, they can literally knock the player out of their feet.
+
+Existing variants:
+
+Mountain Boar  Alliance| Horde   [Level 10-11]
+Special Attributes: Rushing Charge
+Mangy Mountain Boar  Alliance| Horde   [Level 14-15]
+Special Attributes: Rushing Charge
+Elder Mountain Boar  Alliance| Horde   [Level 16-17]
+Special Attributes: Rushing Charge
+
+
+
+
+
+
+
+
+mountain eagle
+
+The mesa birds flying around individually are always on the lookout for small prey for their brood, but are not afraid to attack larger targets, i.e. humans or orcs. They only actually do this when they feel threatened, so don't tempt the wrath of these feathered winged creatures. Their claws and sharp beaks create nasty scars.
+
+Existing variants:
+
+Mountain Buzzard  Alliance| Horde   [Level 15-16]
+Special Traits: Tetanus (Stamina Disease)
+
+
+
+
+
+
+
+
+Dark Iron Dwarves
+
+Renegade dwarves have joined forces to form the so-called Dark Iron and are up to mischief in Loch Modan. They hinder and sabotage important transports. The Mountaineers are struggling to get these bandits under control.
+
+Existing variants:
+
+Dark Iron Insurgent  Alliance| Horde   [Level 19-20]
+Special Attributes: Unknown
+Dark Iron Raider  Alliance| Horde   [Level 13-14]
+Special Qualities: none
+Dark Iron Ambusher  Alliance| Horde   [Level 10]
+Special Qualities: none
+
+
+
+
+
+
+
+
+goblins
+
+These slovenly creatures have a penchant for digging and are known for their underground digs. They prefer a candle on their head, not the modern lamps, to bring light into the dark corridors of the tunnels. Recently, the goblins have found themselves in the role of prey for the merciless gnoll riverpaw pack. The wily gnolls have forced the kobolds into an existence of tireless toil and have proven themselves to be merciless disciplinarians. Ever since their enslavement, the normally gentle kobolds have become bitter and aggressive towards anyone who interferes with their incessant work.
+
+Existing variants:
+
+Tunnel Rat Forager  Alliance| Horde   [Level 11-12]
+Special Traits: Battle of Poison (DoT)
+Tunnel Rat Scout  Alliance| Horde   [Level 10-11]
+Special Qualities: physical ranged combat
+Tunnel Rat Kobold  Alliance| Horde   [Level 11-12]
+Special Traits: Harmstring (Slower Movement)
+Tunnel Rat Vermin  Alliance| Horde   [Level 10-11]
+Special Qualities: none
+Tunnel Rat Digger  Alliance| Horde   [Level 11-12]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Mo'grosh ogre
+
+These are really mean boys: the ogres roam around the area and in a cave they guard. They tower way above your head and can hit you really hard once they get angry.
+
+Existing variants:
+
+Mo'grosh Ogre  Alliance| Horde   [Level 18+-19+]
+Special Qualities: none
+Mo'grosh Mystic  Alliance| Horde   [Level 19+-20+]
+Special Attributes: Healing Wave, Lightning Bolt
+Mo'grosh Enforcer  Alliance| Horde   [Level 18+-19+]
+Special Qualities: Demoralizing Shout
+Mo'grosh Shaman  Alliance| Horde   [Level 18+-19+]
+Special Qualities: Healing Wave
+Mo'grosh Brute  Alliance| Horde   [Level 19+-20+]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Stonesplitter Troggs
+
+The troggs are unwelcome visitors to the dwarven country of Loch Modan. Much like the kobolds, they have lightly fortified outposts, mostly wooden stockades, in which to dwell and plan.
+
+Existing variants:
+
+Stonesplitter Trogg  Alliance| Horde   [Level 11-12]
+Special Qualities: none
+Stonesplitter Scout  Alliance| Horde   [Level 11-12]
+Special Qualities: physical ranged combat
+Stonesplitter Digger  Alliance| Horde   [Level 18-19]
+Special Qualities: none
+Stonesplitter Geomancer  Alliance| Horde   [Level 17-18]
+Special Attributes: Rain of Fire (AoE), Shield of Fire (Thorns)
+Berserk Trogg  Alliance| Horde   [Level 19-20]
+Special Qualities: none
+Stonesplitter Seer  Alliance| Horde   [Level 13-14]
+Special Attributes: Lightning Bolt
+Stonesplitter Skullthomper  Alliance| Horde   [Level 13-14]
+Special Ability: Gouge (Stun)
+Stonesplitter Shaman  Alliance| Horde   [Level 15-16]
+Special Attributes: Healing Wave
+Stonesplitter Bonesnapper  Alliance| Horde   [Level 15-16]
+Special Traits: Harmstring (Slower Movement)
+
+
+
+
+
+
+
+
+be crazy
+
+Hairy, fearsome giant spiders that organize in forests and lakes. Their venom is deadly in most cases and their hunger boundless.
+
+Existing variants:
+
+Wood Lurker  Alliance| Horde   [Level 17-18]
+Special Traits: Poison (DoT)
+Cliff Lurker  Alliance| Horde   [Level 13-14]
+Special Traits: Poison (DoT)
+Forest Lurker  Alliance| Horde   [Level 10-11]
+Special Traits: Poison (DoT)
+
+
+
+
+
+
+
+
+crocodiles
+
+The crocodiles are at home on the banks and on the small islands in the loch. They have not grown very large and are therefore quite quick to hunt. They prefer to hit and eat fish, which are found in abundance in the big lake, but are not averse to a larger meal, the player.
+
+Existing variants:
+
+Loch Crocilisk  Alliance| Horde   [Level 14-15]
+Special Qualities: none
+
+
+
+
+
+
+
+
+piranhas
+
+Tough beasts with tiny teeth that conjure up the finest puree from every piece of meat. They swim pretty low at the bottom of the hole, ready to break free anytime something happens on the water surface.
+
+Existing variants:
+
+Loch Frenzy  Alliance| Horde   [Level 12-13]
+Special Traits: Frenzy (fast attack)
+
+
+
+
+
+
+################################ END LOCH MODAN ################################
+
+
+
+
+
+################################ DUN MOROGH ################################
+
+	
+
+wolf
+
+Wolves are plentiful worldwide where willing victims are present. Whether these are deer or humans depends on which are easier to kill. In most cases, wolves are scavengers, but they can also hunt themselves if the situation calls for it. Even if you only see a single wolf, it's better to be wary of them.
+
+Existing variants:
+
+Ragged young wolf  alliance| Horde   [Level 1]
+Special Qualities: Nothing
+Ragged timber wolf  alliance| Horde   [Level 2]
+Special Qualities: Nothing
+Snowtracker Wolf  Alliance| Horde   [Level 7]
+Special Qualities: Nothing
+Winter Wolf  Alliance| Horde   [Level 7-8]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+Boars
+
+Not only in the Asterix-Comix there are the wild boars, but also in Dun Morogh. But these aren't very "lovely" when you tease them. Then they rush towards the player and inflict serious injuries on him.
+However, some leave behind some tasty pieces of meat when they die, which the player can later cook into delicious roast boar.
+
+Existing variants:
+
+Crag Boar  Alliance| Horde   [Level 5-6]
+Special Attributes: Nothing
+Small Crag Boar  Alliance| Horde   [Level 3]
+Special Qualities: Nothing
+Large Crag Boar  Alliance| Horde   [Level 6-7]
+Special Attributes: Nothing
+Elder Crag Boar  Alliance| Horde   [Level 7-8]
+Special Attributes: Nothing
+Scarred Crag Boar  Alliance| Horde   [Level 9-10]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+bear
+
+These ferocious beasts are lumbering beasts, but they are extremely aggressive and effective against their enemies. One alone is enough to terrify small and weak groups.
+
+Existing variants:
+
+Young black bear  Alliance| Horde   [Level 5-6]
+Special Attributes: Nothing
+Ice claw bear  alliance| Horde   [Level 7-8]
+Special Attributes: Ice Claw (slows down player's attack for 5 seconds)
+
+
+
+
+
+
+
+
+troggs
+
+The troggs are becoming more and more of a problem for the dwarves and gnomes. After attacking Gnomeregan, the troggs are now attacking dwarven lands as well. Even if they only have primitive weapons, they can become dangerous for the player.
+
+Existing variants:
+
+Rockjaww Trogg  Alliance| Horde   [Level 2]
+Special Qualities: Nothing
+Burly Rockjaw trogg  Alliance| Horde   [Level 4]
+Special Qualities: Nothing
+Rockjaw Raider  Alliance| Horde   [Level 3]
+Special Qualities: Nothing
+Rockjaw Skullthumper  Alliance| Horde   [Level 8-9]
+Special Traits: Head Crack (decreases stamina for 20 seconds)
+Rockjaw Ambusher  Alliance| Horde   [Level 10]
+Special Qualities: Nothing
+Rockjaw Backbreaker  Alliance| Horde   [Level 12]
+Special Qualities: Nothing
+Rockjaw Bonesnapper  Alliance| Horde   [Level 10-11]
+Special Qualities: Nothing
+Irradiated Pillager  Alliance| Horde   [Level 25+, 26+]
+Special Qualities: Can throw poison
+Caverndeep Reaver  Alliance| Horde   [Level 27+, 28+]
+Special Traits:
+Caverndeep Burrower  Alliance| Horde   [Level 25+, 26+,]
+Special Traits:
+
+
+
+
+
+
+
+
+Frostmane Trolls
+
+The Frostmane trolls once ruled the cool lands of Dun Morogh, but they lost their empire to the dwarven army. The brave tribe had to retreat to the hills - a disgrace to their warlike nature. Now, with King Magni's armies sapping themselves in the fighting of the Alliance and defeating the Trogg invasion, the Frostmane trolls have no other intention than to rebuild in Dun Morogh the empire that gave way to the rule of the dwarves years ago
+
+Existing variants:
+
+Frostmane Troll Whelp  Alliance| Horde   [Level 3-4]
+Special Attributes: Nothing
+Frostmane Troll Novice  Alliance| Horde   [Level 3-4]
+Special Abilities: Both melee and magic
+Frostmane Troll  Alliance| Horde   [Level 7-8]
+Special Attributes: Nothing
+Frostmane Shadowcaster  Alliance| Horde   [Level 10]
+Special features: strong magic attack
+Frostmane Snowstrider  Alliance| Horde   [Level 9]
+Special Qualities: Nothing
+Frostmane Headhunter  Alliance| Horde   [Level 9]
+Special Qualities: Strong ranged attack
+Frostmane Seer  Alliance| Horde   [Level 8-9]
+Special Attributes: Powerful ranged magic attack
+
+
+
+
+
+
+
+
+snow leopard
+
+The snow leopards don't look very dangerous, as soon as a leopard has spotted the player, it will lunge at the player at high speed and ram its claws into the player's body. That means keeping a cool head.
+
+Existing variants:
+
+Snow Leopard  Alliance| Horde   [Level 7-8]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+Dark Iron Dwarves
+
+The Dark Iron Dwarves live in seclusion in the Ironband's Compound area along with some Rockjaw Troggs. Often one Dark Iron Spy distracts the player while another approaches the player from behind and mangles them. In such cases, it is advisable to take your legs and get out. Some very strong fighters have also been spotted in Gnomeregan.
+
+Existing variants:
+
+Dark Iron Spy  Alliance| Horde   [Level 10]
+Special Qualities: Nothing
+Dark Iron Agent  Alliance| Horde   [Level 32+, 33+]
+Special Qualities: Can reflect spells back at the caster, sets landmine
+
+
+
+
+
+
+
+
+Leper Gnome
+
+When the troggs attacked Gnomeregan, the gnomes used a large amount of chemical weapons in an attempt to destroy the troggs. Although the troggs were defeated, many gnomes were killed by using the Chemical Mace. Because of this, the gnomes left Gnomeregan and found shelter with the dwarves. The few gnomes that remained were driven insane by the gasses and reacted very aggressively to any intruders.
+
+Existing variants:
+
+Leper Gnome  Alliance| Horde   [Level 8-9]
+Special Attributes: Attack that lowers stamina for 5 minutes.
+Added Leper  Alliance| Horde   [Level 25]
+Special Attributes: Healing. Speed ​​Reducing Strike(40%)
+Leprous Assistant  Alliance| Horde   [Level 28, 29]
+Special Attributes:
+Leprous Technician  Alliance| Horde   [Level 29, 30]
+Special Attributes:
+Leprous Machinesmith  Alliance| Horde   [Level 29, 30]
+Special Attributes: Heals mechanical allies over time
+
+
+
+
+
+
+
+
+infested
+
+The mass poisoning of Gnomeregan spawned radioactive mutants deep within, attacking anything that comes near.
+
+Existing variants:
+
+Irradiated Horror  Alliance| Horde   [Level 28+, 29]
+Special Attributes:
+Corrosive Lurker  Alliance| Horde   [Level 28+, 29+]
+Special Attributes:
+
+
+
+
+
+
+
+
+Machines of Gnomeregan
+
+The machines of Gnomeregan were built to protect Gnomeregan from enemies like the troggs, but they take that job a little too seriously and will attack anyone they deem a threat. whether gnome, dwarf or night elf.
+
+Existing variants:
+
+Mobile Alert System  Alliance| Horde   [Level 25]
+Special Qualities: Sounds an alarm as soon as it notices enemies and calls for reinforcements
+Mechanized Sentry  Alliance| Horde   [Level 28+, 29+]
+Special Attributes:
+Peacekeeper Security Suit  Alliance| Horde   [Level 30+, 31+]
+Special Qualities: Can incapacitate the player for a short time
+Mechano-Tank  Alliance| Horde   [Level 29+, 30+]
+Special Traits:
+Arcane Nullifier X-21  Alliance| Horde   [Level 32+, 33+]
+Special Attributes:
+Mechano Frostwalker  Alliance| Horde   [Level 31+, 32+]
+Special Attributes: Frost Nova
+
+
+################################ END DUN MOROGH ################################
+
+
+
+################################ REDRIDGE ################################
+
+
+gnoll
+
+The cunning gnolls of the Redrige Mountains were a notorious nuisance to both the human and dwarven kingdoms. More recently, however, the Riverpaw Gnolls have been seen to pose a rather serious threat with their raids on human farms and villages across Elwynn. Many speculate that the notoriously goofy gnolls have bonded with another power, endowing them with weapons (crossbows, maces, flails) and sometimes armor (usually gauntlets). They also have tactical combat skills and possess some magic. While it's not clear what the gnolls are after, the Stormwind Marshals now recognize that these creatures pose a clear threat to the kingdom and must be stopped.
+
+Existing variants:
+
+Redridge Brute  Alliance| Horde   [Level 18-19]
+Special Attributes:
+Redridge Mystic  Alliance| Horde   [Level 18-19]
+Special abilities: can heal and
+Redridge Basher  Alliance| Horde   [Level 19-20]
+Special Attributes:
+Redridge Alpha  Alliance| Horde   [Level 21-22]
+Special Attributes:
+
+
+
+
+
+
+
+
+murloc
+
+Many murlocs make their home in the swampy regions of the world. Some also roam hot areas and coastal regions. They hunt with primitive spears and swords, but some also use magic. Most have brightly decorated skin, but some murlocs have adapted to their swamp environment and now have blue-black skin. Therefore they are harder to spot.
+
+Existing variants:
+
+Murloc Scout  Alliance| Horde   [Level 18-20]
+Special Attributes:
+
+
+
+
+
+
+################################ END REDRIDGE ################################
+
+
+
+
+
+################################ ELWYNN ################################
+
+	
+
+tarantula
+
+Once upon a time, Elwynn was inhabited by a group of spiders that lived peacefully in the woods. However, when Duskwood was cursed that turned the once peaceful woodland into a realm of terror, the spiders began to mutate and grow to monstrous proportions. Now the lurking tarantulas with their acidic venom and strong spider webs await their prey in the dark corners of the land. These ferocious creatures will stalk anyone foolhardy enough to venture deep into the haunted woods.
+
+Existing variants:
+
+Forest Spider  Alliance| Horde   [Level 6-7]
+Special Traits: Venom (DoT)
+
+
+
+
+
+
+
+
+wolf
+
+Wolves are plentiful worldwide where willing victims are present. Whether these are deer or humans depends on which are easier to kill. In most cases, wolves are scavengers, but they can also hunt themselves if the situation calls for it. Even if you only see a single wolf, it's better to be wary of them.
+
+Existing variants:
+
+Timber Wolf  Alliance| Horde   [Level 2]
+Special Qualities: Nothing
+Young Wolf  Alliance| Horde   [Level 1]
+Special Qualities: Nothing
+Mangy Wolf  Alliance| Horde   [Level 5-6]
+Special Attributes: Nothing
+Powler  Alliance| Horde   [Level 9-10]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+Defias Thieves
+
+Legend tells of the founding of the Defias Brotherhood by a group of nobles who once stood for freedom and justice. Long ago they turned away from these noble virtues; the mysterious Defias faction now consists of thieves, bandits and vicious mercenaries. This evil gang aims to wreak havoc on, and ultimately destroy, the nobles of Stormwind. The Defias Brotherhood, believing that the nobles are corrupt and evil, have launched an underground struggle to rid the land of their hated enemies.
+
+Existing variants:
+
+Defias Thug  Alliance| Horde   [Level 3-4]
+Special Attributes: Nothing
+Defias Cutpurse  Alliance| Horde   [Level 5-6]
+Special Attributes: Nothing
+Defias Bandit  Alliance| Horde   [Level 8-9]
+Special Attributes: Nothing
+Defias Rogue Wizard  Alliance| Horde   [Level 10-11]
+Special Traits: Frostshild and Frostbolt
+Defias Dockworker  Alliance| Horde   [Level 10-11]
+Special Qualities: Nothing
+Defias Captive  Alliance | Horde   [Level 23+, 24+]
+Special Traits: Infected Wound (Player takes more damage)
+Defias Prisoner  Alliance | Horde   [Level 23+, 24+]
+Special Qualities: Nothing
+Defias Insurgent  Alliance | Horde   [Level 25+, 26+]
+Special Attributes: Demoralizing Shout (decreases Attack Strength by 51 points)
+Defias Inmate  Alliance | Horde   [Level 24+, 25+]
+Special Attributes: Rend (Player takes 9 points of damage every 3 seconds)
+
+
+
+
+
+
+
+
+leprechaun
+
+The filthy, vermin-like kobolds dwell deep in the cliffs and rocky caves of the Redridge Mountains. These slovenly creatures have a penchant for digging and are known for their underground digs. They prefer a candle on their head, not the modern lamps, to bring light into the dark corridors of the tunnels. Recently, the goblins have found themselves in the role of prey for the merciless gnoll riverpaw pack. The wily gnolls have forced the kobolds into an existence of tireless toil and have proven themselves to be merciless disciplinarians. Ever since their enslavement, the normally gentle kobolds have grown bitter and aggressive towards anyone who interferes with their incessant work
+
+Existing variants:
+
+Leprechaun Vermin  Alliance| Horde   [Level 1-2]
+Special Qualities: Nothing
+Kobold Worker  Alliance| Horde   [Level 3]
+Special Qualities: Nothing
+Kobold Laborer  Alliance| Horde   [Level 3-4]
+Special Attributes: Nothing
+Kobold Tunneler  Alliance| Horde   [Level 6-7]
+Special Attributes: Nothing
+Kobold Miner  Alliance| Horde   [Level 7-8]
+Special Attributes: Nothing
+Kobold Geomancer  Alliance| Horde   [Level 7-8]
+Special Attributes: Fireball
+
+
+
+
+
+
+
+
+bear
+
+These ferocious beasts are lumbering beasts, but they are extremely aggressive and effective against their enemies. One alone is enough to terrify small and weak groups.
+
+Existing variants:
+
+Young Forest Bear  Alliance| Horde   [Level 8-9]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+murloc
+
+Many murlocs make their home in the swampy regions of the world. Some also roam hot areas and coastal regions. They hunt with primitive spears and swords, but some also use magic. Most have brightly decorated skin, but some murlocs have adapted to their swamp environment and now have blue-black skin. Therefore they are harder to spot.
+
+Existing variants:
+
+Murloc  Alliance| Horde   [Level 5-6]
+Special Attributes: Nothing
+Murloc Streamrunner  Alliance | Horde   [Level 6-7]
+Special Attributes: Nothing
+Murloc Lurker  Alliance | Horde   [Level 8-10]
+Special Attributes: Nothing
+Murloc Forage  Alliance | Horde   [Level 8-10]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+gnoll
+
+The cunning gnolls of the Redrige Mountains were a notorious nuisance to both the human and dwarven kingdoms. More recently, however, the Riverpaw Gnolls have been seen to pose a rather serious threat with their raids on human farms and villages across Elwynn. Many speculate that the notoriously goofy gnolls have bonded with another power, endowing them with weapons (crossbows, maces, flails) and sometimes armor (usually gauntlets). They also have tactical combat skills and possess some magic. While it's not clear what the gnolls are after, the Stormwind Marshals now recognize that these creatures pose a clear threat to the kingdom and must be stopped.
+
+Existing variants:
+
+Riverpaw Runt  Alliance| Horde   [Level 8-9]
+Special Attributes: Nothing
+Riverpaw Outrunner  Alliance | Horde   [Level 8-10]
+Special Attributes: Nothing
+
+
+
+
+
+
+
+
+pigs
+
+These beasts like to hang out near and on farms in Westfall. They have no natural aggression towards the player, but can become very angry if attacked. With their tremendous power, they can literally knock the player out of their feet.
+
+Existing variants:
+
+Stonetusk Boar  Alliance | Horde   [Level 5-6]
+Special Attributes: Nothing
+Rockhide Boar  Alliance | Horde   [Level 7-8]
+Special Attributes: Nothing
+Longsnout  Alliance| Horde   [Level 10-11]
+Special Qualities: Nothing
+
+
+
+################################ END ELWYNN ################################
+
+
+################################ DUSKWOOD ################################
+
+	
+
+skeleton
+
+For some time now, the region around Duskwood has been enveloped in a strange darkness, with skeletons and other undead creatures emerging from its deep shadows. Although they look fragile, the skeletons have supernatural powers and are immune to most physical attacks. It's not certain who the skeletons work for, or if they even have a deeper purpose, but what is alarmingly certain is that the skeletons want to destroy everything in their path.
+
+Existing variants:
+
+Sahmbling Skeleton  Alliance| Horde   [Level 20-21]
+Special Attributes:
+Skeletal Mage  Alliance| Horde   [Level 22-23]
+Special Qualities: Frostbolt
+Skeletal Warrior  Alliance| Horde   [Level 21-22]
+Special Attributes: Can slow down the player's movement speed by 40%
+Skeletal Horror  Alliance| Horde   [Level 23-24]
+Special abilities: can cause the character to run away
+Skeletal Fiend  Alliance| Horde   [Level 24-25]
+Special Attributes:
+
+
+
+
+
+
+
+
+be crazy
+
+Once upon a time, Elwynn was inhabited by a group of spiders that lived peacefully in the woods. However, when Duskwood was cursed that turned the once peaceful woodland into a realm of terror, the spiders began to mutate and grow to monstrous proportions. Now the lurking poisonous spiders with their acidic poison and strong cobwebs are waiting for their prey in the dark corners of the land. These ferocious creatures will stalk anyone foolhardy enough to venture far into the haunted woods.
+
+Existing variants:
+
+Black Widow Hatchling  Alliance| Horde   [Level 24-25]
+Special Qualities: Poison
+Pygmy Venom Web Spider  Alliance| Horde   [Level 18, 19]
+Special Properties: Poison
+
+
+
+################################ END DUSKWOOD ################################
+
+
+
+################################ WESTFALL ################################
+
+
+Harvest Golem
+
+The terrifying Harvest Golems are mechanical constructs programmed to hunt the people of Westfall. Though no one can pinpoint their origins, some believe these mechanical monstrosities could only have been constructed by the evil goblins. Others speculate that the Defias Thieves built the Harvest Golems to deter local Westfall residents from smuggling in peace and impunity. Whatever the case, the Harvest Golems do their job well, instilling fear and terror in anyone foolish enough to roam the fallow fields of Westfall alone.
+
+Existing variants:
+
+Harvest Watcher  Alliance| Horde   [Level 13-15]
+Special Attributes: Strength Debuff
+Rusty Harvest Golem  Alliance | Horde   [Level 10-12]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+Defias Thieves
+
+Legend tells of the founding of the Defias Brotherhood by a group of nobles who once stood for freedom and justice. Long ago they turned away from these noble virtues; the mysterious Defias faction now consists of thieves, bandits and vicious mercenaries. This evil gang aims to wreak havoc on, and ultimately destroy, the nobles of Stormwind. The Defias Brotherhood, believing that the nobles are corrupt and evil, have launched an underground struggle to rid the land of their hated enemies.
+
+Existing variants:
+
+Defias Footpad  Alliance | Horde   [Level 10-11]
+Special Qualities: Nothing
+Defias Trapper  Alliance| Horde   [Level 12-13]
+Special Attributes: ensnare
+Defias Looter  Alliance| Horde   [Level 13-14]
+Special Qualities: disarm
+Defias Pillager  Alliance| Horde   [Level 14-15]
+Special Attributes: Fireball, Frostshield
+Defias Highwaymen  Alliance| Horde   [Level 17-18]
+Special Attributes:
+
+
+
+
+
+
+
+
+wild boars
+
+These beasts like to hang out near and on farms in Westfall. They have no natural aggression towards the player, but can become very angry if attacked. With their tremendous power, they can literally knock the player out of their feet.
+
+Existing variants:
+
+Young Goretusk's  Alliance| Horde   [Level 13-14]
+Special abilities: Can knock over the character
+Greater Goretusk  Alliance | Horde   [Level 15-16]
+Special abilities: Can knock over the character
+Goretusk  Alliance| Horde   [Level 13-15]
+Special Attributes:
+
+
+
+
+
+
+
+
+Fleshrippers
+
+Small and large outgrowths of this species of bird can be found throughout Westfall. They hover above the ground in search of prey and don't shy away from the danger of attacking a player. With their sharp claws they can cause nasty scratches and cuts.
+
+Existing variants:
+
+Young Fleshripper  Alliance | Horde   [Level 11]
+Special Qualities: Nothing
+Fleshripper  Alliance | Horde   [Level 14-15]
+Special Qualities: Nothing
+Greater Fleshripper  Alliance | Horde   [Level 16-17]
+Special Qualities: Nothing
+
+
+
+
+
+
+
+
+murlocs
+
+Many murlocs make their home in the swampy regions of the world. Some also roam hot areas and coastal regions. They hunt with primitive spears and swords, but some also use magic. Most have brightly decorated skin, but some murlocs have adapted to their swamp environment and now have blue-black skin. Therefore they are harder to spot.
+
+Existing variants:
+
+Murloc Raider  Alliance | Horde   [Level 11-12]
+Special Qualities: Nothing
+Murloc Coastrunner  Alliance| Horde   [Level 12-13]
+Special Attributes: Nothing
+Murloc Minor Oracle  Alliance| Horde   [Level 13-14]
+Special Attributes: Holy Smite, Lesser heal
+Murloc Hunter  Alliance| Horde   [Level 16-17]
+Special Qualities: Nothing
+Murloc Oracle  Alliance| Horde   [Level 17-18]
+Special Attributes: Holy Smite, Lesser Heal
+Murloc Tidehunter  Alliance| Horde   [Level 18-19]
+Special Attributes: Frost Nova
+Murloc Warrior  Alliance| Horde   [Level 15-16]
+Special Attributes:
+
+
+
+
+
+
+
+
+Dust Devils
+
+Dust Devils are stone monsters, but they can still move quickly. With their tremendous power and whirlwind, they can also dish out well. A formidable opponent!
+
+Existing variants:
+
+Dust Devil  Alliance | Horde   [Level 18-19]
+Special Attributes: Whirlwind
+
+
+
+
+
+
+
+
+coyote
+
+Coyotes are abundant worldwide where willing victims are present. Whether these are deer or humans depends on which are easier to kill. In most cases, coyotes are scavengers, but they can also hunt themselves if the situation calls for it. Even if you only see a single coyote, it's better to be wary of them.
+
+Existing variants:
+
+Coyote  Alliance| Horde   [Level 10]
+Special Attributes:
+Coyote Packleader  Alliance| Horde   [Level 12]
+Special Attributes:
+
+
+
+
+
+
+
+
+crawler
+
+
+Existing variants:
+
+Sand Crawler  Alliance| Horde   [Level 13-14]
+Special Attributes:
+Crawler  Alliance| Horde   [Level 12]
+Special Attributes:
+
+
+################################ END WESTFALL ################################
+
+
+################################ STRANGLETHORN ################################
+
+
+Lashtail Raptors
+
+The raptors feel very comfortable in the tropical climate. They mainly hang around near the orc village to pick up the waste from festivals and events, which are simply dumped behind the wall from time to time.
+
+Existing variants:
+
+Lashtail Raptor  Alliance| Horde   [Level 35-36]
+Special Attributes: Stun
+Stranglethorn Raptor  Alliance| Horde   [Level 33, 34]
+Special Attributes: Stun
+Young Lashtail Raptor  Alliance| Horde   [Level 32, 33]
+Special Attributes: Stun
+Young Stranglethorn Raptor  Alliance| Horde   [Level 30, 31]
+Special Attributes: Stun
+
+
+
+
+
+
+
+
+Zanzil's followers
+
+An ancient enemy are the Nagas. Slithering and hideous creatures from the sea, which can also live on land, have taken over the Booty Bay area in Stranglethorn. They have allied themselves with some trolls and ghouls and are now fighting together against the Alliance and the Horde.
+
+Existing variants:
+
+Zanzil Naga  Alliance | Horde   [Level 44]
+Special Attributes: Unknown
+Zanzil Witch Doctor  Alliance| Horde   [Level 43, 44]
+Special Attributes: Ranged Attack, Curses
+Zanzil Hunter  Alliance| Horde   [Level 43, 44]
+Special Attributes: Ranged Attack, Poison Attack
+Zanzil Zombie  Alliance| Horde   [Level 43, 44]
+Special Attributes: Poison attack
+
+
+
+
+
+
+
+
+Bloodscalp Trolls
+
+This great tribe of trolls lives in the northern ruins and studies the ancient inscriptions there. However, these remnants of a bygone culture also attract other adventurers, but the trolls try to kill any of these invaders.
+
+Existing variants:
+
+Bloodscalp Ax Thrower  Alliance| Horde   [Level 33, 34]
+Special Qualities: Ranged
+Bloodscalp Beastmaster  Alliance| Horde   [Level 34, 35]
+Special Qualities: a tiger fights by their side
+Bloodscalp Berserker  Alliance| Horde   [Level 36, 37]
+Special Qualities: Masters whirlwind attack with the weapon
+Bloodscalp Headhunter  Alliance| Horde   [Level 36, 37]
+Special Qualities: Ranged
+Bloodscalp Hunter  Alliance| Horde   [Level 34, 35]
+Special Attributes: Ranged Attack, Web
+Bloodscalp Mystic  Alliance| Horde   [Level 34, 35]
+Special Qualities: Mage
+Bloodscalp Scavenger  Alliance| Horde   [Level 33, 34]
+Special Attributes: Entangle, Poison Attack
+Bloodscalp Scout  Alliance| Horde   [Level 34, 35]
+Special Qualities: Unknown
+Bloodscalp Shaman  Alliance| Horde   [Level 33, 34]
+Special Attributes: Lightning Shield
+Bloodscalp Warrior  Alliance| Horde   [Level 33, 34]
+Special Attributes: Shield Bash
+Bloodscalp Witch Doctor  Alliance| Horde   [Level 37]
+Special Attributes: Healing Ward, Earthbind Totem
+
+
+
+
+
+
+
+
+crocodiles
+
+Crocodiles live on land and on water. This particularly affects beach areas, which also explains the lack of beach chairs. They are very large and can swallow a human in one bite.
+
+Existing variants:
+
+Snapjaw Crocilisk  Alliance| Horde   [Level 35-36]
+Special Attributes: Master attack that reduces movement speed.
+Saltwater Crocilisk  Alliance| Horde   [Level 35]
+Special Qualities: Master attack that reduces movement speed.
+River Crocolisk  Alliance| Horde   [Level 30, 31]
+Special Qualities: Master attack that reduces movement speed.
+
+
+
+
+
+
+
+
+Panthers
+
+As a counterpart to the tiger, the panther derives its strength from calmness and adaptation. You cannot see them with the naked eye and if you do, it is usually too late to escape. Not quite as talented as a tiger in terms of fighting, the panthers should by no means be underestimated.
+
+Existing variants:
+
+Shadowmaw Panther  Alliance| Horde   [Level 37-38]
+Special abilities: can camouflage
+Elder Shadowmaw Panther  Alliance| Horde   [Level 42, 43]
+Special Ability: Can camouflage
+Panther  Alliance| Horde   [Level 32, 33]
+Special Qualities: None
+Young Panther  Alliance| Horde   [Level 30, 31]
+Special Qualities: None
+
+
+
+
+
+
+
+
+Stranglet Horn Tiger
+
+Also known as the king of the jungle, this genus is correspondingly strong and represented in dominant numbers. These cats can no longer be compared with the tigers of other areas, their fur is conspicuously striped, which makes it difficult for them to hunt successfully. However, they make up for this disadvantage with their strength and speed.
+
+Existing variants:
+
+Stranglethorn Tigress  Alliance| Horde   [Level 37-38]
+Special Qualities: none
+Stranglethorn Tiger  Alliance| Horde   [Level 32-33]
+Special Qualities: none
+Elder Stranglethorn Tiger  Alliance| Horde   [Level 34, 35]
+Special Qualities: None
+Young Stranglethorn Tiger  Alliance| Horde   [Level 30, 31]
+Special Qualities: None
+
+
+
+
+
+
+
+
+Venture Co. Goblins
+
+As the only neutral race, the goblins are of course an ideal mediator for both parties, Horde and Alliance, and they indulge in their hobby of inventing weapons and other war equipment and are at home in almost all countries where there are mountains. Not all goblins maintain this peace. An association of the so-called Venture Co. drives brisk mining of raw materials, preferably oils but also ores in one mine. Venture Co. Goblins don't like snooping players at all and quickly finish them off. The association also includes humans and gnolls.
+
+Existing variants:
+
+Venture Co. Geologist  Alliance| Horde   [Level 35, 36]
+Special Traits: Lightning Bolt, Fireshield II (immune to fire)
+Venture Co. Lumberjack  Alliance| Horde   [Level 34, 35]
+Special Qualities: Unknown
+Venture Co. Mechanic  Alliance| Horde   [Level 34-35]
+Special Qualities: Rifle
+Venture Co. Strip Miner  Alliance| Horde   [Level 40-41]
+Special Attributes: Dynamite
+Venture Co. Surveyor  Alliance| Horde   [Level 41-42]
+Special Qualities: Unknown
+Venture Co. Foreman  Alliance| Horde   [Level 42]
+Special Attributes: Devotion Aura
+
+
+
+
+
+
+
+
+jungle monkeys
+
+The powerful monkeys usually stay in trees and you don't see them. Occasionally, however, they also come down to the ground to collect fruit or to climb other trees. They are very quick to feel threatened when stalked, whether intentional or not. Their arms and equally strong legs make them good fighters.
+
+Existing variants:
+
+Jungle Thunderer  Alliance | Horde   [Level 37-38]
+Special Qualities: none
+
+
+
+
+
+
+
+
+Murkgil Murlocs
+
+This group of murlocs have made their home in northern Stranglethorn Vale, defending a waterhole that may contain treasure. Perhaps they just want the water to themselves. In any case, the murlocs protecting this watering hole will relentlessly attack any intruder.
+
+Existing variants:
+
+Murkgill Forager  Alliance| Horde   [Level 35, 36]
+Special Attributes: Poison attack
+Murkgil Hunter  Alliance| Horde   [Level 35, 36]
+Special Qualities: Ranged attack
+Murkgil Oracle  Alliance| Horde   [Level 36, 37]
+Special Attributes: Lightning Bolt
+Murkgil Warrior  Alliance| Horde   [Level 35, 36]
+Special Qualities: None
+
+
+
+
+
+
+
+
+Mosh'Ogg Ogre
+
+The powerful ogres led by Mai'Zoth have set up camp in the east of Stranglethorn Vale. Rumor has it that the leader, Mai'Zoth, can impose his commands on others and have them act at his will.
+
+Existing variants:
+
+Mosh'Ogg Brute  Alliance| Horde   [Level 36, 37]
+Special Qualities: None
+Mosh'Ogg Witch Doctor  Alliance| Horde   [Level 36, 37]
+Special Attributes: Curse of Weakness, summon Wand of Laze
+
+
+
+
+
+
+
+
+Basilisk
+
+These large, lizard-like beasts are related to the great dragons. They also have strong scale armor that protects them from enemy attacks. Even if their size is deceptive, as soon as they scent an opponent, these heavy animals pounce on him very quickly and snap with their large mouths. Some basilisks are even said to have the ability to put their enemies to sleep.
+
+Existing variants:
+
+Crystal Spine Basilisk  Alliance| Horde   [Level 34, 35]
+Special Qualities: None
+Stone Maw Basilisk  Alliance| Horde   [Level 31, 32]
+Special Qualities: Stun
+Cold Eye Basilisk  Alliance| Horde   [Level 39, 40]
+Special Qualities: Sleep
+Thrashtail Basilisk  Alliance| Horde   [Level 40, 41]
+Special Qualities: Sleep
+
+
+
+
+
+
+
+
+water elementals
+
+Consisting only of water, these giant creatures seem to be controlled by a powerful magician. In any case, an encounter with a water elementar is not at all refreshing, as they can hit very hard and also endure a lot.
+
+Existing variants:
+
+Lesser Water Elemental  Alliance| Horde   [Level 36, 37]
+Special Qualities: None
+
+
+
+
+
+
+
+
+Kurzen's supporter
+
+This rebel group maintains a camp north of Stranglethorn Vale. They were once on the same side with the Alliance until one day Kurzen opposed the Alliance. Rumor has it that he was the victim of a troll spell that caused him to defect.
+
+Existing variants:
+
+Brief Commando  Alliance| Horde   [Level 34, 35]
+Special Attributes: Stealth, Smokebomb
+Brief Elite  Alliance| Horde   [Level 36, 37]
+Special Attributes: Whirlwind Attack
+Brief Headshrinker  Alliance| Horde   [Level 34, 35]
+Special Qualities: Unknown
+Brief Jungle Fighter  Alliance| Horde   [Level 32, 33]
+Special Qualities: None
+Short Medicine Man  Alliance| Horde   [Level 32, 33]
+Special Attributes: Healing Spells,
+Brief Shadow Hunter  Alliance| Horde   [Level 38]
+Special Qualities: Have a panther/tiger at their side
+Brief Subchief  Alliance| Horde   [Level 38]
+Special Attributes: Flame Shock (DoT)
+Brief Witch Doctor  Alliance| Horde   [Level 36, 37]
+Special Attributes: Searing Totem III
+
+
+
+
+
+
+
+
+sharptooth fish
+
+These piranha-like fish make their home in the rivers of Stranglethrone. With their large teeth, they like to bite unwary adventurers who cool off in the rivers. Although they cause little damage per attack, they have a high impact frequency.
+
+Existing variants:
+
+Sharptooth Frenzy  Alliance| Horde   [Level 31, 32]
+Special features: very high attack frequency
+
+
+
+
+
+
+
+
+naga
+
+The Nagas are also in Stranglethorn Vale. Understandable, after all, this region is also close to the city. But they only stay on one island in the south. Apparently there is treasure on this mountain, which they are defending with all their might.
+
+Existing variants:
+
+Naga Explorer  Alliance| Horde   [Level 43, 44]
+Special Attributes: Rend (DoT)
+
+
+
+
+
+
+
+
+Bloodsail pirates
+
+The group of pirates anchors off Stranglethorn Vale to the south, threatening the neutral goblin town of Booty Bay. The Blackwater Raiders based there are already preparing for an attack by the Bloodsail pirates.
+
+Existing variants:
+
+Bloodsail Deckhand  Alliance| Horde   [Level 43, 44]
+Special Attributes:
+Bloodsail Elder Magus  Alliance| Horde   [Level 44, 45]
+Special Attributes: Fireball
+Bloodsail Mage  Alliance| Horde   [Level 40, 41]
+Special Attributes: Fireball
+Bloodsail Raider  Alliance| Horde   [Level 40, 41]
+Special Attributes: Dual Wield
+Bloodsail Sea Dog  Alliance| Horde   [Level 44, 45]
+Special Attributes:
+Bloodsail Swabby  Alliance| Horde   [Level 43, 44]
+Special Attributes:
+Bloodsail Swashbuckler  Alliance| Horde   [Level 42, 43]
+Special Attributes: Shieldbash, Disarm
+Bloodsail Warlock  Alliance| Horde   [Level 42, 43]
+Special Attributes: Shadow Bolt, either Imp or Succubus as a companion
+
+################################ END STRANGLETHORN ################################

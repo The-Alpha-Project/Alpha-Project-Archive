@@ -1,0 +1,1501 @@
+Some Tidbits from Korea onemadogre 12:10:PST
+
+Our little fly on the wall in Asia is reporting that Blizzard employees Shane Dabiri and Eric Avila are visiting the Blizzard offices in Korea. WeТre working on getting some details of the information that is being given to those rapid Korean fans, but some things are already standing out.
+
+An additional detail to PvP information we released back from our visit. Alliance players that encounter a Horde player in the wild will be able to challenge them to battle. If the challenge is accepted, both players will be transported to a PvP instanced battlefield.
+
+The rework that the Talents are undergoing will be related to the racial abilities that are allowed. When the talents relaunch, the choices allowed will be based on your race, allowing for more customization between races.
+
+Finally, you may be able to eventually choose a more familiar icon of an Orc clan or Alliance nation for your guild tabards. We donТt know yet how Blizzard would keep every Orc clan from choosing the Burning Blade, but weТll let you know when we know.
+
+World of Warcraft is still a beta, and weТre having to translate these little nuggets, so understand these things as Blizzard's design direction as opposed to absolutes.
+
+Level Cap to 39 onemadogre 10:54:PST
+
+A small update from Blizzard today on the beta progress.
+
+    We are increasing the level cap later today to 39! Why 39 you ask? What an odd number! The honest reason weТve elected to increase character levels to 39 instead of 40 is to avoid having to make plate mail armors and mounts available at this time.
+
+    Plate Mail wearing characters can start using it at level 40. Many of the plate mail recipes and drops are not available yet. We are also not ready to release mounts. Most of them are finished but a few are still being finalized. We certainly didnТt want to give some races mounts and leave others out.
+
+    The level cap is mainly being lifted so that you can all continue to grow your characters, explore and have fun. For those eager testers, we would appreciate your main concentration through all wings of the Monastery. 
+
+We'll just have to get on that. =)
+
+Monday, April 26
+
+Monday's Journals Rush 19:07:PST
+
+Monday brings two new journals for your reading pleasure...
+
+    Pentalog has posted an objective and insightful journal on the community and the solo/grouping dynamics of WoW. He makes some great points and it's well worth a read.
+    Phase2 recently finished his exams which has allowed him to finally get started with WoW. Read the his first journal here.
+
+CE Update Rush 19:06:PST
+
+For the past couple of months a few online stores have been advertising the World of Warcraft Collectors Edition. As usual this is a little premature but we do get mails about it quite a lot here at WorldofWar.Net so here's a bit of an update.
+
+With no date set for the release of the game, information for pre-orders is usually very sketchy. For example, on EBGames and Gamestop they say the CE comes with a 200 page art Book, behind the scenes DVD, soundtrack w/exclusive tracks, cloth World Map and a 'Virtual Item'. But what is this mysterious 'Virtual Item'? Well nobody knows and by this response from Blizzard today, neither do they. :)
+
+    This is still undecided. Once it's been determined, we'll be sure to let you all know. 
+
+As soon as we know more on what the CE will finally contain we'll let you know, but rest assured Blizzard will issue a press release detailing it's contents as a release date gets set in stone.
+
+Oh and finally, note that release dates for WoW featured on online stores are pure speculation. If you've ever watched them you'll see the dates are continually pushed back because there's been no official date set by Blizzard.
+
+Horde Previews Rush 18:40:PST
+
+A new preview of the Horde has been poasted on PC.IGN which features mega-basic info based on their experiences.
+
+There's also a better Horde preview over on Gamespot today which goes a little more in-depth.
+
+Blizz Nibbles Rush 18:38:PST
+
+A couple of Blizzard updates, first up is their Engineering page and also they have posted a very basic update on First Aid. Finally, they have also updated their Druid page. Don't forget you can read more on the Druid on the Druid's Grove.
+
+Gamebanshee Preview Rush 6:27:PST
+
+Gamebanshee is the latest site to post a preview and this lengthy article is based on phase 1 and phase 2 of the Beta.
+
+Sunday, April 25
+
+Sunday Journals Rush 21:32:PST
+
+Finished with the Sunday papers? Why not sink your teeth into three new Beta journals.
+
+    Nephtes has posted two new journals, part one can be found here which focuses on his Shaman and his travels continue in part 2.
+    ShadyAbe has posted his first journal where he gets to grips with the game's controls.
+
+Sunday Class Site Updates Rush 11:26:PST
+
+The class site webmasters have been busy over the weekend and there's more updates on our class specific sites...
+
+    First up, Mirabel has completely updated the Priests' Sanctuary's spells and skills section with all the latest stats and info from the second push. The update includes the removal of Sleep and the addition of Fade, Shackle Undead and Flash Heal, as well as revisions to Smite and Renew.
+    There's a spanking new Paladin poll up on the Paladins' Lodge .
+    The Druids' Grove has added a Druid guide which was first posted by Kestral on the Bnet boards giving his impressions on the class.
+    A new poll is online over on the Rogues' Hideout.
+
+Don't forget to drop by our class specific forums forums for all the latest community chat on your favourite class.
+
+Saturday, April 24
+
+Druid Journal Elly 20:32:PST
+
+Today's journal comes from Rushster who started a Druid for the second push. The journal looks at his development from start to level 10, the skills he's chosen to develop and quest observations.
+
+Class Site Updates Rush 17:37:PST
+
+More action over on our dedicated WoW class websites...
+
+    The Warrior's Arena have updated all their starting statistics for the class with the changes and information from the latest Beta push.
+    The Rogue's Hideout have updated their section on Poisons.
+    The Druid's Grove has posted more shots of skills/abilities in action for the gallery and skill sections.
+
+Warcraft III Beta Competition Update Rush 17:34:PST
+
+After a slight delay to the start of the Warcraft III Beta patch competition where you can win a slot on the WoW Beta, Blizzard have finally announced a start date.
+
+    Win a spot in the World of Warcraft Beta by becoming a winner in the Warcraft III Beta Competition. The competition will start this Monday, April 26 at 6:00 PM Pacific Daylight Time (PDT) and will end the following Monday, May 3 at 6:00 PM PDT. At the competition's start time, the beta ladders will be reset in order to level the playing field. Full details regarding the competition can be found here . Best of luck to all participants! 
+
+Thanks to Eфryldur and The_Iron-Raven.
+
+Rest System Update Rush 11:46:PST
+
+Blizzard have posted an update on the much talked about rest system and as expected there will be numerous changes to the current implementation.
+
+    The Rest State system will be undergoing some changes in the near future. Among other modifications, we will be adjusting the 8-hour timing to be much more flexible. Rest will be accumulated gradually vs. the 8 hours of rest or nothing approach that is currently in place. To add to this adjustment, people who do not play for long periods of time (weekend warrior types) will accumulate extra rest. This will allow those who only play once or twice a week the added bonus of playing as тАЬwell rested for longer than those who play on a daily basis.
+
+    Another anticipated change is to add the ability to rest from anywhere in the world. This should help players who forget or choose not to log off at an inn. Resting at an inn will remain the preferred method, as tiers will accumulate more rapidly if you log off inside an inn.
+
+    Lastly, we are planning on making the Rest State modifier a level-based sliding scale for how much experience you can gain at each tier. That is, at higher level-ranges, the amount of experience that you gain before moving down to the next tier of your Rest State will increase.
+
+    Overall, we are happy with the Rest State feature and appreciate everyone's continued feedback. We realize that it still needs to be adjusted and will continue to do so until it's where we want it to be. 
+
+
+
+Friday, April 23
+
+Friday's Beta Journal Rush 19:10:PST
+
+Friday's Beta journal comes courtesy of Kaleina who discusses his Warlock and grouping with other players while playing the class.
+
+Blizz Updates Rush 19:08:PST
+
+A few minor updates to Blizzard's site this evening which you can find listed on the main page and they have also added Lockpickcing to their Tradesills pages.
+
+Another New PA Comic onemadogre 15:56:PST
+
+Penny-Arcade is covering World of Warcraft again. This time they go over the implications of the dead undead. Thanks Kelaronus for the heads up
+
+Shredder Back in Action Rush 13:05:PST
+
+After a short holiday, Sebastian Shredder has returned to help sift through the Blizzard forums and bring you the latest important official posts. After his rest, he now has the ability to look through the new Beta forums as well as community forums. Check it out!.
+
+Thursday, April 22
+
+New Scorch Beta Journal Rush 16:49:PST
+
+Scorch has been really busy with the game since the current push started and today he's posted another great journal highlighting some of the key high points from his recent adventures. The journal comes with illustrative shots. Check it out!.
+
+Blizz Druid Page Rush 16:41:PST
+
+Blizzard have kicked up a page for the Druid with some basic information on the class which you can find here. Don't forget to head over to the Druid's Grove where you can find more info on the Druid on including the spells/abilities.
+
+Wednesday, April 21
+
+In-depth Warlock Guide Rush 18:03:PST
+
+Over on our specialist Warlock class site, the Warlocks' Citadel, there's a new in-depth 12 page guide to the class written by tester Alitis's. The guide discusses the class in general, there's analysis of the different spell/skills available at different ranks and much, much more.
+
+New Beta Journals Rush 17:57:PST
+
+Today we have two new Beta tester journals for your reading pleasure...
+
+    SoleSteeler has posted a great new journal which talks about his experiences in the Wailing Caverns and also discusses how the rest system is effected his characters and play time.
+    Onehouse, webmaster of the Paladin's Lofge, has posted a very cool journal which talks through his experience of the much talked about Van Cleef quest. 
+
+New Cam Rush 17:49:PST
+
+WWNtv expanded this afternoon with the addition of SoleSteeler's channel. SoleSteeler has been posting a stack of info in the forums for the past few weeks and now he's ready to share his gameplay time with the viewers. His cam can be found here and you'll probably find the channel status switched on more often than not, hes a bit of a WoW demon :)
+
+Tuesday, April 20
+
+Warlock Beta Journals Rush 20:42:PST
+
+Pentalog has whipped up a new Beta journal which focuses on the his new character, an Undead Warlock. In this new journal he talks specifically about the Warlock skills.
+
+Phase2 has posted his first Beta journal where he talks about his experiences with his Warlock Gloke even though he only had small amount of time to play.
+
+Monday, April 19
+
+Mulgore Map Online Rush 21:12:PST
+
+The WorldofWar.Net Cartography section expands this evening with a detailed map of the Taruen starting location Mulgore and some reorganisation on the main Cartography homepage. The new Mulgore map pinpoints key locations as well as monsters and their levels. Check it out!
+
+Screenshots Galore Rush 21:10:PST
+
+The Beta Buzz screenshot section has reached over 200 shots today and there are some great new screens from WoW obsessed Scorch who has been playing a storm since last Friday as the Undead. Also over on the Paladins' Lodge Onehouse has posted new Paladin screens.
+
+
+
+
+
+
+
+
+
+Class Site Updates Rush 20:28:PST
+
+Time to check in on the class sites and see what's new the past couple of days...
+
+    A few more shots of the Hunter taken during the Alpha have been added to the Hunters' Hall by Dragonvenge.
+    Xinhuan has added a new Quests section and added the strengths and weaknesses to the Mages' Tower.
+
+Thursday, June 3
+
+Priest Guide Rush 20:06:PST
+
+Valewraith and Mirabel have been working away on the Priests' Sanctuary and released part one of a new Priest Guide which introduces the Priest class. If you're thinking about playing the Priest then this is well worth a read and part two will go into further detail on the class. Check it out!.
+
+Blizz Nibbles Rush 11:44:PST
+
+A few Blizzard WoW info nibbles have appeared already today and we'll add any others of interest to this list should they appear...
+
+    More PvP server news this afternoon for those wanting find out more about Blizzard's plans. According to the update, the initial implementation of PvP during the Beta will not be anything like the final PVP play dynamics. The Beta test will be used to try out some basic PVP ideas to 'refine' PvP. This PvP testing is also not the same as battlegrounds which will apparently be added later in the test.
+    There's also a quick note that more trade skill recipes are to be added to the game.
+
+If more posts appear we'll add them to today's list here.
+
+Beta Preview Rush 9:39:PST
+
+The guys over at Gamerswithjobs.com are the latest site to post their hands-on preview of the Beta.
+
+Wednesday, June 2
+
+New Loch Modan Movie Rush 20:24:PST
+
+It's mid-week and I'm sure you're hankering for more gameplay footage so last night we trooped off to Loch Modan and partied up with other WoW testers to take on the collect the idols quest. A tough quest if you're on your own but a blast in a party. The movie features a Warlock, two Pladins, a Priest and a Warrior. Also, at the start of the movie you can see our trusty Warrior entering Loch Modan for the first time between the two very cool Dwarf statues.
+
+    Download the movie [16Mb].
+
+Once you seen the movie, share your thoughts in this forum thread.
+
+Tuesday, June 1
+
+Blizz Nibbles Rush 20:30:PST
+
+It's time for a round-up of Blizz info nuggets.
+
+    A team of Dwarven construction team are apparently building railings around the lava areas of Ironforge which should stop people thinking they are trapped when they fall in.
+    There's a quick note on the current state of Passive effects and how they are currently functioning in the game in case you were wondering.
+    The GM hours will be increased and from June 7th the in-game support hours will be increased to 8:00 am - 12:00 am PDT.
+    No specifics here, but it's good to know the team are working on content for the mysterious Maelstrom.
+    No patch this week folks.
+
+
+Gamerifts Beta Impressions Rush 6:01:PST
+
+The chaps over at Gamerifts inform us of their latest WoW Beta impressions article which covers a variety of topics and gives their thoughts on the latest patch which of course included the addition of Hearthstones.
+
+Monday, May 31
+
+Monday Gameplay Movies Rush 12:48:PST
+
+We kick off another week with two spanking new movies. Also, due to popular demand, we have added a second file mirror for the movies so people having problems now have another download point via http. Many thanks to site visitor John for sorting this out.
+
+The first movie shows a firework display held in Stormwind last night as the crowds gathered on the steps by the fountain to watch. Fire works can be purchased in the Mage Quarter and they are certainly not cheap so this lot much have cost a pretty penny.
+
+    Download the movie [3.8 Mb]
+
+The second movie shows our Warrior and Paladin in action once again, this time accompanied by 2 Mage, as we take on the Highwayman of Westfall. Some very cool spell effects in this one.
+
+    Download the Highwayman movie [9.4 Mb]
+
+Saturday, May 29
+
+Blizz Nibbles Rush 18:52:PST
+
+It may be the weekend but there's been a few bits and pieces of WoW news worth knowing about...
+
+    There's no new patch just yet, but Blizzard have hinted at what we can expect to see and what they are currently working on. The next patch should feature new zones including Hinterlands, Tanaris, Feralas and two new dungeons Gnomeregan, Uldaman and maybe more assuming the work is completed in time.
+    According to Blizzard the Tauren sizing will be sorted allowing them to get in and out of certain structures easily. This will be ready for the next push.
+    For fans of water, there's a quick comment on the game's water and how it looks, explaining that the 'coolest' looking water wasn't added to keep the system specs lower. They will continue to look at the water effects during development.
+    If you're on the Beta, it can be a bit tricky standing up when you're taking a drink or eating , it's just not very responsive at the moment. This is being looked at however and should be sorted out.
+    Finally it looks like resistances are back in the next patch.
+
+Friday, May 28
+
+New Previews Rush 19:50:PST
+
+With many a site playing the Beta at the moment, a couple of new previews have popped up today.
+
+    For German fans a new preview can be found on our networks German partner site Gamona.de
+    The chaps over at PCGameworld are the latest site to whip up a preview of the game which also includes a few screens taken from the Beta.
+
+Thursday, May 27
+
+Loch Modan Movie Rush 19:47:PST
+
+It's time for another movie here at WorldofWar.net and today's offering shows combat in Loch Modan featuring a Warrior (the camera perspective), a Paladin and a Warlock. The movie runs for a whopping 5 minutes and weighs in at 46 Mb.
+
+    Download the movie
+
+Wednesday, May 26
+
+Wednesday's Beta Journal Rush 13:16:PST
+
+Phase2 returns to the Beta Journals after a break and in this installment he discusses and gives examples of the different types of quests he has encountered in the game so far.
+
+Tuesday, May 25
+
+Tauren in Flight Movie Rush 20:36:PST
+
+We felt it a little unfair to not give you a new movie today after the Gnome one earlier so you can now download and view my Tauren Druid taking a little flight from the Crossroads in the Barrens to Orgrimmar in Durotar. This gives a good taste of the bleak landscape of both regions which are a far cry from the plush forest of Elwynn.
+
+    Download the movie [24Mb]
+
+Don't forget to post your movie requests here.
+
+Male Gnome Dance Movie Rush 19:03:PST
+
+Over the past couple of days the League of Gnome Equality have been bombarding us with emails because apparently we missed out the filming of the Male Gnome dance from our recent dancing movie. After many hours negotiating fees, the LGE agreed to send in their best male Gnome dancer to be filmed. We gave him our best on-site movie trailer and whatever he needed to bring you this footage.
+
+    Download the male Gnome dance movie
+
+Expect regular game quality movies a few times a week featuring various pieces of WoW action. Of course you can always hit the forums and let us know what you want to see.
+
+Blizzard Nibbles Rush 18:24:PST
+
+More Blizzard nibbles this evening...
+
+    First of all Blizz answer a query on the PvP server and say it will be Faction vs Faction when the new server goes live. There's also another update explaining what they plan on achieving with the PVP server.
+    Also, as we expected, they say the release date is scheduled for end of 2004 for North America and Korea. This is also indicted in the top left navbar of this site.
+    Blizzard have posted a quick Q&A; regarding playing/testing in other regions outside North America and Korea. Again it's pretty non-specific but approximately 10,000 testers will be chosen from each region that does conduct a test.
+    There will be class changes to the Paladin, Shaman and Priest in the next push although nothing is specified. The Hunter has also been penned in for release during the second half of 2004 which is roughly a week or so away. This ties in with Blizzard's comments in our recent interview.
+    It appears that the monster spawning is being examined with a view to stopping the camping problems.
+
+Monday, May 24
+
+Monday's Beta Journal Rush 17:51:PST
+
+Monday's Journal comes from Pentalog who took part in the Horde raid on Stormwind at the end of last week . The journal gives a brief run-down of his actions and he's also added a stack of shots showing the event in action. Check it out!.
+
+Blizzard Nibbles Rush 17:44:PST
+
+A few Blizzard nibbles of info today regarding the next push. First of all it's looking likely that a PvP server will make it into the next push but no definite confirmation. There's also further notes on plans for the other cities and the Crossroads. And finally, it appears there are no plans to lock the current character when the next push goes live which is good news.
+
+Sunday, May 23
+
+Class Site Updates Rush 17:37:PST
+
+More updates on our class specific sites including...
+
+    The Warriors' Arena is sporting a new article on grouping tactics which you can find here
+    A new poll is online over on the Rogues Hideout asks if stealth should be available in PvP.
+    The Paladins' Lodge is showcasing a new Holy sword, Archeus.
+
+Don't forget to drop by the class forums to discuss all of the above and more.
+
+Warrior/Paladin Movie Rush 17:25:PST
+
+You can now download an in-game movie featuring the Warrior and Paladin in action. The movie includes scenes from Elwynn Forest and Westfall weighing in at 14 Mb.
+
+    Download the movie [14 Mb]
+
+Saturday, May 22
+
+New Beta Screens Rush 18:19:PST
+
+Thought I would point you all in the direction of the Beta screenshots gallery where more new screens have been added and approved today.
+
+Friday, May 21
+
+Friday's Beta Journal Rush 20:24:PST
+
+ShadyAbe is back in writing mode and has posted his latest Beta journal where he talks more about the Warlock pets and his latest questing adventures.
+
+Warlock Quest Section Rush 18:29:PST
+
+The Warlocks' Citadel has added a new section which focuses on the Warlock specific Quests. The guys are also looking for Quests submissions from budding Warlock Beta players so drop over and lend them a hand. Be warned before checking this section out, there are spoilers.
+
+Guild Features Rush 17:16:PST
+
+The forum Shredder spotted that Blizzard have updated their page on Guilds to include new features that will appear in a future patch including improved guild control and customisable ranks.
+
+The WorldofWar.Net Guild Support section has also been updated extensively with the new info and more.
+
+Thursday, May 20
+
+Thursday's Beta Journal Rush 18:12:PST
+
+Asmiroth, webmaster of the Rogues' Hideout has posted his first Beta journal based on his questing in the Redridge Mountains. Illustrative shots are included.
+
+Blizz Nibbles Rush 16:59:PST
+
+Some updates from Blizzard this evening discovered by the trusty forum shredder including a post about the addition of auction houses shortly and an interesting update on UI customisation for those of you that may be concerned about it. I can see Booty Bay becoming very, very populated :)
+
+Cartography - Resources Elly 8:00:PST
+
+We've updated Cartography this afternoon.  The Stormwind City Map has a few final NPCs added and the numbering system has been reworked to make it easier to update in future.  Three new maps have been added highlighting resource (herbs and ore) locations.  These are useful for Miners and Herbalists, there's a map each for Elwynn Forest, Dun Morogh and Loch Modan. These will be linked from the Trade Skill pages as well as Cartography and more will be added soon.
+
+Tuesday, May 18
+
+Tuesday's Beta Journal Rush 18:21:PST
+
+After a brief spell feeling under the weather, ypredator returns with his latest journal which follows on where he left off. The new journal includes shots and a description of his adventures in the Redridge Mountains.
+
+Monday, May 17
+
+New Beta Journal Rush 18:02:PST
+
+With the flurry of E3 now done and dusted things are settling down once again. Today ShadyAbe has posted his latest Beta journal as he gains his Succubus and heads to Kalimdor for the first time. Check it out and don't forget you can write your own journals here.
+
+Wednesday, May 12
+
+Cartography - Orgrimmar Elly 22:02:PST
+
+A big thanks goes out to Mosler who has kindly created a map of the Orc city of Orgrimmar. It details all the vendors, trainers and suppliers. Orgrimmar is quite higgledy piggledy and it's really easy to end up going round in circles so if you print this off together with the vendor list you'll find it a handy reference. Other maps can be found in Cartography.
+
+Beta Buzz Elly 16:06:PST
+
+A couple of updates to the Beta Buzz section today. Antipodean Dwarf, Skudtz has submitted a batch of shots from his Warriors exploits last night. You can start viewing them here and then hit the small blue back arrow, left hand side of the shot to see the next one. Dark Knight has penned another journal, this one addresses the fun and games he had trying to form a guild.  Journals are drying up a bit now and I find it hard to believe testers have run out of interesting things to share with the rest of the population so get your thinking caps on and share.
+
+Tuesday, May 11
+
+Appetizers onemadogre 18:46:PST
+
+Well, E3 has not officially started yet, but that doesn’t mean that we aren’t busy ferreting out little bits of information to share with the World of Warcraft fan. Our latest sleuthing about has revealed the following.
+
+    Talent System will be structured like Skills were in Diablo II with a tree and possibly with Synergies.
+    Heroes will be available for characters that max out in their first class (60th level). The hero class progression is designed to be very, very difficult and arduous.
+    World of Warcraft will not have a built-in voice communication feature, you'll need to go third party for that.
+    How about an Expansion? Sounds like that will be the plan once the game goes gold.
+    Pandaren will be in the game but as a quest-giving special NPCs, not a mob or playable.
+    Your PvP exploits will appear in your reputation page.
+
+Stay tuned here as our man on the spot runs down your questions and more on the show floor at E3! Also remember that the forum shredder is still here, doing the dirty work of parsing the Blizzard forums for you and identifying the nuggets.
+
+Monday, May 10
+
+Beta Buzz Elly 17:45:PST
+
+Dark Knight has penned another journal  for his Warrior, now a giddy level 17. Yes, it's true. His career as a physician come brick wall appears to be progressing fairly well but the same can't be said for his pursuit of wielding his two-handed weapon effectively.
+
+Don't forget to keep an eye on the beta shots too. We add a few more choice snaps sent in by beta testers each day.
+
+Saturday, May 8
+
+Saturday Beta Journals Rush 17:47:PST
+
+Something for the weekend? We have two journals for your reading pleasure.
+
+    ShadyAbe has posted his second journal disussing his adventures in West Fall.
+    The second part of ypredator's journal also looks at his experiences in West Fall, pics included. 
+
+Friday, May 7
+
+Friday's Journal Rush 21:05:PST
+
+Scorch, who has more than likely reached the current level cap with his character, has posted his latest Beta journal entitled 'How I Broke the Game'. In this very lengthy journal Scorch invades the Alliance lands with his Undead Mage and there's a stack load of great shots showing his adventure as he crops up in some unlikely places thanks to invisibility, it's a fantastic read.
+
+Talent Changes Rush 20:55:PST
+
+A rather interesting update from Blizzard this evening with regards to the talent system changes they'll be implementing. Three different categories of talents are being added, General Talents, Spell/Ability Specific Talents and Exceptional Talents. Also the ability to remove talents is being added but it will come at a price. Read the full update right here.
+
+Thursday, May 6
+
+New Q&A; Published onemadogre 19:16:PST
+
+Shredder has placed the latest Q&A; from Katricia into our forums for your viewing pleasure. Lots of info sneaking out in front of E3. Be sure to keep on top of the E3 info at Loadedinc.com.
+
+Items Database Updated Rush 18:16:PST
+
+Since the second push, a few changes have been made to the game's items so we thought it about time new items were added and existing entries updated in the Items Database system. There are now an additional 300 items and more will be added shortly.
+
+Thursday Journals Rush 18:10:PST
+
+A couple of new journals approved for your viewing pleasure this evening.
+
+    In his latest Beta journal Dark Knight takes a humerous look of the WoW terms of service document and suffers from a new condition 'cloak envy'.
+    ypredator explores his experiences with his Human female warlock which looks at his progress as well as describing a few of the quests he has undertaken so far.
+
+Traits and New Skills Elly 15:16:PST
+
+A couple of comments from Blizzard today which may be of interest. First up is a comment that the Horde and Alliance are just too similar.
+
+    The Racial Traits for World of Warcraft are in the process of being redesigned. Once the Racial Traits have been added, you should notice some differences between same class / different race combinations.
+
+    We are also planning on adding race specific choices to the Talent System which will further differentiate the races from one another. 
+
+Blizzard also updated with a quick note on additional spells.
+
+    Some creatures currently have Polymorph and Bloodlust in their spell sets. Both of these spells may become available for players as the team continues to work through character spell balancing. 
+
+
+Wednesday, May 5
+
+You Got Mail! Rush 4:17:PST
+
+A nice nugget of info has appeared concerning in-game mail and it looks like it's going to be more feature packed than we expected.
+
+    The development team is actually in the process of creating World of Warcraft’s mail system.
+
+    Our mail system will be a little more robust than just sending in-game “emails” to friends. When completed, it will give players the ability to send packages to friends and will even be used as a sales tool; giving players the ability to send items C.O.D. (Cash on Delivery).
+
+    A mailbox will be located outside of any Inn and can be universally used by all, much like a bank teller. You click and get your mail; I click and get my mail.
+
+Looks like it could be the end to the 'meet me at the Crossroads' messages when trading, good stuff! Thanks Jason.
+
+Tuesday, May 4
+
+New Sounds Incoming Rush 16:15:PST
+
+Blizzard's sound department look to be keeping busy with news that new ambient sounds will be added in the next patch which will apparently really spice up the game's audio.
+
+    We will be adding all new environmental sounds to World of Warcraft in our next push. The next push will feature wav files that will replace the current midi files. This will allow the zones to come to life, and should correct most problems, such as piano notes playing repetitively or having distortion problems associated with Direct Music Producer.
+
+    Once this change goes into effect, you will hear environmental sounds in all outdoor zones along with most cities. (All cities will eventually have this added as well.)
+
+    Be sure to keep your sound on once the next patch is launched!
+
+There's also a note on new in-game voice commands, apparently some new ones may well be added and suggestions are welcome.
+
+New Beta Shots Rush 16:08:PST
+
+The Beta screenshot gallery has been updated with new tester submitted shots with captions and there's some great stuff in this new batch. You can find them here. Also, Onehouse over on the Paladins' Lodge has also added a few new Paladin shots showing Verigan's Fist, a Paladin quest reward item.
+
+Monday, May 3
+
+Monday's Beta Journal Rush 18:01:PST
+
+Today's Journal once again comes from ShadyAbe who has written about the Warlock and his first experiences in Stormwind. Take a look.
+
+WoW on X-Play Rush 17:58:PST
+
+As a follow-up to the TechTV preview posted earlier, the X-Play show is to feature WoW in their next installment which should be aired today at 11 PM and tomorrow at 2AM and 4PM EST. If you're free then make sure you check it out. Thanks Kazee.
+
+Blizz Nibbles Rush 17:55:PST
+
+A couple of new things up on Blizz's site this evening, a basic instancing guide and a section on how the map works in case you couldn't figure it out.
+
+New Previews Rush 9:57:PST
+
+A couple of pretty short previews have cropped up this afternoon, one over on Gamerspulse and another on TechTV.
+
+Sunday, May 2
+
+Sunday Beta Journal Rush 15:45:PST
+
+Dark Knight has whipped up a new jounral focusing on his main second push character an Undead Warrior. This journal entry focuses on his warrior as well as the First Aid tradeskill. Well worth a read.
+
+Friday, April 30
+
+Friday's Journal Rush 18:52:PST
+
+Before we hit the weekend, we have a Beta journal from ShadyAbe who's just started playing WoW. The journal covers his first questing experiences with the help of some Dwarves.
+
+Class Site Updates Rush 18:37:PST
+
+The class sites have been busy again with updates including...
+
+
+    A new Paladin Guide written by the Paladin webmaster Onehouse. The guide covers just about everything with comments on spells, skills, grouping, tactics, weapons and much more.
+
+    Elly has delved into the skills/abilities section on the Shamans' Retreat bringing things up to date.
+
+    The end of week poll is online at the Rogues' Hideout
+
+WoW Dev Snips Rush 18:24:PST
+
+A few points of interest have been picked up by the trust forum shredder this evening.
+
+    First up are  the changes that are being worked on for the Barrens which is apparently one of the least popular regions for some reason. The only thing I have found wrong with the Barrens so far is the graveyard spawn point. There's supposed to be two graveyards but the southern graveyard was left out of the last patch as an oversight. Nevertheless, Blizzard issued a shortlist of things that are being looked at for the region.
+    Guild Management tools are also still being worked on continuously to make things easier for guild members/guild masters and it looks like new guild features will make the next push.
+    Finally, if you're still pondering over Guild Housing, Blizzard posted a quick update to say it won't make the final release but will be added some time after.
+
+IGN on Troll Shaman Rush 11:20:PST
+
+PC.IGN have posted their latest impressions based on playing a Troll Shaman. Nothing too specific here, it's an overview of starting the character, a few skill descriptions and tradeskill notes.
+
+Thursday, April 29
+
+Thursday's Journal Rush 20:20:PST
+
+Dark Knight has posted his latest Beta journal which covers topics such as rest bonuses, character evolution, the Horde and more. There's some good comments and observations here and it's well worth a read.
+
+Class Site Updates Rush 20:19:PST
+
+A number of class specific site updates for you this evening.
+
+    Elly has updated and revamped the Paladins' Lodge spells section with the latest info.
+    Asmiroth has also tweaked and updated the Rogues' Hideout with the latest skills/abilities.
+    There's a new poll online at the Shamans' Retreat requiring your votes.
+
+Wednesday, April 28
+
+Wednesday's Journal Rush 14:56:PST
+
+After finally getting some time to play, Phase2 has posted his latest Beta journal which focuses on the Undead starting area of DeathKnell and his early experiences in the region.
+
+Don't forget if you are on the Beta you can submit your own Beta journal entry here.
+
+Blizzard Nibbles Rush 14:30:PST
+
+A few nibbles of info from Blizzard today including an update on the current influx of players based at Crossroads and their ultimate goal/objective for the major cities. There's also another note on cities, as well as a comment on redistributing quests into less congested areas which is probably a good idea, it may stop the queuing issues that tend to occur when the server is busy. Finally, there's further confirmation on the PvP servers here.
+
+GamersPulse Preview Rush 12:23:PST
+
+The previews keep on coming and GamersPulse have posed their impressions of the Beta avoiding commenting certain issues that may change by final release.
+
+Monday, April 26
+
+Monday's Journals Rush 19:07:PST
+
+Monday brings two new journals for your reading pleasure...
+
+    Pentalog has posted an objective and insightful journal on the community and the solo/grouping dynamics of WoW. He makes some great points and it's well worth a read.
+    Phase2 recently finished his exams which has allowed him to finally get started with WoW. Read the his first journal here.
+
+Horde Previews Rush 18:40:PST
+
+A new preview of the Horde has been poasted on PC.IGN which features mega-basic info based on their experiences.
+
+There's also a better Horde preview over on Gamespot today which goes a little more in-depth.
+
+Blizz Nibbles Rush 18:38:PST
+
+A couple of Blizzard updates, first up is their Engineering page and also they have posted a very basic update on First Aid. Finally, they have also updated their Druid page. Don't forget you can read more on the Druid on the Druid's Grove.
+
+Gamebanshee Preview Rush 6:27:PST
+
+Gamebanshee is the latest site to post a preview and this lengthy article is based on phase 1 and phase 2 of the Beta.
+
+Sunday, April 25
+
+Sunday Journals Rush 21:32:PST
+
+Finished with the Sunday papers? Why not sink your teeth into three new Beta journals.
+
+    Nephtes has posted two new journals, part one can be found here which focuses on his Shaman and his travels continue in part 2.
+    ShadyAbe has posted his first journal where he gets to grips with the game's controls.
+
+Sunday Class Site Updates Rush 11:26:PST
+
+The class site webmasters have been busy over the weekend and there's more updates on our class specific sites...
+
+    First up, Mirabel has completely updated the Priests' Sanctuary's spells and skills section with all the latest stats and info from the second push. The update includes the removal of Sleep and the addition of Fade, Shackle Undead and Flash Heal, as well as revisions to Smite and Renew.
+    There's a spanking new Paladin poll up on the Paladins' Lodge .
+    The Druids' Grove has added a Druid guide which was first posted by Kestral on the Bnet boards giving his impressions on the class.
+    A new poll is online over on the Rogues' Hideout.
+
+Don't forget to drop by our class specific forums forums for all the latest community chat on your favourite class.
+
+Saturday, April 24
+
+Druid Journal Elly 20:32:PST
+
+Today's journal comes from Rushster who started a Druid for the second push. The journal looks at his development from start to level 10, the skills he's chosen to develop and quest observations.
+
+Class Site Updates Rush 17:37:PST
+
+More action over on our dedicated WoW class websites...
+
+    The Warrior's Arena have updated all their starting statistics for the class with the changes and information from the latest Beta push.
+    The Rogue's Hideout have updated their section on Poisons.
+    The Druid's Grove has posted more shots of skills/abilities in action for the gallery and skill sections.
+
+Warcraft III Beta Competition Update Rush 17:34:PST
+
+After a slight delay to the start of the Warcraft III Beta patch competition where you can win a slot on the WoW Beta, Blizzard have finally announced a start date.
+
+    Win a spot in the World of Warcraft Beta by becoming a winner in the Warcraft III Beta Competition. The competition will start this Monday, April 26 at 6:00 PM Pacific Daylight Time (PDT) and will end the following Monday, May 3 at 6:00 PM PDT. At the competition's start time, the beta ladders will be reset in order to level the playing field. Full details regarding the competition can be found here . Best of luck to all participants! 
+
+Thanks to Eäryldur and The_Iron-Raven.
+
+Rest System Update Rush 11:46:PST
+
+Blizzard have posted an update on the much talked about rest system and as expected there will be numerous changes to the current implementation.
+
+    The Rest State system will be undergoing some changes in the near future. Among other modifications, we will be adjusting the 8-hour timing to be much more flexible. Rest will be accumulated gradually vs. the 8 hours of rest or nothing approach that is currently in place. To add to this adjustment, people who do not play for long periods of time (weekend warrior types) will accumulate extra rest. This will allow those who only play once or twice a week the added bonus of playing as â€œwell rested for longer than those who play on a daily basis.
+
+    Another anticipated change is to add the ability to rest from anywhere in the world. This should help players who forget or choose not to log off at an inn. Resting at an inn will remain the preferred method, as tiers will accumulate more rapidly if you log off inside an inn.
+
+    Lastly, we are planning on making the Rest State modifier a level-based sliding scale for how much experience you can gain at each tier. That is, at higher level-ranges, the amount of experience that you gain before moving down to the next tier of your Rest State will increase.
+
+    Overall, we are happy with the Rest State feature and appreciate everyone's continued feedback. We realize that it still needs to be adjusted and will continue to do so until it's where we want it to be. 
+
+
+
+Friday, April 23
+
+Friday's Beta Journal Rush 19:10:PST
+
+Friday's Beta journal comes courtesy of Kaleina who discusses his Warlock and grouping with other players while playing the class.
+
+Blizz Updates Rush 19:08:PST
+
+A few minor updates to Blizzard's site this evening which you can find listed on the main page and they have also added Lockpickcing to their Tradesills pages.
+
+Shredder Back in Action Rush 13:05:PST
+
+After a short holiday, Sebastian Shredder has returned to help sift through the Blizzard forums and bring you the latest important official posts. After his rest, he now has the ability to look through the new Beta forums as well as community forums. Check it out!.
+
+Thursday, April 22
+
+New Scorch Beta Journal Rush 16:49:PST
+
+Scorch has been really busy with the game since the current push started and today he's posted another great journal highlighting some of the key high points from his recent adventures. The journal comes with illustrative shots. Check it out!.
+
+Blizz Druid Page Rush 16:41:PST
+
+Blizzard have kicked up a page for the Druid with some basic information on the class which you can find here. Don't forget to head over to the Druid's Grove where you can find more info on the Druid on including the spells/abilities.
+
+Wednesday, April 21
+
+In-depth Warlock Guide Rush 18:03:PST
+
+Over on our specialist Warlock class site, the Warlocks' Citadel, there's a new in-depth 12 page guide to the class written by tester Alitis's. The guide discusses the class in general, there's analysis of the different spell/skills available at different ranks and much, much more.
+
+New Beta Journals Rush 17:57:PST
+
+Today we have two new Beta tester journals for your reading pleasure...
+
+    SoleSteeler has posted a great new journal which talks about his experiences in the Wailing Caverns and also discusses how the rest system is effected his characters and play time.
+    Onehouse, webmaster of the Paladin's Lofge, has posted a very cool journal which talks through his experience of the much talked about Van Cleef quest. 
+
+New Cam Rush 17:49:PST
+
+WWNtv expanded this afternoon with the addition of SoleSteeler's channel. SoleSteeler has been posting a stack of info in the forums for the past few weeks and now he's ready to share his gameplay time with the viewers. His cam can be found here and you'll probably find the channel status switched on more often than not, hes a bit of a WoW demon :)
+
+Tuesday, April 20
+
+Warlock Beta Journals Rush 20:42:PST
+
+Pentalog has whipped up a new Beta journal which focuses on the his new character, an Undead Warlock. In this new journal he talks specifically about the Warlock skills.
+
+Phase2 has posted his first Beta journal where he talks about his experiences with his Warlock Gloke even though he only had small amount of time to play.
+
+Monday, April 19
+
+Mulgore Map Online Rush 21:12:PST
+
+The WorldofWar.Net Cartography section expands this evening with a detailed map of the Taruen starting location Mulgore and some reorganisation on the main Cartography homepage. The new Mulgore map pinpoints key locations as well as monsters and their levels. Check it out!
+
+Screenshots Galore Rush 21:10:PST
+
+The Beta Buzz screenshot section has reached over 200 shots today and there are some great new screens from WoW obsessed Scorch who has been playing a storm since last Friday as the Undead. Also over on the Paladins' Lodge Onehouse has posted new Paladin screens.
+
+Blizz on Cartography Rush 17:25:PST
+
+If you wanted to be a Cartography and were hoping it would make it on to the tradeskill list then think again Blizzard have reiterated that the skill is definitely not going to be a tradeskill in the final release. They have also made a quick post on what players should expect from the game maps.
+
+    Cartography is the only one that we have axed.
+
+    We decided rather than only allow Cartographers to make maps, that we would give everyone the ability to explore the game and their map would fill in automatically. So, in a sense, we didn't remove the tradeskill, we just gave it to everyone by default :)
+
+    All the maps will eventually look like the Elwynn map, where as you explore the areas, the map will fill-in with details. Every sub-zone and important area of interest will eventually be labelled. It will all have a hand-drawn look, but all the areas will be pixel perfect to where they exist in-game. Even the Elwynn map will be improved with better text labels, etc.
+
+Worthplaying Preview Rush 11:23:PST
+
+The chaps over at Worthplaying are the latest site to write a preview and have posted their impressions of the WoW beta. Thanks MMORPGDot.
+
+Sunday, April 18
+
+Cam Additions Rush 21:06:PST
+
+Some of you may have spotted a couple of new cams appear on the WWNtv navbar over the past coupole of days taking us to four channels. Scorch and Nephtes are now availble for your viewing pleasure and if you've been watching you'll have seen that Scorch has already reached level 18 today, he's been playing like a mad man since the new Beta was released on Friday. More cams coming soon :)
+
+Class Site Updates Rush 20:55:PST
+
+Our dedicated class sites have seen some action this evening. First up the Druid's Grove have added all the spells/abilities for Shapeshifting, Nature Magic, Arcane Magic, Sneaking and Growl based on the information we grabbed from the game earlier today. Each spell/ability stats and cost have been added bringing the section right up to date.
+
+The Warlock's Citadel have also updated their spells/abilities section with a few changes from the recent push. Don't forget pop by the class forums for all the latest class specific discussion.
+
+Saturday, April 17
+
+Cartography Update Elly 10:41:PST
+
+We've updated the Stormwind City map with the newly opened/closed shops, new and moved NPCs. The printable map and list have also been updated. There are no changes to Ironforge. You can find these maps in Cartography.
+
+Loadedinc Preview Elly 9:39:PST
+
+LoadedInc.Com have fired up a lengthy preview for based on phase one and two of the beta. This is the first report in a promised series as the beta progresses.
+
+Warcraft III Beta Patch WoW Competition Rush 9:22:PST
+
+Blizzard are giving Warcraft III players the chance to win a spot on the WoW Beta in a special contest to encourage gamers to test the new patch.
+
+    As additional participation incentive, we will be running a clan ladder, Random Team, and FFA based competition where winners will be awarded spots in the World of Warcraft Beta. The competition will officially start on Tuesday, April 20 at 6:00 PM Pacific Standard Time (PST) and end Tuesday, April 27 at 6:00 PM PST. The competition will work such that the ten (10) highest experience contributors of each victorious clan will be awarded spots in the World of Warcraft Beta. Clans can compete in all four of the different ladders (1 vs. 1, 2 vs. 2, 3 vs. 3, and 4 vs. 4). However, clans and individuals can only win once. We will also award the top five (5) Free-For-All and top five (5) Random Team players a spot in the World of Warcraft Beta
+
+Full details can be found here.
+
+Friday, April 16
+
+Phase 2 Begun! Rush 19:29:PST
+
+This is it folks, Phase 2 mails have now been sent out!
+
+    Phase Two of the World of Warcraft beta test has begun! Those of you who will be added to the test during this phase were notified in March that your “account creation” email would be coming soon. In order to manage server stability, we will be sending out these emails in multiple waves, so please do not be alarmed if yours hasn’t arrived yet. It may take a few weeks to get you onto the beta test.
+
+    Please do not contact Blizzard about the status of your application to join the beta test. We will be adding more testers in the future, so if you signed up but haven’t received any emails from us yet, there will be additional opportunities down the line. 
+
+Good luck everyone and if you did make it don;t forget to submit your Beta Journals and screenshots via our automated systems. Also pop by all the different class sites and get involved with your specific class community by providing feedback and guides. Last but of course by no means least, drop by the forums. See you in game :)
+
+Note:If you're part of the WorldofWar.net community and made it onto the Beta this time round, Email us with a note saying you're on phase 2 and we can change your site status to WoWTester so other members can be assured you really are a tester. Oh, and don't forget to tell us your forum/site username :)
+
+Gamerspulse Preview Rush 19:09:PST
+
+Another new preview this evening, this time over at Gamerspulse. This preview follows their progress over the first few days of playing and gives their impresions so far. Thanks MMORPGDot.
+
+Misc Updates Rush 14:33:PST
+
+A few new pages up on the official site this evening, one highlighting the playable regions, another listing the current dungeon areas, a survival guide and info on resting.
+
+There is also a note that server crashing and monster tap bugs have been sorted out.
+
+    Two server crashes were fixed. One seemingly simple fix didn't go so well, that's why it kept coming back down for the last 10-15 minutes. It is now fixed for real.
+
+    A bug with tapping was also fixed, monsters should become untapped much more reliably now. 
+
+More Previews Rush 12:53:PST
+
+More preview goodness this afternoon as Gamesdomain post their impressions of the Beta and RPGVault take a look at the Horde.
+
+Thursday, April 15
+
+Beta Shaman Screens Rush 19:28:PST
+
+Elly has been busy with her new Orc Shaman and there's a whole load of new screens in the Beta screenshot section this evening that are well worth checking out. We'll be continually adding shots so keep checking, and if you are on the Beta, don't forget you can submit your own for one and all to see.
+
+Blizz On Skill System Rush 18:28:PST
+
+The new patch introduced changes to the skill points system and to clarify things Blizzard have made the following comments regarding skill points and the skill system.
+
+    Skill points come from monster kill experience only.
+
+    We balanced the costs on the skills based on the idea that people would be questing. Players should have no problem getting enough skill points to spend on their attributes. Everything else in the skill system is secondary skills that do not make your character "better" in combat or PvP. We intentionally wanted to give players a way to earn skill points outside of the experience bar, so if you wanted to tradeskill or learn more languages you could "grind" skill points.
+
+    Skill point earning is not affected by rest states. In the future, we would like to add other methods of skill point earning. For example, we have discussed that making a new item for the first time would have a skill point reward, having some quests may give just skill points.
+
+    Keep in mind, that because skill points are based off experience, you will get tons of skill points at later levels. Therefore, if you "screw" yourself in the lower levels with skills or attributes you didn't want, you can easily make this up in later levels.
+
+    We are not going to move attributes back to Talents. The Talent system is going to be much more robust soon with specialization paths for each class to take.
+
+    The current skill system is VERY rough and only has a small percentage of the eventual skills that will be available. Over time we will adjust the costs accordingly. Our intention is to allow people to easily max their primary attributes with enough skill points left over to spend on trade skills, languages and other skills. 
+
+New Beta Journal Rush 18:17:PST
+
+Dark Knight has whipped up his latest Beta Journal which discusses yesterday's 'new push' and the hysteria surrounding the release and the patch notes.
+
+Dwarf & Gnomes Preview Rush 1:01:PST
+
+Following on from their last preview which looked at the Night Elves, IGN have whipped up a new article which focuses on everyones' short and stumpy race, the Dwarves. In a quick update, they have also whipped up their impressions of the Gnomes
+
+Wednesday, April 14
+
+Patch Notes Rush 19:28:PST
+
+With the new push now underway, Blizzard have released the patch notes for this new version and there are some significant changes and great improvements as well as new features. Read the full patch notes right here. Join in the fun and discuss the changes in this thread!
+
+
+Update: Blizzard forgot to mention in the notes that the character level has also been slightly increased.
+
+    Sorry that this didn't make it into the Patch Notes. The Level Cap was increased to Level 35. 
+
+Guild Journal Elly 18:49:PST
+
+As the next push is about to engulf us we have one last journal from the current version of the game. Dark Knight shares with you his findings on guild formation, grouping and the all important etiquette amongst other topics related to playing WoW as part of a guild. It can be read here.
+
+Next Push Coming Rush 18:33:PST
+
+It's time WoW fans!
+
+    We've taken down the servers in preparation for the new push. When the push is ready, we will update the web site with further information about what's changed and provide instructions on how to download the new client. 
+
+Tuesday, April 13
+
+Harassment Policy Posted Rush 20:03:PST
+
+So you think your tough? Want to hassle other players? Think again, Blizzard have released their Harassment Policy which everyone must adhere to in-game. Break the rules and you'll be in a whole heap of trouble.
+
+Next Push Updates Rush 20:00:PST
+
+In case you were wondering if the next version was going to be released tonight then wonder no more, it isn't happening as pointed out in a brief update from Blizzard.
+
+    No push tonight
+
+A point of concern has been a character wipe in the next push and the good news for those with high level characters is your characters are safe, they are just going to be frozen.
+
+    No character wipe at this time. As stated in the past, we are doing all we can to avoid deleting characters. Of course the time may come when we'll have no other alternative .. but that time is not now.
+
+    All current characters will be placed on hold for our next push. This is due in part to all of the changes being implemented and the need to test world advancement from the ground up. 
+
+In other news, Blizzard have posted a basic tailoring guide which you can find here.
+
+Misc Coverage Rush 19:40:PST
+
+The Beta coverage continues with a few new articles around the Net. PC.IGN have whipped up another preview which focuses on the Night Elves and Teldrassil. There's also a new Beta preview over on JustRPG.
+
+Monday, April 12
+
+Next Push Update Rush 16:32:PST
+
+As mentioned last week, the next push will be appearing some time later this week and we can expect a few changes in the next build.
+
+    In preparation for our next push, we have removed the ability to download the current version of the beta test. The new download will be made available later this week. 
+
+Details of what's being changed won't be known until we get our hands on the new build.
+
+    Because we're still in the Beta phase of this project, nothing is what I would call finalized. The next push will include class changes (to be posted in the patch notes).
+
+    Everyone should continue to expect changes as we work towards balancing out the characters. 
+
+Thanks to cvrules and Danny for the heads-up.
+
+Sunday, April 11
+
+Printable Ironforge & Stormwind Elly 9:26:PST
+
+Due to requests we've made a printable version of the Ironforge and Stormwind maps. Ironforge comes in Black and White or Colour and Stormwind in Black and White. There are also printable lists of all the Trainers and Vendors so you can see them at a glance. You can find all the linkage in Cartography.
+
+Gamespot Preview Rush 9:08:PST
+
+Gamespot have whipped up a new preview based on numerous staff impressions of the Beta focusing on diferent aspects of the game. Thanks Oz.
+
+Saturday, April 10
+
+Ironforge City Map Elly 16:10:PST
+
+Ironforge can be confusing at the best of times. You can find yourself going round and round in circles, swearing you've been past that bridge before. But help is at hand. As we did with the Stormwind city map we've gone to the same level of detail and created a map of Ironforge. As the in-game minimap is rather bizarre to figure out (could even be a graphic glitch) we've created our own graphic. You can use the embedded text box and your 'Ctrl F' keys to hunt out a specific vendor or trainer and locate the corresponding number on the map. It's now archived in Cartography.
+
+Friday, April 9
+
+Nephtes Beta Journal #6 Rush 15:30:PST
+
+Nephtes (Raynia in-game) has posted his latest Beta Journal which looks at some of the quests he has recently undertaken and also the different regions in the game he's been visiting. As usual it's a great read and features illustrative shots. Don't forget to leave him your feedback.
+
+Thursday, April 8
+
+Unofficial Items Database Updates Rush 18:46:PST
+
+After launching the Unofficial Items Database last night, we've had a great response from readers, thanks for all your notes. Today we've added the ability to search for items by their moidifiers such as +Strength or +Agility which will make finding those tastier items a little easier. Marfan has also added more of the special item abilities to numerous items in the database.
+
+Scorch's Priest Journal Rush 13:39:PST
+
+We've had the pleasure of spending much of our game time partied with Scorch and this evening he brings us a new journal specifically focusing on the Priest Class and how his character has shaped up now he's reached level 19. Read the journal right here.
+
+No Time Zones Rush 12:39:PST
+
+Previously Blizzard were toying with the idea of having the two continent [Azeroth & Kalimdor] with different time zones. According to a post which I seem to have missed, this has now changed and the game world will only feature one time zone.
+
+    The initial plan was to split the world into two timezones. It appears that plan has changed. One time zone. 
+
+This is probably quite a good move, the 24 hour clock seems to be working quite well at the moment and having different in-game time-zones probably won't enhance the game in any way.
+
+Tuesday, April 6
+
+To Chase A Dwarf, A Tale by a Tailor. onemadogre 22:34:PST
+
+We are continuing the search for Brann in our latest staff journal. While the alliance may be the focus of this push, the city of Ogrimmar proved to be too much a temptation to stay away from.
+
+Tuesday Beta Journals Rush 16:44:PST
+
+Today's Beta journals come from Onehouse and Dark Knight who are on a roll with their writing.
+
+    Dark Knight discusses Enchanting and Herbalism.
+    Our Paladin site webmaster Onehouse talks about his Paladin build.
+    Onehouse's second journal for today takes an in-depth look at Talent Points and should clear a few things up for people unsure on what they are or how they work.
+
+Monday, April 5
+
+Paladin Beta Journal Rush 16:27:PST
+
+Today's Beta tester journal comes from our Paladin site webmaster Onehouse who gives his impressions of the Paladin class so far. Find out how he's getting on right here. Personally I love the Paladin class with its diversity and I have so far prefer the Paladin over the my other character which is a Mage.
+
+Beta Reports Rush 0:29:PST
+
+The guys over at MMORPGDot have been busy delving into the Beta and whipped up a couple of new reports which can be found here and here.
+
+Sunday, April 4
+
+New Beta Journals Rush 12:47:PST
+
+Well after a marathon session (10 hours) today, all of which was shown on WWNtv, we had better bring everyone up to speed with the latest journals...
+
+    Nephtes has posted his 5th journal continuing his journey through Azeroth, The journal also includes illustrative screenshots.
+    Dark Knight has posted his first set of journals and has split it into five segments. Start on part 1 here.
+
+Friday, April 2
+
+More Details of Next Push Rush 11:42:PST
+
+Blizzard are working away for the next big Beta push and posted a few nuggets of info with a bit more detail on what to expect. They'll also be releasing a couple of shots of a cloaked Night Elf to show exactly what the cloaks will look like when they go live. Apparently the cloak art has been done but Blizaard mention the cloak in the patch can be considered a "rough pass" of the art. Look out for those cloak shots some time today. Other patch goodies will include...
+
+    Many objects in the world have undergone data format changes to reduce memory usage. As an example, Stormwind in particular will use half the memory that it currently uses. Framerate Improvements!
+
+        If everything goes as planned, Druids will be available for y’all to try out!
+        Several new zones and dungeons are being added!
+        New class specific quests are being added!
+        And so much more ...
+
+Friday Morning Journal Rush 7:49:PST
+
+A late night journal submission from Spensdawg makes it into our morning update. This journal concentrates on the little guys, the Gnomes.
+
+Thursday, April 1
+
+FiringSquad Preview Rush 4:06:PST
+
+The latest preview to appear can be found over at Firing Squad which gives their impressions of the Beta and also includes a few new screens. Take a look .
+
+Wednesday, March 31
+
+Changing Cities Rush 10:36:PST
+
+If you've checked our Cartography section you'll know that Stormwind is a pretty big place with lots of winding streets and an abundance of NPCs. Yesterday Blizzard revealed the cities would be changed to make navigation easier and have followed up with the following statement.
+
+    We're making changes to all the cities to make navigation a little easier. There will also be city maps as part of your world mapping system. Also, expect NPC's to get a lot smarter in the near future. They just might help you out if you get lost =] 
+
+Personally I love Stormwind the way it is with its alleyways, streets and district layout, changing it and making the layout simpler may mean it loses it's charm. We'll have to see what the next game update to the game brings for the cities, it will be interesting to see.
+
+Tuesday, March 30
+
+Cosmos Released Rush 8:34:PST
+
+Blizzard are currently encouraging the development of various scripts that some players may find useful to enhance gameplay experiences. There has been much debate whether scripting is a good or bad thing, some see it as 'cheating' others see it as a way to improve elements of the game. Regardless of how you view the subject, development of various scripts has been underway for some time and possibly the most extensive so far is Cosmos, the new name for E-Script which was a compilation of user made interface mods created during the Alpha. You can read about the features of E-Script here to bring yourselves up to speed.
+
+Cosmos has now been released which also features the latest QuestShare enhancement which allows you to easily see what quests other members in your party have undertaken and view their quest progress.
+
+If you're on the Beta and fancy taking Cosmos for a spin you can download it as an .exe here or as a zip here.
+
+Also, let us know what you think about customisation in this forum thread, there's a lengthy on-going discussion on the subject.
+
+Tuesday's Beta Journals Rush 7:04:PST
+
+More excellent journals today from testers that are well worth checking out. First up Scorch tells the story of his encounter with the huge abominable Stitches as he advanced on Darkshire. This is definitely one of the more interesting situations you will come across in the Beta and illustrative shots are included.
+
+Daloran has also posted a lengthy journal looking specifically at trade skills and Enchanting which will bring many of you up to speed on how things work.
+
+Monday, March 29
+
+Class News Rush 18:42:PST
+
+Our class specific sites have been working away and have posted some updated info and news.
+
+    The Warlocks' Citadel features a new article entitled Warlocks: A History which looks at the progression of Warlocks since 1994.
+    The Paladins' Sanctuary has been updated with spells and auras.
+    The Rogues' Hideout has been updated with yet more skills.
+    Updated skills and stats at the Mages' Tower should keep you magicians happy
+
+Cartography Updated Rush 6:54:PST
+
+The WorldofWar.net Cartography section has been updated and rearranged for easy navigation. We've added more key locations to the Elwynn Forest map and also now added the map for Westfall, again highlighting key areas to help questing. Keep checking this section, we're adding to it all the time.
+
+Daily Beta Shot Update Rush 6:51:PST
+
+The player Beta shots gallery is now swelling with a good few additions being added daily. Some great ones just in from test sessions over the weekend and you can view them all here.
+
+New Tester Journals Rush 6:48:PST
+
+The weekend has seen some heavy play sessions and the Beta testers are reporting in with new journals.
+
+    Nephtes talking about Smithing in his latest update with new shots to illustrate.
+    Maullus posts his first journal after starting to play over the weekend and it appears he's rather enjoying it.
+
+Stay tuned for more shortly.
+
+Sunday, March 28
+
+Daily Dose of Screens Rush 2:41:PST
+
+The Beta shots are rolling in from testers and there's quite a few new ones from last night's play session. Find them here in the gallery. Look out for more later.
+
+Saturday, March 27
+
+New Beta Journals Rush 11:35:PST
+
+The WorldofWar.Net Beta Journals are starting to flow and there's a couple of great new additions from the community that are well worth checking out.
+
+    Scorch has written a really good journal after returning soaked through from last night's play session. In the journal he looks at the in-game support features.
+    Nephtes has written a follow-up journal which addresses some of the comments raised by the community regarding his impressions of the game and also updates with his latest thoughts after his recent play sessions.
+
+Don't forget to leave each author feedback, it helps them investigate things further when in-game.
+
+Friday, March 26
+
+Next Beta Wave Sent Rush 17:54:PST
+
+It appears Blizzard may have issued another wave of CD keys this afternoon which means more of you will be joining us on the Beta. If you've just got home we suggest you check your mailbox, there may be a nice surprise for the weekend. See you in-game!
+
+Staff Journal Rush 16:05:PST
+
+The next installment in Elly's Travels has gone live and talks more about Quests, Skills and Secondary skills. The article is also peppered with new shots highlighting many of the game's features. Check it out!.
+
+New Screens Rush 1:29:PST
+
+A few new shots have been added by Beta testers today into our automated shot system. If you're on the test don't forget you can submit your shots here.
+
+Thursday, March 25
+
+New Beta Journals Rush 23:56:PST
+
+The Journals section now features another two Beta tester journals, one from Pentalog which focuses on Mining, Smithing & Engineering and there's also a new journal from Nephtes who's currently taking part in the beta and who we met up with in-game late last night. This journal compares WoW and FFXI, both of which Nephtes is currently playing and he raises some good points about questing.
+
+Testing WoW with a Modem onemadogre 8:12:PST
+
+Will the work of the beta tester never end? =) We took a spin in World of Warcraft last night on a more unusual system. A notebook with a modem connection. Take a look at what we found.
+
+Staff Journal Rush 5:13:PST
+
+The latestest Staff Journal is now online here, and this new addition focuses on crafting/tailoring. Included at the bottom are 105 new shots to keep you busy :)
+
+PvP Nugget Rush 5:08:PST
+
+If you're a PVP fan and didn't make the Beta then fear not, PvP won't be added until next month at earliest according to Blizzard.
+
+    PvP balancing wont start in ernest until we get PvP Battlegrounds into the game or start up a beta PvP server. Likely you will not see this until sometime after April.
+
+Thanks Eno.
+
+Wednesday, March 24
+
+GM News Rush 21:06:PST
+
+Just a quick snippet of info from Blizzard regarding GMs if you're in the Beta test...
+
+    Starting Monday, March 29, 2004, our North American GM staff will start working during peak play hours from 2:00 p.m. PST to 11:00 p.m. PST - 7 days a week. We are in the process of hiring a morning shift and will eventually gear up to 24/7 support before World of Warcraft is released. 
+
+
+Your Chance to Chime In! onemadogre 17:13:PST
+
+Our very own SoleSteeler is preparing to answer questions for the webmasters of warrior.worldofwar.net. They have graciously opened the floor to you to ask your questions of SoleSteeler's beta Warrior experience.
+
+WorldofWar.Net Cartography - Stormwind Rush 3:08:PST
+
+The World of Warcraft is a large expansive game world so to make navigation easier why not check out the WorlfoWar.net Cartography section. We'll be bringing you all the key game world locations in our map system as we explore the world. This morning we have completely mapped the City of Stormwind.
+
+Stormwind is a huge place full of key locations, areas and NPC and it's easy to get lost. To make navigation easier we have not only mapped every city street and district but also pinpointed every key NPC and location. If you can't find a chef or a pet trainer then this map is invaluable to help you find your way around the city. We decided to make a detailed map of the city because we were finding it increasingly frustrating trying to locate certain traders/trainers.
+
+To give you a better understanding of where Stormwind is in the world we suggest you start here and zoom your way in to the region. Watch out for more additions to the section in the coming days as we continue to explore Azeroth.
+
+Beta Shot Submission System Rush 1:23:PST
+
+The new Beta Buzz box in the top section of the page features a screenshot submission system for Beta testers. The script went a little wonky earlier but has now been fixed and shots can now be added no problem. The shots you submit, once approved, also automatically appear in the daily Beta shot pool. Submit shots here.
+
+Tuesday, March 23
+
+Tidbits of the Next Push onemadogre 19:46:PST
+
+Blizzard has released some information about the next push.
+
+    In the next push, all tradeskills will be listed as a part of your interface. If you have the necessary amount of skill points, you can just select the skill … no trainer necessary.
+
+    You will of course still need to seek out the trainer to gain recipes and to go up in rank but I think many will agree that not having to find the trainer right away is a nice benefit.
+
+Sounds interesting, we'll have to see how it plays out in practice.
+
+Journals Keep Rolling In onemadogre 17:42:PST
+
+If you haven't read through Pentalog's impressions of the beta so far, you are missing a real gem. Head over there now for a very well written and interesting read on his beta experiences.
+
+We have also added a new staff journal, by OneMadOgre, with 141 shots right here.
+
+Scheduled Maintenance Rush 15:52:PST
+
+Planning to take Thursday off work and get an early start to playing? Might not be such a good idea as Blizzard have announced scheduled maintenance on the Beta server.
+
+    The Beta Test servers will be brought down this Thursday, March 25, 2003 at 9:30 a.m. PST for maintenance. We anticipate having them back up in just a few short hours. 
+
+Naming Policy Rush 6:16:PST
+
+Prince Pepsi, King KFC, well you can forget those for a start. Blizzard have revealed their character naming policy which is pretty strict and lays down the law. Choose an offensive name then you'll be in a whole heap of trouble. You can read all about it here. Thanks [WWN]Maedhros. Post your thoughts on the naming policy here.
+
+Monday, March 22
+
+New Staff Journal Rush 23:56:PST
+
+Elly has been busy adventuring with her Warlock and this morning she brings you her first Player Journal highlighting her experiences with the game so far. The journal also includes spanking new screens and Elly will be continuing her journey in the next installment.
+
+If you're on the Beta, don't forget you can submit your journals here and also add your shots to our new Player Shots database.
+
+ActionTrip Beta Hands-on Rush 7:35:PST
+
+With the Beta now in the hands of the press, another preview has appeared, this time over at ActionTrip. The article gives their first impressions of the game.
+
+Sunday, March 21
+
+Sunday Screens Rush 20:17:PST
+
+Another day in the WoW Beta and there's some new shots for you all to enjoy. First of all have added a few more to the Beta Buzz gallery where you'll see Elly saying a quick 'Hi' from Stormwind. There's also new shots been added to the forum which you can find here, here and finally here.
+
+New Class Sites Launch! Rush 15:19:PST
+
+This evening we bring you 9 new websites which will cover all of World of Warcraft's classes in-depth. Each site has its own dedicated team of webmasters who'll be keeping each section updated through Beta testing and beyond. Content is being continually added and these new sites will be on-hand to dish out class advice, accept strategies and guides as well as being a central hub for fans of each class. Once you have registered on any of the new sites you login will work on all the different class sites. Now hop to it and say hello to the new webmasters :)
+
+    Druids' Grove
+    Hunters' Hall
+    Mages' Tower
+    Paladins' Lodge
+    Priests' Sanctuary
+    Rogues' Hidout
+    Shamans' Retreat
+    Warlocks' Citadel
+    Warriors' Arena
+
+On a related note, the Character section has been updated, including the spells directory.
+
+Saturday, March 20
+
+Beta Mage Pics Rush 22:33:PST
+
+Thought I would start a Mage this afternoon so while I was on my travels around Elwynn Forrest I snapped a few pics which you can find here. Also on that note, keep checking the gallery in the Beta Buzz section we'll be continually adding as we go with various characters :)
+
+Friday, March 19
+
+Starting Stats Page Elly 14:44:PST
+
+We've added a new page to the character section that shows all the starting stats, skills and abilities of all the classes available for play at this time. You can view it here.
+
+Some Tasty Shots Rush 12:04:PST
+
+As expected, shots are flying left right and centre and we've kicked off a Beta gallery which features some really great shots from TRi-x who took part in the Alpha test and is now Beta testing. Thanks to him for making some choice selections. You can find the gallery here. Raj has also added some new shots to the community forum .
+
+Short Preview Rush 10:47:PST
+
+Gamespot have spent a short while playing the game and posted a preview which you can find here. It's pretty void of info you don't already know so treat it as a quick impressions article. Thanks to numerous mailers for spotting that.
+
+Your Beta Quick Reference onemadogre 8:58:PST
+
+If you're like us, you like to have a summary of all of the important game information right there at your fingertips. So we've taken areas of our site and consolidated it into a very printable PDF document for you. Check out worldofwar.net's Beta Reference Sheet v1.0 (Right click and select "Save as" to store a copy to your local hard drive) As information about the game continues to be gleaned by our crack forum users and journal writers, we'll continue to keep you up to date.
+
+Second Phase Sent Rush 2:21:PST
+
+Not long after the first phase of mails were sent, the second phase were sent you to testers. Everyone must remember that even if you didn't get accepted for the test at this point, there will be other chances as more are added periodically. Also, we have a few new things coming your way today here on the site so stay tuned :)
+
+Thursday, March 18
+
+Post your Shots! Rush 20:51:PST
+
+If you manage to get the Beta down this evening fire any cool screenies you manage to capture into the Community Forum. We've also enabled images on the class forums (Druid, Hunter, Mage, Paladin, Priest, Rogue, Shaman, Warlock and Warrior) even though Druid, Hunter and Shaman aren't playable just yet. Include [Shots] in the title of your post so readers can easily indentify the eye candy.
+
+Beta Tester Tags Elly 20:27:PST
+
+If you are one of the chosen few don't forget to contact us to get your beta tester tags for our forums so members can easily identify you. Remember to give your forum name here at WorldofWar.Net and paste in the email you received from Blizzard letting you know you're on the beta. Remove any CD key information before sending. You can start your own Journal here where you can keep a running diary with screenshots all in the one place.
+
+An Interview with an Alpha Tester onemadogre 19:45:PST
+
+We setup an interview with one of Blizzard's alpha testers, VS40Fresh, recently. Now that the NDA has been lifted, we're allowed to read it ourselves. =) Enjoy.
+
+Monster Alpha Report Elly 18:51:PST
+
+A very sizeable Alpha report has appeared on the Graffe forums here. It covers questing, role playing, all the classes and trade skills too. Whether you made the beta or not it's recommended reading.
+
+Beta Begins Elly 18:01:PST
+
+The beta emails have started to go out to successful applicants and the servers are live.
+
+    "The first round of emails has gone out, and the North American and Korean World of Warcraft beta tests have officially begun. If you didn’t receive an email, don’t worry; we’ll be adding more testers at the start of each upcoming beta-test phase."
+
+As to what is available to play just now:
+
+    ""To those joining us for the first time, we are currently in the middle of our All Alliance push. This means that you may play any of the Alliance races (i.e. Human, Dwarf, Gnome and Night Elf) and can choose one of the following six classes: Mage, Paladin, Priest, Rogue, Warlock & Warrior (as each race allows). More races and classes will become available in the next few weeks."
+
+No Notice? Rush 10:37:PST
+
+The Shredder picked up an interesting post which was subsequently deleted from the forums regarding a set date for Beta release.
+
+    We're working hard, it's crunch time and things are speeding up. Let me rephrase my statement to "we'll give notice if we can, but will not hold things up just to give a day or two of notice."
+
+The thread is no longer online but it probably means those mails are just going to appear. We do think Friday could be the day, people will be winding down for the weekend and more people are likely to be online after work etc which will help the BitTorrent system of distribution. That's speculation of course, it could appear in the next hour :)
+
+Wednesday, March 17
+
+Can You Taste It? onemadogre 14:11:PST
+
+It's very close now. But not today.
+
+    We are currently moving the Alpha Testers onto the Beta Server. This helps test the Account Creation process as well as the server in general.
+
+    We’re moving one step closer but Beta emails have not been sent. Nor will they be sent out today.
+
+    Oh so soon as we continue getting everything ready.
+
+Oh well, that means we can all stop checking our email every 30 seconds.
+
+Bit Torrent to Patch the Beta as Well? onemadogre 11:51:PST
+
+Forum member Trunks found this little gem in the Terms of Service agreement for the upcoming beta.
+
+    3. Distribution of the Program. Blizzard may, in its sole discretion, distribute the Program to you and the other participants of the WoW Closed Beta Test through the use of a software utility that utilizes the 'upload' capacity of your computer to distribute the Program to other participants of the WoW Closed Beta Test. Note that this utility is only active when you are downloading or patching the Program, and that only files associated with the Program are uploaded. Blizzard will not upload any other files or obtain any personal information about you as a result of this activity.
+
+What does that mean for the 56k users and people who are blocked by ISP or network policy? We'll have to wait and find out... Jump in on the conversation and see what FatherJack finds out from his reading of the privacy policy. =)
+
+Tuesday, March 16
+
+New Journals Tweakage Rush 22:11:PST
+
+We have been tweaking the new Player Journals section to make things easier to navigate. Everything is now functioning and for those who were worried about losing their old journals, fear not, they are all in the new system.
+
+Also note that when you sign in for a journal we have to approve you to set your status, this has been added to facilitate Beta journals. We get to these applications really quick so when you next visit the section chances are you will have authorisation to post. If you already have a Forum account then you just need to sign in , fill in your profile and we'll authorise you. If you don't have a forum account you can sign in and make one for yourself.
+
+Whether you make the Beta or not we love to hear your thoughts on the game and things in general so get posting :)
+
+Beta Will be Bittorrent as Expected onemadogre 16:57:PST
+
+Bud was the first to write us to let us know that Blizzard has decided on bittorrent to handle the distribution of the beta client. Let's hope they've taken care of the issues we raised in our editorial so that they aren't leaving 1 in 4 users in the cold.
+
+No Beta on Tuesday Either onemadogre 11:15:PST
+
+Blizzard has announced that the beta emails will not be going out today either. Everyone can quit holding their breath.
+
+    Our beta test has not started and will not be starting today. The numbers that you see on the http://www.worldofwarcraft.com under "Players Online" are Blizzard Employees. No beta emails will be sent today.
+
+Monday, March 15
+
+World Server Joins the Login Server onemadogre 22:10:PST
+
+Both servers are up and advertising. The last piece seems to be the beta emails being sent out. Hopefully, Blizzard is close to sending them out. They said not Monday, but it's not long until Tuesday out there. (Hey, we can hope can't we?) Thanks Lan Birath for the heads up.
+
+Update: We jinxed it. It's back down. Probably will go up and down between now and beta launch.
+
+Login Server Live Rush 20:52:PST
+
+Could this be it? Are the mails coming? The Login server has now changed to green and is active on the new Beta site, looks like things are heating up folks :) Thanks Abercrombie for spotting that.
+
+Official Beta Site Online Elly 17:37:PST
+
+Blizzard have put their beta World of Warcraft website online. There are a few new pages which appear to be the same as those from the leaked site from about a week back. You can view them at http://www.worldofwarcraft.com, http://www.worldofwarcraft.net or vip IP on 12.129.232.213. For some people, the DNS has not updated yet and they won't get the new site. If that happens to you, stop in to our forums and you'll get the low down from the people there.
+
+Beta Update Rush 16:22:PST
+
+There's been a lot of confusion created by hastily reported news of the Beta release over the past few days. So just to confirm there is no Beta today, Blizzard has made the following statement.
+
+    I can tell yas this .. "No Beta Today." I still hold to my 'very soon' comment as the entire team is working to get things ready."
+
+Friday, March 12
+
+An Update on Beta Progress onemadogre 17:16:PST
+
+A lot of buzz and chat channels are humming with news of the beta and of imposter Blizzard employees in these channels and chats. Here’s the latest of what we can tell you on the beta release. Blizzard’s internal date of Monday was a targeted goal of the team recently. It is uncertain that they will actually meet that date, or even still have that date as a target. One thing we’ve learned in seven years of dealing with Blizzard is that Blizzard absolutely means it when they say "when it’s ready!" If the strike teams don’t think the beta is ready to go for Monday, it won’t go.
+
+Right now, the rumors we hear from our sources is that there is only an outside chance that they will make that Monday date. So if you’ve already called in sick to work, or forged a doctor’s note to get out of class, you're going to want to just take a deep breath and relax.
+
+As a fan of Blizzard you have to remember that Blizzard and hard deadlines just don’t mix very well. =) As soon as there is a change in the official stance of Blizzard on the beta from "very soon" to "we’ve sent the emails" we’ll be letting everyone know from here and via our newsletter. Haven’t signed up for the newsletter yet? Shame on you. Get over there {the right hand nav bar on this page} and sign up now!
+
+Thursday, March 11
+
+Beta Releasing to the Lucky Few Soon onemadogre 18:28:PST
+
+We've been watching the news buzzing about the World of Warcraft community that the beta will be released on Monday, March 15, 2004. We now have multiple sources that independently concur on the date. The problem is that this is or was an internal Blizzard target date for the beta to begin. So far, we've been unable to nail down if they will actually make that date or not. We'll update everyone the second there is an official confirmation.
+
+Wednesday, March 10
+
+WoW Beta Key Contests Authorised Rush 18:09:PST
+
+Could this be a sign we are getting close? Who knows, but it's great to hear that the legal team at Blizzard have given the green light to contest Beta slots.
+
+    Yes they are. Look for information soon at a Blizzard Fan Site near you. (We just got authorization to release the contest betas from our legal department.)
+
+As with previous years we'll be running a competition on the site and across the network. We'll keep you posted.
+
+Tuesday, March 9
+
+No Beta This Week Rush 17:26:PST
+
+The rabid fans have been keen to know if the Beta will come out this week but sadly the answer from Blizzard is no.
+
+    Sorry folks, but no beta this week. Beta is coming soon though ... very very soon.
+
+Everyone should just sit back, chill out and relax, it will arrive eventually and it's much better to have the game as complete as possible at Beta stage. No doubt next week will be exactly the same with cries of "Beta this week???" from the community :) The good News is the next Q&A; will appear this week so that's something to watch out for. Thanks DaRkiEs and Sebastian Shredder.
+
+Tuesday, March 2
+
+Beta on BitTorrent? Rush 20:44:PST
+
+Tonight Blizzard released their new movie via the BitTorrent file distribution system and no doubt many of you have never used this before. What this does is enable users to share the file amongst one another which in theory should mean quick distribution of the file.
+
+Tonight's release was probably a test to see how well this would work to distribute the Beta amongst successful applicants which is a sign we could be getting closer to Beta. As many of you have probably never used BitTorrent, and may have experienced problems whether it be due to a firewall or you simply may wonder how to speed up your downloads, we suggest you check out Brian's FAQ on BitTorrent so you fully understand how it works. Who knows, you may be one of the lucky few to make it on to the Beta so best be prepared :)
+
+Thursday, February 26
+
+Oh Beta, Where Art Thou? onemadogre 7:49:PST
+
+Everybody is abuzz with theories about when the beta will be ready for the happy and lucky testers here in Canada, Korea, and the USA. Blizzard is being extremely tightlipped, but little rumors are sneaking out. Unfortunately, they seem to run in two schools. One is that Blizzard is telling it’s business partners that the beta will be “very soon”. (Unfortunately, very soon can mean before the next ice age when you are Blizzard.) The second rumor is that Blizzard has not quite left the Orc/Tauren/Troll phase of the Alpha that they started on when we had our visit on January 16th.
+
+Solesteeler has laid out a very nice timeline construction to help you make your guesses as to when the beta will start. You can see that here. Garebear2571 caught the shredder finding a comment from Blizzard that once the emails go out, the beta should be live.
+
+If you're wondering about the usual timescale for Blizzard Betas also check the BlizzardNews.Net development timeline, it will give you an insight into the timeframe for previous Blizzard Beta tests.
+
+Thursday, February 19
+
+Beta Update Elly 20:43:PST
+
+Blizzard have left this status update on the progress of beta tester selections:
+
+"Once again we thank everyone for participating in our World of Warcraft beta test signups. Currently, we are reviewing the applications thoroughly, and we will notify selected testers by email before the start of each beta phase. Only selected testers will receive an email from Blizzard. Notification is slated to go out in the weeks ahead."
+
+Thanks to [EMP]Beorn for the heads up on this.
+
+Thursday, February 5
+
+Open Beta Confirmed Rush 4:32:PST
+
+Let's just say your mailbox is void of a beta acceptance letter once they're sent out, is that your last chance to play the game before release? According to Blizzard it looks like they're good to go with an Open Beta test period at some point which means anyone will be able to download the Beta and get playing. While it's inevitable there would be one for server stress testing purposes, it's good news to have some sort of confirmation for those that don't get accepted. Thanks Sightless.
+
+Wednesday, January 28
+
+More Beta Signup Details onemadogre 17:56:PST
+
+More details on the beta signups are shown here. We'd suggest holding off and not trying to get into the signups right away, in the past Blizzard has been so hammered with requests as to swamp their server. There is no difference between signing up now and signing up later this week.
+
+Beta Signup Detail. onemadogre 11:13:PST
+
+Blizzard dropped a note today about the signups that begin in
+!
+
+    Given the high sensitivity of the World of Warcraft beta test, hotmail and yahoo email addresses will not be accepted. Your email address will be the primary means of contact concerning the beta test. Please make sure to double check that the email address you provide is valid and will be for the foreseeable future.
+
+Remember you have a week to signup so don't start panicing yet.
+
+Monday, January 26
+
+Beta Signup Time Announced onemadogre 18:36:PST
+
+From Blizzard.com
+
+    At 6:00 pm PST on Wednesday, January 28th, the signup period for the World of Warcraft Beta Test will officially begin. We will provide a link to the beta-test application right here in the news section at that time. Testers are not going to be chosen on a first-come, first-served basis, so you will be able to submit an application and receive equal consideration anytime during the signup period, which will end on Wednesday, February 4th at 6:00 pm PST. Please note that multiple submissions from the same household will result in complete disqualification.
+
+    For this initial phase of the World of Warcraft beta test, we will only be able to accept applications from Canada, Korea, and the US. The test for Europe and other countries around the world will happen later this year. Please do not contact us for further information regarding the beta test; we will be posting an FAQ in the days ahead.
+
+So there you go. We'll post the details as they are announced right here. You can chat about what this means in our forum, our thoughts on it are here from our visit reports. Thanks Dan for the heads up.
+
+Friday, January 16
+
+European Beta Update Rush 7:43:PST
+
+Blizzard have answered the query regarding the European Beta and while we already know there is going to be one we just don't know when it will start. If you took part in previous Beta's, say Asheron's Call 2 for example, you'll know the Beta roll-out was some time after the North American Beta. Blizzard appear to be taking a similar tact and have stated:
+
+    A European version of the beta will also be available later in 2004. Please stay tuned to Blizzard.com for further details.
+
+Judging by this I think we can expect quite a lengthy North American Beta period with Europe possibly following a month or two after once any major issues have been ironed out. Thanks to Kade for the tip.
+
+Thursday, January 8
+
+Beta Buzz Section Launches! Rush 19:12:PST
+
+Now that Blizzard have scheduled the Beta sign-ups to start at the end of this month, we thought it was time we launched our Beta Buzz section. Readers of our other sites, Diabloii.net and Warcraftiii.Net , may remember our extensive coverage of both Betas and we plan on continuing the tradition for WoW.
+
+The new BetaBuzz section currently includes the new Unofficial Beta FAQ, useful beta testing links and the 'To Test or not to Test?' article. The Beta Buzz section will be continually updated throughout the Beta so make sure you check in often.
+
+Foil Hats Don't Increase Chances at Beta onemadogre 10:08:PST
+
+New comic over at Woody Hearn's site. Although we have it on good authority that wearing tin foil hats will not increase your chances of getting into the beta selection, it has been rumored that you can increase your chances by some small indeterminable amount of getting into the beta by exclaiming “Zug-Zug” when starting or finishing a project.
+
+Thanks Bombzab for the heads up!
+
+Tuesday, January 6
+
+Beta Before End of the Month onemadogre 19:29:PST
+
+Blizzard commented on the recent Alpha problems, but more importantly said that the beta sign ups will be at the end of the month.
+
+    As many of you know, we are currently conducting an internal Alpha test for World of Warcraft. Our goal for this Alpha test is to provide the best possible experience for players when the Beta launches in early 2004.
+
+    In order to accelerate the testing process, we recently allowed a small group of external testers to play the game. During this process, a collection of files was leaked to the Internet. While these files contain alpha content from the game, they are not fully playable and therefore do not convey the experience that World of Warcraft will provide when it is released.
+
+    We are currently investigating this matter and will take serious action against those involved.
+
+    As always, we appreciate the interest and enthusiasm that players around the world have for World of Warcraft, and we look forward to delivering a massively multiplayer game unlike any you have ever experienced. Until then, we ask that you refrain from sharing any content that doesn't come directly from Blizzard Entertainment.
+
+    Lastly, we would like to announce that sign-ups for the World of Warcraft Beta test will begin at the end of this month. Stay tuned to www.blizzard.com for further details. 
+
+We'll be sure to let you know the second that further details are announced and you can rejoice in this forum thread.
+
+Friday, January 2
+
+Beta Date Amended Rush 9:57:PST
+
+Not really anything new here, but Blizzard have changed the official FAQ to reflect the Beta delay. The FAQ now states:
+
+    The beta is expected to begin in early 2004, and it will be done in stages. That is all the information we have at this time; please watch the World of Warcraft site for any news regarding the beta. 
+
+We're in January now so fingers crossed we see something a little more concrete in the next few weeks. Thanks to Dion Loertscher for the tip.
+
+Thursday, August 28
+
+Blizzard Delays Beta onemadogre 9:55:PST
+
+The Official Blizzard target dates for the start of the beta of World of Warcraft have been moved from August, September, October to October, November, December.
+
+So it's still on the way, but it will take a little longer to get to us.
+
+Wednesday, April 30
+
+Beta Date Update Rush 16:23:PST
+
+When is the Beta? The question that passes through every WOW fan;s brain on a daily basis. We we know it's been scheduled for the latter part of this year and this has been confirmed once again today by GFraizer proving there has been no slippage which is good news.
+
+    The beta is expected to begin sometime in Q3 (Sometime between August and October). It will be done in stages. That is all the information we have at this time, please watch the World of Warcraft site for any news. 
+
+Wednesday, July 17
+
+CNN Article Elly 13:30:PST
+
+Somewhat of a follow-up to yesterday's news item regarding the beta date is this article of today on CNNMoney. Bill Roper is interviewed and admits he was quite surprised at the tease in the product glossies claiming "The Portal opens 2003". He agrees the beta will likely be in that year but the game won't see light of day before 2004. Thanks to mrquackers for point that out in the community forum.
+
+Tuesday, July 16
+
+Beta Begins Elly 16:36:PST
+
+First in print in the product manual that came with Warcraft III and now as the latest addition to the official FAQ...
+
+    "When will the beta start?
+    We expect beta testing to begin in 2003."
+
+Thanks to KingHippo for the heads up.
+
+
+
+
+
+

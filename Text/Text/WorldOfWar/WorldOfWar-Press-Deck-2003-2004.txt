@@ -1,0 +1,703 @@
+
+JUSTRPG BETA REVIEW
+
+
+first impressions are any guide, World of Warcraft is going to be a spectacular success. I first logged into beta a week ago, and I have hardly stopped playing since. This game is addictive, immersive, gorgeous, and just plain fun. As JustRPG’s Eric Arevalo said in his recent article on the WoW beta, this game will appeal to MMORPG veterans and newcomers alike.
+
+click to enlarge
+Unwinding in the Stormwind Trade District.
+	
+click to enlarge
+Grotius’ pet goes for an early stroll.
+
+Getting started
+
+
+Gameplay begins, of course, with character creation. You choose a race and gender, and then a class. You also select skin color, hair color, facial hair, and facial features. The range of character appearances is quite wide, though not nearly as wide as in Star Wars Galaxies, where you could fuss with nose protuberance and freckles and whatnot. Anyway, I rolled up a Human Warlock with gray hair and olive skin. I didn’t get to make any attribute choices at character creation; Blizzard doesn’t want to force such decisions on you until you’ve had a little time to play your character. Some long-time RPGers may find this a bit disappointing, but you get plenty of chances to customize your character’s attributes and abilities once you start leveling up and earning “Talent Points.”
+
+When I was done with character creation, I spawned in the gameworld, in the charming village of Northshire Abbey. I smiled as I took it all in: the majestic abbey, the towering trees, the busy wildlife – and my first quest-giving NPC, standing in front of me expectantly. Northshire Abbey has a backwoods charm reminiscent of the smaller villages from Dark Age of Camelot, but with that distinctive Blizzard touch. The buildings have a distinctive, stylized look to them, and the movements of NPCs and animals look fluid and natural. Screenshots really don’t do justice to the graphics.
+
+Anyway, once I was done gawking at the graphics, I fussed a bit with the keyboard layout. The default setup actually suits me pretty well: you can move with WASD or the arrow keys, and you can put spells and abilities on a hotkey bar that, by default, is keyed to the number keys on your keyboard. The chat system is pretty intuitive, at least if you’ve played an online RPG before. The only things I changed were the autorun and strafe keys.
+	
+click to enlarge
+
+Questing: the heart of WoW
+
+
+After remapping my keyboard, I took my first quest. It required me to help take care of a certain infestation problem in the village. The quest-giving system is itself pleasing: the text of the quest unfolds gradually, as if being written on paper in real-time, and is accompanied by the sound of parchment scribbling on paper. Once I had the quest, the game’s helpful tutorial system guided me through the basics of the interface. I had no trouble completing the quest. This quest, like almost every other quest I’ve done, proved to be both fun and rewarding.
+
+In fact, the quest-driven gameplay is really what makes World of Warcraft different from any other MMORPG. In other online games, you kill monsters and glance rather frequently at your experience bar, looking forward to your next level. In this game, I spend more time looking at my quest log than my experience bar. As one tester put it, experience and levels are a byproduct of playing the game; you do your quests, and the levels sooner or later follow along.
+
+There are a ton of quests in this game. Blizzard has promised at least 1400 at launch, and I believe it. I always seem to have a half-dozen or more pending quests. Quest-givers are everywhere: in shops, in towns, in dungeons, in barracks, in the middle of nowhere. I’ve even looted quests off monsters, and I’ve discovered other quests in unexpected places – places I won’t disclose for fear of spoiling the fun. I’ve gained almost all of my experience in the process of doing quests. Much of that experience comes from defeating monsters in the course of questing, but much has also come from the quest reward itself.
+
+click to enlarge
+	
+
+That’s not to say that all quests involve combat. I’ve had a rich variety of quests: delivery quests; conversation quests; quests requiring me to kill a certain number of mobs; quests requiring me to loot a certain number of items off monsters; quests to kill a particularly tough named monster; quests requiring me to find books and jewelry; quests to gain new spells; even a quest to find myself a nice bottle of booze.
+
+Some testers have complained about “collection” quests, which require you to loot a certain number of items. These testers say these quests are too hard, since mobs don’t always drop the required items, and that they require too much mob-camping. Other testers don’t seem to like the “fetch” quests. Personally, I enjoy both those types of quests; I like the satisfaction of collecting items that don’t drop with every kill, and I enjoy the change-of-pace of FedEx quests. I also happen to like those two types of quest because they are often more solo-friendly than other quests. But the beauty of this system is that there are so many quests, you don’t have to do them all.
+
+Some testers also say the quests tend to be too simple, but higher-level players say that the quests grow more complex as you gain levels. At level 13, my quests are sometimes a bit more involved than they were at level 3. And Blizzard does plan to include “life” quests (i.e., epic quests). Still, I’m a bit surprised that I have not yet had any quest related to my trade skills. I wouldn’t mind seeing more complex quests, too. And increasingly I find that I can only solo the “green” (easiest) missions, which occasionally means that I out-level the usefulness of the quest reward. On the whole, though, I really enjoy the quest system. I always feel like I have something interesting to do. The robust quest system distinguishes World of Warcraft from every other MMORPG on the market.
+
+Character development and combat
+
+
+So far I’ve played only a Warlock, so I am no authority on what it’s like to play a character that relies more on swordplay or backstabbing to make his way through the world. My Warlock has gained new spells every other level since level 2. His starting loadout included a couple of damage-over-time (“DoT”) spells, a defensive shield-and-regeneration spell, a damage debuff, and a direct-damage spell (“nuke”). But later I did a quest to get a little pet, a rather amusing little demon named Grimnar who mocks me and periodically asks me to release him from service. The pet wasn’t much of a tank, but he was a good nuker. Still later I received a Fear spell; a Lifetap spell, allowing me to transfer my health to my mana; a soul-drain spell, which has the side effect of producing a “soul shard” that is used as a reagent for pets and other spells; better DoTs; a spell that funnels my health to my pet; and, best of all, a quest to get a pet who really can tank – a pet with more than twice my hit points.
+
+Now that I’m level 13, I’ve accumulated a number of Talent Points, but I’ve been reluctant to commit them because you can’t un-train them. I put a few into health and mana regeneration, and a little into my Shadow Magic specialization. I’m still sitting on the rest.
+	
+click to enlarge
+
+As I said in my preview, the pace of combat is faster than that of EQ but slower than that of SWG – and much slower than that of Diablo. It reminds me most of the combat in DAOC. In WoW, I don’t find myself spamming the same hotkey over and over again in combat. I actually have to make decisions. It’s fun.
+
+click to enlarge
+Fighting against a snow leopard...
+	
+click to enlarge
+…and a frostmane troll.
+
+There are a number of different tactics for a soloing Warlock. Now that I have a pet who can tank, I typically start by sending him in to gain “aggro” – i.e., to make the pet (rather than me) the focus of the mob’s anger. Then I cast my three different stackable DoTs on the mob. The order in which I cast these might vary, since some have higher initial damage output than others. If the pet’s taking a lot of damage, I funnel some of my health to him; if not, I might put an item-based debuff on the mob; or I might just start nuking it; or I might close and use my staff in melee; or, if I need a soul shard I might cast Soul Drain to finish the mob off. If I get an “add” – a second mob that runs up and starts pounding on me – I may just tank it myself a bit until the pet finishes with the first mob, healing myself with a potion; or, if the add is too tough, I’ll cast “Fear” on it, which sends it scurrying away for about 30 seconds. The trouble with Fear is that sometimes the frightened mob runs into its friends and brings them back to me. The trouble with potions is the long cool-down period; you can only use one per battle, so you’ve got to make it count.
+
+click to enlarge
+	
+
+My role in a group varies too. If everyone else in the group is a melee, I might focus on nuking to cut down mobs running away. Sometimes I focus on casting damage over time spells, if we’re fighting a mob with a large number of hit points; sometimes I will do poor-man’s crowd-control with Fear. Grouping is very pleasant in this game. Everyone has a distinct role. No class seems to be disfavored in a group. Not surprisingly, though, you’ll occasionally hear a group looking for a healer.
+
+When I first started playing, I thought the death penalty was too light. In theory, you have three choices: (1) revival by a fellow player, with temporary resurrection sickness; (2) respawning at a bind point, with experience loss; or (3) running back to your corpse as a ghost, with no XP loss. (My Warlock apparently will get a self-resurrection spell of some sort later in his life; that spell apparently leaves you with resurrection sickness, so it may not always be practical to use.) In practice, almost everyone at my level seems to choose option (3), the corpse run. I always have. At first, this penalty was trivial: if you die only a hundred yards from your bindstone, as tends to happen when you’re young, a corpse run is nothing. In that case, it was almost irrational to quaff a potion to try to avoid death; why waste a precious potion when you can run right back?
+
+But now that I’ve had to travel further, the corpse runs have become more of an irritation, and I most certainly do fear death; I don’t hesitate to expend potions to try to avoid it. On one occasion, I died deep inside a mine, and I died twice more trying to resurrect myself near the body. The first time, I ran the wrong direction. The second time, I made it to the mine entrance before succumbing. I found that particular incident more amusing than annoying, but since then I’ve had less patience with corpse runs. I still wonder whether experience debt might be a better system, but it’s too early to tell for sure.
+
+I have two other lingering concerns about character development. One is whether my character is distinctive enough. As far as I can tell, every level 13 Warlock has the same spell-set I have. We may have different Talent allocations, but those differences aren’t readily observable. That said, it is true that different Warlocks play their characters differently: some Warlocks lean on Fear more than others; some prefer DoTs to nukes, or the other way around. In addition, Blizzard has hinted that high-level “hero classes” might provide for much more radical differentiation. We’ll have to see if that comes to pass.
+
+My other concern is the speed of leveling. There have been vigorous disagreements about this on the beta boards, with some people insisting that leveling is too slow, and others insisting that it’s too fast. Initially, I was worried that it was too fast, but it slowed down considerably after level 10, and now I’m not so sure. Testers are posting their time /played, so we should have some objective data to compare leveling speed here with leveling speed in other such games.
+	
+click to enlarge
+
+The larger gameworld
+
+
+So far I’m really impressed with the gameworld. It’s not just that it’s gorgeous and immersive. It’s also coherent. Things fit together naturally. People navigate not by shouting coordinates at each other, but by making reference to landmarks. “Head west along from Goldshire,” they might say; or, “check the buildings near the pumpkin patch.” Nor is there a lot of empty space. The countryside is packed full of landmarks, micro dungeons, mob camps, houses, farms, and interesting terrain. You don’t see the vast expanses of featureless land you see in some other online RPGs.
+
+That’s not to say the World of Warcraft isn’t large. In 40 hours of gameplay, I’ve still only been to two or three of WoW’s many “zones.” I’ve just been too busy with quests there to get anywhere else! Note that I speak of “zones.” I said in my preview that WoW was seamless, without any zones, and that is true to a point: you don’t experience any real delay when you cross from Elwynn Forest to Westfall, as contrasted to switching zones in EQ. But when you cross zone boundaries in WoW, you are passed off to a new “general” chat server, which does give the sense that this is indeed a new “zone.” Judging from the in-game world map, there appear to be several dozen zones, but not all are active in this stage of beta. Given that I haven’t explored all of Westfall and Elwynn Forest, and given that they’ve kept me busy for 40 hours and 13 levels, it seems fair to say that WoW’s gameworld is pretty extensive.
+
+The city of Stormwind deserves special mention. This has to be the most stunning city I’ve ever seen in a MMORPG. It’s divided into a number of districts that have their own distinct flavors: the Mage Quarter, the Cathedral Square, the Trade District, the Old City, the Dwarven Quarter, and so on. It looks and feels alive. Teachers lead little kids around the Cathedral; guards patrol the main thoroughfares; beggars hunch over in tiny little alleyways; merchants hawk their wares. The city is jammed with shops and facilities, almost all of which have a useful game function. The city is especially important because it’s a hub for griffin transport between cities, and because banks are found only in major cities like Stormwind.
+
+click to enlarge
+	
+
+My only complaint about Stormwind is that it can be hard to find things. The city does feature very helpful signs pointing the way to each quarter, but more specific guidance is still needed. A related issue is NPC chatter. NPCs don’t say much yet, unless they are a quest-giver, trainer, or merchant. I assume Blizzard does plan to make its NPCs more talkative – though I haven’t heard any plans to use voice-overs, as will be used in Everquest 2. There is, however, some voice already in the game. Each player character has a limited set of voice commands. For example, if I type /v oom, I say loudly and clearly, in a rather sonorous baritone, “I am low on mana!”
+
+I have been in two or three “micro dungeons” – dungeons that are seamlessly integrated with the rest of the gameworld. I even got to go inside one as a level 2 newbie, on a quest to investigate nefarious doings in a mine. The dungeons my low-level character have seen have all been pretty small, but they are hand-crafted layouts, not clones of one generic dungeon. Kill-stealing can be an occasional problem in these dungeons – and, for that matter, in the broader world – but Blizzard says it’s about to add some anti-kill-stealing code. It hasn’t been a big problem for me, in any case.
+
+The gameworld also features a few huge “World dungeons,” major portions of which are “instanced.” I think I wandered into one by mistake on my very first day in the game. I didn’t live long enough to form any impressions of it; I was in way above my head. Two words describe the result: corpse run.
+	
+click to enlarge
+
+I am a big fan of the “24-hour time” in the game. It’s just a hoot to hear crickets in-game when I play at night, and to see sunshine when I play during the day. It’s simply more immersive to see day and night pass as gradually in game as they do in real life. Among other things, the game sun rises and falls realistically. I play mostly in the evenings, but this hasn’t bothered me at all: the night-time gameworld in WoW is just as much fun to play in as the day-time world. Besides, you can always select a server that is on a different time zone than you are. For example, the beta server is set to West Coast time, but I’m on the East Coast. So I do see “day” if I start playing at, say, 7 p.m. Eastern time. I was skeptical about this system until I tried it; now I really hope the developers keep it. The only odd thing about the day-night cycle is that Blizzard hasn’t yet added weather effects. Those are coming, though.
+
+Tradeskills
+
+
+So far I’ve had fun with the tradeskill system in WoW. This game is refreshingly free of the crafting “grind.” The only question is whether the system will provide a means for crafters to distinguish themselves from the crowd.
+
+There are actually two types of trade-related skills in WoW: gathering skills and crafting skills. My Warlock has chosen one gathering skill (Herbology) and two crafting skills (Alchemy and Tailoring). To learn a trade, you expend “skill points.” You accrue one such point every time you gain a level. The first “rank” of each trade costs just a few skill points. For me, that meant one or two points to get Apprentice Alchemy and Apprentice Herbology. I had to wait until I was level eight before I had the skill points to buy Apprentice Tailoring.
+
+click to enlarge
+The tailoring interface.
+	
+click to enlarge
+The trade district in Stormwind.
+
+Once you have that first “rank” in a trade, it’s pretty easy to level up to the maximum tradeskill for that rank. In the case of Herbology, I’m almost at my cap as an apprentice – Herbology skill of 75. I got there by plucking herbs in the countryside in the course of my adventures. I find this trade to be an amusing change of pace while out questing. (“Wait, don’t attack that gnoll! I see a Peacebloom flower!” ) Moreover, harvesting herbs can be risky; monsters have a way of wandering by just as you start plucking the plant. In the case of Alchemy and Tailoring, I’ve gained skill simply by making potions and cloth armor. The interface for creating things is simple and intuitive. If you’ve got the requisite materials in inventory, just click “Create” and you’ll make your item – and, quite often, you’ll get a skill increase.
+
+Blizzard has eliminated the grind by imposing level caps on trades. I don’t have the skill points to buy the second (of three) ranks in Herbology. I need to make another level or two before I can afford it. Even then, I may be more tempted to buy the second rank in Tailoring or Alchemy instead. That will be an interesting choice: if I go with Herbology, I can gather the raw materials I need for better potions – but I’ll have to wait longer before I can actually make those potions. If I go with Alchemy, I’ll have the potential to learn better potions – but I may not be able to do so since I won’t yet have the Herbology skill to gather the requisite raw materials. You can buy some ingredients from merchants or players, but for the rarer stuff, you’re on your own.
+
+click to enlarge
+	
+
+I like this system because it requires you to make hard decisions about which trade to get when. You can’t be a master of all trades. (As the saying goes, jack of all trades, master of none.) As currently configured, you can master maybe three trade or gathering skills, out of about fifteen choices. You can always un-learn a trade, regain your skill points, and buy a new trade. If you do this, though, you will un-learn the proficiency in your old trade. That’s the price you pay for freeing up skill points.
+
+My main reservations about this system relate to the high-end crafting game. How will master crafters distinguish themselves from the masses? In Star Wars Galaxies, you distinguish yourself by using the highest-quality materials, and by discounting items on which your experimentation fails. In WoW, my guess is that Blizzard will set crafters apart by making the ingredients for the best items very hard to come by. Already I have to adventure to get herbs for my low-level herbology and alchemy operation. I imagine the very best herbs will be growing only in the most dangerous spots, and then only sporadically.
+
+Another long-term concern is whether the economy has enough “money sinks.” For now, the economy seems well-balanced to me: I have to scrimp and save for every spell, and I still have only about 20 silver to my name. Money is tough to come by, as it should be. But MUD-flation is a fact of life in these games, and I hope Blizzard has planned for it. If players get too rich, they enrich (or “twink”) their lower-level friends, and the money-management side of the game disappears. If you’re a rich newb, you no longer have to make the interesting choices that have confronted me: do I buy a new staff or a new robe? Do I buy a new spell or a new Alchemy recipe? Blizzard does seem sensitive to the issue, and testers have suggested a number of creative ideas for money sinks.
+
+My final crafting-related concern is that Blizzard has not yet implemented a good marketplace. Right now we just use a dedicated Trade chat-channel, on which people hawk their wares. Blizzard says it’s developing a marketplace system to replace Trade-chat; the company promises that it will be a big improvement. We’ll just have to see. Fortunately, WoW already has implemented HTML-style “links” to item descriptions and stats, in the style of Anarchy Online and Everquest.
+	
+click to enlarge
+
+Different rule-sets?
+
+
+Blizzard has hinted that they may give us a second beta server – this one with a PvP focus. I’m wondering whether that implies that we might get different servers with different rule-sets in Live. I could imagine PvP servers; “hardcore” servers in which one or two deaths mean you start over from scratch; “power” servers with a tougher experience curve, or a tougher death penalty, or both; “casual” servers with easier requirements for leveling; “roleplaying” servers, maybe with only one character per player allowed on that server; and “Alliance and Horde” servers, in which players can play characters from both factions. But this is just my speculation. Blizzard hasn’t committed itself to different Live rule-sets yet.
+
+click to enlarge
+	
+
+Speaking of PvP, it’s not really in the game yet. I have seen a few duels in Stormwind, but that’s about it. Blizzard has ambitious plans to create “instanced PvP zones” – Warcraft 3 meets Battlefield 1942. I’m looking forward to trying it when it arrives.
+
+Conclusion
+
+
+I don’t want to raise expectations too high about this game. It’s not a life-altering experience, as some on the WoW boards seem to hope. It’s just a game. As Penny Arcade put it, it’s “merely excellent.”
+
+But excellent it is. This game is already more polished in beta than most games are Live. And Blizzard has announced that it plans to add content for another five or more months of beta! This surely must violate some unspoken cartel rule: MMORPG developers aren’t supposed to spend half a year adding content in beta! But that’s Blizzard for you. This game oozes quality. It already has more content than most Live MMORPGs.
+
+I suppose it’s possible I’ll burn out and grow bored with this game before I reach level 30. But somehow I doubt it. There’s a huge Warcraft world, and I’ve only seen a small corner of it. There are seven other races and eight other classes to play. There are a dozen other trade skills to try. There are hundreds and hundreds of quests to take. I’m guessing that I’ll stay addicted for a while to come. Let’s just hope that the rest of the game is enthralling as my first week has been.
+	
+
+
+
+
+
+
+THE ADRENALINE VAULT BETA REVIEW
+
+Preview by: Dustin Arient
+Published: April 9, 2004
+
+When I first heard World of Warcraft was in development, I was one of those who said, “A massively multiplayer Warcraft game? How’s that gonna work?” Don’t get me wrong; I played all of the RTS titles and loved them thoroughly. I just didn’t see how Blizzard’s boisterous, cartoonish, sometimes tongue-in-cheek universe was going to fit the MMORPG mold. To my surprise, however, World of Warcraft goes a long way toward breaking that mold.
+
+The first thing that hit me, upon logging on, was how much the environment felt like the world of the Warcraft series. The buildings have the same distinctive look to them as they do in the RTS titles - a colorful medieval motif that’s thoroughly pleasing to the eye. Their exterior and interior surfaces are decorated with excellent textures and tons of atmospheric knick-knacks such as barrels of ale, chairs, paintings, spare weaponry and siege machinery. The landscapes and scenery are also well done, and almost every imaginable biome is represented. Mountains, forest floors, soppy marshland, farms, snow-covered valleys and even charred, lava-rich wastelands are all convincingly rendered. This is in no small part due to a snazzy specular highlighting system that would impress me in a single-player RPG, let alone a massively multiplayer one that has to display acres of virtual terrain and keep track of thousands of entities.
+
+The Dwarven capital of Ironforge is a perfect example. Cut into the living rock of a mountainside, it’s festooned with shops and guild establishments arranged in multiple levels of alcoves and surrounding the gigantic forge that gives the place its name. The avenues are lit by smoky braziers, and below the walkways, rivers of magma can be seen coursing through the bowels of the mountain. From every point inside the city, the periodic ringing of mechanical hammers can be heard, along with other industrial noises. It’s one of the best representations of a fantasy city I’ve come across; it’s big enough to give the impression of a living, breathing metropolis, but not so huge as to be impossible to navigate. The shops and buildings are pleasing to look at, there are convenient signposts to direct you around the various districts, the architecture is solidly and distinctly Dwarven, and there are just enough NPCs walking around the streets to give it the right feel.
+
+World of Warcraft ScreenshotThe beta is currently concentrating on the Alliance races only, so I was only able to test out the Humans, Dwarves, Night Elves and Gnomes. Some classes are open to all races, while others, like the Elvish Druid, are specific to a particular species. The finished game will include several classes that are currently disabled.
+
+As in most role-playing titles, Humans are blessed with the power of adaptable resourcefulness. They get extra skill points instead of any inherent powers or elemental resistances, in addition to being able to choose from any of the Alliance character classes. Human characters start out in the heart of the continent of Azeroth.
+
+The Dwarves appear as they do in the Warcraft series: short, stocky and prone to violence. Their special abilities include resistance to cold and Treasure Finding. Each resource-gathering profession comes with a skill that allows you to see gold, plants or other raw materials on the mini-map; all of the races can do that. Dwarves start out in a snowy, mountainous portion of Azeroth, but can choose to travel to the Human lands fairly quickly, since there’s a direct link between the capitals of the two empires.
+
+The Night Elves start on a separate island, crafted from what appears to be a single gargantuan tree. Since their domain isn’t connected to Azeroth, you don’t see many representatives of other races until you venture beyond its confines. Elves can be warriors, rogues, hunters and priests, but can’t play as paladins, mages or warlocks. Instead, they have the Druid class, which can’t be played yet, but appears to be similar to the Mage.
+
+Gnomes don’t have any special abilities thus far, and they start out in the same area as the Dwarves, but their arrestingly small stature and undeniable cuteness have been enough to carve them a sizeable niche in the beta. They range across all of the areas currently available and occasionally travel in all-gnome parties. They can be warriors, priests, mages or warlocks.
+
+Before I describe the class system in detail, I should outline the basics of the model under which all characters operate. In addition to the base ability scores (Agility, Stamina, Strength, Spirit and Intellect), which affect your prowess at inflicting damage and using skills, every player’s avatar has an allotment of health points and some type of secondary energy that powers class-specific talents. Health is regained either by waiting for it to slowly re-accumulate, quaffing health potions, using bandages or eating various types of food. Some healing methods require you to be seated while they take effect.
+
+As you gain experience and increase in level, you gain Talent points and Skill points. The latter are used for acquiring new weapon proficiencies and spells, while the former can be spent to train in a number of trades and professions. There’s a rather large quantity of them, including mining, fishing, tailoring, armor-crafting, gunsmithing, cooking and more. Some of the skills are oriented toward gathering the primary resources, such as ore, animal skins and medicinal plants, that support refinement-based professions such as engineering and blacksmithing. Although you can purchase raw materials, it often makes sense to train in both the skill that provides the ingredients and the one that consumes them so you can act as your own supplier. For instance, my Dwarf warrior can mine copper ore, smelt it into bars, then use the bars to make consumer goods with his smithing abilities.
+
+The Warrior class is the simplest to master and allows you to attain the deadliest melee prowess available in the game. Warriors can use almost all armor types and come equipped with the ability to use almost every type of weapon. They can also learn various advanced combat maneuvers that can debilitate opponents in a variety of ways, from inflicting wounds that bleed and cause extra damage over time to spell-like effects that can stun and even paralyze an enemy. These effects are powered by the character’s supply of “rage,” which is gained in the course of fighting and through the use of combat stances that can increase its production rate.
+
+Paladins aren’t quite the Warriors’ equals in flat-out hand-to-hand killing expertise, but they come fairly close. They make up for the deficit with some powerful magical capabilities that allow them to heal party members, cast buffing spells and smite enemies with divine wrath. Divine magic is fueled by a personal Mana pool that can regenerate on its own or with the help of replenishing comestibles. Paladins can also wear most types of armor and use almost any weapon, including two-handed maces and swords.
+
+Rogues are the black sheep of World of Warcraft’s adventurers. Their fighting skills depend on “combo points” that are similar to the Warrior’s rage points, but can’t be accumulated simply by attacking an enemy. They can only be generated by specific fighting moves that, as the name “combo” suggests, power other moves that produce still more energy. Once enough is stored up, you can unleash it in the form of deadly street-fighting maneuvers with names like “Eviscerate” and “Gouge.” Other Rogue abilities include stealth, pocket picking and the crafting and use of poisons.
+
+World of Warcraft ScreenshotPriests and Warlocks are two sides of the same coin. Both use Mana to cast divine spells that can improve their own abilities, inflict ranged attacks on their enemies, or confuse and debilitate them. They can only wear cloth armor and are limited to simple weapons (staves, wands and maces for priests; wands, daggers and staves for warlocks). They tend to work well as a supporting class in a party, a role that allows them to bestow benefits on their colleagues while casting offensive spells from a strategically protected position (as opposed to fighting on their own and suffering from the weaknesses of thin armor and less-than-spectacular melee prowess). Warlocks aren’t blessed with the healing spells of the Priests, but they can learn to summon demonic servants that can defend you and prevent you from taking damage.
+
+Mages are fairly similar to Priests and Warlocks, but they tend to be able to hold their own without a party somewhat more easily. Their spells give you a little more bang for your Mana point, and there seems to be a slightly larger variety of them. 
+
+
+
+
+
+
+
+GAMESPOT BETA REVIEW
+
+
+Design by Marty Smith
+
+A little over three weeks ago, Blizzard Entertainment opened the beta test for its upcoming massively multiplayer online role-playing game, World of Warcraft. Currently expected to ship in late 2004, World of Warcraft is one of the year's most highly anticipated games for the PC. Since the game's announcement almost three years ago, the flow of information on World of Warcraft has been somewhat closer to a trickle, despite a huge amount of interest from Blizzard's fans, and fans of massively multiplayer online (MMO) games in general. Now that the beta test is open and the nondisclosure agreement has been lifted, the floodgates have opened, and gamers are drinking up the information as fast as it's made available.
+
+World of Warcraftscreenshot
+Flying into the dwarven capital, Ironforge.
+
+The interest surrounding the game stems from a number of factors. One is that Blizzard, while known for producing quality games, has never developed a massively multiplayer online game. Blizzard does have experience in providing an online matchmaking system for tens of thousands of Starcraft, Diablo, and Warcraft III players simultaneously on Battle.net. But creating a fast, stable environment for an MMO game is a whole lot different, as many larger companies would attest. Another reason for the interest is that this will be the first commercially available game set in the Warcraft universe that isn't a real-time strategy game.
+
+Longtime Blizzard fans may remember that the company attempted such a venture shortly after Warcraft II, with a game called Warcraft Adventures. Blizzard eventually canceled the game, citing dissatisfaction with the slow pace of that game's development. In light of that, Blizzard faces some interesting challenges with World of Warcraft, which will be stacked against a couple of next-generation MMO games, such as Sony Entertainment's EverQuest II and NCsoft's Lineage II. Both of those games promise to be more technically advanced than World of Warcraft will be, and obviously each company has the benefit of years of experience with MMO games under its belt.
+
+World of Warcraftscreenshot
+The Duskwood area is bathed in a perpetual, gloomy mist.
+
+A number of GameSpot editors have taken the opportunity to participate in the World of Warcraft beta test. We've already posted a quick first impressions piece, but after a few weeks of play-testing, we've each formulated some opinions on the game, coming from a number of different points of view. In this feature, you'll hear about how the game is paced, how the art style sets it apart from the crowd, how longtime players of Blizzard games may react to seeing the Warcraft universe from a different perspective, and more. Perhaps most importantly, you'll hear how the game stacks up compared to existing MMO games, from the perspective of an editor who's tried just about all of them and has "been there, done that." 
+
+
+
+
+
+
+
+FIRING SQUAD BETA REVIEW
+
+Overview
+
+There are some games out there that grab you, demand your attention and don't let you go until it hurts to close your eyes because they're so red and dry. World of WarCraft, or WoW, is one of those games. Right after World of WarCraft sits you down, it also grabs you by the short and curlies and makes sure you don't leave even long after your eyes are begging for mercy.
+
+World of Warcraft Preview [ Bathory, my dude @ 1024 x 768 ] > View Full-Size in another window.
+Bathory, my dude
+
+	
+World of Warcraft Preview [ Fighting ye olde swamp monsters @ 1024 x 768 ] > View Full-Size in another window.
+Fighting ye olde swamp monsters
+
+	
+World of Warcraft Preview [ Whack attack @ 1024 x 768 ] > View Full-Size in another window.
+Whack attack
+
+
+The most surprising part about World of WarCraft is that it doesn’t actually try to deviate from the MMORPG formula all that much. It's like Blizzard did delicate plastic surgery on the whole MMO idea, not changing the actual core but touching up all the rough spots and adding rather generously in the areas where the genre could use such enhancement.
+
+Another factor that increases WoW's appeal - one that certainly can't be underestimated - is the familiarity of the world. Odds are you've visited Azeroth before, perhaps as many as five times counting expansions. World of WarCraft obviously draws heavily on the WarCraft universe, particularly the third installment. There are legions of fans already familiar with the war between orcs and humans, which extended to include the night elves and undead. There's a great deal of comfort in knowing the characteristics of Tauren, Trolls and Undead. Classes like the Shaman, Hunter and Warlock seem as familiar as the more traditional Warrior, Priest and Mage.
+
+World of Warcraft Preview [ WHAM! Special move @ 1024 x 768 ] > View Full-Size in another window.
+WHAM! Special move
+
+	
+World of Warcraft Preview [ Check that out, a fighter DoT @ 1024 x 768 ] > View Full-Size in another window.
+Check that out, a fighter DoT
+
+	
+World of Warcraft Preview [ Oh yeah, cheap healing stuff @ 1024 x 768 ] > View Full-Size in another window.
+Oh yeah, cheap healing stuff
+
+
+These classes and races retain the characteristics that made them stand out in the real-time strategy games. Hunters, although not playable yet in the beta, we saw last year at E3 and they could tame and train their pets. Warlocks still play with demon summoning, as they have since the original WarCraft, and Paladins still have auras. The Rogue is the only element foreign to come into the game, bearing a rather striking resemblance to his EverQuest counterpart.
+
+World of WarCraft borrows heavily from EverQuest, Dark Age of Camelot and a bit from Asheron's Call. The combat and skills are quite reminiscent of EverQuest - skills even progress at up to 5 points per level. However, crafting is more along the lines of Dark Age, since it's not limited by character level (well, to a point). In fact, why don't we cover crafting on its own page, since it's such a big part of the game.
+
+
+
+ACTION TROP BETA REVIEW
+
+
+2004 is shaping up to be the year when Massively Multiplayer Online Role Playing Games (MMORPG) flood the market like never before. (Wait, you're saying that didn't happen in 2003? - 2Lions) With the release of Final Fantsy XI and Horizons in the waning months of 2003, and with titles like Lineage II, EverQuest II and World of Warcraft (WoW) set to elbow their way into an already crowded market, players (and their monthly subscription fees) should be able to pick and choose from the title that best suits their play style and tastes.
+		
+A word from our sponsors:
+
+	
+
+Okay, so I’m pregnant and I don’t know who did it! 	
+Even minions have basic needs, so quit starring!
+	
+		
+
+The fine folks at Blizzard were nice enough to invite me into the Beta for World of Warcraft on Friday of last week. At E3 last year, WoW looked and played good enough at Blizzard's booth that it seem ready to be shipped then. However, in typical Blizzard style, the company tends to be its own harshest critic and they refuse to release anything until they feel it combines the right blend of style, fun and polish that ensure it will be a hit with the intended audience. Bear in mind, all other game companies would do well to emulate this unerring dedication to excellence Blizzard has cultivated, so the previous thought was in no way meant to be an insult.
+
+The game client was slightly over 2 gigabytes in size and I found it very hard to wait the 5 hours it took me to download the client, but I spent some of that time going over the beta manual (located here). Just from reading through the basics, it is clear to see that old Blizzard knack for polish had been applied to their first MMORPG. I was pleased to find many well thought-out features already implemented to the game in the beta, which some MMORPGs do not get to until months after their initial launch.
+
+An intuitive series of prompts and tutorials help the player that may not only be new to WoW, but to online gaming as well. Player skills are explained right in game so you do not have to go digging through a manual and interrupting the fun of play. An in game map is set into the upper right hand corner of the screen, right inside of a compass so you can find your way around. Also, you can accept quests from NPCs. They are listed in a handy menu that keeps the quests organized AND keeps their requirements up to date as you fulfill them. Some NPCs scattered around the land will have question marks over their heads clearly identifying them as having a quest to perform, should you choose to accept it.
+
+One of my first quests as young human Paladin was to clear out some Kobold Vermin (actual monster's name) that had infested a nearby field. I was promised a reward of some copper (needed for some better equipment) and some experience as well. Following the direction given by the quest giver, I was quickly able to locate the field that the Kobolds had invaded. I targeted the closest Kobold vermin by hitting the tab key (which I could remap if I so chose. That's right. key remapping is already present and working in the game), I ran toward the beast using the standard W S A D keys and rotated the camera using the mouse until I had the angle of attack that I felt would best suit the situation. The Kobold fell quickly under my onslaught and as he hit the ground, in the middle of my screen I was informed that I had killed the first of seven Kobold Vermin. Looting the corpse I was rewarded with some copper and tattered chain shirt that I quickly equipped. I liked the way things were going already. After a few hours as a fighter I exited out and created a Night Elf Priest so I could experience what spell casting was like.
+		
+	
+
+I think I’ll meditate here for a while... 	
+What the hell happened here?
+	
+		
+
+The game will ship with eight races and nine classes to choose from. Currently only a few races and classes are available to us in this phase of the beta. Each character will have a wide variety of skills and spells or techniques (depending on their profession) to choose from. I really like this system as it allows players to have a very unique character even if it is a profession that many other people have chosen. This allows the player more freedom to create the character they really want to play and therefore in my opinion, have more fun in the process.
+
+The graphics are true to the last rendition of the WarCraft series. Colors are vivid and are liberally used in characters, monsters, NPC's and structures. Character and monster animations are fluid and are effectively implemented. From a spider jumping across the screen as it engages in combat to the way the characters move their arms and bodies as they engage in conversation with one another, these little touches show how much thought and work went into the creation of a fantasy world. The stylized models and colors are impressive regardless if you are running n 640x480 to 1600x1200. This is important because like all of Blizzard's past games, the game engine should not be so overwhelming as to make it inaccessible to people not running bleeding edge technology.
+
+While the bulk of the game is made up of Player vs. Enemy (PvE), it has been reported that there are areas where players can engage in Player vs. Player (PvP) combat, I have yet to find one of these areas. Frankly as of right now, I am having too much fun to go looking for PvP combat areas. There has been plenty for me to do. Even thought I have only been fulfilling quests, they have been varied enough and have supporting background stories, that so far, they do not feel contrived. Looking back on my six hour play session yesterday, it did not feel like I was completing menial tasks. Granted, a lot of that has to do with the wonder of discovery that comes with any new game but somehow this just felt different. Perhaps it's because the game does not play as though it's a beta, but rather a finished game that has been on the market for several months already. While I am sure some things will change as they near the ship date, such as character adjustments usually called Nerfs, I am happy to see that Blizzard is so obsessively concerned with quality and the main reason we all play games: to have fun.
+
+
+
+
+GAMESPOT REVIEW
+
+
+Blizzard gave us quite a pleasant surprise this evening when the company announced that the highly anticipated beta test of World of Warcraft was imminent. World of Warcraft has been on legions of gamers' most-wanted lists since it was announced back in 2001. This online role-playing game, styled after games like EverQuest and Dark Age of Camelot, obviously takes place in Blizzard's immensely popular and richly detailed Warcraft universe and features the company's signature stylistic touches. Moments after the beta was announced, we received a confirmation e-mail with our account info and a download link to the 2GB install file for the game. Fortunately, we managed to download the massive file without incident and zealously installed and dove right into the game to quickly check out as much of the game world as possible to report back to you with our findings.
+
+World of Warcraftscreenshot
+Here's some of the first scenery we saw in the World of Warcraft beta. Not bad, eh?
+
+Let's just say our findings are very positive so far. The game gives a great first impression. Those familiar with Blizzard's Warcraft III will instantly feel at home using the game's streamlined, intuitive interface, and those familiar with other massively multiplayer online role-playing games would likely be flabbergasted at how quickly the game loads up. Indeed, after we created our first character--a night elf warrior named Erekose--we were stunned to find ourselves in the game world within a matter of seconds. And once in the game world, we experienced no loading times whatsoever. The action seamlessly transitioned between wildly different-looking indoor and outdoor areas as we explored about. Admittedly, though, we were wary of venturing too far past the outskirts of our starting location, what with just a first-level character on hand.
+
+But let's back up for a second. We would have started off with an undead character instead of a night elf, because, frankly, we like the undead better. We couldn't possibly count how many of those worthless night elf huntresses we mowed down with our necromancer armies in Warcraft III. Yeah, those were the days... Anyway! For now, Blizzard is focusing the beta test (which, for the record, truly is for testing purposes and is not just a promotional opportunity for the game, we're pretty sure) on the Alliance races: the humans, the dwarves, the gnomes, and the night elves. Of those, the night elves are the coolest, and we figured warriors would be the easiest to play (other options included rogues, paladins, mages, and warlocks), hence our initial choice.
+
+Our night elf character started off in an appropriately night-elf-looking area--a dense and ancient forest. Standing before us was a nonplayer character with an exclamation point above his head. We figured that was someone to talk to. Sure enough, this character tasked us with helping clear the woods of a little wild boar infestation, and then we were off on our very first quest. Combat in World of Warcraft is just as easy to execute. You just right-click on a target to initiate auto-attack. Combat is fast and smooth and packs much more of a visceral punch than that of most any other online RPG we've ever seen. In between watching you and your opponent exchange blows, you may attempt to use your character's various special abilities, so it's hardly a passive experience.
+
+World of Warcraftscreenshot
+Little touches like characters' breath evaporating in the cold air help give World of Warcraft that extra-added level of detail.
+
+The game's interface is superstreamlined. You can easily and instantly bring up your character's backpack and character sheet, intuitively equip and unequip items, and more. Default controls have you maneuvering around as if you were playing a first- or third-person shooter, and the mousewheel lets you seamlessly switch between a behind-the-back and a first-person perspective. We've never been able to just pick up and play an online RPG as quickly as this one, and we didn't even need to read any of the optional tutorial information to get going.
+
+Our first hour and a half or so was spread thin across all the available character races and most of the different classes. Distinctions between classes seem readily apparent. For instance, our night elf warrior cannot use spells, but he gains "rage" as he successively hits his opponents. The rage meter gradually runs down, but while it's in the red, you can use it to execute various powerful special moves. Meanwhile, our female human warlock (Wait! Aren't warlocks all supposed to be male?) could use magic to aid her defense and attack foes from afar, as long as she had sufficient mana, which would gradually recharge. Our dwarven paladin packed a mighty warhammer right from the get-go and could dish out significant damage with it, plus he could use a couple of holy spells.
+
+In the wintry areas in which the dwarves and gnomes start out, we noticed some cool graphical details, such as how characters leave footprints in the snow and how vapor can be seen wafting from characters' mouths as they breath. Little touches like this, along with some hilarious social animations (Night elves can dance hotter than Dirty Dancing: Havana Nights!), really reminded us that this was a Blizzard game. In fact, we're really impressed with just how polished the game seems already. Granted, maybe it's just the front-end and low-level content that feels like it's done, but the game exhibits that overall level of polish and quality that's generally lacking from many other games of this genre.
+
+World of Warcraftscreenshot
+This is the most accessible online RPG we've ever tried.
+
+Is World of Warcraft a revolutionary game? We have no idea, so let's not get ahead of ourselves here. Certainly, it's not drastically different by design than what we've seen before from this genre. It's heavily combat-oriented, and there's also a heavy emphasis on finding loot and questing. In fact, the game in some ways is reminiscent of Blizzard's own Diablo II (and Warcraft III, of course) more so than other online RPGs. Our night elf character gained himself some pretty decent equipment after only about an hour's worth of play. Plus, as we gained experience levels, we were able to level up our characters the way we wanted to. A variety of different "talents" were available, allowing us to boost our core stats, specialize in certain weapons or against certain types of enemies, and more.
+
+The game looks really impressive as well. Colorful, imaginative, yet familiar locations and characters were all around us, and the game ran smoothly and looked beautiful with all the detail settings cranked all the way up. The audio, too, is excellent from what we've heard so far. Hard-hitting sound effects, well-done character voices, and nice ambient sounds all helped immerse us in the experience.
+
+We haven't died yet in World of Warcraft--the game is quite forgiving at first--so we don't know what death is like in the game. However, thus far, we think life is good. Again, we have no real clue as to how well balanced the game's character classes are, how much content there is in the game, how the grouping system is (much less the player-versus-player system), or whether the game stays fun over the long haul. Remember, this is just a knee-jerk impression of a broad sweep through the beta. But we certainly like what we've seen so far and can't wait to play more. Stay tuned for further details. 
+
+
+
+
+
+
+
+GAMEAXIS REVIEW
+
+
+
+World of Warcraft Preview
+Out since Tuesday, 2nd March, 2004
+by Aaron Yip
+
+Azeroth Here We Come!
+State of MMORPGs
+It used to be that the announcement of another MMORPG was an exciting event. Back in the early days of the genre when there were few games that had been released the announcement of each new entrant into the market was met with eager interest. What would the setting be? Would the developers be developing a whole new system of skills and abilities or simply rehash what we had seen before? Would the action be plot based or user driven? These were but some of the questions that would go through the heads of gaming journalists worldwide. Unfortunately in recent years the interest level has waned. It’s hard to become excited about a new MMO when it seems as though there is a new one being announced as being in development every week and every developer worth their salt is wading into the fray with their own game. In the face of such an unceasing onslaught it’s hard to even remain particularly interested, let alone excited, or better yet, fascinated.
+
+Azeroth Here We Come!
+Recently a number of international journalists were flown to the Blizzard offices in a nondescript section of Northern California where a number of PCs had been set up to allow us to join in on the closed beta of World of Warcraft. The first thing that strikes you when you sit down to play WoW is not the fact that people are finally able to role-play in Azeroth, the world made famous in the massively popular and critically acclaimed Warcraft games, it’s how approachable and damn good looking the game is. Even at this stage of development where the world is still being fleshed out and the occasional odd glitch mars the landscape, WoW looks absolutely incredible. Whilst never equaling the graphical majesty of some of the new single player engines like HL2, Doom 3 or Far Cry, World of Warcraft easily blows all current MMOs out of the water, including the previous holder of the crown, Asheron’s Call 2.
+
+Right from character creation the game looks great. As is standard, players choose their race and class, modifying their height, weight, facial features and the like as they see fit to perfectly create their ideal avatar. Each of the available models has a good number of variables at the current stage of development and we can expect to see more when it is finally released towards the end of the year. Choosing a Tauren fighter, I set about creating my ideal half-cow warrior woman and launched into the game proper. The most impressive aspect of the graphics engine is not the complexity of the beast but the artistry with which the models, buildings and terrain have been made. The world of Azeroth is vibrant and beautiful, full of varying races, terrain and styles of architecture to match. The Tauren encampment has a wonderfully nomadic look to it with some teepee style tents as well as more permanent hut style buildings. The decoration features primitive totem poles and feathers. Whilst the spawning area of the Taurens is a large expanse of rolling plain land with the occasional copse of trees, the other races, including undead, elves, dwarves and gnomes all spawn in vastly different environments from dank, fungus infested wasteland for the undead, beautiful sunny deciduous forests for the elves and pine forested, snow bound mountains for the dwarves. Although there are only a few animations for each of the models and monsters they are all top-notch and we should be seeing a few more come along by the time the game has been released. Unfortunately the wonderful graphics of World of Warcraft lead to one of the few misgivings we have about the title – will the engine be able to deliver solid framerates without too much lag and without requiring the player to have an absolutely blisteringly fast Internet connection? 
+
+
+
+
+
+
+
+
+
+E3 VIDEO TRANSCRIPT
+
+
+
+WorldofWar.net is pleased to offer the World of Warcraft community a mirror of the MrFixItOnline.com 2003 E3 movies. We have been granted permission to not only host the movies, but we were also granted permission to strip the audio from the largest download and present it as an MP3 for those of you who can't handle such a large download. Finally, for those of you who are interested, we have transcribed the relevant portions of the long interview below.
+
+As with our movies, we are asked to remind you that these movies were taken without the benefit of a tripod and are not of the same quality as the Blizzard official movies.
+
+    Character Selection Screen[3.3MB]
+    Mage Video[2.9MB]
+    Druid Video[20.5MB]
+    Warlock Video[13.2MB]
+    Long Game Walk Through[254.4MB]!!
+
+    Long Game Walkthrough (audio only)[23.4MB]
+
+==========Start of Audio Transcript==========
+
+So this is the starting zone for the night elves this is where their city is and this is where their beginning area is.
+
+And it's very lush, very overgrown fully green
+
+We want to get across the point that night elves are very much into nature.
+
+Let's run through here, I'll change forms as we go. So you can see how fast it happens. We like the idea of people being able to change form rather quickly. Use it as a tactical means rather than something cool they can do.
+
+This is one of the night elf buildings. One of their structures. Very first structure that as a night elf player you will see. That people will see We wanted to get across the feel of their architecture how it's different from everyone else. So as you can move around it or through it, you'll see it's build out of the center of a large tree. a huge tree.
+
+As you move through it, you'll notice that everything is built out of wood like it's built out of the very tree itself.
+
+Even deep inside of at the center of the tree you feel like you're inside a tree. That tree's been grown for the needs of the night elves.
+
+As well as being able to go into it, you can even climb up the outside of it. They built ramps.
+
+So it goes up and you can get a good view. Just use the mouse wheel and you can change the view of the character. All the way out to third person. Gives you quite a view of the surrounding. Then crank it in, all the way to first person.
+
+Falling damage isn't in yet. Here you went so far stand for tree.
+
+Swimming animations for the animals.
+
+And he's hanging out in stranglethron right now. Near an orc village, on the coast.
+
+So down here we got our hotbar for all of our skills.
+
+Up here we have our character pane, shows us portrait of our character, level, health bar.
+
+I'm going to head out and start fighting.
+
+Controls are fairly simple. Just like a first person shooter. WASD to move, right mouse mouse to mouse lick. Fairly easy.
+
+Here is our first prey. We're going to come up here and beat on him. Start our fight. We're going to start to use our skills to take him down.
+
+Throw up a stance. What the stance does, it makes me do more damage, over the next I think it's ten seconds, I'll do more damage every time I hit him.
+
+[Kind of looks like bloodlust.]
+
+Yeah, that's kind of what it's like.
+
+Throw a demoralizing shout at him. Lower his attack rating.
+
+You'll notice while I'm fighting, all of the damage and everything, it's out of the chat window. I can say something and it's won't spam it out of my window so I'll always see it.
+
+All the damage I do to him pops over his head. It's always there, easy to see. All the damage he does to me pops up over my portrait. Once again, always there, easy to see. Doesn't get in the way.
+
+[Does he have any special skills he can use?]
+
+Ah I'm actually using them. You'll notice when I use a special skill he'll use a different animation than he normally does and there is particles coming off his weapons.
+
+This guy is almost dead, so I'll show you with the next one.
+
+You'll also notice the experience pops up on the window, if I get experience, I probably won't this guy is too low level.
+
+And there he goes, he's dead.
+
+So I'll note it. And to keep down on downtime, I'll pop a couple healing potions, or a healing potion. You'll notice that the regeneration of the life, the hit points goes pretty quick especially if I sit down. If I had any food it would go even faster.
+
+So let's find a new target.
+
+[Is there any spells he can use?]
+
+This guys is a straight warrior, he doesn't actually have any spells. just his warrior skills.
+
+So I'm going to take out this guy up here.
+
+And I'm going to use a whirlwind on him. Now the thing about whirlwind is it actually allows me to hit everybody around me. So if I had 5 or 6 creatures fighting me at the same time. I could unload this and just draw some serious argo.
+
+So he's basically a tank? He could draw in 4.,5 enemies and heal him from behind. [yeah]
+
+And if that doesn't work, I can always taunt.
+
+So here's a special ability. You'll notice different animation and some particle affects coming off the blade when he swings.
+
+Another stance, get myself some glowing fists.
+
+All of these have a number associated with them so if I didn't feel like clicking them I could just use the number pad, not the number pad but the number keys.
+
+There we go.
+
+I'm going to show you our mage. Fighting style is totally different.
+
+Head down here and find some creatures to kill.
+
+Here we go.
+
+We got here a wetlands crolisk. And we got our mage, so first thing I'm going to do with the mage is I'm going to polymorph the crocklist. And it's a sheep. So let's cast some spells at it while it's a sheep and can't fight back.
+
+Turning him into a sheep doesn't not last forever. There he goes, so now he's up on me. Mage can't take very good damage, so I need to do some stuff to keep him from getting to me. So I'm going to do a chains of ice which roots him
+
+I'm going to move out of the way
+
+Flame blast him.
+
+Cast some spells while I can. Before he breaks. Now when he gets right up to me, I do have fast spells. That shouldn't get interrupted because they are so fast.
+
+So I'm going to throw some of those at him, while he's beating on me. And throw off a frost nova to finish him off. or try to finish him off. He's toast
+
+So now this gnoll, over here, he's getting in my way, i'm not happy with him. So I'm going to use my uber spell at this level, I'm going to do some serious damage to the guy.
+
+And he keeps interrupting me. There we go. That's what I wanted... and there we are. And he's done. But the most fun spell by far... see if I can find, there is another one. is of course the age old favorite on battle.net. Polymorph. Turn him into a sheep and then pick on it.
+
+[Evidently they'll be different critters.]
+
+Yeah, working on that. And they don't last long in that form though so. And if you try to do it again, they're just immune to it. Can only do it once.
+
+Oh now he's immune to the chains of ice, that's not good. Throw off the frost nova, that will slow him down. Let me get some distance. And he's dead.
+
+So there are all kinds of different spells that I have and that I use on a regular basis. So it's not just one spell over and over again. I have my frost nova to slow him down and it affects everything around me so if I'm surrounded it's even more useful. You've got poly that takes him out of the fight for a short period of time. Chains of ice that lets me root him a bunch of different damage spells.
+
+And invisibility so I can run around and nobody knows I'm there. it doesn't last very long though. If you mouse over your buffs in the top corner, it will tell you how long they're up.
+
+That guy, looks like he's got a buff on him or a dot. it could be another player around here. No that looks like a buff. That he's got running on him. Some of the creatures will cast buffs on each other, so when you're running along sometimes you'll see a creature casting a buff on his buddies to make them more powerful.
+
+No they don't just stand around they won't wait for you to attack them before helping each other out. They'll gleefully throw buffs on each other making them harder to kill when you get there.
+
+As you'll notice I'm regenerating rather quickly. Almost no downtime.
+
+I love it.
+
+Have you guys seen the druid?
+
+Okay cool.
+
+He's going to interrupt me. No he didn't, I got lucky.
+
+Ah this is a 31st level character, right now most, we're still tweaking some of the spells, making them better or more useful. and making each of the classes fell very unique. Like you'll find that the warlock is also a spell caster, but he doesn't do this direct damage. He throws out dots on his enemies and summons pets to help him out.
+
+Oh he's on me. And again with the frost nova. And he resisted it. Almost dead. And there we go. See my health is down, if I don't want to wait too long I can use some food. Just right click a piece of food and you regenerate faster for a short period of time. Most vendors will have food of some kind or another or you can find someone who has a cooking skill and have them make you some food.
+
+So you'll have somebody who's a cook, he won't just make cake or biscuits or something that you take form time to time to keep you from going hungry. He'll make things that you actually use when you go hunting.
+
+Well we've been thinking about, to be honest I'm not actually sure. Ah I think the higher level you get, the flashier they're going to be. but to be honest if you think about it, how many people who play eq actually keep all the particle effects on when they're playing eq. I don't know anyone who does it. But still it's really cool to have cool looking spells.
+
+I love turning the effects up, I'm always bummed when I have to turn them back down. So our spells will be cool looking, there is no question about that.
+
+Mine? I'm kind of biased; I'm partial to the warriors and fighters who that don't have to use spells. They just go out there and beat on stuff.
+
+I do really like the casters in our game through. This is the first time I've played a mage that I've enjoyed.
+
+And this is one of our flavor creatures; just a little creature hanging around doesn't really do anything. You can take him out real quick. There he is dead.
+
+[Invulnerable creatures?]
+
+I'm not sure. We don't have any in right now, that doesn't mean they won't be there. I suppose my appropriate answer is I don't know.
+
+That is the warlock.
+
+k yeah ,summons up the felhound. Click a button watch him go. And there is your little buddy. Select the target, just right click on his icon, click attack and he's off.
+
+[Do pets do the work?]
+
+Ah no, you have to keep on top of it. it's always good to make sure he's got argo. What I'm doing now is I'm putting dots on him because the warlock has a lot of dots. Let them damage him over time, then I'll throw a couple death coils.
+
+Draw agro to myself. Pull out my dagger and start fighting back. If you do enough damage to it, it will. If you anger it enough. No real freebies.
+
+It's actually a soul tap. Takes a while to recharge. Basically hurts me and heals my pet.
+
+[Can you direct a monster's attack?]
+
+Right well, I can't as a warlock, but some classes like the warrior has taunt so he can pull the creature onto himself.
+
+[Can you do hit and run?]
+
+it will chase me for awhile if I start running away from it. Eventually it will get back on my pet. Cuz as I am running away, I'm not doing any damage. And the pet is still beating on it, so eventually it figures out. Hey wait a sec.
+
+See let's say, I don't have my pet and this guys is fighting me and I don't want to deal with it, I can sleep him and then head off. Once I get far enough away [he'll forget]. See he attacks me, I don't want to deal with him, I'm just going to leave and then I'll summon another pet.
+
+Voidwalker actually. He's a spell caster. So now I'm going to sic him on the guy I put to sleep. No I have an imp as well. He's mad at me because I put him to sleep. The unfortunate thing about this pet is that he doesn't tank as well.
+
+Thing about the void walker is that he takes damage as he goes, eventually he'll just die, so I'll soul tap, hope I don't kill myself. Which was close. Constantly loses life. 
+
+
+
+
+
+
+
+
+GAME CHANNEL REVIEW
+
+
+In the Beginning...
+On the first day, there was light. On the second day, there was WarCraft. On the third day the lights were off to better play WarCraft. And Blizzard saw that it was good...
+
+Blizzard’s flagship series has achieved goals few companies have even dared dream about. It’s sold millions of copies, is a household name (among gamers, instantly), and has as many fans who are casual gamers as those who would just as willingly give up their firstborn to beta-test the latest version. It’s been difficult to argue with the success of the franchise - even gamers who swear by consoles or have never played a real-time strategy title in their lives have probably taken a look at WarCraft. Its telling of the epic battle between humans and orcs is something even Tolkien would have applauded. We chatted with Blizzard vice-president, Bill Roper, to get to the heart of the upcoming blockbuster.
+
+Whereas the previous WarCraft titles were restricted to only a few players, each had control of an army, World of WarCraft puts the player in charge of only a single character. The camera is no longer positioned high above the action, but directly behind the player’s character. Why? Because WarCraft has undergone one of the most dramatic changes ever to hit a franchise. It’s not just a cosmetic change, like a sort of “WarCraft 3D,” nor is it a minor tweak to gameplay, like Quake over Doom. The folks at Blizzard are taking the risky leap into the world of Massively Multiplayer Online Role Playing Games. And with it, they risk ruining one of the greatest franchises in PC history. But from the looks of things so far, they could almost redefine what a great MMORPG is all about.
+
+World of WarcraftWhile games like EverQuest had to build a user base from scratch, World of WarCraft is going the Ultima Online route. Blizzard has millions of slavering fans they’re accountable to, and if they don’t successfully transfer their mass mythos of intrepid humans, evil orcs, and sorcery, swords and shields, there’s going to be hell to pay. But if they succeed - which is looking like a sure thing - they could very well usher in a new age of PC gaming.
+
+Once the game is released - Blizzard has yet to be determine the exact date - World of WarCraft will hog more bandwidth than Tera Patrick and Jenna Jameson combined and battle.net will get more hits than Mike Tyson. It has that much potential. No, really, it does. With a game of this caliber, it’s hard to even know where to start, so we’ll start at the beginning.
+
+“No one throws a dwarf!”
+Set in the mythical realm of Azeroth, World of WarCraft lets players choose from one of four different races: Humans, Orcs, Tauran and Dwarves, though more races are planned. The new race of Tauran were introduced in Warcraft III: Reign of Chaos. Explains Roper, "World of Warcraft takes place four years following the aftermath of Warcraft III. A great air of tension has settled over the ravaged world of Azeroth as the warring races strive to rebuild their kingdoms. We have taken many of the ideas from Warcraft III and translated them to work in an MMORPG setting, such as making units into player races and classes. We have also worked very hard to create a strong continuity between the two games and the rest of the Warcraft mythos. There will be many familiar places that players can explore in an in-depth fashion, whether delving into the Dwarven city of Ironforge or braving the dark recesses of Duskwood."
+
+Once players have created a character and literally designed him or her from the ground up, they must choose a class for their new cyber-ego. Several traditional RPG classes are present: Fighter, magic user, thief, and shaman, and Blizzard has declared that there will be more classes announced as time progresses. As is the case in all RPGs, choosing a class will enable certain abilities and limit others. Don’t expect a 20th level mage to start slaying dragons with a sword, and don’t think a 30th level fighter will be able to summon lightning to kill a troll. It’s classic RPG gameplay.
+
+In addition to the game’s class system comes a skill system. Skills are general-use abilities, used to further customize a character. Several skills already announced are lock picking, fishing, herbalism, riding, and first aid. Don’t let the “fishing” skill throw you - you won’t have to feed your character to keep him or her alive.
+
+Player Killing
+One of the biggest thrills (or agonies, depending on which side of the blade you’re on) comes from tracking and fighting humans as opposed to CPU controlled drones. Player fighting (and player killing) in one form or another has plagued nearly every MMORPG since the creation of the genre. But Blizzard is going out of its way to ensure that only players who enjoy the risk of player killing will die at the hands of their brethren, so don’t think that you can lure a newbie out to the woods with, “Hey, there’s an enchanted dagger by that tree,” and then kill him and steal his equipment.
+
+World of Warcraft“Where do you want to go today?”
+To stop players from wandering around the massive world of Azeroth aimlessly, Blizzard has included a map in a corner of the screen so that everyone always know where they’re headed. Aside from giving information about the immediate area, every significant town, dungeon and keep will have its own name. Gone are the days of “Meet me by the two doors by the big rock.” Instead, players will be able to declare exactly where they intend to go, and have other players follow - or ambush, as the case may be. Parties in World of WarCraft can contain up to five players, but valiant souls who strike out on their own will still be able to meet substantial goals.
+
+Questing
+There isn’t much to change in the way of game questing, whether it be in an RPG or an MMORPG. The concept is still the same. Someone (you, or an NPC) needs something, and it’s up to you to get it. What makes World of WarCraft stand out is the motivation for these actions. Instead of merely being told to “recover the magical dagger,” there are complex motivations surrounding your actions. A monster is pillaging a village, or a shattered sword needs to be reforged, or a woman has been kidnapped. Though most of the questing takes place in a linear fashion, Blizzard has found room for development. "Quests, in particular, are coming along quite well, with a good portion of the game being driven by having something to do," says Roper. "It is a nice feeling to accomplish goals that move the story and your character forward, and we have found that gaining levels oftentimes feel like an added bonus as opposed to an end to which you must grind away. " Though there is often only one beast or one object that needs killing or finding, how the players choose to go about this is where the game becomes interesting. Will they embark on a solo journey? Persuade someone else to do it for them? Assemble a party and venture forth gallantly? Or perhaps just steal what’s required?
+
+“Is that a wand in your pocket or are you just happy to see me?”
+Naturally, World of WarCraft wouldn’t be complete without a substantial magic system, and Blizzard is borrowing rather heavily from its past titles - not that anyone will mind. Classic spells such as Bloodlust, Frozen Armor, Fireball, and Freeze will all return, this time in glorious 3-D (check out the screenshots for a better understanding). In an effort to get away from the more elemental side of magic (fire, water, ice, etc), players can cast a spell called Grasping Roots, which causes vines to grow from the ground and ensnare an enemy.
+
+Blizzard is also trying to keep from drowning their players in potions. Fans of Diablo know that the difference between life and death is often chugging more potions than beer at the Super Bowl. To avoid this, potions and other remedies will have “cooldowns”, where each potion consumed rapidly will have less of an effect than its previous one. To avoid this, players will have to find other ways to heal themselves.
+
+“Them’s fighting words!”
+Combat, the hallmark of any RPG (let’s face it, players only explore to find new things to kill), is going to be handled with a simple click of the mouse. If a target is in range, a sword icon will appear over it. If the sword as a line through it, then it’s time for a projectile attack or a magic spell. Blizzard is trying hard to stay away from the clickfest that was Diablo, players can choose from different techniques such as Attack, Defend, and Slice and Dice. Once players are in combat mode, it’s up to the gamer to choose which techniques and spells are best applied when, instead of jamming on the left mouse button ad infinitum.
+
+World of Warcraft“I’ve fallen and I can’t get up!”
+The most difficult part of any MMORPG to deal with (aside from everyone wanting to rule the world) is the concept of death. Several titles have tackled this in the past through various means, including loss of equipment, experience debt, or throw-your-computer-out-the-window frustration. It’s a nasty world online, and chances are likely that you and your loved ones are going to die. If death comes unexpectedly, players will find themselves back to health at one of the game’s many “bind stones,” a gathering of energies where the spiritual and the corporeal world overlap. Players will maintain all of their equipment, but will be assessed a penalty. Rather than have players spend hours simply trying to reach the shadow of their former selves, Blizzard wants them alive and back to full strength as soon as possible. How they have planned on actually achieving this, though, remains a closely guarded secret.
+
+Time to get a new 3-D card
+With all the talk of gameplay, it’s almost moot to point out that the game has simply stunning graphics. But no preview would be complete without an overview of the new visuals that will have players propping their eyeballs open with toothpicks.
+
+Despite Blizzard having the ability to create a world that’s realistic enough to simulate Big Game Hunter, they’ve chosen a much more ethereal approach. The visuals in World of WarCraft are more sublime than those in other RPGs. Instead of merely mimicking the world outside the computer [Yes, there is one - Ed.], Blizzard has chosen to create a world akin to the word “fantasy.” The entire game has a sense of the phantasmagoric. Night is not pitch black, but rather a deep blue that lets players continue adventuring well past their bed time. Monsters don’t look as though they’re from Reign of Fire. While they remain exceptionally attractive, there’s still a “not quite perfect” feel to them, which is what Blizzard wants. Rather than create a world that’s been seen before, they want to create something new, something that’s unmistakably WarCraft. Though the game’s technical specs haven’t been announced yet, a 3D card is required. Both first- and third-person views are supported, and players can switch between them on the fly. "We are still discussing how permanent changes would affect game play and world continuity, but small-scale events, on the order of spell effects or moving through snowy terrain, are ways that players can already visibly affect the environment," adds Roper. Does this mean we can track prey through the snow by their footsteps or see where a great battle took place due to terrian scarring? Time will tell.
+
+“Quiet! I think I hear something!”
+Apparently Blizzard doesn’t feel that this is worth going into significant detail on, but it’s likely that most of the grunts, clangs and screams that fans love from WarCraft III will be used in World of WarCraft.
+
+World of Warcraft“I want to be a beta tester!”
+You and the rest of the PC world. The Blizzard team is working round the clock refining the game before that's going to happen, but Roper was able to give us a heads-up: "We are working feverishly to get the game into the beta phase as soon as possible, but that means we need to have a level of content that is meaningful to test. We do not want to have people start testing and be done with available content in a few days, so we are being somewhat fluid with our milestones in this regard....Everyone in the company has the opportunity to play, and the development team is diligently sifting through hundreds of comments, making minor and drastic changes, all with the intent of getting the game to a very playable state before we sign up and unleash our (hopefully) rabid beta testers."
+
+“Will my 486 DX be able to run it?”
+According to Roper, "As always, we are striving to make this game accessible to as many players as possible both in terms of game design and hardware requirements." Of course, aside from Doom III, World of WarCraft will probably force more players to upgrade than any other title. "Fortunately, upgrading your PC is a fairly simple and inexpensive process," explains Roper. "The advances in technology are really staggering when you take a step back and look at how far the system sitting on your desk at work or home has come in the past 5 years. For example, a quick check online shows that you can buy a brand new, name-brand system with a Pentium 4, 1.8GHz processor, 128 MB of RAM, a 30 GB Hard Drive, 48x CD-ROM, a reasonable integrated 3D card and sound system and a 15” flat-screen monitor for $699.00. While this is not cheap, it is also a far cry from the days when buying a new system meant spending $3,000.00 or more." And as you can tell from our series of articles, having the right system is going to matter soon enough. Roper concurs, "More and more, games are going to be taking advantage of the power that today’s systems have to offer, so upgrading your PC is almost inevitable."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAMESPY interview
+
+
+
+World of Warcraft Interview
+Blizzard's VP of Game Design talks about this promising online RPG.
+Wednesday October 30, 2002 | Prophet
+
+
+World of Warcraft
+Today we offer the fruits of a recent conversation with Allen Adham, Vice President of Game Design at Blizzard Entertainment talking ever so briefly about some of the new features you'll find in the company's upcoming online role-playing game World of Warcraft. Grab a seat:
+
+    GameSpy: Provide some examples of some unique secondary skills.
+
+    Allen: We are going to have a wide variety of secondary skills ranging from First Aid to Toughness, from Wilderness Survival to Lockpicking, from Fishing to Alchemy.
+
+    GameSpy: Do secondary skills have prerequisites like primary skills do?
+
+    Allen: Certainly some secondary skills will have either prerequisite skills or a prerequisite class or level.
+
+    GameSpy: How important has the work that's been done on the Diablo series been to setting the groundwork for a Blizzard-branded MORG?
+
+    Allen: From Diablo, we learned a lot about what makes a multiplayer RPG fun and about what makes a community-based game successful. Even though Diablo is not in the strictest sense a Massively Multiplayer Game, it has many of the elements of a MMORPG and has taught us many applicable lessons. We also have a worldwide server base for Diablo and another for Battle.net, both of which have given us invaluable experience in designing the World of Warcraft server architecture.
+
+    GameSpy: How integral will Battle.net be to World of Warcraft? Will it use Battle.net directly in some way, or will it simply use components from it?
+
+    Allen: World of Warcraft has a new server architecture that was developed from the ground up with MMORPGs in mind, taking into account everything we've learned from Battle.net and Diablo II. When you log into the game, you will be logging directly into World of Warcraft.
+
+    GameSpy: Have there been any serious alterations to the lands in Warcraft III? Have you made any changes to the lands to make them more functional or aesthetic in WoW?
+
+    Allen: There have been minor changes here and there, but the geography is very true to its origin. The main thing we did was add a tremendous amount of detail to the existing lands, allowing players to explore the world in a way that hasn't been possible in any of our previous games. In the case where there were changes, they have been caused by events taking place in the world. For instance, the Northlands of Lordaeron and the city of Dalaran have suffered greatly from the undead invasion of Warcraft III.
+
+    GameSpy: Will many of the heroes that appeared in Warcraft III be tied into the plotline for this game?
+
+    Allen: You will definitely find the Warcraft Heroes intricately woven into the story of World of Warcraft. The lore of the world is well established, and notable characters from previous chapters of the story, both living and deceased, will appear in many forms in World of Warcraft.
+
+    GameSpy: Describe how combat will work, and specify what advantages this method of combat offers players.
+
+    Allen: Combat in World of Warcraft is faster paced than that in other MMORPGs, without becoming a "click-fest." When a player attacks a creature, he or she enters into combat mode. In combat mode, the character will automatically attack the target creature, but the player will remain responsible for timing the use of spells and special abilities to be maximally effective. Warriors and other melee classes will have a host of combat abilities to employ, and magic users will be able to cast a plethora of spells.
+
+    GameSpy: Tell us what "instancing" is and what advantages it offers players. How does it work with the rest of the world?
+
+    Allen: An "instance" is a private copy of a section of the world. It can be part of a dungeon or part of an outdoor area. No other players, unless they are part of your group, can enter your instance. By instancing certain areas of the world, we can better address issues of overcrowding and mitigate the common problems of creature camping and kill stealing. That being said, we are only instancing a small portion of the world. Most of the world will have all of the community and player interaction that are essential to a MMORPG. We want to cater both to players who want a more personalized game experience and to players who want a massively multiplayer game, and we suspect that most players will want a bit of both.
+
+    GameSpy: How safe are cities if you're playing a character from an opposing race (i.e. human going into an Orc city)? Are NPCs mindful of what types of creatures pass through their gates? Are there any racial prejudices?
+
+    Allen: It would not really be the World of Warcraft if the Orcs and Humans let each other pass freely into each other's cities. In fact, NPCs throughout the world will tie into the back-story, complete with factions, alliances, and conflicts.
+
+    GameSpy: Final question - did anyone at Blizzard consider (or at least discuss) bringing the StarCraft or Diablo franchises to an mmog format?
+
+    Allen: Oh yeah, definitely. We have strong contingents among our gamer-developers that would love to see both StarCraft and Diablo turned into MMORPGs. Both lend themselves to this format and both would undoubtedly make excellent MMORPGs. Who knows what the future holds? 
+
+Thanks to Gil and Allen over at Blizzard for making this happen. We've got a raincheck on all the questions that Allen couldn't answer and we plan on using it, so keep your eyes peeled for more on this game in the months ahead. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

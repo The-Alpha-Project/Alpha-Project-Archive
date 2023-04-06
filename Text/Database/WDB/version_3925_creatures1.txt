@@ -1,0 +1,11 @@
+Entry : 1535 | Name : Scarlet Warrior | Subname :  | Display Id : 2471 | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1545 | Name : Vile Fin Muckdweller | Subname :  | Display Id : 346 | Type: 7 | Static Flags : 268959744 | Beast Family : 0
+Entry : 1543 | Name : Vile Fin Puddlejumper | Subname :  | Display Id : 441 | Type: 7 | Static Flags : 268959744 | Beast Family : 0
+Entry : 1544 | Name : Vile Fin Minor Oracle | Subname :  | Display Id : 1005 | Type: 7 | Static Flags : 268959744 | Beast Family : 0
+Entry : 416 | Name : Imp | Subname :  | Display Id : 4449 | Type: 3 | Static Flags : 1048582 | Beast Family : 23
+Entry : 6491 | Name : Spirit Healer | Subname :  | Display Id : 5233 | Type: 7 | Static Flags : 2097510 | Beast Family : 0
+Entry : 1934 | Name : Tirisfal Farmer | Subname :  | Display Id : 3532 | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1935 | Name : Tirisfal Farmhand | Subname :  | Display Id : 3534 | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1547 | Name : Decrepit Darkhound | Subname :  | Display Id : 9021 | Type: 3 | Static Flags : 0 | Beast Family : 0
+Entry : 1553 | Name : Greater Duskbat | Subname :  | Display Id : 4734 | Type: 1 | Static Flags : 16 | Beast Family : 24
+Entry : 1910 | Name : Muad | Subname :  | Display Id : 2597 | Type: 7 | Static Flags : 268959744 | Beast Family : 0

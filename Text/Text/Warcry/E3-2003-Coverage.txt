@@ -1,0 +1,514 @@
+Next up! The meat of it all! King_of_Dragons just sent me a huge list of things he made notes about in his sit-down with the Devs. Below, you'll find a bulleted list of things that he made notes on. This will be cleaned up and organized today, but I wanted to make it available to everyone right now.
+
+Features/Misc
+
+    hour and a half to go from bottom to top of Azeroth
+    2 continents, Azeroth and Kalimdor
+    PVP will be consentual, 90% of world is non-pvp, 10% is
+    the Stranglethorn Arena will be player pvp. Players can buy tickets to fight dragons, hyrdras, etc.
+    Multiple players can fight a monster at once, but there will be limits.
+    Team battles, either groups vs groups or groups vs monster(s)
+    Guild battles planned, will be advertise
+    Spectators can buy tickets, eventually be able to bet on games
+    There will be about 100 or more "micro-dungeons" (which are actually quite large) that players can spend a few hours in killing monsters, quests, etc. Will be located all throughout the world. Not instanced. No loading entrance, to get in you will actually walk in it, no "doors" or dark areas that you go next to and loading "warp" inside.
+    Entire game has no loading after initial load, except for certain areas (instanced areas, some buildings like the Monastary). This is because the game is streamed to the user (90% streamed).
+    Cathedral of Light in center of Stormwind. Blizzard doesn't want people to come to cities just to trade/buy stuff, wants cities to be a place where players can adventure, do quests, etc. In Stormwind there are large statues of the heroes from past Warcraft titles (including War3x) with plaques on the base of each one showing the hero's name.
+    Stormwind will have multiple manors/districts (mage, warrior, trading, etc) which will be told apart by roof colors (red for warrior, blue for mage, etc). It also has a canal system (not fully implimented yet in the E3 demo) which will allow players to travel quickly (not instantaneously) between these areas.
+    The cathedral might even be used for player weddings! Players will be able to rent the room and buy/send out invitations.
+    2000-4000 players per server
+    Blizzard wants quests, story, and history as a major part of the game, so players can get involved.
+    Languages will work like this: Orcs start out speaking only Orcish, any characters of another race's text will show up as converted text, and the same is true with another race seeing your text. You can learn other race's languages, but not easy.
+    Attribute (Strength, Agility, Stamina, Intelligence and Spirit) and skill points obtained on level up ONLY.
+    Bind stones: talk to guy standing next to each (binder) and he will bind you to that stone. When you die, you return there. Several of these located throughout the world, can only be binded to one at a time. Most are near major cities.
+    Beta: want servers to be packed. Will last 8 months or so. Will do beta in waves, starting with a few and eventually open beta.
+    Biggest hurdle is content. Game looks like a released game in terms of graphics and gameplay at this point (and it's still only in alpha)!
+    Health recovers slowly over time, will speed up if sit or lay down (/sit, /lay).
+
+World Locations
+
+    Kalidar - NE starting location. It is a city located on the top of a HUGE tree. has wisps, moon wells, etc.
+    20+ big dungeons, Blackrock Spire is one of these.
+    Blackrock Spire was created by the Dwarves in ancient times. Some mishap happened (which will be learned) and the mountain was turned into a volcano. Orcs took over in Warcraft I but Humans ousted them. Since then it has been deserted, but lately evil forces have inhabited it, viler than the Orcs. There are 2 parts in it, the upper spire and lower spire. Upper spire will have Dragons in it.
+
+Classes
+
+    Human/Orc can be Warlock. Dark magic, summoning demonic spirits, take/drain life from enemies. Casts sleep, can summon felhound pet. Right click on pet portait to issue commands (like attack, heel, stay, follow, unsummon, etc). Can only have one pet out at a time.
+    When you kill something (you actually deliver the killing blow), there will be a magical effect on the corpse telling you you can loot it first. Different loot types.
+    Hunter (Dwarf can be this too): ranged weapon proficiency, can tame beats. Can only have one beast at a time, but can dismiss it to get another. This tamed beast will be name-able and will level up with you and grow stronger and larger. It can level to be up to 90% of your level.
+    Druids: can cast wards, shapeshift. When shifted, can only use that form's abilities. Can turn into bear, flying thing, and most interestly, rabbit. Rabbit form can't do anything but move, good for scout (enemies see it as a neutral critter, even when clicking, monsters won't attack).
+
+Items
+
+    5 slots for "bags". Each item will take up 1 slot. You can buy more/bigger bags with more slots. The more slots a bag can hold, the more expensive/harder to get it will be. You can put items in these bags and different bag types, like herb bags, arrow pouches, etc.
+
+Skills/Spells
+
+    2 types of spells/skills: Core and Secondary. Shown as X/Max, where x is your current knowledge over it's max, which goes up each level.
+    The more you use a skill, the higher it's level/effectiveness.
+    Gathering/herbalism: can extract ingrediants from herb bushes, find herb spell that will show dots on minimap where herbs are. Can turn on/off, but when on you can only walk (not attack or run).
+    These bushes spawn randomly, can't camp. Specific types that give specific ingrediants only spawn in specific areas, like in caves, coasts, etc.
+    Tradeskill window: Red spells are hardest to use (ingrediants rarer), but make skil go up more. Grey is easy, but little skill uppage. All these will always be successful (no aggravation by having to do it again and again). Reagants shown as have/need.
+    Works the same for herbalism, first aid, smithing, mining, etc.
+    You can buy recipes for all these (which will have level and skill requirements), but rarer ones will be only obtained through quests or find off of monsters.
+    Higher level tradeskills might require the player to go to a lab/smithy/etc to make the item.
+    Core skills require a trainer/money to buy. No skill point required.
+    Secondary skills require a skill point to obtain the skill, then it works like a core (not like D2 where you pump points into one skill).
+    When you use a spell, it will grey out and have a clock thing like the spell cooldowns in warcraft III.
+
+Transportation
+
+    Higher level char will get more and faster movement methods.
+    Gryphon taxis, go to gryphon masters which are located throughout the world in major cities and such. They can transport you to other gryphon master areas, but only the ones you have visited before (like waypoints). Once you purchase the trip, you will actually see the gryphon take off and fly to that area, all without any loading screens. Takes about 3 mins on the one I saw. You can't control the gryphon, but can look around. Players will be able to see you flying overhead. When entering a different zone, the sky/music changes (for example, entering Blackrock spire from Ironforge/Dun Morogh). The sky changed to a black/red and music changed. Good for scouting.
+    Boats will be same, can go places you have been. There will always be something to do on the boat, like quests (maybe attacked by pirates/harpies) or even gambling. Don't want people to be on the boat just being bored. It is NOT instananeous transportation, you will actually see the boat travelling to the destination.
+    World map not implented yet, but when there is it will reveal terrain once you get there (like Morrowind). No annotation option yet, but is considered.
+    Humans: Horses. Orcs: Wolves. Dwarves: Rams. Others unknown.
+    Mounts will have to be bought, not given. There will be quests to get them as well.
+    Low levels will find it easy to get one of their race specific mounts, but won't be able to get other race's.
+    If you wanted a human to get a Wolf mount, you would have to raise your reputation with the Orcs and such. Then you would look really Uber :).
+    Primary purpose of mounts is transportation, cannot fight while on them. Don't want everyone on their mount all the time.
+    Come in different colors/types/sizes. Provide armor bonus.
+    For now, there are summoned by activating an item. You auto get on it. Same way to dismount (mount disappears). Good way so you don't lose track of it and it will be always with you. Cannot use mounts indoors.
+
+Quests
+
+    Exclamation point above head of people who give you quests. Yellow if you can do the quest, blue if they won't give you yet but if you can get it later (when you are higher level).
+    Quests are shown when talking to them, and you can see description of the quest as well as the reward (which is sometimes a choice of up to 6 rewards). You can take multiple quests at a time, from the same person even.
+    Quest log shows all active quests, can change order by moving quests up/down. When you select a quest, you will see it's full description and reward(s) again, as well as your current status. Like if a quest is to obtain X items, it will say "X/7 items obtained."
+    There will be quests and tasks. Quests can only be done once and rewards are unique items you can't buy or find in that area. Tasks you can do multiple times and are simple things like deliver this item to this person.
+
+
+
+
+
+
+    I had a few question and answer sessions with various Blizzard employees based on the questions asked on this bnet forum thread. Here they are:
+
+    - Where are mounts kept when they are not being used by a character?
+    You summon mounts by using a scroll, and this is how it will be in the final game. You can toggle the mount as out/hidden by right clicking/using the scroll, which is a normal item you can keep in your backpack and shows the mount's stats. You can carry multiple mounts.
+    
+    - So far the only class with any ability to heal has been the Shaman, while we've seen or heard about a number of caster and melee types. Will there be a more healer oriented class, can the druid heal, or do they have any more information on the healing aspect of the game?
+    Druids can heal as well, and some of the other classes that are planned but unannounced will also most likely have healing.
+    
+    - About how many skills there going to be?
+    You start out with about 10-12 core skills, and you can purchase more of these with money. There are going to be a lot of secondary skills, but no numbers are known yet.
+    
+    - Any info on shadowmeld for the Night Elves
+    It is currently disabled, but will be in the beta/final game. The person I asked said that it will not only work at night, but be more of an ability that is night-elf specific and will in some way boost evasion. Also, it is not necessarily limited to NE females. Each race will have some ability that makes it unique like shadowmeld for NE.
+    
+    - Night Elf mount?
+    Unknown at this point. It will most likely be some sort of exotic animal found in Kalimdor (like one of those white tigers or something).
+    
+    - We need more info on factions. If I'm human will I be kill on sight to other races like Orcs or Night Elfs.
+    This is yet to be determined, but this is what I know so far. If an Orc goes into a Human city, it will be attacked on sight by the town's NPC guards. As of now there is nothing you can do to change this, as there are 2 factions so far: the Alliance (Human, Dwarf, NE) and the Horde (Orc, Tauren).
+    
+    - What are the rewards for winning a match in the Stranglethorn Arena?
+    You will recieve a normal item, but it will be unique in that it looks different, so people who look at you say "he won a PVP match."
+    
+    - Has he seen the quest engine for the GMs? If so, how elaborate is it?
+    GM's will be able to have lots of options in the creation/following of live quests. So a GM can go to a town and say "who wants to come help me kill X monster" or something.
+    
+    - Are there plans for consentual PvP in non-PvP areas? (In the form of duels, more or less) And Group consented PvP in non-PvP areas. (Like a group duel?)
+    There will be no non-consentual PVP at all, and PVP will only be allowed in chosen places (can't do it anywhere). If your side is dominating a PVP arena or something then more monsters may spawn on the opposing side, or even more interestingly, attack your Guild Hall, to give you a handicap.
+    
+    - Are gyrocopters going to be included? If so, would they consider including bicycles?
+    No current plans, but Blizzard is open about this. This could very well be in the final game. As for the bicycle, probably not.
+    
+    - Can you tell us more about Guild, Faction, and Racially based PvP. Will World of Warcraft actually have WAR? Will it be meaningful and affect the world and plot?
+    No specific plans yet; however, things you do will effect the world and trigger events (not always located near you either).
+    
+    - Will WoW have roleplaying-specific servers?
+    There is a good chance that they will due to user demand. We'll have to wait and see, but the person I asked was optimistic.
+    
+    - Will WoW have language-specific servers so people can play in their native language?
+    Yes, there will be various localized servers that will be in the language of that area. For instance, the server in Korea will be the default server in the Korean version of WoW. You will be able to connect to other servers if you wish.
+    
+    - Is the lighting and shadow in the game real-time?
+    No, it is pre-done but looks real. This is to save on processing and quite honestly, you would see no difference.
+    
+    - What classes are restricted to what races?
+    So far it is: Human/Orc - warlock, Everyone - warrior, Human/Dwarf - mage, Tauren/NE - druid, Orc/Tauren - Shaman, and Dwarf/Tauren/NE/Orc - Hunter.
+    
+    - Do any classes get "familiars" whose body they can inhabit or look through, like a black cat or owl etc?
+    None of this planned (seeing through eyes of hireling), but the warlock, hunter, and mage (high level) can summon creatures to fight for them. The druid can also turn into a neutral critter creature (like a bunny, rabbit, squirrel, etc) and be able to spy/scout. Familiar has not really been discusses as of now.
+    
+    - Will some skills be particularly difficult to acquire or train, leaving them to "elite" players?
+    Yes, some skills will be very rare and hard to find (like from hidden trainers, high level monsters rare recipe drops, etc).
+    
+    - How much do players have to specialize to maintain maximum effectiveness; does taking a crafting skill mean you're necessarily weaker in combat?
+    Using just their core skills players should do fine, but specialization will make life easier :P.
+    
+    - With all the new classes going around will there be a shadowmage/dark elf type class floating around? Cause Dalamar kicks total arse. . .well except Raistlin's. . .
+    Nothing like this specificilly planned, but who knows what Blizzard might announce!
+    
+    - Can you fight underwater?
+    Yes, but you move slower than you do on land. You will also be able to cast spells and use abilities underwater, though some might not work very well (like fire spells).
+    
+    - How long can you stay underwater, and is it based on stamina or skill in swimmin?
+    No current restriction, but there will be something (you can't hold your breath forever). If so, there could be a skill that lets you stay underwater longer/forever.
+    
+    - What is the Tauren mount?
+    They most likely will NOT have a mount. The person I asked said that they will be able to run as fast as any other race's mount. However, they will be able to take the Gryphon taxis and such.
+    
+    - Wondering how the 1st person aspect and ranged weaponry is going to work. Crosshair? Auto?
+    It works the same as 3rd/melee. There is no crosshair since it auto-aims on the monsters they you have selected.
+    
+    - how much is the damn game gonna cost per month?
+    The exact price is not known, but it will be around the same price as all the other MMORPGs.
+    
+    - How fast is combat with a single creature? How will a player's combat power scale to a monster's power, when both at same level(is it like AC2 where one monster will beat the crap outta you?)? Will it be mostly one-on-one fights, or usually groups of 2+?
+    If you're fighting monsters you should be (around your level) then battles should last around 30-60 seconds. Blizzard also doesn't want people to camp and pull monsters to them (hence the random spawning locations). There will be no long waiting to heal like other MMORPGs since Blizzard doesn't want people having to waste time just sitting around to heal (this is a game, should be FUN). In a 1on1 fight with a monster of the same level, it should be close if you nor them use any spells/abilities. However, if you use your spells/abilities then you should win.
+    
+    - Are healing potions the only type of heal, or will there be healing spells?
+    No, there are several methods in which you can heal. These include sitting, laying, casting healing spells (casted by and on you), first aid, alchemy (making potions), eating food, etc.
+    
+    - If a druid shapeshifts into a flying animal, can it be attacked by melee?
+    Yes, the druid's air form is a condor, and it hovers a certain height above the ground, not really flying. It can attack and be attacked by melee monsters.
+    
+    - If a hunter tames an animal as a pet, can he use it forever, or will the animal eventually become useless? Yes I know they level, but will a bear tame, be more powerful then a tiger tame?
+    Yes, he keeps it forever. The second part depends on the monster's level and other factors (like the spells/abilities they have).
+    
+    - What is the max level if any?
+    Not decided at this time. The beta is when decisions like this are made.
+    
+    - Has anything been reveiled about underwater environments?
+    There will be underwater (and underground) environments. Such environments include sunken ships and underwater temples.
+    
+    - What race were the characters performing the ritual?
+    If you are talking about the new Blizzard E3 gameplay vid, then it was Human.
+    
+    - Will some mount be better than others? rarer etc...
+    Yes, there will be quest mounts that are better than regular mounts. The exact advantages are unknown at this time, though might include things like faster running speed.
+    
+    - is dual wielding going to be a skill or automaticly on every char with damage or hit modifiers on it, possibly skills to help the modifiers?
+    Dual wielding won't be a skill you can start out with, as it will require a certain level to learn. It is unknown about specific skills to boost dual wield, though skills like double slash and the like are likely.
+    
+    - How long does it take to reload a musket? can muskets be imbued? is there a "hand musket" (apoligize dont recall real name of it.)
+    Muskets are reloaded automatically (the weapon cooldown between shots). Yes, there will be rare (soulbound) muskets. No one handed muskets are planned at this time, though I wouldn't count it out (remember, the game is still in alpha). If no one handed guns are out at release, they could very well be released in a patch/expansion.
+    
+    - will there be a pvp level restriction?
+    No, level 1s will be able to duel each other. However, a level 1 cannot duel a level 50. The exact max level difference for a dual is unknown, and will most likely be decided in the beta.
+    
+    - will there be a group level restriction?
+    No, you can join a guild or party at any level. Groups and guilds will probably be able to set level restrictions, though.
+    
+    - mount will be summoned with items, how? what kind of items, how long cool down, how long to summon.
+    I answered most of this question above, but there will be no cooldown and the mount appears instantly.
+    
+    - will language be a secondary skill or a class of its own?
+    Secondary skill.
+    
+    - will sign language be a language?(just curious)
+    Probably not.
+    
+    - If he gets the chance could he find out the rest of the classes hehehe? Also are the classes simply the only classes available or will they have sub-classes, like under Warrior might be Paladin etc?
+    They will be announced when they are :P. There is no plans at this point to have subclasses, though you can be like a paladin with your build.
+    
+    - Info on fishing!
+    Still in development. Expect to see the "little things" like this to be developed during the beta.
+    
+    - Hey King, If u can, ask them about Orcish towns and such I am really excited about learning about them :D
+    Blizzard is making the architexture for the Orcs true to the rest of the Warcraft series, so expect to see things like burrows and lots of spikes!
+    
+    - Will the game be playable on a satellite internet connection? Will the game be playable on a dialup connection that only connects at around 24k?
+    If the satellite internet connection is fairly stable, yes. The game will also be playable (emphasis on playable) on a 24k connection, though you may experience lag (duh).
+    
+    - What is the name of the Tauren city seen in the movie and screenshots. Where is it located?
+    Tauren city is called Thunderbluff and is located somewhere in Kalimdor.
+    
+    - Will Lordaeron be in the initial release of the game? Can we see it? :P
+    The world is still being worked out, but it very well may not be in the initial release. I would however expect to see it eventually in the form of a patch/expansion. It also doesn't have to be all added at once, so patching it in a piece at a time is possibl
+    
+    - Will inter-racial guilds be allowed if races can't talk to each other? Will you have to wait to form your guild until you have you language skills up?
+    Alliance races will not be able to ally or party with Horde races. So far the Alliance is comprised of the Humans, Dwarves, and Night Elves and the Horde is made up of the Orcs and Tauren.
+    
+    - We all know this is Alpha and all, but a Water shot, does it move or is it just kinda sit there, since there will be water craft just curious.
+    Currently no special effects like waves are planned, but this is not ruled out. It depends on what Blizzard has the time to get to.
+    
+    - Are you sure that the mounts wont contribute to combat? In the IGN preview it said Blizz was thinking about it, but it seems like you knew that mounts will only be for travel.
+    It is a possibility, though things like this will be figured out in the beta.
+
+    
+
+
+
+
+
+ 	
+    Here is day three of my E3 coverage. I would've had them up earlier, but I just now got back home to my computer :P.
+
+    - Will the money types in the game automatically convert to the higher types? For example there are 100 pieces of copper to every piece of silver, and you loot 128 copper from a corpse will the game auto-round for you and give you one piece of silver and 28 copper?
+    Yes, it will automatically convert 100 of a lower denomination into 1 higher and vice versa.
+    
+    - I would like to know how in depth the quests can get. Will there be certain quests that can take very long periods of time with increasing rewards on the difficulty/length of the quest?
+    Yes, there will be epic quests that can take weeks, even months to complete. As to the rewards or difficulty increasing after you take on the quest, that is doubtful.
+    
+    - Can a Human ever become as strong as a Tauren of equal level if they both tried to train strength or would the Tauren always have the realistic stat advantage, while lacking in areas where Humans excel?
+    It is certainly possible for a Human to have as much strength as a Tauren using items that have + strength. However, being able to have as much base strength is yet to be decided.
+    
+    - Will there be spell trees, and how much will intelligence effect damage?
+    There will be no spell trees, but there are different levels of spells (like Fire I, II, etc). To level up a skill you must reach a certain proficiency with it, and you may need to go back to a trainer to learn a more powerful version. If this will require a skill point is unknown.
+    
+    - Will there be nagas in WoW?
+    Likely, but not a sure thing. Depends on if Blizzard can find a way to implement them.
+    
+    - Will there be any type of lore books in WoW, like in Morrowind, where there are books that tell of the history of the world?
+    While it is not planned to be like Morrowind, where there are tons of books pretty much everywhere, there will be something like this. These items will most likely be quest rewards.
+    
+    - Will there be instruments in WoW like in AC2?
+    It's a possibility but not currently planned.
+    
+    - If you are in the middle of combat, will another player be able to join in and help attack the monster? If so, do they have to be in your party? Can a race of the opposing faction join in? Also, will other monsters be able to join in on the side of the original monster?
+    The answer to all these questions is yes, and the player that gets the killing blow has first priority on the loot (unless it's a party and the loot option is set to something else).
+    
+    - Why can't Alliance and Horde races be in the same party?
+    Because the whole game is based on those two opposing factions. It would kill the storyline to have them able to ally. It is possible that this could change, however, if people don't like it and/or Blizzard changes their approach.
+    
+    - Will there be Alliance vs Horde battlefields that act as PvP zones?
+    Yes, these areas would be only Alliance vs Horde fighting, meaning that Alliance races can't fight each other (no Human vs Dwarf) and the same with Horde races.
+    
+    - Will there be item wear/decay (durability)?
+    No.
+    
+    - Will mages be able to use shields?
+    Most likely not, as their staffs are all two handed.
+    
+    - Will some of the harder quests be easier to find for mid-high level players, assuming you don't have much time to play the game?
+    Yes, any player that meets the requirements of the quest (level, race, etc) can do a quest. Blizzard doesn't want to make a game where you have to play for very long sessions just to get something done, so all quests will be continual.
+    
+    - Approximately how many classes for each race will there be?
+    While no number has been set in stone, there should be at the very least 5 per race at launch.
+    
+    - There is mass confusion about which classes will be available to who. Please clear this up.
+    The exact classes that will be available to each race are still undetermined, but will be decided in the beta.
+    
+    - In several videos we have seen that many monsters don't attack you until you attack them. Is this just because of the current stage of the game or will it always be like this?
+    There are two types of monsters, aggressive and neutral. When left-clicking a monster, a little circle will appear under it. If this circle is yellow, the monster is neutral and will not attack you unless you attack it first. Monsters with red circles will attack you if you come within a certain range of it, and the range varies on the monster. Also, other factors may come into play that changes (or eliminates) the range, such as spells like invisibility or possible stealth skills.
+    
+    - There is a widespread concert that the game world is too small with only Azeroth and Kalimdor. Will Lordaeron make beta or release? What about Northrend? And what do you have to say to these concerns?
+    Regarding the continents, Blizzard said "no comment," but they say that the world as it is now is HUGE, and will have more content at release than Asheron's Call 1 has now (and AC1 is known for its massive content). Also, more lands will be made available through content updates (patches). Ultimately, it is certain that any expansion set will add new lands (there probably will be an expansion set that will add Northrend, for example).
+    
+    - With all the race restrictions as far and grouping and guild restrictions being what they are, is Blizzard aiming for a DAoC-like theme? That is, are they setting the stage for a Horde vs Alliance type scenario in the game where this will be a major part of PvP?
+    Yes, there will be a heavy Horde vs Alliance theme. Also, Blizzard confirmed that the plan now is for no cross race-grouping and guilds will have to either be Alliance or Horde. They don't think that this will change, even with gaining a good reputation with the opposing race, but this isn't set in stone.
+    
+    - If you keep walking to the edge of a cliff will you automatically fall of or will you have to jump off?
+    You will automatically fall off of any cliff or ledge if you walk past the ledge of it.
+    
+    - Will players be able to turn corrupt, like Arthas?
+    It is too early to talk about this, as the Undead aren't a major part of the game as of now. We'll have to wait and see.
+    
+    - Will there be any Necromancer or Death Knight classes?
+    There are none planned at this time, but that isn't to say there will never be one.
+    
+    - Can you lay siege to cities with siege weapons like catapult/ballista? Can you destroy buildings with these?
+    There are no plans for any of this at this time, but you will be able to kill the NPCs of an opposing faction's town.
+    
+    - Are you planning on making a war when there is a period when both factions are at war and can kill each other at any time without permission?
+    This type of PvP will only be allowed in set faction battle zones.
+    
+    - When casting invisibility on yourself, will your pet remain or will it disappear? If it remains, can it still attack? Also, will you be able to cast invisibility on others?
+    Your pet will remain and still be able to attack enemies. There was also an invisibility potion at the E3 demo. While invisible you will not be able to cast any spells or attack without breaking invisibility.
+    
+    - When invisible will you be slightly visible (like the warping effect seen on cloaked units in Starcraft) or will you be totally invisible?
+    You will be totally invisible, unless of course anyone has an item that lets them see invisible characters.
+    
+    - Will there be a Demon hunter class?
+    Unknown at this time.
+    
+    - How many ring slots will there be?
+    One for each hand (2 total).
+    
+    - Will there be armor dyes in WoW?
+    Yes, armor dyes were even in the build at E3 but were not yet implemented. Most likely, most (but not all) items will be able to be dyed, and only armor. Blizzard wants players to have as much customization as possible.
+    
+    - Will there be GM events?
+    Nothing is yet implemented but Blizzard is considering how to implement this.
+    
+    - Will there be server-wide events like "Best of the Best" (from Everquest) where the best of each class is picked?
+    Nothing is planned but it is still too early to tell. Stuff like this is usually done shortly before launch or after.
+    
+    - I want to know more about this statement: "On the E3 floor, Blizzard is revealing two new and uncharted regions in the land of Azeroth - the Deadmines and the Monastery - that will offer gamers countless quests and rewards."
+    This was not in the E3 build but could have been in builds shown to certain sites in private screenings.
+    
+    - I want to know more about the Dwarven mount: the ram.
+    The only mount in E3 was the horse, so I cannot tell you much about this. Expect to see more about this soon :).
+    
+    - What are the limitations of character movement? Will you be damaged if you fall from a certain height and can we climb walls? And will we be required to enter the water at specific points, or can we just jump in from anywhere?
+    Well, Blizzard wants it to as easy as possible to move around in WoW; for instance, there are no collisions between units (you can walk through people). In the E3 build you could fall from any height and not be hurt, but it's undecided how it will be in the final game. Climbing walls and such (like ladders) will most likely be in the game. Regarding the water entry points, you can get into the water from anywhere (just jump or walk in) but to get out you have to walk up somewhere like a coast or bank.
+    
+    - Is WoW going to include "soulbound" or "nodrop" items? Will you drop items when you die?
+    Yes, there will be soulbound items in WoW. Blizzard knows that most players do not want to lose their hard-earned items when they die or in any other circumstance, so you will not be able to lose your item unless you want to.
+    
+    - We know that the Druid in condor form can float, what advantages does this have and will there be a levitate spell or something that other classes can cast?
+    The druid in this form can move pretty fast, and does not have to worry about going over small rocks and the like. Currently, there are no plans for a levitation spell but it is still too early to tell.
+    
+    - What sort of ores will we be able to mine?
+    The guy I asked said there will be tons of ores, such as gold, silver, copper, iron, and coal as well as there being lots of gems you will be able to mine like diamonds and such.
+    
+    - Will there be a variety of options at character creation that will allow for diverse roleplaying?
+    Blizzard wants their characters to be customizable to the extreme, so pretty much anything that will be customizable will be. Things like Tattoos and scars are still being worked out.
+    
+    - Can you buy/hire mercenaries like in Diablo II to aid you?
+    Undecided, this will be decided in the beta, though if it's not in it could be added in future expansion sets.
+    
+    - I think having mounts in your backpack seems wrong, why don't you have some kind of "bind stones" for your mounts?
+    Well, this is just the alpha but Blizzard wants people to have as much fun as possible, and this way is the easiest way for players to summon their mounts. Sometimes realism has to give way to playability.
+    
+    - Will Hunters be able to mount their pets?
+    Probably not.
+    
+    - Will you be able to make world events happen that will effect most players?
+    Yes, some quests will be one-time quests (the first person who completes it is the only one that completes it) and some of these quests will be able to affect the world in a major way.
+    
+    - Will you be able to choose the starting attributes for your hero (like strength)? Does it vary based on your race, class, and gender? Will skills be able to increase your attributes?
+    Each race will have specific starting attributes that are the same for male and female (Tauren will have more starting strength than Humans). Also, what class you choose will most likely effect this in some way (like mage might give -5 strength and +5 spirit). Skills like Bloodlust will be temporarily able raise your stats. When you level up, you will gain stats based on your class and also have some extra points to assign to customize your character.
+    
+    - Since it is known that an Orc player will be able to attack Human NPCs, will NPC guards be invulnerable or high level?
+    NPCs all have levels, which can be seen by clicking on them. Guards are usually higher levels and they have good equipment, so killing them will not be easy, especially if they call their fellow guardsmen to help defend them. Also, guards in major cities will be higher in level than the guards in smaller cities.
+    
+    - Will NPCs respawn if killed? If so what is the delay and where will they respawn?
+    Yes, NPCs will be able to respawn if killed, so you can't kill off all the NPCs in a town and have it deserted forever (unless Blizzard makes a quest like that or something). The delay and where they will respawn is yet to be decided, but will be decided in the beta.
+    
+    - Will there be special effects like trees swaying in the wind, waves in water, "water rings" being formed when something hits the water, and will stuff like bushes move when you walk through them?
+    Blizzard is still working on more important things (stuff like this comes last in development). However, I would expect some of these things to be in. There will also be elemental effects on weapons that might affect the surroundings in some way, like ice arrows might freeze an area for a while.
+    
+    - Will there be a huge difference in weapon stats between the qualities of weapons (like between normal and epic)?
+    There will be lots of balancing in the beta but weapons will range from low quality to epic quality.
+    
+    - How would someone be able to acquire an epic item?
+    High level monsters will sometimes drop these and there will be some you can get as quest rewards.
+    
+    - How will being in a party effect the experience you gain?
+    This depends on several factors. If everyone in the party was around the same level, then they wouldn't get less than they would if going solo, though a bonus is yet to be decided. However, if there is a low level character in a high level party, that low level will get barely any share of the experience.
+    
+    - Will the beta test be worldwide?
+    Blizzard is still thinking how they are going to go about doing their beta, though at least the open beta will be worldwide.
+    
+    - Will there be PvP servers?
+    This is a large issue, and Blizzard is still considering whether or not they will have these. They are looking at other MMORPGs and what worked and what didn't.
+    
+    - Will there be any thief or assassin class.
+    Nothing has been announced.
+    
+    - How does party linking work?
+    Blizzard plans on making a raid interface to control party linking, with each party being like a squad.
+    
+    - What do ritual spells do and what is required to cast them?
+    Ritual spells are cast by one player starting it by casting a ritual spell on the ground. Then the other players cast their spell on it adding to the effect. A ritual spell with all its components is a very powerful thing.
+    
+    - Since the Griffon master is a Dwarf (alliance), will there be some sort of similar system for the Horde? Maybe like a Wyvern master?
+    This is a possibility.
+    
+    - What is your stance on characters switching servers? If you allow this, will it be free?
+    Blizzard is leaning towards not allowing characters to switch between servers.
+    
+    - Is there any chance the Pandaren will be a playable race?
+    There is always a chance but it is not very likely.
+    
+    - Will NPCs move around and wander through a town? If so, will they ever move between towns?
+    Ye, some NPCs will be stationary and some will move around. Some will even travel between towns.
+    
+    - How will the time of day effect gameplay (like will some monsters only come out at night)?
+    Blizzard is experimenting with and want to do this.
+    
+    - Will there be seasons? If so, will these effect gameplay?
+    There will most likely not be seasons.
+    
+    - What weather effects are planned and what impact will they have on gameplay.
+    This is an issue still being discussed, but Blizzard doesn't want things like snow to slow characters down.
+    
+    - About how many races will there be at release?
+    Not yet ready to release this information but you can probably expect at least a few more.
+    
+    - Will low level monsters attack a high level character?
+    Yes, most low level monsters will stay away from a high level character.
+    
+    - What will the high-end encounters be like? In games like Everquest they take many hours just to get to the "boss mob" and then another hour or more to defeat it. Will World of Warcraft be similar, or will they be shorter like normal fights?
+    Blizzard wants the boss mobs to be available to all characters, not just low levels. These monsters will be complex and will require strategy to take down (not just everyone attack it until its dead), but most will not take an hour to defeat.
+    
+    - Will there be any of the high-end content available to lower level characters?
+    Yes, Blizzard has plans for things that will affect whole continents. For instance, there might be an invasion of your continent by the Undead or something, and all players will be called to defeat them.
+    
+    - Will items have stat bonuses?
+    Yes.
+    
+    - Will there be "crowd control" spells like sleep, confuse, mesmerize, etc?
+    Yes.
+    
+    - How will your rating with a specific group/race/etc effect gameplay.
+    Your rating with a group will effect how much the vendors charge (or if they sell to you at all), quests, and more.
+    
+    - How will I be able to raise my rating with a group?
+    Doing quests and tasks for them will raise your rating with them, and there will probably be other methods as well.
+    
+    - Will the beta be on a "first come, first serve" basis?
+    No, it will be like previous Blizzard betas, random. Eventually there will be an open beta.
+    
+    - Will any of the "boss mobs" be characters recognizable from the Warcraft series? For example, exploring the tomb of Kil'Jaeden and fighting him.
+    Yes, Blizzard wants history to be a big part of the game.
+    
+    - Was there a mac version of WoW at E3?
+    Yes, I played it :P. Didn't even know it was a mac until my friend pointed it out. 
+
+
+
+
+
+My E3 WOW Impressions (Very Positive, long)
+By sproket
+
+    I had a good few hours to spend poking around at the WOW area at E3. They had an large and well staffed area staked out with lots of machines and employees to talk with about the game. All really friendly and excited to be showing it off.
+
+    The first thing one notices about this game is just how amazingly clean and together everything looks. The artwork is top notch, there is no question that this game is a labor of love and dedication by a lot of highly talented indiviudals.
+
+    As you walk through the world you can stop at any point and look around and the scene will look as if a painter had spent time making that one spot something special. The environments are lush, detailed, and artistic with a healthy amount of unique and fun looking landmarks to help you find your way around without a compass. The ground frill (grass and weeds, etc) is the best i have seen in a game yet, with lots of variety and a very natural feel to it. The world feels alive and vibrant and always full of mood. Unlike many MMORPGs where a forest is just a bunch of trees, the WOW artists have really given some thought about what a player should feel like in a particular forest. Some are haunting and spooky with sound that support the feeling, and some are fresh and open, you can almost smell that cold wintery air. Texture art is flawlessly high quality and styleized. I could explore WOW for weeks without the need to raise a weapon at all. Really very impressive.
+
+    The second thing that struck me was just how much progress has been made on this game since I saw it at the last E3. A new and very easy to use GUI is in place, new characters, races, places, features, animations, spell effects, quests, sounds...everything is feeling extra tight. The speed at which blizzard is able to pump out such high quality work is really quite stunning. If this is the kind of progress we can expect to continue after the game is launched we are all in for a real treat.
+
+    Details-wise blizzard does not mess around. From the little puffs of white powder and chunks of pressed snow flipping up from your feet and trailing footsteps behind, to vines and frill gently waving in the breeze. Birds realistically fly about and wildlife teams all around. Blood splatters on the ground (blood in a MMORPG! about time!) critical hits are messy and rewarding.
+
+    I got a bit of time to play the druid class which seemed to be a rare pick on most of the machines. The druid I played had a few shapeshifting forms available. Cat, Bear and Bird. The bird doesn't really fly but hovers, more of a speed advantage it would seem although in the current beta it seems a bit on the slow side. Still very fun to play with and fight in the forms. Each form has its own attacks (like Maul) that are only available in that shape. Graphically the shapshifts were a bit quick for my tastes, more of an instantanous flash than a slower morph with nifty effects (again, this is a beta so we'll see where it goes).
+
+    The GUI is so easy to use I had it down pat after just a few moments. Intuitive hotkeys bring all the necessary inventory and character menus up. They are extremely clear and fast. Quick hover text appears on all items and particulars without neededing to wait for it. Common emotes are available through a heirarchical menu near the chat area, so you can choose to browse and click them or type them. Chat text is antialiased, of good side and very clear to read. It floats over the camera area but remains easy to read in light or dark background situations. This has clearly been given a lot of attention (Thank goodness! anyone who has played AC2 or Neocron will know what i mean). Chat needs to be clear, attention getting and easy to read, WOW does not dissapoint.
+
+    Character and camera movement is excellent and has a lot of options that allow you flexibility on how you move your character in differnt situations. It is very simple through click and drag mouse movements to view your character from any angle or to quickly adjust the follow angle of the camera.
+
+    The machine I was using used the arrow keys to turn my character and camera simultaneously, and the WASD (and QE) keys to move and turn and strafe my character independant of the camera. I'm sure this is all customizable, although I didn't try at the time. They were plenty acceptable for me. Overall they felt really natural and easy.
+
+    Movement onscreen was smooth and seemd to render really well. A blizzard employee told me he belived the machine I was using to be in the 2.5ghz range with a high end video card. Viewing a dense forest from a hill full of critters, frill, haze, fog, mountains in the distance, clouds and all that jazz was showing no signs of hurting the framerate. This is really well showcased by taking a griffon ride (you can't hop off them mid-ride unfortunately, hint hint) over the country side and having a look about. Great viewable distance and detail with a nice smooth framerate. This is really going to be quite a treat to play when it arrives.
+
+Some other quick notes:
+
+    The quest system was nice and solid. NPCs were talking and interactive. Static dungeons are like nothing you have ever seen in any MMORPG to date. One I was wandering around in looked more like a QuakeIII level with lava pouring all over the place, complex geometry and detail abounding. Tradeskills looked active, with abilites in place allowing extracting herbs from bushes and plants. I caught a glimpse of someone swimming around the wreckage of a sunken pirate ship (they had turned off drowning for the demo) with fish and great swimming animations. The lighting engine is beautiful at night, with dynamic torch lighting and cast shadows. All of the animation is top notch and expressive. The panther type and snowcat pets are simply awesome, charmed mob pets are available and working.
+
+    In closing if Blizzard keeps this up and doesn't meet with any major server issues, this may be one of the most finished and solid betas the MMORPG community has seen yet. Imagine buying a MMORPG with the features that are touted on the box actually being in the game and not "due to arrive at some point down the road when we get around to it".
+
+    I left E3 drolling with dreams of having this installed on my machine where I could poke at it for hours. The WOW world is fun and inviting and after just playing for an hour had brought back that fresh feeling of exploration and excitement that has been missing from MMORPGs for a long time now. Well done Blizzard!
+
+Signed,
+
+One very impressed gamer.
+
+
+My Impressions of WoW
+By AmPriS
+
+    I was at e3 this year and got my chance to play world of warcraft a little.
+
+    First lemme tell you where im coming from.. I am a EQ player lvl 65 shaman on vaz in an elemental planes guild. Ive seen it all in EQ i know whats good about it i know whats bad about it.
+
+    Anyways, here i go. I mainly played the shaman class, they had a lvl 43 female orc shaman set up there premade,, Now thats funny because told me they were looking at lvl 40 for the max lvl right now. Anyways the shaman had some cool spells, offensively it focused on lighting spells it had stormbolt which stunned mobs for a nice period of time. It also had lighting shield, my only gripe on that was the graphical effect of it didnt stay on for the spells duration but they said they were working on that. They said the shaman would be melee oriented but all i saw were ranged spells. Either way its cool but if they were gonna make the shaman melee oriented they could atleast give it some cool self buffed lighting melee strikes. The shaman also head ressurection spells, and rejuvenation spells. I love heal over time spells soo much,, mainly becuase they were fun in EQ. Now what i did like so far was that spells got interupted right when you got hit with no chance of channeling. Of course this will probably be fixed sooner or later since it was only an alpha. The shamans skills i payed attention to where the alchemy, im not sure if other classes get this but hopefully thats a shaman specific skill. Anyways it listed all the recipes in the skill window.. No more goin to www.eqtraders.com and printing out endless lists of recipes. There was also a skill called herbalism which let you find herbs. It was cool to see it in action herb locations appeared on the mini map. She also had a mount. It is a secondary ability, no going to the bazaar and spending 100k pp on a horsey. It was simpy a secondary skill you attained. It summoned a cool wolf. Looked awesome. Thats as much as i got to play with the shaman. I mainly played the shaman.. but i saw other classes get demo'ed. They had a similar in level warlock, which was a male orc, looked cool also. It was lifetap style and mana and life transfering spells along with pets and various other spells. Similar to EQ. But what was different was the pet system. I was shown two different pets that the warlock could summon. An imp, which was a mini spell casting demon which looked like a goblin and some mini inferal looking thing that glowing purple which constantly lost life. They were very cool. And how they explained it the pets would scale in ability with the caster. This is the same for the hunter pets though. I really thought it was cool how thier pets worked.
+
+    Thier pets worked kinda like mercinaries in D2. You first attain a pet when yer low lvl from various animals in the surrounding area. And they level up with you and become stronger and bigger. It not like the dumb EQ system when you get new pet spell_003 when your each lvl 30. You keep the pet and it levels up with you. The cool thing about the hunter is that its a ranged fighter. More or less,, Most of the Hunter classes use bow and arrow but the Dwarf and tauren use Guns.. I was very happy that the tauren also used guns, mainly because guns are cool in games, and it would of sucked if only the dirty dorfs got to use em. Anyways they had cool little ranged abilities that did damage to mobs. The only problem was thier monster hate system still had some bugs in it.. The mobs would be pissed more at the player then at pets which the mobs should of really be attacking the pets instead of the player.
+
+    I also got to see a Tauren warrior in action. They explained that the warriors would be close range AE damage dealers. They want the game to focus less on CC (crowd control) and more on mass ass kicking of monsters. I agree with that.. but i found the lack of crowd control to make the game dependent on certain classes. Which crowd control may legitimately be needed.
+
+    During my play of the game i was booted off so a blizz employee could do a press demo. Sadly i doubt this person they were demo'ing it for had any clue wtf an MMORPG game was. Anyways he showed the person all the classes and all the different type of zones.
+
+    While i was there i was able to question them about my concerns for WoW. They were mainly end game concerns. THey said they would try to keep the Amount of people needed for high end encounters to a realistic number,, and not like 70+ that is needed in EQ for some things (RZTWL,Bertox,Rathe). They also said they would have enough high end content to satisfy people and get rid of the need to camp things. Their talk of having enough high end content to satisfy people is umm a big promise to live up to as more and more people become high level and raid mobs become more and more rare to see up for more then a day.
+
+I forgot to ask about my concerns of force reliance on certain classes like Clerics + warriors.
+
+
+That is all i can think of to write about. Please excuse grammer also. 
+
+

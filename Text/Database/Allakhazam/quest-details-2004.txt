@@ -1,0 +1,5987 @@
+ALLAKHAZAM QUESTS PARSE 2004 FROM WEBSITE (url.quest.html?wquest=X)
+
+
+
+
+
+
+
+
+
+
+Quest: Researching the Corruption (Elite)
+Info:Who:Argos NightwhisperWhere:Stormwind CityAttain:19Level:24Coin:37 55 Items Needed:Corrupted Brain Stem (10)Side:AllianceRelated Zones:DarkshoreRelated Areas:Blackfathom DeepAdded: May 28th, 2004Updated: Aug 16th,2004
+
+
+
+
+
+Objectives:
+Argos Nightwhisper in Stormwind City wants 10 Corrupt Brain stems.
+Game Description:
+Foolish blood elves toil with demonic magic. Have they not witnessed what happened with the naga and with the satyrs of Kalimdor?I fear that the blood elves will meet a similar deformation. Azeroth cannot afford to give birth to another vile race of monsters.I wish to study the brain stems of the satyr and naga so that I might deduce what fate the elves are headed toward. In northern Darkshore, in the thorny caverns of Blackfathom Deeps you will find both satyr and naga.'Tis a long journey, <Name>.End Text:Once I have enough samples to study, my true work can begin. With the corrupted brain stems of both the satyr and naga of Blackfathom Deeps I can try to draw correlation between the mutations.
+
+Perhaps with that gained knowledge we can prevent the blood elves from delving deeper into deformity and evil.
+
+Required items: 10 Corrupted Brain Stems
+
+Click Continue
+
+You have traveled far and undoubtedly faced great peril.
+
+Your actions have been selfless. 'Tis for the good of all Azeroth that yo help me with my research. I thank you, <Name>, for all that you have done.
+
+Now if you'll excuse me I have much work to do...
+
+Choose your reward:
+
+
+
+
+
+
+Quest: Cenarius' Legacy 
+Info:Where:Stonetalon MountainsLevel:25Side:HordeAdded: May 25th, 2004Updated: Sep 3rd,2004
+
+
+
+
+
+Objectives:
+Kill 4 Sons of Cenarius, 4 Daughters of Cenarius and 4 Cenarion Botanists for Braelyn Firehand near Stonetalon Peak.
+Game Description:
+You cannot imagine the hatred I possess for this wretched land. The ilk of Cenarius and the kaldorei druids at the peak employ their pathetic powers to stifle the flow of magic, even so far south of their pathetic holdings... their beloved forests.Would that I could return to Jaedenar and exult in the flow of magic, but my master will not allow me to return until my work is done.I have no doubt you love the night elves and their allies as little as I. Aid me, and both our ends might be satisfied.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Mercenaries (Elite)
+Info:Who:Magistrate BluntnoseWhere:Loch ModanAttain:12Level:19XP:360Coin:25 63 Related Mobs:Mo'grosh BruteMo'grosh EnforcerMo'grosh OgreRelated Areas:Mo'grosh StrongholdAdded: Mar 25th, 2004Updated: Jul 27th,2004
+
+
+
+
+
+Objectives:
+Magistrate Bluntnose of Thelsamar has hired you to kill 4 Mo'grosh Ogres, 4 Mo'grosh Brutes and 4 Mo'grosh Enforcers.
+Game Description:
+Two months just to hear from Ironforge that we'll be spared a handful of soldiers for our own defense, and another two months until they arrive! Bad enough that our town goes unprotected, but the excavation and the dam--the dam!--are open to attacks as well.I've no choice then, it seems. I'll need hired arms.How about you? You seem a likely sort, <Class>. A group of ogres has set up camp on the northeast of the lake. Perhaps you could recruit some others and help remove the threat to our town?End Text:Ah, this is excellent news! Your efforts are greatly appreciated by myself and the people of Thelsamar. Better yet, if we can solve the ogre problem, we'll be able to shift our focus to those Light-burning troggs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Where:The BarrensLevel:13Coin:5 94 Items Needed:Undiscovered (1986357608)Undiscovered (1953522002)Undiscovered (1920622919)Undiscovered (1920168815)Added: Apr 20th, 2004Updated: Aug 24th,2004
+
+
+
+
+
+Objectives:
+
+Game Description:
+Additional Notes:The Stolen Silver Quest has changed since the push.  The quest now only requires 1 stolen silver, Raptor heads are no more. The silver is located in a chest at the very end of the raptor nest due south of Ratchet. Head over the mountains beetween the coastline and the Oasis and in the valley you will see the raptor nest.
+
+*If you have completed this quest recently, please send us your cache found in the WTF file, so that we can update this quest -- Darkflame.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Zamek's Distraction 
+Info:Where:Thousand NeedleLevel:41Added: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Glorin SteelbrowWhere:DuskwoodPrereq:The Doomed FleetLevel:29Items Needed:Undiscovered (1226859879)Undiscovered (1998611816)Undiscovered (1176528232)Undiscovered (1750335534)Leads to:The Lost IngotsAdded: Apr 6th, 2004Updated: Aug 18th,2004
+
+
+
+
+
+Objectives:
+
+Game Description:
+End Text:This chest is water logged, and its siding broken. Many claw marks mar both the inside and outside of the chest...as if Murlocs have searched through it and stolen its treasure.
+
+But tucked deep within the chest is a single Lightforge Ingot. Unfortunately, many more will be needed if enough metal to fashion a weapon is to be gained.
+
+Rewards: Lightforge Ingot
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Bartolo's Yeti Fur Cloak 
+Info:Who:Bartolo GinsettiCategory:
+Hillsbrad FoothillsStarts in:
+Hillsbrad FoothillsLevel:34Items Needed:
+
+
+(1)
+Bolt of Woolen Cloth
+Trade Goods
+
+
+
+
+(1)
+Fine Thread
+Trade Goods
+
+
+
+
+(1)
+Hillman's Cloak
+BackCloth20 Armor
+Requires Level 25
+
+
+
+
+
+(10)
+Yeti Fur
+Quest Item
+
+Side:AllianceRating:Unrated (0)Added: May 28th, 2004Updated: Oct 4th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring Bartolo Ginsetti of Southshore a Bolt of Wool, a Hillman's Cloak, Fine Thread and 10 clumps of Yeti Fur.
+Game Description:
+I, the great Bartolo, shall make for you the world famous, Alliance renowned, Yeti Fur Cloak!Travel the planet and find yourself a better cloak, I dare you.  Oh wait, what is that, little <Race>?  "Bartolo, there is no finer cloak!"  Yes, yes!  That, I have heard before.Bartolo requires a Bolt of Wool, a Hillman's Cloak made by a skilled leatherworker, Fine Thread and Yeti Fur, of course!  Bring to me these items and you shall be a happy customer!Rewards:
+
+
+(1)
+Yeti Fur Cloak
+Binds when picked up
+BackCloth23 Armor
++6 Agility
++3 Spirit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Good Head On Your Shoulders (Blacksmithing) 
+Info:Who:Trenton LighthammerWhere:TanarisLevel:45Items Needed:Mithril Coif (2)Ornate Mithril Shoulder (1)Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Bring two Mithril Coifs and one Ornate Mithril Shoulder to Trenton Lighthammer.
+
+
+
+
+
+
+Quest: Blessed Arm 
+Info:Where:DuskwoodPrereq:The Lost IngotsLevel:29XP:1200Items Needed:Crate of Lightforge Ingots (1)Leads to:Armed and ReadyAdded: Apr 6th, 2004Updated: Aug 4th,2004
+
+
+
+
+
+Objectives:
+Take the Crate of Lightforge Ingots to Grimand Elmore.
+Game Description:
+There is a dwarven weaponsmith in the Dwarven District of Stormwind who can craft with lightforge iron.  His name is Grimand Elmore.I've packed the iron you found into a crate.  Take it to Grimand and tell him your tale.  I'm sure he'll oblige someone on a quest such as yours, and craft for you a weapon - a weapon to give even Morbent Fel worry!End Text:How might I ply my craft for you, <Class>?
+
+Required items: Crate of Lightforge Ingots
+
+Click Continue
+
+That is quite a tale you have. And lightforge iron! Not for years have I worked with such a metal. It will be an honor to craft with it again. And you must return to me later with the story of your battle against the Necromancer.
+
+But we get ahead of ourselves. First, your weapon against Morbent Fel...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Resupplying the Excavation 
+Info:Who:Jern HornhelmWhere:Loch ModanPrereq:Powder to IronbandAttain:10Level:15XP:270Leads to:After the AmbushSide:AllianceRelated Mobs:HuldarAdded: Mar 25th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Speak with Huldar.
+Game Description:
+It's not too late though, you're welcome to go look for Huldar. He can't have made it very far, strong as they are, Miran and Saean can only move so fast laden down with those barrels.They're taking the normal route to the site, leaving south out of town and following the curve of the Loch.Shouldn't have a problem finding them unless they've already gotten there.End Text:Hmph, it'll take more than a Dark Iron ambush to stop the deliveries!
+
+But Saean... I would never have suspected him to be one of their sympathizers. We've been working with him for almost a year now... maybe I missed the signs.
+
+Well, I'll consider that later.
+
+Click Complete Quest.Additional Notes:As you happen upon them you will get a message: 
+Find Huldar, Miran, and Saean. (Complete)
+
+
+
+
+
+
+Quest: Return to Troyas 
+Info:Who:Daryn LightwindCategory:
+FeralasStarts in:
+FeralasPrereq:The Super Snapper FXAttain:43Level:48Items Needed:
+
+
+(1)
+Feralas: A History
+Unique
+Quest Item
+
+Leads to:The Stave of EquinexSide:AllianceRelated Mobs:Troyas MoonbreezeRelated Zones:FeralasRelated Areas:Feathermoon StrongholdRating:Unrated (0)Added: Nov 15th, 2004Updated: Nov 18th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Deliver the book to Troyas Moonbreeze in Feathermoon Stronghold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Dark Threat Looms 
+Info:Who:Chief Engineer Hinderweir VIIWhere:Loch ModanPrereq:A Dark Threat LoomsAttain:17Level:20XP:3250Added: Apr 9th, 2004Updated: Jul 23rd,2004
+
+
+
+
+
+Objectives:
+The Disarming Mixture seemed to take effect.  Return to Chief Engineer Hinderweir to report the good news.
+
+
+
+
+
+
+
+
+
+
+Quest: Hungry! 
+Info:Where:DurotarLevel:36Items Needed:Mirefin Head (20)Added: Jul 26th, 2004Updated: Jul 26th,2004
+
+
+
+
+
+Objectives:
+Mudcrush Durtfeet in northern Dustwallow wants 30 Mirefin Heads.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Miner's Fortune 
+Info:Where:The BarrensLevel:18Items Needed:Cats Eye Emerald (1)Added: Apr 6th, 2004Updated: Jun 23rd,2004
+
+
+
+
+
+Objectives:
+Retrieve the Cats Eye Emerald from one of the Venture Co. Overseers or Enforcers for Wharfmaster Dizzywig at Ratchet.
+Game Description:
+Being Wharfmaster of a busy port like Ratchet, I keep my finger on the pulse of information. I know all about the exchange of goods and money between here and Booty Bay.The latest bit of news I've heard is about the Venture Company's Boulder Lode mine northeast of the Sludge Fen. One of the miners discovered an emerald the size of your fist. I know a few buyers who'd be interested in getting their hands on something like that, and I'd be willing to go half and half on its sale.Additional Notes:To find the mines, head north up the river and look for some buildings at the top of the ridge to your left as you get into the NE part of the zone.  The emerald drops randomly and is a pretty rare drop.Rewards:A Sack of Coins (1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Bloodsail Buccaneers 
+Info:Who:Fleet Master SeahornWhere:Stranglethorn ValePrereq:The Bloodsail BuccaneersLevel:43Items Needed:Bloodsail Charts (1)Bloodsail Orders (1)Added: May 28th, 2004Updated: Jun 21st,2004
+
+
+
+
+
+Objectives:
+Fleet Master Seahorn in Booty Bay wants you to kill 10 Bloodsail Swashbucklers and bring back the Bloodsail Charts and the Bloodsail Orders.
+Game Description:
+Crazz speaks highly of your dedication to the Blackwater Raiders.  I am going to trust you with a mission of extreme importance to the fleet.Infiltrate the so-called southern command post the Bloodsail Buccaneers have established on the Wild Shore.  Raid the encampment.  Bring me their charts along with their written orders.  We shall see exactly what those scum are up to.
+
+
+
+
+
+
+
+
+
+
+Quest: The Algaz Gauntlet 
+Info:Who:Mountaineer RockgarWhere:WetlandsPrereq:Report to Mountaineer RockgarAttain:15Level:21XP:1950Coin:11 36 Side:AllianceRelated Mobs:Dragonmaw GruntDragonmaw ScoutRelated Areas:Menethil HarborAdded: Mar 25th, 2004Updated: Aug 31st,2004
+
+
+
+
+
+Objectives:
+Traverse Dun Algaz.Kill 8 Dragonmaw Scouts and 6 Dragonmaw Grunts.Report to Valstag Ironjaw in Menethil Harbor.
+Game Description:
+Orcs of the Dragonmaw clan have a haven in the Wetlands.  And now they have expanded into Dun Algaz!  We can't let them keep their foothold here or Loch Modan will be cut off from Menethil Harbor, our port and stronghold in the Wetlands.Break through Dun Algaz to the Wetlands beyond, and kill some orcs for good measure!  Report to Valstag Ironjaw in Menethil Harbor.Menethil is through Dun Algaz, then north along the road, then west at the fork.We're counting on you, <Name>.  Do not fail.End Text:Your report is full of bad news!
+
+I see the Dragonmaws are making a strong move into Algaz. Normally the Dragonmaws just hide up int he hills. What made them surge into Algaz is still a mystery...
+
+Thank you, <Name>. And we'll probably want your help dealing with these orcs.
+
+Click Complete QuestAdditional Notes:Though this is officially a wetlands quest, Mountaineer Rockgar is actually located outside the tunnel in Loch Modan.
+
+
+
+
+
+
+
+
+
+Quest: Vimes's Report 
+Info:Where:DurotarLevel:38Items Needed:Vimes's Report (1)Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Bring Vimes's Report to Lady Jaina Proudmoore in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Echeyakee 
+Info:Who:Jorn SkyseerWhere:The BarrensPrereq:Sergra DarkthornLevel:16XP:2200Items Needed:Echeyakee's Hide (1)Leads to:IshamuhaleAdded: Apr 29th, 2004Updated: Jul 19th,2004
+
+
+
+
+
+Objectives:
+Bring Echeyakee's Hide to Sergra Darkthorn at the Crossroads.
+Game Description:
+Whitemist, Echeyakee in the Tauren tongue, is the king of the savannah cats.  He hunts with such stealth, they say he's like a thin, white mist on the earth.  And he kills so fast his prey have no time for fear, or pain.The Tauren say he is both mercy,  death.You will learn if that's true, for I now set you on the path to hunt Echeyakee.  His lair is northeast of the Crossroads, among the bones of giant KodoGo.  Blow this horn when you reach his lair.  Blow the horn, and he will come.End Text:The great cat calls to you, <Name>. 
+
+You have beaten Echeyakee, and though he hunts no more... his spirit is with you. He will show you the strength found in subtlety, and the honor in mercy. 
+
+Your path is long, young <Class>. Stride it well.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Pridewings of Stonetalon 
+Info:Where:AshenvaleLevel:21Coin:15 14 Items Needed:Pridewing Venom Sac (15)Added: Apr 6th, 2004Updated: Jun 28th,2004
+
+
+
+
+
+Objectives:
+Bring 15 Pridewing Venom Sacs to Shindrell Swiftfire in Astranaar.
+Game Description:
+We are not in open war with the Horde, but our peace is fragile.  We often find their agents moving against us, but they do so covertly.One such advance was revealed to us from hidden sources in Theramore, claiming that the orcs collect venom from the pridewings near Mirkfallon Lake, in the Stonetalon Mountains to the south.  Orc assassins then use the venom on their secret death raids against the Alliance!If this is true, then we must stop them, <Name>.  We must deny them their source of venom.Additional Notes:Pridewings hang around the center of the map at Mirkfallon Lake.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Noble Brew 
+Info:Who:Zardeth of the Black ClawWhere:Stormwind CityAttain:28Level:30XP:2450Coin:19 88 Items Needed:Tear of Tilloa (1)Musquash Root (1)Leads to:A Noble BrewAdded: Apr 6th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Zardeth the Black Claw wants you to bring him a Tear of Tilloa from Darkshire and a Musquash Root from the Wetlands.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: In Search of The Excavation Team 
+Info:Who:Merrin RockweaverWhere:WetlandsPrereq:In Search of The Excavation TeamLevel:24Items Needed:Merrin's Letter (1)Added: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Return to Tarrel Rockweaver with Merrin's note.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Crushridge Bounty 
+Info:Who:Marshal RedpathWhere:Hillsbrad FoothillsAttain:32Level:36Coin:46 29 Items Needed:Dirty Knucklebones (9)Related Zones:Alterac MountainsAdded: Apr 6th, 2004Updated: Aug 6th,2004
+
+
+
+
+
+Objectives:
+Gather 9 Dirty Knucklebones from Crushridge ogres in the Alterac Mountains.  Bring them to Marshal Redpath in Southshore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Raene's Cleansing 
+Info:Who:Shael'drynWhere:AshenvalePrereq:Raene's CleansingLevel:28Items Needed:Iron Pommel (1)Leads to:Raene's CleansingAdded: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Find the final piece of Dartol's Rod and return to Shael'dryn at the moonwell.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Plea To The Alliance 
+Info:Who:Rhag GarmasonWhere:WetlandsPrereq:The Thandol SpanLevel:31Side:AllianceRelated Mobs:Captain NialsAdded: May 28th, 2004Updated: Aug 16th,2004
+
+
+
+
+
+Objectives:
+Seek out Captain Nials at Refuge Pointe.
+Game Description:
+I ask of you one more small favor, <Class>.  We await the reserves of Ironforge.  However, Roggo has knowledge of an Alliance camp to the north in Arathi Highlands at Refuge Pointe.Travel there and seek out Captain Nials.  Ask the good Captain if the Alliance can spare some soldiers to help us reclaim Dun Modr and the Thandol Span.End Text:My condolences go out to Longbraid and his brave soldiers. The new of the Thandol Span tragedy and the fall of Dun Modr hangs heavy in my heart.
+
+But Stromgarde has fallen! Hence our presence here at Refuge Pointe. We are faced with retaking our own great city.
+
+Honor and duty require that we do not leave the Highlands until Stromgarde raises the mighty banner of the King once again. I will send word to Longbraid that he is on his own...
+
+
+
+
+
+
+
+
+Quest:  
+Info:Level:36Items Needed:Undiscovered (1700208755)Undiscovered (1852392960)Undiscovered (543912545)Undiscovered (1651664232)Added: May 28th, 2004Updated: Aug 22nd,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Gadgetzan Water Survey 
+Info:Where:TanarisLevel:46Coin:14 53 Items Needed:Tapped Dowsing Widget (1)Added: Jun 21st, 2004Updated: Aug 6th,2004
+
+
+
+
+
+Objectives:
+Use the untapped dowsing widget near the pool of water by Sandsorrow Watch.  Once you have collected the sample, return the tapped dowsing widget to Senior Surveyor Fizzledowser in Gadgetzan.
+
+
+
+
+
+
+
+
+
+
+Quest: Sweet Amber 
+Info:Category:
+WestfallStarts in:
+WestfallLevel:44Coin:65 Items Needed:
+
+
+(1)
+Holy Spring Water
+Binds when picked up
+Unique
+Quest ItemBlessing from the Holy Spring of Stranglethorn Vale.
+
+
+Leads to:Sweet AmberRating:Unrated (0)Added: Oct 27th, 2004Updated: Oct 27th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring Holy Spring Water to Grimbooze Thunderbrew.
+Game Description:
+In the land to the south where vines twist and creepLies a hidden well where the water runs deepPure as the Light's sacred DaughterBring to me now some Holy Spring Water.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Call of Fire (Shaman only) 
+Info:Level:12Items Needed:Fire Tar (1)Reagent Pouch (1)Class:ShamanAdded: Apr 22nd, 2004Updated: Jun 23rd,2004
+
+
+
+
+
+Objectives:
+Bring 1 Fire Tar and 1 Reagent Pouch to Telf Joolam in Durotar.
+
+
+
+
+
+
+
+
+Quest: A Grim Task (Elite)
+Info:Who:Longbraid the GrimWhere:WetlandsLevel:34Items Needed:Ear of Balgaras (1)Added: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Kill Balgaras the Foul and bring his ear to Longbraid the Grim outside of Dun Modr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Stockade Riots (Elite)
+Info:Where:Stormwind CityLevel:29Coin:19 82 Items Needed:Head of Bazil Thredd (1)Added: Jun 10th, 2004Updated: Jun 28th,2004
+
+
+
+
+
+Objectives:
+Kill Bazil Thredd and bring his head back to Warden Thelwater at the Stockade.
+
+
+
+
+
+
+Quest: Favored of Elune 
+Info:Who:Erelas AmberskyWhere:TeldrassilLevel:47Coin:58 99 Items Needed:Wildkin Feather (10)Added: Jul 15th, 2004Updated: Jul 2nd,1936
+
+
+
+
+
+Objectives:
+Collect 10 Wildkin Feathers from the Hinterlands for Erelas Ambersky.
+
+
+
+
+
+
+
+
+
+
+Quest: Simple Letter 
+Info:Level:1Items Needed:Simple Letter (1)Added: Jul 24th, 2004Updated: Jul 24th,2004
+
+
+
+
+
+Objectives:
+Speak to Llane Beshere in Northshire Abbey.
+
+
+
+
+
+
+Quest: Find OOX-17/TN! 
+Info:Who:OOX-17/TN Distress BeaconCategory:
+TanarisStarts in:
+TanarisAttain:43Level:48XP:4900Items Needed:
+
+
+(1)
+OOX-17/TN Distress Beacon
+Binds when picked up
+Unique
+Quest ItemThis item starts a quest.
+Requires Level 43
+
+
+Leads to:Rescue OOX-17/TN!Side:BothRelated Mobs:Homing Robot OOX-17/TNRating:Unrated (0)Added: Aug 9th, 2004Updated: Oct 29th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring the distress beacon to Oglethorpe's homing robot.
+
+
+
+
+
+
+
+
+
+
+Quest: Raene's Cleansing 
+Info:Who:Raene WolfrunnerCategory:AshenvalePrereq:Raene's CleansingAttain:18Level:21XP:1250Items Needed:
+
+
+(1)
+Glowing Gem
+Unique
+Quest Item
+
+Leads to:Raene's CleansingSide:AllianceAdded: Apr 19th, 2004Updated: Apr 3rd,2005
+
+
+
+Objectives:
+Find the Glowing Gem and return to Raene Wolfrunner in Astranaar with Teronis' Journal.
+Game Description:
+As you rummage through Teronis' belongings, you find a journal that is still in good condition.You take the journal and leave Teronis' corpse as is.The only thing left to do is find the gem Teronis was seeking. Raene mentioned it being in the area. Perhaps the murlocs have it...End Text:Ah, welcome back, <Name>.
+
+Required items: Glowing Gem
+
+Click Continue
+
+This is terrible, <Name>. Teronis is dead?!
+
+The tiem for mourning will come, but for now we must focus our efforts. I shall send some of the Sentinels to recover Teronis' body as soon as possible.
+
+You have Teroni's journal and the gem he was seeking. Do you think you're capable to completing his task? I would rest much better knowing his death was not in vain.
+
+Click Complete Quest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Tribes at War 
+Info:Who:MangletoothCategory:
+The BarrensStarts in:
+The BarrensLevel:21Leads to:Betrayal from WithinSide:HordeRelated Mobs:Bristleback GeomancerBristleback ThornweaverBristleback Water SeekerRating:Unrated (2)Added: May 5th, 2004Updated: Nov 8th,2004
+1 people have rated this quest
+
+
+
+Objectives:
+Kill 6 Bristleback Water Seekers, 12 Bristleback Thornweavers and 12 Bristleback Geomancers and return to Mangletooth at Camp Taurajo in the Barrens.
+Game Description:
+You must strike my enemies.  You must help Mangletooth and the Razormane by weakening the Bristlebacks. Both tribes are very spiritual--tied to the earth and its power.  It gives us strength in all things... especially war.If you want to find out who really causes Thork  and the Horde such anguish, then help Mangletooth! You attack the spiritual leaders of the Bristlebacks to the north; weaken them so the Razormanes can defeat them and rule the Barrens.Additional Notes:The cage is right behind the apothacary shop. He would not speak to me until I was level 18.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Young Crocilisk Skins 
+Info:Who:James HalloranWhere:WetlandsPrereq:Daily DeliveryAttain:16Level:22Coin:16 34 Items Needed:Young Crocilisk Skin (4)Leads to:Apprentice's DutiesAdded: Mar 25th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Obtain 4 Young Crocilisk Skins for James Halloran in Menethil Harbor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  Troll Necklace Bounty 
+Info:Who:Fraggar ThundermantleWhere:The HinterlandsLevel:40Coin:25 73 Items Needed:Troll Tribal Necklace (5)Added: Jun 21st, 2004Updated: Aug 12th,2004
+
+
+
+
+
+Objectives:
+Bring 5 Troll Tribal Necklaces to Fraggar Thundermantle in Aerie Peak.
+Game Description:
+Get this straight, <Race> - we are NOT part of the Alliance!  The Wildhammers are independent, relying on deeds and actions to prove one's worth, rather than the blather of those who use jibber-jabber to bolster their do-nothing attitudes!If you're looking for friends here, then prove your worth to us first!  The foul trolls that choke the hillsides of the Hinterlands sometimes carry tribal necklaces.  Bring five of them to me, and we'll mark it down as a step in the right direction for you.
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Insane Druids 
+Info:Where:AshenvaleLevel:32Added: Apr 7th, 2004Updated: Jun 25th,2004
+
+
+
+
+
+Objectives:
+Kill the druids: Taneel Darkwood, Uthil Mooncall, Mavoris Cloudsbreak; then return to Kayneth Stillwind in the Solace Glade.
+Game Description:
+When I struggled with the Forsaken's poisons, I had a vision.  I had a vision of the druids in the Dor'danil Barrow Den, poisoned... murdered by the undead!  They are now errant ghosts, severed from their bodies and driven mad.So that the druids' spirits might some day find peace, you must enter the Dor'danil Barrow Den and destroy its once great leaders: Taneel Darkwood, Uthil Mooncall and Mavoris Cloudsbreak.Do this, then return to me.Additional Notes:South Eastern part of the map, east of the road to the Barrens.  It's a bldg with winding stairs. The druids will show up as "yellow" conned ghosts.Rewards:Emil's Brand (1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Night Web's Hollow 
+Info:Who:Executor ArrenWhere:Tirisfal GladesAttain:4Level:4XP:700Leads to:The Scarlet CrusadeRelated Mobs:Night Web SpiderYoung Night Web SpiderAdded: Apr 20th, 2004Updated: May 26th,2004
+
+
+
+
+
+Objectives:
+Executor Arren wants you to kill 8 Young Night Web Spiders and 6 Night Web Spiders.
+Game Description:
+One of our greatest struggles is obtaining the natural resources we need to survive. Gold was scarce even in the height of the Alliance's power.There is a gold mine to the northwest that has been overrun with spiders. We need gold from the mine, but we can't very well get it while the spiders are crawling around in there. I've not much manpower to commit to the task, so we'll just have to do it little by little. Get out there and see what you can do.End Text:Hmm, well, it's a start. It'll take a few weeks or months to fully clean out the infestation. After that, we'll have to get down there with some torches to burn away the webbing.
+
+You've done your duty well. I'm sure I can find something else for you to do.
+
+Choose your reward: Flax Vest (1) or Rugged Mail Vest (1) or Zombie Skin Leggings (1) 
+
+Click Complete QuestAdditional Notes:Young Night Web Spiders are mostly located outside the Hollow and are pretty easy to kill alone at level 3-4. Even easier with an imp. They all agro. 
+
+However, if someone trains the higher level Night Web Spiders on you -- instant death. So take a friend, or fiend ;)\
+
+The Night Web Spiders are inside the cave and will be easier for a level 5-6. Inside the cave, the first left, there is a treasure chest inside.Rewards:choose: Flax Vest (1)  or Rugged Mail Vest (1)  or Zombie Skin Leggings (1) 
+
+
+
+
+
+
+
+
+
+
+Quest: In Search of Knowledge 
+Info:Who:Troyas MoonbreezeCategory:
+FeralasStarts in:
+FeralasAttain:42Level:47XP:420Side:AllianceRelated Zones:TeldrassilRelated Areas:Rut'theran VillageRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 20th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Talk to Daryn Lightwind in Rut'theran Village.
+
+
+
+
+
+
+
+
+
+
+Quest: Jarl Needs Eyes 
+Info:Who:"Swamp Eye" JarlWhere:DurotarPrereq:Soothing SpicesLevel:35Items Needed:Unpopped Darkmist Eye (40)Added: Jul 26th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Bring 40 Unpopped Darkmist Eyes to "Swamp Eye" Jarl at the Swamplight Manor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Moonglow Vest 
+Info:Who:LotheriasCategory:
+LeatherworkingStarts in:
+DarnassusLevel:18Items Needed:
+
+
+(1)
+Embossed Leather Gloves
+HandsLeather39 Armor
+Requires Level 8
+
+
+
+
+
+(5)
+Embossed Leather Boots
+FeetLeather49 Armor
++2 Stamina
++2 Spirit
+Requires Level 10
+
+
+
+
+
+(5)
+Embossed Leather Cloak
+BackCloth12 Armor
+Requires Level 8
+
+
+Side:AllianceRating:Unrated (0)Added: Jul 19th, 2004Updated: Oct 27th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring 1 Embossed Leather Glove, 5 Embossed Leather Boots and 5 Embossed Leather Cloaks to Lotherias in Darnassus.
+Game Description:
+We in Darnassus, especially we craftsman, are quite busy.  Young adventurers are eager to test themselves in the wilderness, and are in constant need of supplies.If you can help me fill my orders of leather goods, then perhaps I can teach you an advanced leatherworking technique.Rewards:
+
+
+(1)
+Pattern: Moonglow Vest
+RecipeRequires Leatherworking (90)
+Teaches you how to craft a Moonglow Vest.
+
+
+
+
+
+
+
+Quest:  
+Info:Category:
+Unknown ()Starts in:
+Related Zones:Dustwallow MarshRating:Unrated (0)Added: Updated: 
+0 people have rated this quest
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+Quest: Soothing Spices 
+Info:Who:"Swamp Eye" JarlWhere:DurotarLevel:35Items Needed:Soothing Spices (3)Leads to:Jarl Needs EyesAdded: Jul 26th, 2004Updated: Jul 8th,1936
+
+
+
+
+
+Objectives:
+Bring 3 Soothing Spices to "Swamp Eye" Jarl in Dustwallow Marsh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Raptor Horns 
+Info:Who:Mebok MizzyrixWhere:The BarrensLevel:18Items Needed:Intact Raptor Horn (5)Leads to:Smart DrinksAdded: Apr 21st, 2004Updated: Jun 23rd,2004
+
+
+
+
+
+Objectives:
+Gather 5 Intact Raptor Horns from Sunscale Scytheclaws, and bring them to Mebok Mizzyrix in Ratchet.
+Game Description:
+The raptors of the Barrens are smarter than raptors in other lands.  And I think all that smarts is hiding in their horns!  If so, then I could grind their horns into powder and use it to make "smart drinks."  I could sell them for a fortune!!!And you can help me.  Find me Intact Raptor Horns from Sunscale Scytheclaws.  They roam in the southern Barrens, and in the northern Barrens near the border of Ashenvale Forest.Rewards:Raptor Punch (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Greenwarden 
+Info:Who:First Mate FitzsimmonsWhere:WetlandsAttain:15Level:21Leads to:Tramping PawsSide:AllianceRelated Mobs:Rethiel the GreenwardenAdded: Mar 25th, 2004Updated: Aug 17th,2004
+
+
+
+
+
+Objectives:
+Find the Greenwarden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Noboru the Cudgel 
+Info:Where:Swamp of SorrowsLevel:39Items Needed:Noboru's Cudgel (1)Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Bring Noboru's Cudgel to the leader of The Harborage in the Swamp of Sorrows.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Vile Satyr! Dryads in Danger! 
+Info:Where:AshenvaleLevel:27Leads to:The Branch of CenariusSide:AllianceAdded: Apr 6th, 2004Updated: Sep 3rd,2004
+
+
+
+
+
+Objectives:
+Find Anilia in Xavian.
+Game Description:
+Listen, I don't know who you are, but I need your help. My sisters went to take back the Branch of Cenarius from the satyr. They said they'd be back soon, but it's been two whole days!<Name>, you have to find them! They were looking for the ruins of a night elf temple in Xavian to the northeast. I don't know what to think. Look for Anilia, she was leading them on the search.Additional Notes:Head to the second bridge on the east side of the map and swim north up the river.  Once you reach the "origin" of the river, on the east bank you will find the Satyrs. Anilia will be near death in the camp. When you do reach her, she will give her last breath and ask you to kill the boss Satyr (G-something) who is beyond through the gate just to the north (not far at all).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Black Shield 
+Info:Where:DurotarPrereq:The Black ShieldLevel:35Leads to:Suspicious HoofprintsAdded: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Speak with Captain Garran Vimes in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Where:Hillsbrad FoothillsPrereq:Hints of a New Plague?Level:35Items Needed:Undiscovered (1310744864)Undiscovered (543452777)Undiscovered (1970225952)Undiscovered (1646290798)Added: May 28th, 2004Updated: Aug 22nd,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Fiora Longears 
+Info:Who:Red Jack FlintWhere:WetlandsAttain:20Level:20XP:775Side:AllianceRelated Mobs:Fiora LongearsRelated Zones:Dustwallow MarshRelated Areas:TheramoreAdded: Apr 9th, 2004Updated: Sep 9th,2004
+
+
+
+
+
+Objectives:
+Speak with Fiora Longears in Theramore.
+Game Description:
+Oh, to be at sea once again!  To feel the kiss of the wind, and to have the waves rock me like my blessed mother, long ago!Oh, I wish I had your fortune, good <Class>, for I see the sea in your future!It's my job to tell eager souls of the land of Kalimdor, the land of opportunity!  If you're willing to try your luck across the sea, then take a ship from here to the lovely port of Theramore.  Speak there with my partner, the elf, Fiora Longears.She'll start you on your Kalimdor adventure!End Text:Good day to you! You were sent by Mr. Flint in Menethil Harbor? Well Mr. Flint is a strong judge of character. If he sent you, thne there's no doubt you belong here in Kalimdor!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Bashal'Aran 
+Info:Who:AsterionWhere:DarkshorePrereq:Bashal'AranAttain:8Level:13Side:AllianceAdded: Mar 25th, 2004Updated: Sep 6th,2004
+
+
+
+
+
+Objectives:
+Destroy the Ancient Moonstone Seal at the ancient flame in Ameth'Aran, then return to Asterion in Bashal'Aran.
+Game Description:
+It was the craft of one of the most powerful of the Highborne that created the seal that formed my prison. In Ameth'Aran, the ruins to the south that are twin to these, persists even today an ancient flame, blue in color. In this flame this seal could be destroyed.Be wary in the ruins, <Name>...End Text:I am freed, <Name>! I can now see with my own eyes the changes that I have come to our world... Only bits and pieces have I known. To think that when I last walked freely, the Well still stood and the Highbourne held court with Azshara, our beloved queen.
+
+I sens that my jailor, my former master, Arthrikus, still lives... Already my feelings of hopelessness will give way into thoughts of vengeance.
+
+Choose your reward: Explorer's Vest (1) or Vagabond Leggings (1)
+
+
+
+
+
+
+
+
+Quest: Safety First 
+Info:Where:Thousand NeedleLevel:41Items Needed:Seaforium Booster (1)Added: Jul 26th, 2004Updated: Jul 26th,2004
+
+
+
+
+
+Objectives:
+Bring the Seaforium Booster to Shreev in Gadgetzan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Delivering the Relic 
+Info:Who:Latronicus MoonspearCategory:
+FeralasStarts in:
+FeralasPrereq:Against Lord ShalzaruAttain:41Level:45XP:3900Items Needed:
+
+
+(1)
+Mysterious Relic
+Unique
+Quest Item
+
+Side:AllianceRelated Mobs:Vestia MoonspearRelated Areas:Feathermoon StrongholdRating:Unrated (0)Added: Jul 15th, 2004Updated: Oct 20th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Deliver the Mysterious Relic to Vestia Moonspear in Feathermoon Stronghold.
+Game Description:
+If you would be so kind as to deliver the relic to my wife Vestia, I would appreciate it.  She's not only a fine priestess for our community, but she is one of the most well-versed scholars you'll find anywhere.  I couldn't make heads or tails of this device even if there was a wager involved.  My wife though, if anyone can figure out what this thing is, she could... and we need to know!She's just around the bend, no doubt studying.  Thanks, <Name>.Rewards:Choose one of: 
+      
+
+(1)
+Dawnrider's Chestpiece
+Binds when picked up
+ChestMail248 Armor
++16 Agility
++5 Spirit
+
+
+
+
+(1)
+Sentinel's Guard
+Binds when picked up
+HeadPlate355 Armor
++6 Spirit
++9 Agility
++12 Stamina
+
+
+
+
+
+
+
+
+
+Quest: The People's Militia 
+Info:Who:Gryan StoutmantleWhere:WestfallPrereq:The People's MilitiaLevel:14Coin:6 90 Leads to:The People's MilitiaRelated Mobs:Defias PillagerAdded: Mar 25th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Gryan Stoutmantle wants you to kill 20 Defias Pillagers and return to him on Sentinel Hill.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Forsaken Diseases 
+Info:Where:AshenvaleLevel:29Items Needed:Bottle of Disease (1)Added: Apr 6th, 2004Updated: Jul 2nd,2004
+
+
+
+
+
+Objectives:
+Bring a Bottle of Disease to Kayneth Stillwind in the Solace Glade.
+Game Description:
+The Forsaken, the undead arm of the Horde, have crept into the Ashenvale, lurking at our ruins and our barrows.  We believe their goal is to spread disease amongst the lands of the night elves.  We must confirm this!The Forsaken have a camp south of here, near the Dor'danil Barrow Den, where they create poisons and diseases and place them in bottles.  Fight your way into that camp and steal a bottle of disease.  Return with such a bottle.  I will test it and find its purpose.Additional Notes:South Eastern part of the map, south of Solace Glade/road, east of the road to The Barrens.  You will find a tent and table of alchemy products surrounded by the Forsaken (undead). Pretty easy to solo at 33+.
+
+
+
+
+
+
+
+
+
+
+
+Quest: Wandering Shay 
+Info:Who:Shay LeafrunnerCategory:
+FeralasStarts in:
+FeralasAttain:44Level:49XP:4550Items Needed:
+
+
+(1)
+Shay's Bell
+Unique
+Quest ItemRing to call Shay back to you.
+
+
+Side:AllianceRelated Mobs:RockbiterRating:Unrated (0)Added: Nov 17th, 2004Updated: Nov 17th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Pick up Shay's Bell from the chest.Escort Shay Leafrunner to Rockbiter's camp.
+Game Description:
+Do you think you could help me find my way back to my friend, Rockbiter? He was supposed to be watching me... But I do have a tendency to wander off now and then. There are just so many things to see, and I get so distracted.There is one thing that will always work to get my attention, though.Inside this chest, you'll find a bell that is very precious to me. I just love the sound of it. You have my word, if I wander off, all you have to do is ring it and I'll come running back.Rewards:Choose one of: 
+      
+
+(1)
+Granite Grips
+Binds when picked up
+HandsPlate295 Armor
++15 Strength
+
+
+
+
+(1)
+Vinehedge Cinch
+Binds when picked up
+WaistLeather74 Armor
++14 Strength
++3 Stamina
+
+
+
+
+
+
+
+Quest: The Ruins of Solarsal 
+Info:Who:Shandris FeathermoonCategory:
+FeralasStarts in:
+FeralasLevel:43Leads to:Return to Feathermoon StrongholdSide:AllianceRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 19th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Explore the Ruins of Solarsal and investigate the presence of the naga there.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Ironband Wants You! 
+Info:Who:Prospector StormpikeWhere:Dun MoroghLevel:37XP:700Related Mobs:Prospector IronbandRelated Zones:Loch ModanRelated Areas:Ironband's Excavation SiteAdded: May 28th, 2004Updated: Aug 4th,2004
+
+
+
+
+
+Objectives:
+Speak with Prospector Ironband at Ironband's Excavation Site in Loch Modan.
+Game Description:
+<Name>.  I received reports from Prospector Ironband at his excavation site in Loch Modan--he needs some legwork done concerning another of our excavations.I don't have more details than that, but if you want to stretch your legs then go speak with Ironband.End Text:So Stormpike sent you, did he? Good.
+
+I have a big task for you...
+
+
+
+
+
+
+
+
+
+
+Quest: The Infernal Orb (Mage only) 
+Info:Who:TabethaLevel:40Items Needed:Infernal Orb (1)Class:MageAdded: Jul 26th, 2004Updated: Jul 8th,1936
+
+
+
+
+
+Objectives:
+Bring an Infernal Orb to Tabetha in Dustwallow Marsh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The People's Militia 
+Info:Who:Gryan StoutmantleWhere:WestfallPrereq:The People's MilitiaLevel:17Related Mobs:Defias HighwaymanAdded: Mar 25th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Gryan Stoutmantle wants you to kill 20 Defias Highwaymen and return to him on Sentinel Hill.
+
+
+
+
+
+
+
+
+Quest: Ordanus 
+Info:Who:Braelyn FirehandWhere:Stonetalon MountainsLevel:29Items Needed:Ordanus' Head (1)Side:HordeRelated Areas:RaynewoodAdded: May 25th, 2004Updated: Sep 4th,2004
+
+
+
+
+
+Objectives:
+Bring Ordanus' head to Braelyn Firehand near Stonetalon Peak.
+Game Description:
+They thought that they could halt the flow of magic. They were mistaken. They thought that they could hide Ordanus, but I will have his head!Magic grants me true sight. Yes... there he is. A crossroads... At the top of a great tree in Ashenvale Forest. A name... Raynewood. One of the eldest sons of the forest god. They spirited him away from the peak before I could find him, but his time runs short.Bring it to me and I will share with you a mighty gift.Additional Notes:Ordanus is at the very top of the tree at Raynewood, along with two other centaurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The People's Militia 
+Info:Who:Gryan StoutmantleWhere:WestfallLevel:12Coin:5 6 Leads to:The People's MilitiaRelated Mobs:Defias TrapperAdded: Mar 25th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Gryan Stoutmantle wants you to kill 20 Defias Trappers and return to him on Sentinel Hill.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Kum'isha the CollectorLevel:55Items Needed:Undiscovered (1836403488)Undiscovered (1869226098)Undiscovered (1970235495)Undiscovered (1632378980)Added: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Where:DuskwoodPrereq:Look To The StarsLevel:33Items Needed:Undiscovered (543516756)Undiscovered (1635408416)Undiscovered (1869815909)Undiscovered (1853189997)Added: Apr 6th, 2004Updated: Aug 18th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Onu 
+Info:Who:Barithras MoonshadeWhere:DarkshorePrereq:Cave MushroomsAttain:14Level:16XP:575Leads to:The Master's GlaiveSide:AllianceRelated Mobs:OnuRelated Areas:Grove of the AncientsAdded: Apr 11th, 2004Updated: Sep 12th,2004
+
+
+
+
+
+Objectives:
+Speak with Onu at the Grove of the Ancients.
+Game Description:
+Onu, an Ancient of Lore at the Grove of the Ancients, knows of your journey to Cliffwater Falls and wishes to speak with you.  The grove lies to the south, nestled near the mountains.The Ancients are patient and wise, <Name>.  But if Onu seeks your council concerning what you saw in the falls, then I fear it is urgent.End Text:<Name>. You are here.
+
+Good.
+
+We have matters...to discuss. You and I.
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Who:Tapoke Slim JahnWhere:Stormwind CityPrereq:The Missing DiplomatLevel:33Leads to:Added: May 28th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Speak to Mikhail in the Wetlands.
+
+
+
+
+
+
+
+
+
+
+Quest: The Sunken Temple 
+Info:Where:FeralasLevel:51Added: Jul 15th, 2004Updated: Jul 2nd,1936
+
+
+
+
+
+Objectives:
+Find Marvon Rivetseeker in Tanaris.
+
+
+
+
+
+
+
+
+Quest: Back to Booty Bay 
+Info:Where:Thousand NeedleLevel:43Items Needed:Kravel's Scheme (1)Added: May 28th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Bring Kravel's Scheme to Crank Fizzlebub in Booty Bay.
+
+
+
+
+
+
+
+
+
+
+Quest: Raene's Cleansing 
+Info:Who:Raene WolfrunnerWhere:AshenvalePrereq:Raene's CleansingLevel:21XP:1250Items Needed:Glowing Gem (1)Leads to:Raene's CleansingSide:AllianceAdded: Apr 19th, 2004Updated: Aug 17th,2004
+
+
+
+
+
+Objectives:
+Find the Glowing Gem and return to Raene Wolfrunner in Astranaar with Teronis' Journal.
+Game Description:
+As you rummage through Teronis' belongings, you find a journal that is still in good condition.You take the journal and leave Teronis' corpse as is.The only thing left to do is find the gem Teronis was seeking. Raene mentioned it being in the area. Perhaps the murlocs have it...End Text:Ah, welcome back, <Name>.
+
+Required items: Glowing Gem
+
+Click Continue
+
+This is terrible, <Name>. Teronis is dead?!
+
+The tiem for mourning will come, but for now we must focus our efforts. I shall send some of the Sentinels to recover Teronis' body as soon as possible.
+
+You have Teroni's journal and the gem he was seeking. Do you think you're capable to completing his task? I would rest much better knowing his death was not in vain.
+
+
+
+
+
+
+Quest: Wanted!  Marez Cowl (Elite)
+Info:Where:Arathi HighlandsLevel:39Items Needed:Marez's Head (1)Related Mobs:Captain NialsAdded: May 28th, 2004Updated: May 28th,2004
+
+
+
+
+
+Objectives:
+Bring Marez's head to Captain Nials at Refuge Pointe
+Game Description:
+A bounty has been placed on the head of Marez Cowl, a high-level advisor and operative of the Syndicate.  She was last seen within the Syndicate controlled territory of Stromgarde.Bounty may be collected from Captain Nials.Be warned: Marez is a skilled and cunning Warlock, known for her trafficking with demons.  Extreme caution is advised when hunting her.Rewards:Arcane Runed Bracers (1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Watchful Eye 
+Info:Where:Redridge MountainsLevel:21Items Needed:Glyph of Azora (1)Added: May 28th, 2004Updated: Jul 30th,2004
+
+
+
+
+
+Objectives:
+Take the Glyph of Azora to the Lion Statue near the Tower of Ilgalar in Redridge.
+Game Description:
+My rival, Morganth, is a vicious mage of great power who lives in the Tower of Ilgalar in Redridge.  I have developed a means of spying on him, the Eye of Azora, and can now view him from afar.But to study his thoughts ... I require further aid.If you are willing, then take my Glyph of Azora to the Tower of Ilgalar.  Place it upon the Lion Statue near the Tower.When this is done, the power of Azora will grant visions of Morganth's future plans.Rewards:Unknown Reward (1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Only Cure is More Green Glow (Elite)
+Info:Where:Dun MoroghLevel:30Coin:19 88 Items Needed:High Potency Radioactive Fallout (1)Heavy Leaden Collection Phial (1)Added: Aug 2nd, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Travel to Gnomeregan and bring back High Potency Radioactive Fallout. Be warned, the fallout is unstable and will collapse rather quickly.Ozzie will also require your Heavy Leaden Phial when the task is complete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Smelt On, Smelt Off (Blacksmithing) 
+Info:Who:Galvan the AncientWhere:Stranglethorn ValeLevel:45Items Needed:Iron Bar (40)Mithril Bar (40)Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Bring forty Mithril Bars and forty Iron Bars to Galvan the Ancient in Stranglethorn.
+
+
+
+
+
+
+
+
+Quest: Seeking the Kor Gem (Elite)
+Info:Category:
+Class: PaladinStarts in:
+Level:22Items Needed:
+
+
+(1)
+Corrupted Kor Gem
+Unique
+Quest Item
+
+Rating:Unrated (0)Added: Oct 21st, 2004Updated: Dec 26th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring a Kor Gem to Thundris Windweaver in Darkshore.
+Game Description:
+Greetings, <Name>. What can I do for one who follows a holy path?Ah, yes, Stilwell, the blacksmith... from long ago. I remember him well, though, I have not heard his name in some time.He never struck me as an impudent man, so I can only assume his desire for a Kor gem is noble.If you truly wish for one of the gems, then you must head to the northwest of Ashenvale. You will find Blackfathom Deeps there within some ancient ruins. The naga who still use the gems are down below. Do not go alone, <Class>.Rewards:
+
+
+(1)
+Purified Kor Gem
+Unique
+Quest Item
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Bloodmage DrazialLevel:50Items Needed:Undiscovered (543649377)Undiscovered (1701996660)Undiscovered (1867128935)Undiscovered (1684370547)Added: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  (Elite)
+Info:Who:Loremaster DibbsLevel:38Items Needed:Undiscovered (1260414830)Undiscovered (891316078)Undiscovered (1936026991)Undiscovered (1919899424)Side:AllianceRelated Zones:Alterac MountainsAdded: Apr 6th, 2004Updated: Aug 22nd,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+Quest: Rizzle's Schematics 
+Info:Where:Thousand NeedleLevel:41Added: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Bring the Sample of Indurium Ore to Pozzik on the Shimmering Flats.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Tower of Althalaxx 
+Info:Who:Sentinel Elissa StarbreezeWhere:DarkshoreAttain:18Level:18XP:1200Leads to:The Tower of AlthalaxxSide:AllianceRelated Mobs:Balthule ShadowstrikeAdded: Mar 25th, 2004Updated: Sep 8th,2004
+
+
+
+
+
+Objectives:
+Find Balthule Shadowstrike near the Tower of Althalaxx in Darkshore.
+Game Description:
+Hail, young <Race>. I am Elissa Starbreeze, and it is my charge to protect Auberdine from harm.To this end, I sent Balthule Shadowstrike to observe the strange happenings around the Tower of Althalaxx to the northeast.It is past time that he should have returned. I worry that he has encountered some unforseen danger in the forest. I would be most appreciative if you would find him and see that he is doing well.End Text:Elissa sent you? Then it is good tidings you bring. I have troubling news to report ot her and had no means with which to deliver it.
+
+
+
+
+
+
+Quest: Return to Feathermoon Stronghold 
+Info:Who:Solarsal GazeboCategory:
+FeralasStarts in:
+FeralasPrereq:The Ruins of SolarsalAttain:40Level:43XP:1800Coin:45 Leads to:Against the HatecrestSide:AllianceRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 29th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Return to Shandris Feathermoon in the Feathermoon Stronghold and report your findings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Where:Stormwind CityPrereq:The Missing DiplomatLevel:30Items Needed:Defias Docket (1)Leads to:The Missing DiplomatAdded: Apr 6th, 2004Updated: Jul 24th,2004
+
+
+
+
+
+Objectives:
+Find the Defias Docket and return it to Watcher Backus in Duskwood.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Lieutenant Farren OrinelleWhere:Hillsbrad FoothillsPrereq:Farren's ProofLevel:32Coin:20 53 Items Needed:Undiscovered (1869762592)Undiscovered (1967988784)Undiscovered (544042866)Undiscovered (1948282479)Leads to:Farren's ProofSide:AllianceAdded: Jun 12th, 2004Updated: Aug 22nd,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Princess Trapped 
+Info:Who:MyzraelWhere:Arathi HighlandsLevel:37Items Needed:Mote of Myzrael (12)Related Mobs:Drywhisker KoboldAdded: May 28th, 2004Updated: Jun 21st,2004
+
+
+
+
+
+Objectives:
+Gather Motes of Myzrael.$B$BBring them to the Iridescent Shards in Drywhisker Gorge.
+Game Description:
+My name is Myzrael.  I am a princess of the earth, and my captors, the giants, have trapped me deep beneath the Arathi Highlands.  These crystal shards are the only way I can speak with the surface world.Please help me.  Allies of the giants, the Drywhisker Kobolds, have a shard like this one in their Drywhisker Gorge, to the east.  To power the cluster, you must gather Motes of Myzrael from the kobolds and apply them to it.I beg you, <Name>, aid me!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Keep An Eye Out 
+Info:Where:Stranglethorn ValeLevel:42Items Needed:Dizzy's Eye (1)Added: May 28th, 2004Updated: Jun 21st,2004
+
+
+
+
+
+Objectives:
+Dizzy One-Eye in Booty Bay wants you to retrieve his eye from the Bloodsail Buccaneers.
+Game Description:
+Avast!  Who goes there?Argh, I am but useless without me special enchanted eye.  Bad enough to have lost me eyes in battle in the first place!  But by some stroke o' luck we docked in Menethil and a traveling wizard enchanted a special glass eye that let me see again.Last night I ended up gettin' jumped by some Bloodsail Buccaneers on me way out.  Took me eye, they did!  Seems those blokes have found their way to Booty Bay.Help an old sea dog out by gettin' me eye back?Rewards:Darktide Cape (1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Deserters 
+Info:Where:DurotarLevel:38Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Get information about Reethe from Balos Jacken and the deserters in Dustwallow Marsh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Armed and Ready 
+Info:Who:Grimand ElmoreWhere:Stormwind CityPrereq:Blessed ArmLevel:29XP:600Leads to:Morbent FelRelated Mobs:Sven YorgenRelated Zones:DuskwoodRelated Areas:The Darkened BankAdded: Apr 6th, 2004Updated: Aug 4th,2004
+
+
+
+
+
+Objectives:
+Now that you have your weapon, return to Sven in Duskwood.
+Game Description:
+You're all ready, <Name>.  Best of luck to you, and I look forward to your tale of glory!End Text:You haven't been gone that long, but I see a fire in your eyes I did not see before.
+
+You are ready. Morbent Fel will fall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Darren MalvewWhere:Hillsbrad FoothillsLevel:34Items Needed:Undiscovered (1667329637)Undiscovered (544695670)Undiscovered (1635197029)Undiscovered (543976553)Related Mobs:Hulking Mountain LionMountain LionAdded: May 28th, 2004Updated: Aug 22nd,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  (Mage only) (Elite)
+Info:Level:40Items Needed:Undiscovered (1684821280)Undiscovered (1851859045)Undiscovered (544367991)Undiscovered (1735289202)Class:MageAdded: Jul 30th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+Quest: Hidden Secrets (Mage only) 
+Info:Level:38Class:MageRelated Mobs:Magus TirthAdded: Jul 26th, 2004Updated: Jul 26th,2004
+
+
+
+
+
+Objectives:
+Speak with Magus Tirth in the Shimmering Flats.
+
+
+
+
+
+
+
+
+Quest:  (Paladin only) (Elite)
+Info:Who:Jordan StilwellPrereq:The Test of RighteousnessLevel:22Items Needed:Undiscovered (543584032)Undiscovered (1934950515)Undiscovered (1634031392)Undiscovered (543452777)Leads to:Seeking the Kor GemThe Test of RighteousnessSide:AllianceClass:PaladinAdded: Jun 23rd, 2004Updated: Aug 18th,2004
+
+
+
+
+
+Objectives:
+
+Game Description:
+End Text:The items you're seeking will be difficult to acquire, but I can assure you, the weapon I will craft for you will be worth the effort.
+
+It will be my finest work to date, and only a small payment for the service you've done me.
+
+Required items: Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer, and a Kor Gem
+
+Click Continue
+
+This is wonderful! You've gotten all the items.
+
+I should have no problem forging you a grand weapon with these. I've actually had the plans for doing this for some time. I just never had the opportunity to gather the goods. Thank you, <Name>.
+
+It feels good to have my father's hammer again...and a Kor gem. I never thought I'd see one of these myself.
+
+Click Complete QuestAdditional Notes:Items and where to get them:
+Whitestone Oak Lumber -- Deadmines
+Bailor's Refined Ore Shipment -- see left for quest link (Mo'grosh Stronghold)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Crushridge Warmongers (Elite)
+Info:Who:Marshal RedpathWhere:Hillsbrad FoothillsLevel:40Related Mobs:Crushridge WarmongerRelated Zones:Alterac MountainsAdded: May 28th, 2004Updated: Aug 6th,2004
+
+
+
+
+
+Objectives:
+Slay 15 Crushridge Warmongers, then return to Marshal Redpath in Southshore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Northfold Manor 
+Info:Who:Captain NialsWhere:Arathi HighlandsLevel:31Related Mobs:Syndicate HighwaymanSyndicate MercenaryAdded: May 28th, 2004Updated: Jun 10th,2004
+
+
+
+
+
+Objectives:
+Kill 10 Syndicate Mercenaries and 10 Syndicate Highwaymen.$B$BReturn to Captain Nials at Refuge Pointe.
+Game Description:
+We are fighting a war for Stromgarde, and we are losing.  The ogres, the Syndicate and we have divided our once great city, and each faction battles the other into a bloody stalemate.But our forces dwindle while our enemy grows.We need help from the town of Southshore, but supplies are difficult to receive while the Syndicate holds territory between us.Go to the Syndicate base in Northfold Manor and slay them.  Then, perhaps, pressure on our supply trains will lessen and more will get through.
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Report to Mountaineer Rockgar 
+Info:Who:Mountaineer KadrellWhere:WetlandsAttain:14Level:21XP:170Leads to:The Algaz GauntletSide:AllianceRelated Mobs:Mountaineer RockgarRelated Zones:WetlandsRelated Areas:Dun AlgazAdded: Mar 25th, 2004Updated: Aug 31st,2004
+
+
+
+
+
+Objectives:
+Speak with Mountaineer Rockgar.
+Game Description:
+Mountaineer Rockgar is looking for volunteers for a mission through Dun Algaz and into the Wetlands.  If you want to get your boots wet in that soggy county to the north, then speak with Rockgar at Dun Algaz.  Dun Algaz is north up the road, beyond the guard tower.End Text:Hello, <Class>! You're here for the scouting mission, are you? Very good!
+
+I hope your gear is in good condition, because this *scouting* mission has changed into something more messy...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Who:Elling TriasWhere:Stormwind CityPrereq:The Missing DiplomatLevel:33XP:1300Leads to:The Missing DiplomatRelated Zones:WetlandsRelated Areas:Menethil HarborAdded: May 28th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Speak to Mikhail in the Wetlands.
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:ToogaWhere:TanarisLevel:50Items Needed:Undiscovered (1936029009)Undiscovered (1701344288)Undiscovered (1936287776)Undiscovered (541655086)Added: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Where:Stormwind CityPrereq:The Missing DiplomatLevel:31Leads to:The Missing DiplomatAdded: Jun 12th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Speak to Dashel Stonefist in Stormwind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Seeking Wisdom 
+Info:Where:DuskwoodPrereq:Proving Your WorthLevel:29Items Needed:Jitters' Completed Journal (1)Added: Apr 6th, 2004Updated: Jul 24th,2004
+
+
+
+
+
+Objectives:
+Give Jitters' Completed Journal to Bishop Farthing in Stormwind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Rituals of Power (Mage only) (Elite)
+Info:Level:40Items Needed:Rituals of Power (1)Class:MageAdded: Jul 26th, 2004Updated: Jul 26th,2004
+
+
+
+
+
+Objectives:
+Bring the book Rituals of Power to Tabetha in Dustwallow Marsh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Looking Further (Elite)
+Info:Where:Redridge MountainsLevel:22Items Needed:Glyph of Azora (1)Added: Jun 10th, 2004Updated: Jul 30th,2004
+
+
+
+
+
+Objectives:
+Climb the intact watch tower beside Stonewatch Keep.Find a suitable container to place the Glyph of Azora.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Bloodmage DrazialLevel:50Items Needed:Undiscovered (1702259059)Undiscovered (1948280686)Undiscovered (1852395552)Undiscovered (1920300140)Added: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+Quest: Tome of Divinity (Paladin only) 
+Info:Who:Brother WilhelmAttain:12Level:12Side:AllianceClass:PaladinRelated Zones:Stormwind CityAdded: Jun 23rd, 2004Updated: Jul 23rd,2004
+
+
+
+
+
+Objectives:
+Speak to Duthorian Rall in Stormwind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Raene's Cleansing 
+Info:Who:Shael'drynWhere:AshenvalePrereq:Raene's CleansingLevel:28Items Needed:Reconstructed Rod (1)Leads to:Raene's CleansingAdded: Apr 7th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Find the hidden shrine and re-enchant Dartol's Rod.
+
+
+
+
+
+
+
+
+
+
+Quest: Raene's Cleansing 
+Info:Who:Shael'drynWhere:AshenvalePrereq:Raene's CleansingLevel:21Items Needed:Glowing Gem (1)Leads to:Raene's CleansingRelated Mobs:Shael'drynAdded: Apr 19th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Find Shael'dryn at the moonwell in the northeast.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Set Them Ablaze! (Elite)
+Info:Who:Kalaran WindbladeWhere:Searing GorgeLevel:52Coin:1 1 38 Added: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Set the North, South, East, and West Sentry Towers on fire by using the Torch of Retribution inside each of the buildings. 
+
+
+
+
+
+
+
+
+
+Quest: Morganth (Elite)
+Info:Where:Redridge MountainsLevel:27Items Needed:Pendant of Shadow (1)Added: Jun 12th, 2004Updated: Jul 30th,2004
+
+
+
+
+
+Objectives:
+Defeat Morganth.Bring his Pendant of Shadow to Theocritus at the Tower of Azora in Elwynn Forest.
+
+
+
+
+
+
+
+
+
+
+Quest: Messenger to Westfall 
+Info:Who:Gryan StoutmantleWhere:Redridge MountainsPrereq:Messenger to WestfallLevel:14Coin:1 73 Items Needed:Stoutmantle's Response to Solomon (1)Leads to:Messenger to DarkshireRelated Areas:Sentinal HillAdded: Mar 25th, 2004Updated: Jul 6th,2004
+
+
+
+
+
+Objectives:
+Return to Magistrate Solomon with Gryan Stoutmantle's response.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Morgan Stern 
+Info:Where:DurotarLevel:35Added: Apr 6th, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Speak with Morgan Stern in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Putrid Task 
+Info:Who:Deathguard DillingerWhere:Tirisfal GladesAttain:4Level:6XP:775Coin:1 Items Needed:Putrid Claw (7)Leads to:The Mills OverrunRelated Mobs:Ravaged CorpseRotting DeadAdded: Apr 20th, 2004Updated: Jun 8th,2004
+
+
+
+
+
+Objectives:
+Bring 7 Putrid Claws to Deathguard Dillinger in Brill.
+Game Description:
+Scourge have trickled into Tirisfal Glades and have infested the area west of Brill, near the old bridge.Go there and beat back the Rotting Dead and Ravaged Corpses you find.  Scatter their bones and bring back their Putrid Claws, and the Deathguards will reward you.End Text:Have you completed the task with which I have charged you? Do you have those Putrid Claws?
+
+Required items: 7 Putrid Claws
+
+Click Continue
+
+Well done. I regret not being there to see you smash those undead into rotting pulp!
+
+Click Complete Quest.Additional Notes:I got this quest at level 4. With my imp I could kill Rotting and Ravaged, but stayed with Rotting as they are lower. Rotting Dead are level 5-7, whereas Ravaged at almost always 7. Be careful from straying too far from the bridge area, past the graveyard. Behind the graveyard is where the Rot Hide Graverobbers and Rot Hide Mongrels hang out, and boy are they mean!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Cave Mushrooms 
+Info:Who:Barithras MoonshadeWhere:DarkshoreAttain:12Level:16XP:2000Coin:9 4 Items Needed:Scaber Stalk (5)Death Cap (1)Leads to:OnuSide:AllianceRelated Areas:Cliffspring FallsAdded: Mar 25th, 2004Updated: Sep 6th,2004
+
+
+
+
+
+Objectives:
+Bring 5 Scaber Stalks and 1 Death Cap to Barithras Moonshade in Auberdine.
+Game Description:
+I am devising a potion that requires rare mushrooms, mushrooms that grow only in a certain cave.  The cave lies behind Cliffspring Falls, to the east and slightly north along the mountains.I would go there myself, but I was advised by the Grove of the Ancients to stay away from that place.  Our venerable allies sense that the cave is the hiding place for a new evil in Darkshore.Please, <Name>, gather the mushrooms for me.  And while doing so, scout the cave to confirm the Ancients' fears.End Text:Do you have my mushrooms, <Name>? Have you been to the cave?
+
+Required items: 5 Scaber Stalks and 1 Death Cap
+
+Click Continue
+
+Many thanks, <Name>. These mushrooms are find specimens!
+
+And when you were at Cliffsprings Falls, did you find anything to confirm the warnings of the Ancients?
+
+The Ancients are wise, but I had hoped that, this time, they were wrong.
+
+
+
+
+
+
+Quest: The Morrow Stone 
+Info:Who:Equinex MonolithCategory:
+FeralasStarts in:
+FeralasPrereq:The Stave of EquinexAttain:46Level:50XP:4700Items Needed:
+
+
+(1)
+A Sparkling Stone
+Quest Item
+
+
+
+
+(1)
+Stave of Equinex
+Unique
+Quest Item
+
+Side:AllianceRelated Mobs:Troyas MoonbreezeRelated Areas:Feathermoon StrongholdRating:Unrated (0)Added: Nov 15th, 2004Updated: Nov 15th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Return the Sparkling Stone and the Stave of Equinex to Troyas Moonbreeze in Feathermoon Stronghold.
+Game Description:
+The moment the artifact is removed from the Monolith, you feel the energy in the Stave of Equinex begin to fade.Rewards:
+
+
+(1)
+Unknown Reward
+Quest Item"It is not known what the reward will be..."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Squire Maltrake 
+Info:Where:Searing GorgeLevel:50Added: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Speak with Squire Maltrake, who is probably standing five feet away from you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Who:JorgenWhere:Stormwind CityPrereq:The Missing DiplomatLevel:28Items Needed:Sealed Note to Elling (1)Leads to:The Missing DiplomatThe Missing DiplomatAdded: Apr 6th, 2004Updated: Sep 3rd,2004
+
+
+
+
+
+Objectives:
+Delivery Jorgen's Sealed Note to Elling Trias in Stormwind City.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Test of Righteousness (Paladin only) (Elite)
+Info:Level:21Leads to:Side:AllianceClass:PaladinRelated Mobs:Jordan StilwellRelated Zones:IronforgeAdded: Jun 23rd, 2004Updated: Jul 27th,2004
+
+
+
+
+
+Objectives:
+Speak to Jordan Stilwell in Ironforge
+
+
+
+
+
+
+
+
+
+
+Quest: Thunderbrew Lager 
+Info:Who:Grimbooze ThunderbrewWhere:WestfallLevel:15Items Needed:Hops (5)Leads to:Dry TimesAdded: Apr 6th, 2004Updated: Jul 1st,2004
+
+
+
+
+
+Objectives:
+Bring Grimbooze Thunderbrew 5 hops to complete his special brew.
+Game Description:
+Hurry, my friend, move with haste In order for our rich lager to taste More like beer and less like stew, Hops are needed to make the brew.Additional Notes:Grimbooze is located in the SW corner of the zone, high in the mountains. You find the hops off of Harvest Watchers lvl 14-15, I found them in the field east of Moonbrook, next to the stacks of grain.Rewards:Keg of Thunderbrew Lager (1) 
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Report to Ironforge 
+Info:Who:Prospector IronbandWhere:Loch ModanPrereq:Excavation Progress ReportAttain:10Level:15XP:270Items Needed:Ironband's Progress Report (1)Leads to:Powder to IronbandSide:AllianceRelated Mobs:Prospector StormpikeRelated Zones:City of IronforgeRelated Areas:Hall of ExplorersAdded: Apr 6th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Take Ironband's Progress Report to Prospector Stormpike.
+Game Description:
+We'll need approval to get Ironband more blastpowder. You'll have to take his report to the Explorers' League headquarters in Ironforge.Here's the report. Give it to Prospector Stormpike, and don't forget to duck after you deliver it. Stormpike is hotheaded, and he won't be happy to hear of Ironband's slow progress at the site.You'll find Stormpike in the Assembly of Explorers.End Text:We Stormpikes don't like being bohtere with trivial matters, <Class>. I hope you brought news worthy of my valuable attention.
+
+Required items: Ironband's Progress Report
+
+Click Continue
+
+Curse that Ironband! I sent him a load of blastpowder weeks ago, but he's made no mention of it in this report.
+
+So...where did the blastpowder go?!?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Feralas: A History 
+Info:Who:Feralas: A HistoryCategory:
+FeralasStarts in:
+TeldrassilAttain:43Level:47XP:420Leads to:The BorrowerSide:AllianceRelated Mobs:Daryn LightwindRelated Zones:DarnassusRating:Unrated (0)Added: Oct 23rd, 2004Updated: Oct 29th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Ask Daryn Lightwind if you may borrow her book.
+Game Description:
+This book looks as if no one has opened it for quite a long time. Its covers are quite worn, and its pages yellowed, but after examining it, you notice that it might be just what Troyas is looking for.You pick it up, but realize you should probably ask before borrowing it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Syndicate Assassins 
+Info:Who:Magistrate Henry MalebWhere:Hillsbrad FoothillsLevel:33Related Mobs:Syndicate FootpadSyndicate ThiefRelated Zones:Alterac MountainsHillsbrad FoothillsAdded: May 28th, 2004Updated: Aug 6th,2004
+
+
+
+
+
+Objectives:
+Kill 12 Syndicate Footpads and 8 Syndicate Thieves, then return to Magistrate Henry Maleb in Southshore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Down the Coast 
+Info:Who:Lieutenant Farren OrinelleWhere:Hillsbrad FoothillsAttain:30Level:30Coin:14 91 Related Mobs:Torn Fin OracleTorn Fin TidehunterAdded: Jun 12th, 2004Updated: Aug 6th,2004
+
+
+
+
+
+Objectives:
+Kill 10 Torn Fin Tidehunters and 10 Torn Fin Oracles for Lieutenant Farren Orinelle in Southshore.
+
+
+
+
+
+
+
+
+Quest: Lieutenant Paval Reethe 
+Info:Where:DurotarLevel:40Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Find out more about Reethe from Adjutant Tesoran in Theramore.
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Where:Stormwind CityPrereq:Level:35Leads to:The Missing DiplomatAdded: Apr 6th, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Search Sentry Point for any sign of Private Hendel.
+
+
+
+
+
+
+Quest: The Giant Guardian 
+Info:Who:RockbiterCategory:
+FeralasStarts in:
+FeralasLevel:49Side:AllianceRelated Mobs:Shay LeafrunnerRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 19th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Locate the lost night elf girl.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Torch of Retribution 
+Info:Who:Kalaran WindbladeWhere:Searing GorgeLevel:50Added: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Wait for Kalaran Windblade to complete the Torch of Retribution.
+
+Game Description:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Dark Threat Looms 
+Info:Who:Chief Engineer HinderweirWhere:Loch ModanPrereq:A Dark Threat LoomsAttain:16Level:18XP:1350Items Needed:Strange Smelling Powder (1)Leads to:A Dark Threat LoomsSide:AllianceRelated Mobs:Ashlan StonesmirkRelated Zones:WetlandsRelated Areas:Dun ModrAdded: Mar 25th, 2004Updated: Aug 31st,2004
+
+
+
+
+
+Objectives:
+Chief Engineer Hinderweir wants you to take the strange smelling powder to Ashlan Stonesmirk, the explosives expert in Dun Modr.
+Game Description:
+If my suspicions are correct, this is some type of explosive powder.  This must be analyzed by an explosives expert so we know just what we're dealing with here.  Ashlan Stonesmirk was assigned to the regiment guarding Dun Modr and the Thandol Span.  I need you to make a grave and perilous journey, <Name>.Travel through the Algaz Gate, follow the road through the Wetlands and seek out Stonesmirk in Dun Modr.  Heed my advice: stick to the roads and stop for nothing!End Text:You say somethin', missy? Can't hear a bloody thing besides the ringin' in me ears. Say, what's that you got there?
+
+Required items: Strange Smelling Powder
+
+Click Continue
+
+Ah, well Ol' Hinderweir is wise to be worried.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Safety First 
+Info:Who:Mudcrush DurtfeetWhere:Thousand NeedleLevel:41Items Needed:Modified Seaforium Booster (1)Added: Jul 26th, 2004Updated: Jul 26th,2004
+
+
+
+
+
+Objectives:
+Return the Modified Seaforium Booster to Razzeric on the Shimmering Flats.
+
+
+
+
+
+
+
+
+
+
+Quest: The Stave of Equinex 
+Info:Who:Troyas MoonbreezeCategory:
+FeralasStarts in:
+FeralasPrereq:Return to TroyasLevel:50Items Needed:
+
+
+(1)
+Stave of Equinex
+Unique
+Quest Item
+
+Leads to:The Morrow StoneSide:AllianceRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 19th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Energize Troyas' Stave and find the Equinex Monolith.
+Game Description:
+It appears this stave might be the Stave of Equinex. The Stave of Equinex is actually a key; with it, you can unlock the Equinex Monolith that still stands in the northern ruins.Find the four flames that still burn in the ruins: Samha, Imbel, Byltan, and Lahassa. From them, retrieve their essence. Then, while standing by the Equinex Monolith, use the essence to energize the stave. If this is truly is the Stave of Equinex, you will be able to unlock the Monolith and gather a sacred artifact from it.Rewards:
+
+
+(1)
+Unknown Reward
+Quest Item"It is not known what the reward will be..."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Study of the Elements: Rock 
+Info:Who:Lotwil VeriatusWhere:BadlandsLevel:37Items Needed:Small Stone Shard (10)Added: May 28th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Find 10 Small Stone Shards and bring them to Lotwil Veriatus in the Badlands.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A New Plague 
+Info:Who:Apothecary JohaanWhere:Tirisfal GladesAttain:6Level:6XP:1050Coin:50 Items Needed:Darkhound Blood (5)Leads to:A New PlagueRelated Mobs:Cursed DarkhoundRelated Areas:BrillAdded: Apr 20th, 2004Updated: Jun 8th,2004
+
+
+
+
+
+Objectives:
+Apothecary Johaan in the town of Brill wants you to collect 5 Vials of Darkhound Blood.
+Game Description:
+Lady Sylvanas has called upon the Royal Apothecary Society. The Dark Lady believes our knowledge coupled with the newfound magic will provide the key to Arthas's demise.  She has challenged us to concoct a new plague, a plague deadlier than any ailment on Azeroth. This new disease will bring Arthas's Scourge Army to ruin.My studies show that the blood of beasts might prove to be the key. Bring to me 5 vials of darkhound blood so I can test my theory. End Text:Have you collected 5 vials of darkhound blood yet, <Name>? Time is fleeting!
+
+Required items: 5 Darkhound Blood
+
+Click Continue.
+
+You have done well, and I thank you for your efforts.
+
+Click Complete Quest.Additional Notes:Just about any Darkhound over level 5 may carry this blood and you do not have to venture far from the Johaan to find them.Rewards:Weak Troll's Blood Potion (3) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Where:Stormwind CityPrereq:The Missing DiplomatLevel:31Leads to:The Missing DiplomatRelated Mobs:Dashel StonefistAdded: Jun 12th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Defeat Dashel Stonefist in Stormwind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Rogue's Deal 
+Info:Who:Calvin MontagueWhere:Tirisfal GladesPrereq:A Rogue's DealAttain:5Level:5Coin:25 Added: May 5th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Defeat Calvin Montague in Deathknell.
+Game Description:
+What?What?!You want money? I don't owe you any money.Letter? What letter? Oh, you wanna fight then? All right, mate... let's do this! Owe you any money...End Text:On May 24 this quest was broken. I even had a level 12 happen by and assist and we still could not kill this NPC. He kept going from green to red and back again, and all the while healing. Leve 12 said he was broken and for me to come back later. 
+
+June 8, still broken.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Where:Stormwind CityPrereq:The Missing DiplomatLevel:35Leads to:The Missing DiplomatAdded: Apr 6th, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Find Private Hendel in Dustwallow Marsh.
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Who:MikhailWhere:Stormwind CityPrereq:The Missing DiplomatLevel:33Leads to:The Missing DiplomatRelated Mobs:Tapoke Slim JahnAdded: May 28th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Subdue Tapoke Jahn before he escapes, and then return to Mikhail in Menethil.
+
+
+
+
+
+
+Quest: Dolanaar Delivery 
+Info:Who:PorthanniusWhere:TeldrassilAttain:5Level:5Items Needed:Dolanaar Delivery (1)Side:HordeRelated Mobs:MelarithRelated Areas:DolanaarShadowglenAdded: Apr 20th, 2004Updated: Sep 4th,2004
+
+
+
+
+
+Objectives:
+Bring the Dolanaar Delivery to Innkeeper Keldamyr.
+Game Description:
+Greetings, young <Class>.  Can you offer me aid?  I have a package of herbs that I must deliver to the town of Dolanaar.  But I still have business with the druids of Shadowglen and cannot yet leave.Can you deliver this package for me?  It must be sent to Innkeeper Keldamyr, at the Dolanaar inn.  It lies along the road, to the south.End Text:Good day. How might I be of service to you, young one? Are you here to rest in the inn? Do you require a heartstone?
+
+Required items: Dolanaar Delivery (chest)
+
+Click Continue
+
+Ah yes, the delivery of herbs from Shadowglen. It is a shame Porthannius could not bring it himself, for we have much to discuss, he and I. But I am glad to get the herbs nontheless, and I am glad you came.
+
+While you are here, please, rest yourself. Heroes must keep their strength and spirits high, and must find rest and solace whenever they may. For to neglect one's peace of body and mind is a sure path to failure.
+
+So... rest.
+
+Choose your reward: Darnassian Bleu (5) or Refreshing Spring Water (5) 
+
+
+Complete Quest.Additional Notes:Melarith is located upstairs, to the right, in the Inn in Dolanaar.Rewards:choose:  or Darnassian Bleu (5)  or Refreshing Spring Water (5) Dolanaar Delivery (0) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Ancient Statuette 
+Info:Who:TalenWhere:AshenvaleLevel:20XP:1150Coin:10 47 Items Needed:Ancient Statuette (1)Leads to:RuuzelSide:AllianceAdded: Jun 12th, 2004Updated: Aug 17th,2004
+
+
+
+
+
+Objectives:
+Bring the Ancient Statuette to Talen, in his camp near the Zoram Strand.
+Game Description:
+I would charge you with a task, <Name>.I was on my boat, rowing over the submerged ruins of Zoram, when naga attacked me, surging from the water and tearing at me with their claws!  I fled, carrying what supplies I could to make this meager camp.But when I reached the shore and ran... my prized possession was lost.Please, <Name>, find the site of my ambush and search for an ancient statuette.  It is the reason I have braved the dangers of the Zoram Strand.End Text:Have you found the statuette, <Name>?
+
+Required items: Ancient Statuette
+
+Click Continue
+
+You found it! Thank you, <Name>!
+
+The old city of Zoram holds many secrets, and this statuette may be the key to many of them.
+
+Click Complete QuestAdditional Notes:
+
+The lead in for the next quest starts in what he says after the quest is over.
+
+Talen says: This statuette must hold a hidden compartment...
+
+Talen says: It's locked!  NO!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Flawless Flame 
+Info:Who:Kalaran WindbladeWhere:Searing GorgeLevel:48Coin:59 75 Items Needed:Heart of Flame (4)Golem Oil (4)Added: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Collect four Heart of Flame and four Golem Oil and return the items to Kalaran Windblade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Draenethyst Crystals 
+Info:Where:Swamp of SorrowsLevel:35Items Needed:Draenethyst Crystal (6)Added: May 28th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Bring 6 Draenethyst crystals to Magtoor at The Harborage in the Swamp of Sorrows.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Tome of Valor (Paladin only) 
+Info:Category:
+Class: PaladinStarts in:
+Level:20Class:PaladinRating:Unrated (0)Added: Jul 7th, 2004Updated: Sep 5th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+
+Game Description:
+Rewards:
+
+
+(1)
+Tome of Valor
+Binds when picked up
+Unique
+Quest ItemThis item starts a quest.
+Requires Level 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Uncovering the Past 
+Info:Who:Prospector WhelgarWhere:WetlandsLevel:28Coin:19 70 Items Needed:Ados Fragment (1)Modr Fragment (1)Golm Fragment (1)Neru Fragment (1)Added: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Prospector Whelgar wants you to scour the excavation site in search of the 4 missing tablet fragments: Ados, Modr, Golm and Neru.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  (Paladin only) (Elite)
+Info:Who:Bailor StonehandPrereq:Level:22XP:350Items Needed:Undiscovered (1701990176)Undiscovered (543649385)Undiscovered (1768444704)Undiscovered (544370540)Side:AllianceClass:PaladinRelated Areas:Mo'grosh StrongholdAdded: Jul 8th, 2004Updated: Aug 18th,2004
+
+
+
+
+
+Objectives:
+
+Game Description:
+End Text:So, any luck yet? Haha, those ogres didn't get the best of ya yet, did they?
+
+Required items: Jordan's Ore Shipment
+
+Click Continue
+
+Yup yup, this is it. Ha! If I'd known you were really gonna head out there and fight some o' them ogres, I woulda given you a list of things to get instead of just this one thing. But, you're not here doin' business for me are ya?
+
+A deal's a deal; Jordan wanted a shipment of me alloy, that's what he's gonna get.
+
+Tell 'em hello fer me, and be safe.
+
+
+
+
+
+
+
+
+Quest: Ruuzel 
+Info:Who:TalenWhere:AshenvalePrereq:The Ancient StatuetteLevel:25Items Needed:Ring of Zoram (1)Added: May 28th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Bring the Ring of Zoram to Talen near the Zoram Strand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Color of Blood (Elite)
+Info:Where:Stormwind CityLevel:26Coin:38 63 Items Needed:Red Wool Bandana (10)Added: May 28th, 2004Updated: Jul 27th,2004
+
+
+
+
+
+Objectives:
+Nikova Raskol of Stormwind wants you to collect 10 Red Wool Bandanas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Grand Betrayal (Elite)
+Info:Where:Dun MoroghLevel:35Coin:22 49 Added: Jun 23rd, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Venture to Gnomeregan and kill Mekgineer Thermaplugg. Return to High Tinker Mekkatorque when the task is complete.
+
+
+
+
+
+
+
+
+
+
+Quest: Nek'rosh's Gambit 
+Info:Where:WetlandsPrereq:War BannersLevel:31Items Needed:Dwarven Tinder (1)Leads to:Defeat Nek'roshAdded: Jun 12th, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Destroy the Dragonmaw catapults.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Search for Incendicite 
+Info:Who:Pilot StonegearWhere:Dun MoroghPrereq:Stonegear's SearchAttain:19Level:22XP:1750Items Needed:Incendicite Ore (6)Side:AllianceRelated Zones:WetlandsAdded: Apr 11th, 2004Updated: Aug 17th,2004
+
+
+
+
+
+Objectives:
+Bring 6 loads of Incendicite Ore to Pilot Stonegear in Dun Morogh.
+Game Description:
+I heard that a rare ore, incendicite, was found in the Wetlands, in a cave northwest of Algaz Gate.  Incendicite is volatile stuff and hard to use without blowing yourself up, but I'm sure if it's smelted the right way it could make cannon shells that pack a mighty punch!Get me incendicite ore and I'll find someone brave enough to experiment with it.Oh, and to extract that ore from a vein you'll need skill in mining.  If you don't have it, then ... bring a friend who does to that cave!End Text:Where is that ore, <Name>?!
+
+Required items: 6 Incendicite Ore
+
+Click Continue
+
+You got the ore! Well done, <Name>! I'll get someone to work with this right away. Let's hope he doesn't blow himself up!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Forging the Shaft 
+Info:Who:Kalaran WindbladeWhere:Searing GorgeLevel:48Coin:59 75 Items Needed:Thorium Plated Dagger (8)Added: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Bring eight Thorium Plated Daggers to Kalaran Windblade.
+Game Description:
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Where:Stormwind CityPrereq:The Missing DiplomatLevel:31Leads to:The Missing DiplomatRelated Mobs:Elling TriasAdded: Jun 12th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Speak to Elling Trias in Stormwind.
+
+
+
+
+
+
+
+
+
+
+Quest: Items of Power (Mage only) 
+Info:Level:40Items Needed:Jade (1)Bolt Charged Bramble (1)Class:MageRelated Mobs:TabethaRelated Areas:Dustwallow MarshAdded: Jul 26th, 2004Updated: Jul 8th,1936
+
+
+
+
+
+Objectives:
+Bring 1 Jade and the Bolt Charged Bramble to Tabetha in Dustwallow Marsh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Against the Hatecrest 
+Info:Who:Shandris FeathermoonCategory:
+FeralasStarts in:
+FeralasPrereq:Return to Feathermoon StrongholdAttain:40Level:43XP:360Leads to:Against the HatecrestSide:AllianceRelated Areas:Feathermoon StrongholdRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 29th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Report to Latronicus Moonspear in Feathermoon Stronghold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  (Elite)
+Info:Who:Archbishop BendictusLevel:42Items Needed:Undiscovered (1766596709)Undiscovered (1109422191)Undiscovered (2032169844)Undiscovered (1852141165)Related Mobs:Amnennar the ColdbringerAdded: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Against the Hatecrest 
+Info:Who:Latronicus MoonspearCategory:
+FeralasStarts in:
+FeralasPrereq:Against the HatecrestAttain:40Level:43XP:2700Coin: 45 Items Needed:
+
+
+(10)
+Hatecrest Naga Scale
+Quest Item
+
+Leads to:Against Lord ShalzaruSide:AllianceRelated Areas:Sardor IsleRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 19th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring 10 Hatecrest Scales to Latronicus Moonspear in Feathermoon Stronghold.
+
+
+
+
+
+
+Quest: The High Wilderness 
+Info:Who:Angelas MoonbreezeCategory:
+FeralasStarts in:
+FeralasLevel:44Coin:65 Side:AllianceRelated Mobs:Gordunni BruteGordunni ShamanGordunni WarlockRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 19th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Angelas Moonbreeze wants you to kill 8 Gordunni Warlocks, 8 Gordunni Shaman, and 8 Gordunni Brutes.
+
+
+
+
+
+
+Quest: The Super Snapper FX (Elite)
+Info:Who:Curgle CranklehopCategory:
+FeralasStarts in:
+TanarisPrereq:The BorrowerLevel:48XP:4400Items Needed:
+
+
+(1)
+Snapshot of Gammerita
+Unique
+Quest Item"She's so photogenic..."
+
+
+
+
+
+(1)
+Super Snapper FX
+Unique
+Quest ItemUse: Target and click to take a snapshot.
+"New & Improved!"
+
+
+Leads to:Return to TroyasSide:AllianceRelated Mobs:Daryn LightwindGammeritaRelated Zones:TeldrassilThe HinterlandsRating:Unrated (0)Added: Oct 23rd, 2004Updated: Dec 21st,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Use the Super Snapper FX to take a snapshot of Gammerita, then return to Daryn Lightwind in Rut'theran Village.
+Game Description:
+Have the first look at my new invention, <Name>. All you need to do is target whatever it is you'd like to take a picture of, and push the button.What was that creature from the Hinterlands that you mentioned? Gammerita? Well, good luck finding her. I'm sure Daryn will be quite pleased with the snapshot you return to her.In any case, here's the Super Snapper. Have fun!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: At War With The Scarlet Crusade 
+Info:Who:Executor ZygandWhere:Tirisfal GladesPrereq:At War With The Scarlet CrusadeAttain:9Level:9XP:1450Coin:2 Leads to:At War With The Scarlet CrusadeRelated Mobs:Captain PerrineScarlet MissionaryScarlet ZealotRelated Areas:BrillAdded: Apr 20th, 2004Updated: Jun 10th,2004
+
+
+
+
+
+Objectives:
+Executor Zygand in Brill wants you to kill Captain Perrine, 3 Scarlet Zealots and 3 Scarlet Missionaries.
+Game Description:
+The strategic documents from Executor Arren contain all the details we need to wipe the human infestation from the lands.  According to the information, The Scarlet Crusade has assigned Captain Perrine and a brigade to the ruined tower southwest of Brill.Kill Perrine along with 3 Zealots and 3 Missionaries and report back to me.End Text:Captain Perrine's death will undoubtedly please the Dark Lady. You have performed your duty well, warlock.
+
+Click Complete Quest.Additional Notes:Missionaries are level 7-8 
+Zealots are level 8-9 
+
+The captain, who is level 9, is inside of a ruined tower and is guarded by a level 9 zealot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Keeping Pace 
+Info:Where:Thousand NeedleLevel:41Added: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Have Zamek create a diversion, then steal Rizzle's plans for Pozzik on the Shimmering Flats.
+
+
+
+
+
+
+
+
+Quest: The Tome of Divinity (Paladin only) 
+Info:Who:Stephanie TurnerCategory:
+Class: PaladinStarts in:
+Stormwind CityPrereq:The Tome of DivinityAttain:12Level:13XP:900Items Needed:
+
+
+(10)
+Linen Cloth
+Trade Goods
+
+Leads to:The Tome of DivinitySide:AllianceClass:PaladinRating:Unrated (0)Added: Jun 25th, 2004Updated: Oct 10th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring 10 Linen Cloths to Stephanie Turner in Stormwind.
+
+
+
+
+
+
+
+
+
+
+Quest: Mage's Wand 
+Info:Who:TabethaCategory:Class: MageStarts in:Dustwallow MarshPrereq:Rituals of PowerAttain:34Level:40XP:3150Side:BothAdded: Oct 23rd, 2004Updated: Apr 20th,2005
+
+
+
+Objectives:
+Speak with Tabetha after her ritual.
+Game Description:
+I'll go make the wands now.Rewards:Choose one of: 
+      
+
+(1)
+Icefury Wand
+Binds when picked up
+RangeWand36 -  68 Frost DamageSpeed 1.60
+(32.5 damage per second)
+Classes: Mage 
+Passive: Increases damage done by Frost spells and effects by up to 7.
+
+
+
+
+(1)
+Nether Force Wand
+Binds when picked up
+RangeWand34 -  64 Arcane DamageSpeed 1.50
+(32.7 damage per second)
+Classes: Mage 
+Passive: Increases damage done by Arcane spells and effects by up to 7.
+
+
+
+
+(1)
+Ragefire Wand
+Binds when picked up
+RangeWand32 -  60 Fire DamageSpeed 1.40
+(32.9 damage per second)
+Classes: Mage 
+Passive: Increases damage done by Fire spells and effects by up to 7.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: James Hyal 
+Info:Where:WetlandsLevel:35Added: Apr 6th, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Speak with Clerk Lendry in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  (Elite)
+Info:Level:47Items Needed:Undiscovered (1634429793)Undiscovered (1936877894)Undiscovered (1734821152)Undiscovered (1700339823)Added: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Exorcism (Mage only) (Elite)
+Info:Level:40Class:MageAdded: Jul 30th, 2004Updated: Jul 30th,2004
+
+
+
+
+
+Objectives:
+Kill the Demon of the Orb, then speak with Tabetha.
+
+
+
+
+
+
+Quest: Rescue OOX-17/TN! 
+Info:Who:Homing Robot OOX-17/TNCategory:
+TanarisStarts in:
+TanarisPrereq:Find OOX-17/TN!Attain:43Level:48XP:6100Side:BothRelated Mobs:Homing Robot OOX-17/TNOglethorpe ObnoticusRelated Zones:Stranglethorn ValeRelated Areas:Booty BayRating:Unrated (0)Added: Aug 11th, 2004Updated: Oct 29th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Escort OOX-17/TN to Steamwheedle Port, then report to Oglethorpe Obnoticus in Booty Bay.
+Game Description:
+The gnome's voice crackles once again from the robot:"I need to move OOX-17/TN to an open, safe place so it can begin a lengthy take-off procedure.  It has built-in cloaking, but I need time on my end to make it operational again.  I need you to escort the robot from its current location to, let's say, Steamwheedle Port!  That should be a perfect place, and long enough, to get things on line!""Escort it safely to the port, and then come talk to me in Booty Bay!  Oglethorpe Obnoticus - out!"Rewards:Choose one of: 
+      
+
+(1)
+Optomatic Deflector
+Binds when picked up
+Off HandShield1578 Armor
+25 Block
++5 Strength
+Passive: Increases your chance to block attacks with a shield by 2%.
+
+
+
+
+(1)
+Thermotastic Egg Timer
+Binds when picked up
+Held In HandMiscellaneous+3 Agility
++11 Spirit
+
+
+
+
+
+
+
+Quest: The Temple of the Moon 
+Info:Who:Sister AquinneCategory:
+DarnassusStarts in:
+DarnassusLevel:10Leads to:Tears of the MoonSide:AllianceRelated Mobs:Priestess A'mooraRelated Areas:Temple of the MoonRating:Unrated (0)Added: Aug 11th, 2004Updated: Oct 25th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Sister Aquinne wants you to speak with Priestess A'moora in the Temple of the Moon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Where:BadlandsLevel:38Coin:2 45 Items Needed:Undiscovered (6581871)Undiscovered (1869762560)Undiscovered (1998611566)Undiscovered (543584032)Added: May 28th, 2004Updated: Aug 22nd,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Malin's Request 
+Info:Who:MalinWhere:Stormwind CityLevel:32XP:1950Related Mobs:SkuertoRelated Zones:Arathi HighlandsRelated Areas:Refuge PointAdded: Apr 6th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Find Skuerto at Refuge Pointe in the Arathi Highlands.
+Game Description:
+Greetings, <Name>. You have the look of an adventurer about you, and I have a task that needs some tending to.Archmage Trelane, my original master, fled Stromgarde in the Arathi Highlands not too long ago, and he's asked me to help him in recovering some of the items he left behind.The city fell under siege, and he attempted to defend the Tower of Arathor, but to no avail. I have agents in the Highlands already, but they've requested I send more aid. Are you interested?End Text:So Malin set ye? I don't care if Muradin rose up from the dead and whisked ye here on a dragon. I'm busy! Talk to Kryten if you need somethin'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Dark Threat Looms 
+Info:Who:Ashlan StonesmirkWhere:Loch ModanPrereq:A Dark Threat LoomsAttain:14Level:18Items Needed:Disarming Colloid (1)Leads to:A Dark Threat LoomsSide:AllianceRelated Mobs:Chief Engineer Hinderweir VIIRelated Zones:Loch ModanRelated Areas:Stonewrought DamAdded: Mar 25th, 2004Updated: Sep 11th,2004
+
+
+
+
+
+Objectives:
+Ashlan Stonesmirk wants you to return to Chief Engineer Hinderweir and inform him of the new discovery.
+
+
+
+
+
+
+
+
+
+
+Quest: The Thandol Span 
+Info:Who:Rhag GarmasonWhere:WetlandsPrereq:The Thandol SpanAttain:28Level:31XP:2500Items Needed:Deepfury's Orders (1)Leads to:The Thandol SpanSide:AllianceAdded: May 28th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Report back to Rhag Garmason and show him the parchment you found on Rustlocke's corpse.
+Game Description:
+It seems as though poor Ol' Rustlocke ran into a Dark Iron ambush.  You notice a parchment next to his clenched fist.Report the grim news to Rhag Garmason and show him what you found.End Text:Any sign of Ol' Rustlocke, <Name>?
+
+Required items: Deepfury's Orders
+
+Click Continue
+
+Oh my, the news is grave...
+
+
+
+
+
+
+
+
+Quest: Get the Scoop  (Mage only) 
+Info:Who:TirthLevel:30Class:MageAdded: Jul 26th, 2004Updated: Jul 26th,2004
+
+
+
+
+
+Objectives:
+Find the phrase to Tirth's strongbox, then return to Tirth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Dark Iron War (Elite)
+Info:Who:Motley GarmasonWhere:WetlandsLevel:30Coin:19 88 Related Mobs:Dark Iron DemolitionistDark Iron DwarfDark Iron SaboteurDark Iron TunnelerRelated Areas:Dun ModrAdded: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Motley Garmason at Dun Modr wants you to kill 15 Dark Iron Dwarves,  5 Dark Iron Tunnelers, 5 Dark Iron Saboteurs and 5 Dark Iron Demolitionists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Look To The Stars 
+Info:Where:DuskwoodPrereq:Look To The StarsLevel:25Leads to:Look To The StarsAdded: Apr 6th, 2004Updated: Jul 24th,2004
+
+
+
+
+
+Objectives:
+Locate Mary and persuade her to give up a reflective surface for Viktori's project.
+
+
+
+
+
+
+Quest: Raene's Cleansing 
+Info:Who:Raene WolfrunnerWhere:AshenvaleLevel:19XP:1450Leads to:Raene's CleansingRaene's CleansingSide:AllianceRelated Mobs:Teronis' CorpseRelated Areas:Lake FalathimAdded: Apr 9th, 2004Updated: Sep 9th,2004
+
+
+
+
+
+Objectives:
+Find Teronis in Ashenvale.
+Game Description:
+<Name>, a longtime friend of mine is also aiding the Sentinels here in Ashenvale, but he has yet to return.He had leads on finding an item that he thought could slow the furbolg attacks on our people--a rod created by a now-dead, evil wizard.Before he left here, he mentioned seeking out a gem for the rod.He mentioned the gem possibly being hidden at the shrine in Lake Falathim at the base of the mountain to the west. The gem was being held there before it was overrun.Find my friend, <Name>, please.End Text:Teronis' body lies broken atop the island. For some unknown reason, the murlocs have left it alone.
+
+The deep slashes across his corpse obviously came from the weapons and claws of the murlocs.
+
+
+
+
+
+
+
+
+
+
+Quest: In Search of The Excavation Team 
+Info:Who:Tarrel RockweaverWhere:WetlandsLevel:24Leads to:In Search of The Excavation TeamRelated Mobs:Merrin RockweaverAdded: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Tarrel Rockweaver wants you to travel to the Excavation Site and contact Merrin Rockweaver.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Bingles's Missing Supplies 
+Info:Who:Bingles BlastenheimerWhere:Loch ModanLevel:15Coin:7 93 Items Needed:Bingles's Wrench (1)Bingles's Screwdriver (1)Bingles's Hammer (1)Bingles's Blastencapper (1)Added: Jun 10th, 2004Updated: Jun 25th,2004
+
+
+
+
+
+Objectives:
+Find and return Bingles's supplies:$B$BBingles's Wrench, Bingles's Screwdriver, Bingles's Hammer, and Bingles's Blastencapper.
+Game Description:
+As if crashing into the Loch wasn't bad enough, troggs from the nearby island attacked me and stole my tools and special Blastenheimer Blastencapper explosives. With no gyrocopter and no explosives, the movement has no chance!Get my tools back and find my Blastencapper explosives, <Name>. For Gnomeregan! Additional Notes:These are found in chests on the island. 3 of the items are found on the northern most isle in the loch, one at each camp, the 4th is found on the small isle to the west of the northern most isle.  mobs in camps are 13-16 lvls. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Chef JessenWhere:Hillsbrad FoothillsLevel:31Coin:19 88 Items Needed:Undiscovered (1920291872)Undiscovered (1735289202)Undiscovered (1968447590)Undiscovered (1869815908)Added: Jun 12th, 2004Updated: Aug 22nd,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+Quest: Messenger to Stormwind 
+Info:Who:Magistrate SolomonWhere:Redridge MountainsLevel:14Items Needed:The State of Lakeshire (1)Leads to:Messenger to StormwindAdded: Mar 25th, 2004Updated: Jun 25th,2004
+
+
+
+
+
+Objectives:
+Magistrate Solomon has given you a report which must be delivered to General Marcus Jonathan in Stormwind.  The judge wants you to return to him as soon as the delivery has been made.
+Game Description:
+These are trying times, <Class>.  The township is under constant siege.  Without reinforcements, we will certainly face defeat.  The message I now entrust to you is of utmost importance.  Get this report to General Marcus Jonathan of Stormwind immediately.  Once your delivery is made, return to me at once with any news, be it good or bad. Now make haste!Additional Notes:You find General Marcus Jonathan right in front of Stormwind on a horse, just as your about to enter the city.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Fields of Grief 
+Info:Who:Deathguard SimmerWhere:Tirisfal GladesAttain:7Level:7XP:300Coin:50 Items Needed:Tirisfal Pumpkin (10)Leads to:Fields of GriefRelated Mobs:Tirisfal FarmerAdded: Apr 20th, 2004Updated: Jun 10th,2004
+
+
+
+
+
+Objectives:
+Steal 10 pumpkins from the farm to the west, just north of Deathknell and take them to Apothecary Johaan in Brill.
+Game Description:
+What have we here?  You look like a fledgling <Class>.  If you hope to prove yourself to The Dark Lady, you need to learn the ways of The Forsaken.To the west you'll find a farm.  Humans infest the land like mold on a rotting corpse.  And worse yet, the Scarlet Crusade patrols nearby from their tower.  Teach those scum a lesson and steal 10 of their precious pumpkins.Once you have 10, take them to Apothecary Johaan in Brill.End Text:Deathguard Simmer sent word that you were going to provide me with some much needed reagents. Were you able to gather 10 pumpkins yet, <Name>?
+
+Required items: 10 Tirisfal Pumpkins
+
+Click Continue
+
+You have performed your bidding well, young <Class>. You are proving yourself to be quite an asset to The Dark Lady's army.
+
+Click Complete Quest.Additional Notes:This is fairly simple, just kill farmers and pick pumpkins. To pick pumpkins, right click them and wait, a window will pop up, then you can have your pumpkin!
+
+
+
+
+
+
+
+
+
+
+Quest: Supplies to Auberdine 
+Info:Where:AshenvaleLevel:24Coin:13 Items Needed:Undiscovered (1869760800)Related Mobs:Sentinel Elissa StarbreezeAdded: Jun 10th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Speak with Sentinel Elissa Starbreeze in Auberdine after seeing Feero safely through Ashenvale Forest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Call to Arms 
+Info:Who:Drum FelWhere:Arathi HighlandsPrereq:Level:38Leads to:Call to ArmsRelated Mobs:Boulderfist MagusBoulderfist MaulerAdded: Jun 12th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Kill 10 Boulderfist Brutes and 4 Boulderfist Magi, and return to Drum Fel in the Hammerfall outpost.
+
+
+
+
+
+
+
+
+
+
+Quest: The Lost Ingots 
+Info:Who:Chest OpeningWhere:DuskwoodPrereq:Level:29XP:1750Items Needed:Lightforge Ingot (5)Leads to:Blessed ArmSide:AllianceAdded: Apr 6th, 2004Updated: Aug 4th,2004
+
+
+
+
+
+Objectives:
+Gather 5 Lightforge Ingots, then return to Glorin Steelbrow.
+Game Description:
+Having grabbed the single lightforge ingot from the waterlogged chest, it is clear that murlocs have stolen the rest.  Hunt the murloc raiders near the Flying Osprey wreckage for the lost lightforge iron.End Text:Did you find the lightforge iron you need?
+
+Required items: 5 Lightforge Ingots
+
+Click Continue
+
+Ah, you found them! Now let's get this lightforge iron hammered into something useful, eh?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Dark Threat Looms 
+Info:Who:Suspicous BarrelWhere:Loch ModanPrereq:A Dark Threat LoomsAttain:14Level:18XP:1350Items Needed:Strange Smelling Powder (1)Leads to:A Dark Threat LoomsSide:AllianceRelated Mobs:Chief Engineer Hinderweir VIIAdded: Mar 25th, 2004Updated: Aug 31st,2004
+
+
+
+
+
+Objectives:
+Return to Chief Engineer Hinderweir and show him the clue that you discovered.
+Game Description:
+You take a sample of the strange smelling powder.End Text:Did you happen to discover any clues, <Name>?
+
+Required items: Strange Smelling Powder
+
+Click Continue
+
+This is an alarming discovery, to say the least!
+
+
+
+
+
+
+Quest: Battle of Hillsbrad (Elite)
+Info:Who:DarthaliaWhere:Hillsbrad FoothillsPrereq:Battle of HillsbradLevel:30Coin:18 25 Leads to:Battle of HillsbradRelated Mobs:Captain IronhillDun Garok MountaineerDun Garok PriestDun Garok RiflemanAdded: May 10th, 2004Updated: Jun 23rd,2004
+
+
+
+
+
+Objectives:
+Travel to Dun Garok and kill 10 Mountaineers, 8 Riflemen, 4 Priests and Captain Ironhill and report back to Darthalia in Tarren Mill.
+Game Description:
+Dwarves aiding the humans?  Damn those filthy little beasts.We shall test the strength of the so-called Alliance.  We'll see how anxious those little ankle-bashers are to help the humans once they feel our wrath.  We know exactly where their stronghold is in this territory.They have established a barracks in southeastern Hillsbrad along Thoradin's Wall called Dun Garok.  The final mission of this battle is to lay siege on Dun Garok, <Class>.  Captain Ironhill, their leader, must die.
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: After the Ambush 
+Info:Who:HuldarWhere:Loch ModanPrereq:Resupplying the ExcavationAttain:10Level:15XP:110Leads to:Protecting the ShipmentSide:AllianceRelated Mobs:MiranAdded: Mar 25th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Speak with Miran.
+Game Description:
+We'd been hauling the barrels of powder back and forth in trips before this... business. Now we have to split up the work, Miran's taking the barrels and I'm watching over the other ones.I don't feel safe letting Miran haul the rest of the shipment by himself. When he's ready to go, maybe you could escort him on his next trip?End Text:Hello, <Class>.
+
+You'll be escorting me to the excavation site? That's good to hear... After Saean and his cronies, who knows what else the Dark Irons might have up their sleeves?
+
+Anyways, let me just make some final check. Talk to me again when you're ready to go.
+
+
+
+
+
+
+
+
+
+
+Quest: Excavation Progress Report 
+Info:Who:Prospector IronbandWhere:Loch ModanAttain:10Level:15XP:270Items Needed:Ironband's Progress Report (1)Leads to:Report to IronforgeRelated Mobs:Jern HornhelmRelated Areas:ThelsamarAdded: Apr 6th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Bring Ironband's Progress Report to Jern Hornhelm in Thelsamar.
+Game Description:
+I need a progress report sent to Thelsamar - a progress report, and a restatement of my request for more blastpowder!  Here's the report.  Take it to Jern Hornhelm.  He's our local contact in Thelsamar.It's not a difficult task, but it must be done.End Text:Oh, a progress report from the site? Very good!
+
+Required items: Ironband's Progress Report
+
+Click Continue.
+
+Bah! Ironband's having trouble with the Troggs. I wonder if he wants that blastpowder to aid his digging, or to aid his efforts against the Trogg beats...
+
+Well, either way it's powder well spent!
+
+But what's strange is, I sent him plenty of blastpowder weeks ago. I wonder where it went...
+
+
+
+
+
+
+
+
+Quest: The Thandol Span 
+Info:Who:Rhag GarmasonWhere:WetlandsPrereq:The Thandol SpanAttain:31Level:31XP:2500Leads to:Plea To The AllianceSide:AllianceAdded: May 28th, 2004Updated: Aug 16th,2004
+
+
+
+
+
+Objectives:
+Destroy the cache of explosives.
+Game Description:
+Heavens no!  Poor Rustlocke.  'Tis quite a tragedy indeed.We must not let his death pass in vain.  This parchment you discovered indicates that Kam Deepfury, the mastermind behind the original attack, arranged for a cache of explosives to be stashed just across the Thandol Span, in Arathi Highlands.If those explosives make it to the bridge, our major supply line to the north will be severed!  The cache must be destroyed, <Name>!  Return to me when your mission is complete.You're our only hope.End Text:The remaining bridge is saved! You have done a great service to King Magni and the people of Khaz Modan.
+
+Now if we can only hold out long enough for reinforcements to show...
+
+Choose your reward:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Galen's Escape 
+Info:Who:GalenWhere:Swamp of SorrowsLevel:38Added: Jul 26th, 2004Updated: Jul 26th,2004
+
+
+
+
+
+Objectives:
+Escort Galen out of danger, then open the strongbox at his camp in the Swamp of Sorrows.
+
+
+
+
+
+
+Quest: The Black Shield 
+Info:Where:DurotarLevel:35Items Needed:Blackened Iron Shield (1)Leads to:The Black ShieldAdded: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Bring the Blackened Iron Shield to Captain Garran Vimes in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Mithril Kid (Blacksmithing) 
+Info:Who:Trenton LighthammerWhere:TanarisLevel:45Items Needed:Heavy Mithril Breastplate (2)Ornate Mithril Gloves (1)Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Bring two Heavy Mithril Breastplates and one Ornate Mithril Gloves to Trenton Lighthammer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Borrower 
+Info:Who:Daryn LightwindCategory:
+FeralasStarts in:
+DarnassusPrereq:Feralas: A HistoryAttain:43Level:48XP:1100Items Needed:
+
+
+(1)
+A Short Note
+Unique
+Quest Item"Tied with a bow."
+
+
+Leads to:The Super Snapper FXSide:AllianceRelated Mobs:Curgle CranklehopRelated Zones:TanarisRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 19th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Take the letter to Curgle Cranklehop in Tanaris.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Expert Blacksmith! (Blacksmithing) 
+Info:Who:Galvan the AncientWhere:Stranglethorn ValeLevel:45Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Claim your reward from Galvan the Ancient!
+
+
+
+
+
+
+
+
+
+
+Quest: Suspicious Hoofprints 
+Info:Where:DurotarPrereq:The Black ShieldLevel:35Added: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Report about the suspicious prints at the Shady Rest Inn to Captain Garran Vimes in Theramore.
+
+
+
+
+
+
+Quest: Farren's Proof 
+Info:Who:Marshal RedpathCategory:
+Hillsbrad FoothillsStarts in:
+Hillsbrad FoothillsPrereq:Farren's ProofLevel:32Leads to:Stormwind Ho!Side:AllianceRelated Mobs:Lieutenant Farren OrinelleRating:Unrated (0)Added: Jun 12th, 2004Updated: Oct 14th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Speak with Lieutenant Farren Orinelle in Southshore.
+
+
+
+
+
+
+
+
+
+
+Quest: The World At Your Feet (Blacksmithing) 
+Info:Who:Trenton LighthammerWhere:TanarisLevel:45Items Needed:Heavy Mithril Boots (2)Ornate Mithril Pants (1)Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Bring two Heavy Mithril Boots and one Ornate Mithril Pants to Trenton Lighthammer.
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Zoram Strand 
+Info:Who:Shindrell SwiftfireCategory:AshenvaleLevel:19XP:1450Coin: 11 Items Needed:
+
+
+(20)
+Wrathtail Head
+Quest Item
+
+Leads to:Pridewings of StonetalonSide:AllianceRelated Areas:The Zoram StrandAdded: Mar 25th, 2004Updated: Nov 8th,2004
+
+
+
+Objectives:
+Bring 20 Wrathtail Heads to Shindrell Swiftfire in Astranaar.
+Game Description:
+There is evil lurking on our northwestern coast, known as the Zoram Strand.It is the resting place of the doomed city of Zoram, destroyed during the Sundering and submerged beneath the seas.  It has been lost to the night elves for ages.  Lost, and nearly forgotten.Now, the naga have returned, and for what reason we do not know.  But reason matters little; we must slay these fiends and throw them back to the depths!Return to me when your mission is complete.End Text:We cannot allow the naga to invade our coasts, <Name>. It is vital that you go to the Zoram Strand and complete your mission.
+
+Required items: 20 Wrathtail Heads
+
+Click Continue
+
+Very well done, <Name>. Your actions in the Zoram Strand against the naga are commendable.
+
+I know your feat was not easily accomplished, for the strength and guile of the naga is well known to the night elves. We know this, for we share a history with them.
+
+It is a history I care not to repeat.
+
+Click Complete Quest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Level:30Items Needed:Undiscovered (1634890835)Undiscovered (1920226080)Undiscovered (1377857129)Undiscovered (1948280182)Added: Aug 3rd, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Fields of Grief 
+Info:Who:Apothecary JohaanWhere:Tirisfal GladesPrereq:Fields of GriefAttain:7Level:7XP:300Items Needed:Laced Pumpkin (1)Related Mobs:Captured Scarlet ZealotAdded: Apr 20th, 2004Updated: Jun 8th,2004
+
+
+
+
+
+Objectives:
+Take the Laced Pumpkin to the Captured Scarlet Zealot who is being held in the cellar of the Gallow's End Tavern.
+Game Description:
+Harmless pumpkins, right?  Or so it would seem.  If we are to defeat Arthas's advances from the North and the Human infestation from the South we need to start realizing the full potential of our gift of undeath.With a little ingenuity a simple pumpkin becomes an agent for our Dark Lady.  This pumpkin, laced with my latest formula, will prove to be quite a treat.Yet another Scarlet Zealot has been captured and is being kept in the cellar of the Gallow's End Tavern.  Take this pumpkin to the fool.End Text:Stay away foul and unholy creature! May the Light protect me! The Scarlet Crusade shall rid Azeroth of your...
+
+... oh wait. Is that food for me? I am so hungry...
+
+Required items: Laced Pumpkin
+
+Click Continue
+
+By the Light! Finally some food! Sweet, sweet pumpkin.... 
+
+Captured Scarlet Zealot says, I... I... don't... feel... right... 
+
+Captured Scarlet Zealot says, My mind... my flesh... I'm... rotting... ! 
+
+Fields of Grief completed. 
+Experience gained: 300
+
+Additional Notes:This is awesome, give the laced pumpkin to the Captured Zealot and watch him change...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Meal Served Cold 
+Info:Where:Stormwind CityLevel:40Coin:77 19 Items Needed:Chilled Basilisk Haunch (1)Added: Aug 2nd, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Kill a Cold Eye Basilisk, get a Chilled Basilisk Haunch, and return it to Angus Stern in the Blue Recluse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Call to Arms (Elite)
+Info:Who:Drum FelWhere:Arathi HighlandsPrereq:Call to ArmsLevel:40Coin:25 73 Added: Jun 24th, 2004Updated: Jul 10th,1936
+
+
+
+
+
+Objectives:
+Kill 15 Boulderfist Shaman and 10 Boulderfist Lords and return to Drum Fel in the Hammerfall outpost.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Torch of Retribution 
+Info:Where:Searing GorgeLevel:50Added: Jul 15th, 2004Updated: Jul 2nd,1936
+
+
+
+
+
+Objectives:
+Take the Torch of Retribution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Elmore's Task 
+Info:Where:StormwindLevel:15Added: Mar 25th, 2004Updated: Jun 25th,2004
+
+
+
+
+
+Objectives:
+Speak with Grimand Elmore.
+Game Description:
+There's a dwarven weaponsmith in Stormwind, Grimand Elmore, who sent word that he needs help with a delivery.  I believe he wants a package sent to his homeland in the north.You have a sturdy pair on you!  So if you're interested in some legwork then speak with Grimand.  We could use you down here, but we must also keep our ties strong with the dwarves.You can find Grimand Elmore at the weapon shop in the Dwarven District of Stormwind, in the northeast section of town.Additional Notes:In the dwarven district the weapon shop is in the very back on the left, against the wall. Also of note is the fact that there's no sign out front proclaiming it a 'weapon shop', but you can see axes and swords hanging on the wall through the doorway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Mark of Quality 
+Info:Who:Pratt McGrubbenCategory:
+FeralasStarts in:
+FeralasLevel:46Items Needed:
+
+
+(10)
+Thick Yeti Hide
+Quest Item
+
+Side:AllianceRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 19th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Bring 10 Thick Yeti Hides to Pratt McGrubben in Feathermoon Stronghold.
+Game Description:
+My philosophy on leatherworking is that the work must be the best quality possible - no compromises.  Anyone who says that quality doesn't matter is trying to sell you ocean-front property in Dun Morogh!In my latest pursuit of high-quality materials, I have run across thick yeti hides.  The Yeti are native to Feralas, with many found in Feral Scar Vale.  I want some, and I'll give you a choice of one of my leather goods for a stack of ten.  If that sounds fair to you, then we're in business.Rewards:Choose one of: 
+      
+
+(1)
+Pratt's Handcrafted Boots
+Binds when picked up
+FeetLeather84 Armor
++6 Stamina
++11 Agility
+
+
+
+
+(1)
+Pratt's Handcrafted Gloves
+Binds when picked up
+HandsLeather76 Armor
++10 Strength
++9 Agility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: News for Fizzle 
+Info:Where:Thousand NeedleLevel:38Added: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Speak with Fizzle Brassbolts in the Shimmering Flats.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Powder to Ironband 
+Info:Who:Prospector StormpikeWhere:Loch ModanPrereq:Report to IronforgeAttain:10Level:15XP:270Leads to:Resupplying the ExcavationSide:AllianceRelated Mobs:Jern HornhelmRelated Zones:Loch ModanRelated Areas:ThelsamarAdded: Mar 25th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Speak with Jern Hornhelm in Thelsamar.
+Game Description:
+If Ironband still needs blastpowder, then by Magni he'll have it!  I sent the approval on ahead with a messenger to Jern Hornhelm in Thelsamar.  He'll prepare the powder and other supplies to take to Ironband.And one more thing: I want you to personally see that the shipment of powder reaches its destination.  The last one didn't, so keep your mind sharp and your eyes open.End Text:What? Stormpike wants you to personally see the shipment to Ironband?
+
+I... suppose that's fine, the only problem is, I've already sent Huldar with the porters, Miran and Saean. You just missed them, they left a short while ago.
+
+
+
+
+
+
+
+
+Quest: The Bloodsail Buccaneers 
+Info:Who:First Mate CrazzWhere:Stranglethorn ValeLevel:41Coin:19 76 Leads to:The Bloodsail BuccaneersAdded: May 28th, 2004Updated: Jun 21st,2004
+
+
+
+
+
+Objectives:
+First Mate Crazz wants you to check the cove north of Booty Bay.
+Game Description:
+You sure seem eager to work, matey.  Not sure why some land-loving <Race> <Class> is offering help to the Blackwater Raiders, but I'm not going to turn you away.Our ship just docked here in Booty Bay and word has it that our rivals--those damned, dirty Bloodsail Buccaneers--have been spotted all over southern Stranglethorn.All the boys are too busy hitting the grog and looking for ladies!  What I need is a scout.Check the cove just north of Booty Bay along the Savage Coast and see what you find.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Defias Brotherhood 
+Info:Where:WestfallPrereq:The Defias BrotherhoodLevel:18Items Needed:Undiscovered (1935763814)Undiscovered (1668508004)Undiscovered (1816358497)Undiscovered (11879)Leads to:The Defias BrotherhoodAdded: Apr 6th, 2004Updated: Jun 23rd,2004
+
+
+
+
+
+Objectives:
+Escort the Defias Traitor to the secret hideout of the Defias Brotherhood.  Once the Defias Traitor shows you where VanCleef and his men are hiding out, return to Gryan Stoutmantle with the information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Look To The Stars 
+Info:Where:DuskwoodPrereq:Look To The StarsLevel:25Items Needed:Mary's Looking Glass (1)Leads to:Added: Apr 6th, 2004Updated: Jul 6th,1936
+
+
+
+
+
+Objectives:
+Retrieve Blind Mary's Looking Glass from the Insane Ghoul and give it to Viktori in Darkshire.
+
+
+
+
+
+
+
+
+
+
+Quest: Verdant Sigil 
+Info:Who:Verdant SigilWhere:TeldrassilAttain:1Level:1XP:40Items Needed:Verdant Sigil (1)Side:AllianceRelated Mobs:Mardant StrongoakAdded: Aug 2nd, 2004Updated: Aug 4th,2004
+
+
+
+
+
+Objectives:
+Speak to Mardant Strongoak at the top of Aldrassil in Shadowglen.
+Game Description:
+When word reached me that you were ready, I sent this sigil immediately. All of Cenarius' druids take great satisfaction in seeing our numbers bolster. The spirits even seem to have become stronger with our enhanced presence. In time, and with some patience, hopefuly our strength will return to its former grandeur. Find me near the top of Aldrassil when you are ready. I will be your guide as long as you are in Shadowglen.- Mardant Strongoak, Druid TrainerEnd Text:Ah, yound druid. I see you're eager to continue your studies. Good.
+
+I wonder, have you spent much time in the Emerald Dream already? Perhaps you're not prepared for that yet...in time. I'm sure.
+
+But until then, we should discuss other matters.
+
+Required items: Verdant Sigil
+
+Click Continue
+
+I will be your mentor and guide for now. It is my duty to teach you how to interpret not only what the spirits communicate to us, but also the complexities and secrets of the Emerald Dream.
+
+As you learn and grow in power, oyu will learn more of our sleeping trance. But until then, return to me as often as you like and I will teach you what I can in the ways of our kind.
+
+
+
+
+
+
+
+
+
+
+Quest: Raene's Cleansing 
+Info:Who:Shael'drynWhere:AshenvalePrereq:Raene's CleansingLevel:28Leads to:Raene's CleansingRelated Mobs:Raene WolfrunnerAdded: Apr 7th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Return to Raene Wolfrunner in Astranaar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Against Lord Shalzaru 
+Info:Who:Latronicus MoonspearCategory:
+FeralasStarts in:
+FeralasPrereq:Against the HatecrestAttain:40Level:45XP:2900Coin: 50 Items Needed:
+
+
+(1)
+Mysterious Relic
+Unique
+Quest Item
+
+Leads to:Delivering the RelicSide:AllianceRelated Areas:Feathermoon StrongholdRating:Unrated (0)Added: Jul 7th, 2004Updated: Oct 29th,2004
+0 people have rated this quest
+
+
+
+Objectives:
+Eliminate Lord Shalzaru, and then bring the Mysterious Relic he uncovered to Latronicus Moonspear in Feathermoon Stronghold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Great Silver Deceiver (Blacksmithing) 
+Info:Who:Galvan the AncientWhere:Stranglethorn ValeLevel:45Items Needed:Mithril Bar (40)Truesilver Bar (5)Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Bring forty Mithril Bars and five Truesilver Bars to Galvan the Ancient in Stranglethorn.
+
+
+
+
+
+
+Quest:  
+Info:Category:
+Unknown ()Starts in:
+Rating:Unrated (0)Added: Updated: 
+0 people have rated this quest
+
+
+
+Objectives:
+
+
+
+
+
+
+
+Quest: Farren's Proof 
+Info:Who:Lieutenant Farren OrinelleWhere:Hillsbrad FoothillsPrereq:Level:32Items Needed:Sack of Murloc Heads (1)Side:AllianceAdded: Jun 12th, 2004Updated: Aug 16th,2004
+
+
+
+
+
+Objectives:
+Deliver the sack of murloc heads to Marshall Redpath in Southshore.
+
+
+
+
+
+
+Quest: The Art of the Imbue (Blacksmithing) 
+Info:Who:Galvan the AncientWhere:Stranglethorn ValeLevel:45Items Needed:Mithril Bar (40)Citrine (4)Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 2nd,1936
+
+
+
+
+
+Objectives:
+Bring forty Mithril Bars and four Citrines to Galvan the Ancient in Stranglethorn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Kum'isha the CollectorLevel:55Items Needed:Undiscovered (1126197102)Undiscovered (1092642151)Undiscovered (1836403488)Undiscovered (544498533)Added: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+Quest: The Deserters 
+Info:Where:DurotarLevel:38Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Speak with Captain Garran Vimes in Theramore about Reethe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Prereq:The Missing DiplomatLevel:33Items Needed:Undiscovered (543649385)Undiscovered (1866670180)Undiscovered (1763732597)Undiscovered (1918979360)Leads to:The Missing DiplomatAdded: Apr 6th, 2004Updated: Aug 18th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Lost Dwarves (Elite)
+Info:Where:Dun MoroghLevel:40Coin:2 57 Added: Jun 23rd, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Find Baelog in Uldaman.
+
+
+
+
+
+
+Quest: Hints of a New Plague? 
+Info:Who:Phin OdelicWhere:Hillsbrad FoothillsLevel:33XP:1300Leads to:Side:AllianceRelated Mobs:KineloryQuaeRelated Zones:Arathi HighlandsRelated Areas:Go'Shek FarmAdded: Apr 6th, 2004Updated: Aug 16th,2004
+
+
+
+
+
+Objectives:
+Find Quae and Kinelory near the Go'Shek Farm in the Arathi Highlands.
+Game Description:
+Hail, and well met, <Name>. I lead a group of adventurers investigating odd happenings in this area.My cousin in Hillsbrad recently put down his dog Stanley because the animal mystically grew to an immense size and savagely attacked anyone who came near him.I believe the undead are involved, and we're looking for signs to prove as much.Two of my companions, Quae and Kinelory, headed to the Go'Shek Farm in the Arathi Highlands, and haven't checked in for days. Find them for me? I grow concerned.End Text:Try and stay as quiet as possible, traveler.
+
+Orcs don't take too well to being spied on, and there is more to this farm than meets the eye.
+
+
+
+
+
+
+
+
+
+
+Quest: Galvan's Finest Pupil (Blacksmithing) 
+Info:Who:Galvan the AncientWhere:Stranglethorn ValeLevel:45Tradeskill:BlacksmithingAdded: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Speak with Trenton Lighthammer in Gadgetzan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Tools of the Highborne 
+Info:Who:Thundris WindweaverWhere:DarkshoreLevel:12Coin:5 6 Items Needed:Highborne Relic (7)Side:AllianceAdded: Apr 6th, 2004Updated: Sep 6th,2004
+
+
+
+
+
+Objectives:
+Retrieve 7 Highborne Relics for Thundris Windweaver in Auberdine.
+Game Description:
+<Class>. A task I would ask of you.Have you seen the ruins of Ameth'Aran? If not, you will find them on the eastern side of the main road, some ways to the south. Once they were the home of many powerful Highborne, now they are a testament to the destruction their dabblings produced.I have been told by the Sentinels that the spirits of the Highborne persist, and that they wield their ancient magical implements. Those relics must be appropriated, so that we might destroy them.End Text:If only the tools of their undoing cold have been destroyed in the cataclysm that destroyed our world... Nonetheless, we must do what we can to ensure that the horrors of our past are not repeated in the future.
+
+Required items: 7 Highborne Relic
+
+Click Continue
+
+Though it is surely a figment of my imagination. I feel as though I can almost feel the taint of foul Highborne magic upon them. I will have these destroyed, so that their long dormant evil might never be released again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: James Hyal 
+Info:Where:Stormwind CityLevel:35Added: Aug 2nd, 2004Updated: Aug 2nd,2004
+
+
+
+
+
+Objectives:
+Speak with Vincent Hyal in Menethil Harbor.
+
+
+
+
+
+
+
+
+Quest: Stromgarde Badges (Elite)
+Info:Who:Captain NialsWhere:Arathi HighlandsLevel:37Items Needed:Stromgarde Badge (15)Added: May 28th, 2004Updated: Jun 23rd,2004
+
+
+
+
+
+Objectives:
+Bring Stromgarde Badges to Captain Nials at Refuge Pointe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Missing Diplomat 
+Info:Where:Stormwind CityPrereq:The Missing DiplomatLevel:30Items Needed:Defias Docket (1)Leads to:The Missing DiplomatAdded: Jun 12th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Bring the Defias Docket to Elling Trias in Stormwind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: An Old History Book 
+Info:Where:DuskwoodLevel:25Coin:14 30 Items Needed:An Old History Book (1)Side:HordeAdded: Apr 6th, 2004Updated: Jun 25th,2004
+
+
+
+
+
+Objectives:
+Return the book: The History of Stormwind, to the Stormwind Library.
+Game Description:
+Although the cover of this book is marred by scratches and caked with mud, the words "The History of Stormwind" can still be read along its spine.  Upon opening the book, the seal of the Stormwind Library is clearly stamped on the book's first page.It looks like someone checked out this book, and never returned it...Additional Notes:I got the book from a skeleton in the cemetary south of the town.. we had two drop in killing the 20 skeletons for a quest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Flame's Casing (Elite)
+Info:Who:Kalaran WindbladeWhere:Searing GorgeLevel:50Coin:30 44 Items Needed:Symbol of Ragnaros (1)Added: Jul 15th, 2004Updated: Jul 2nd,1936
+
+
+
+
+
+Objectives:
+Find and return a Symbol of Ragnaros to Kalaran Windblade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Protecting the Shipment 
+Info:Who:MiranWhere:Loch ModanPrereq:After the AmbushAttain:10Level:15XP:1050Side:AllianceRelated Mobs:Prospector IronbandAdded: Mar 25th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Ensure Miran and the shipment arrive at the excavation site, then inform Prospector Ironband.
+Game Description:
+Ready to go, <Name>?First, we need to get this powder to Ironband. It'll be a lot for me to carry, and these parts can get dangerous--and who knows what else the Dark Irons might have in store for me?I'll feel a lot better with you coming along.End Text:Oh, thank the Light the powder is here. But it is troubling news that you bring as well. To think that the Dark IRons have sympathizers able to procure this sort of material for their dastardly plans.
+
+A matter for someone else to consider, some other time. I must put this powder to good use.
+
+Choose your reward
+
+Click Complete QuestAdditional Notes:After you accept this, Miran will head towards the excavation.  Any mob in his way that aggroes will attack him.  You need to keep him alive.  Don't try this unless you are sure you can take on two or three of the mobs in the area at once.
+
+Upon your success you will get the following message:
+Escort Miran to the excavation site. (Complete)
+
+
+
+
+
+
+
+
+
+
+Quest:  
+Info:Who:Bloodmage DrazialLevel:50Items Needed:Undiscovered (1953060384)Undiscovered (1701996660)Undiscovered (1277194849)Undiscovered (1869640303)Added: Jul 15th, 2004Updated: Aug 20th,2004
+
+
+
+
+
+Objectives:
+
+
+
+
+
+
+
+
+
+Quest: Gathering Idols 
+Info:Who:Magmar FellhewWhere:Loch ModanPrereq:Ironband's ExcavationAttain:10Level:18XP:1350Items Needed:Carved Stone Idol (5)Side:AllianceRelated Areas:Ironband's Excavation SiteAdded: Mar 25th, 2004Updated: Sep 7th,2004
+
+
+
+
+
+Objectives:
+Bring Magmar Fellhew 5 Carved Stone Idols.
+Game Description:
+Recently, just before the Troggs surfaced within the site, we had uncovered a large number of strange, carved idols.  But we didn't have the chance to study them, for soon after their discovery the Troggs chased us away from the ruins!  And those idols have a strange effect on the Troggs.  It makes them go berserk!Bring me 5 idols - I want to study them, and I want them out of Trogg hands!  You can find the idols on the Troggs infesting the site.End Text:Do you have those idols? We must study thema nd report our findings to Ironforge!
+
+Required items: 5 Carved Stone Idols
+
+Click Continue
+
+You got them! Nicely done, <Name>!
+
+And you don't even look too worse for wear, even with those berserk Troggs about. I'm going to keep my eye on you...you show some promise.
+
+Choose your reward:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: ... and Bugs 
+Info:Who:Morgan SternWhere:DurotarPrereq:Mudrock Soup and BugsLevel:40Items Needed:Pristine Crawler Leg (12)Added: May 28th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Bring 15 Pristine Crawler Legs to Morgan Stern in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Lieutenant Paval Reethe 
+Info:Where:DurotarLevel:40Items Needed:Reethe's Badge (1)Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Bring Reethe's Badge to Captain Garran Vimes in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Noble Brew 
+Info:Who:Zardeth of the Black ClawWhere:Stormwind CityPrereq:A Noble BrewAttain:28Level:30XP:2450Coin:19 88 Items Needed:Black Claw Stout (1)Related Mobs:Lord Baurles K. WishockAdded: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Take the Black Claw Stout to Lord Wishock in the Hall of Petitioners.
+Game Description:
+Lord Wishock, like all men, has his weaknesses.  His happens to be a fondness for liquor.  The hypocrisy is astounding.  The trite fool spends his days trying to shut down our little "tavern" while his nights are spent upstairs, running up a bill he never pays.  Well, let's see how Wishock likes this special brew I have prepared for him:  Black Claw Stout.  It's got quite a kick, <Name>.Take it to him and see how he likes it.  Most likely the old fool is milling about the Hall of Petitioners.End Text:Can you not see that I am busy? My words must be heard! I am very important to the future of this Kingdom!
+
+Oh... what have you there? Why it looks like a refreshing drink...
+
+Required items: Black Claw Stout
+
+Click Continue
+
+Ah thank you for bringing me this fine looking stout, servant. Here's a copper for you. Now out of sight with you and let me enjoy my drink!
+
+Click Complete Quest.
+
+Lord Baurles K. Wishock says: My that Black Claw stout packs quite a punch!
+
+I feel... dizzy. It's so hot... in... here...
+
+
+
+
+
+
+
+
+
+Quest: Journey to Astranaar 
+Info:Who:Fiora LongearsWhere:Dustwallow MarshAttain:20Level:20Side:AllianceRelated Mobs:Shindrell SwiftfireRelated Zones:AshenvaleRelated Areas:AstranaarAdded: May 28th, 2004Updated: Aug 17th,2004
+
+
+
+
+
+Objectives:
+Speak with Shindrell Swiftfire in Astranaar.
+Game Description:
+If you're fresh off the boat from Menethil, then the first thing you should do is... go to Astranaar.  I'm sure an eager member of the Alliance such as you can do some real good there.  Speak with Shindrell Swiftfire and offer your services.But don't bother mentioning who sent you.  Shindrell does not know me...End Text:You are here to offer your services to the Alliance, <Name>? We welcome the aid, for although its beauty remains... Ashenvale Forest is not the peaceful place it once was.
+
+
+
+
+
+
+
+
+
+
+Quest: The Black Shield 
+Info:Where:DurotarPrereq:The Black ShieldLevel:35Items Needed:Blackened Iron Shield (1)Leads to:The Black ShieldAdded: Jul 29th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Show the Blackened Iron Shield to Caz Twosprocket in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Thandol Span (Elite)
+Info:Who:Rhag GarmasonWhere:WetlandsAttain:28Level:31XP:2500Leads to:The Thandol SpanAdded: Apr 6th, 2004Updated: Jul 28th,2004
+
+
+
+
+
+Objectives:
+Rhag Garmason wants you to locate Ol' Rustlocke.
+
+
+
+
+
+
+
+
+
+
+Quest: Trinkets... 
+Info:Where:Searing GorgeLevel:50Added: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Open the chest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest:  Vimes's Report 
+Info:Where:DurotarLevel:38Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Return to Captain Garran Vimes in Theramore.
+
+
+
+
+
+
+
+
+
+
+Quest: The Zoram Strand 
+Info:Who:Shindrell SwiftfireWhere:AshenvaleLevel:19XP:1450Coin:12 82 Items Needed:Wrathtail Head (20)Side:AllianceRelated Areas:Added: Mar 25th, 2004Updated: Aug 17th,2004
+
+
+
+
+
+Objectives:
+Bring 20 Wrathtail Heads to Shindrell in Astranaar.
+Game Description:
+There is evil lurking on our northwestern coast, known as the Zoram Strand.It is the resting place of the doomed city of Zoram, destroyed during the Sundering and submerged beneath the seas.  It has been lost to the night elves for ages.  Lost, and nearly forgotten.Now, the naga have returned, and for what reason we do not know.  But reason matters little; we must slay these fiends and throw them back to the depths!Return to me when your mission is complete.End Text:We cannot allow the naga to invade our coasts, <Name>. It is vital that you go to the Zoram Strand and complete your mission.
+
+Required items: 20 Wrathtail Heads
+
+Click Continue
+
+Very well done, <Name>. Your actions in the Zoram Strand against the naga are commendable.
+
+I know your feat was not easily accomplished, for the strength and guile of the naga is well known to the night elves. We know this, for we share a history with them.
+
+It is a history I care not to repeat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Digging Through the Ooze 
+Info:Who:SidaWhere:WetlandsAttain:17Level:24XP:3550Coin:37 55 Items Needed:Sida's Bag (1)Side:AllianceAdded: Apr 6th, 2004Updated: Sep 9th,2004
+
+
+
+
+
+Objectives:
+One of the oozes at Ironbeard's Tomb has Sida's bag, retrieve it and bring it back to her in Menethil Harbor.
+Game Description:
+On my weekly visit to Ironbeard's Tomb I was attacked by dreadful, dripping oozes! Naturally, I panicked.I threw my bag at one, but it didn't do anything! The ooze just sucked it right up... Luckily, it did give me enough time to get away.The bad news is that I really need to get the contents of my bag!I don't know which ooze I threw my bag at--they all looked the same! Ironbeard's Tomb is northeast of here, near Dun Algaz. Thank you so much!Additional Notes:To get to the Ironbeard's Tomb, head up the road and take the left fork.  Then look for a small side road off to the left.  The bag drops randomly off of Oozes. Note: this is not a cemetary!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: A Dark Threat Looms 
+Info:Who:Chief Engineer HinderweirWhere:Loch ModanAttain:14Level:18XP:675Leads to:A Dark Threat LoomsSide:AllianceRelated Areas:Stonewrought DamAdded: Mar 25th, 2004Updated: Sep 10th,2004
+
+
+
+
+
+Objectives:
+Investigate the area near the eastern ramp of the Dam and bring Chief Engineer Hinderweir a clue that might reveal what the Dark Iron Dwarves are up to.
+Game Description:
+Thank the stars someone is concerned about the well-being of the Dam.  First the destruction of the Thandol Span and then the pillaging of Dun Modr!  I have no doubt that the Dam will be the target of the next Dark Iron threat.  Most of the security detail here was reassigned to the Alliance Front, including my top inspector.That's why I need you, <Name>.  I spotted some Dark Iron Sappers milling about the eastern ramp of the Dam.   Investigate the area and bring back a clue.End Text:The suspicious looking barrel contains a strange smelling powder.
+
+Click Complete QuestAdditional Notes:Around the side of the eastern ramp there are two dark dwarves and a powder keg.  Kill the dwarves and investigate the suspicious looking barrel to finish the quest.  
+
+
+
+
+
+
+
+
+
+
+Quest: Wanted!  Otto and Falconcrest (Elite)
+Info:Where:Arathi HighlandsLevel:40Items Needed:Otto's Head (1)Falconcrest's Head (1)Added: May 28th, 2004Updated: May 28th,2004
+
+
+
+
+
+Objectives:
+Bring Otto's Head and Falconcrest's Head to Captain Nials at Refuge Pointe.
+Game Description:
+The Stromgarde Militia has placed bounties on the heads of Lord Falconcrest, and his bodyguard Otto.  Falconcrest heads the Syndicate's efforts in the Arathi Highlands, and his death would cause a major disruption in those efforts.And his bodyguard Otto, although not a strategic target, is a fierce opponent and has killed dozens of our defenders.Their bounties may be collected from Captain Nials.Rewards:choose: Rod of Sorrow (1)  or War Rider Bracers (1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Perenolde Tiara (Elite)
+Info:Level:40Coin:77 19 Items Needed:Perenolde Tiara (1)Added: Jun 12th, 2004Updated: Sep 1st,2004
+
+
+
+
+
+Objectives:
+Bring the Perenolde Tiara to Remington Ridgewell in Stormwind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Daelin's Men 
+Info:Where:DurotarLevel:38Added: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Return the information about Reethe to Captain Garran Vimes in Theramore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Mage's Wand  (Mage only) 
+Info:Level:40Class:MageAdded: Aug 3rd, 2004Updated: Aug 3rd,2004
+
+
+
+
+
+Objectives:
+Speak with Tabetha after her ritual.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: The Test of Righteousness (Paladin only) (Elite)
+Info:Who:Jordan StilwellPrereq:Level:22Class:PaladinAdded: Aug 2nd, 2004Updated: Aug 4th,2004
+
+
+
+
+
+Objectives:
+Wait for Jordan Stilwell to finish forging a weapon for you.
+Game Description:
+Why don't we go over to the forge and get started on this? I've been preparing for your arrival for some time, so it shouldn't take long at all.When we're done, you'll be far more prepared to defend the Light than you have been, this much I swear.I'll be somewhat honest, <Name>, seeing the results of your exploits makes me somewhat envious. But knowing that I can contribute to your adventures in my own significant way does bring me some joy.End Text:Here it is, <Name>. A weapon worthy of a champion of the Light such as yourself. I've named it after a great dwarven paladin who was a friend of mine. His name was Verigan... Bosch Verigan. Please take it on behalf of myself and my wife. We owe you a great debt, and the world will be safer place with one of your skill traveling the land.
+
+Click Complete Quest
+
+Additional Notes:Jordan crafting your amazing weapon!
+
+
+
+
+
+
+
+
+
+
+
+Quest: Screecher Spirits 
+Info:Where:TanarisLevel:44Items Needed:Yeh'kinya's Bramble (1)Added: Jul 15th, 2004Updated: Jul 20th,2004
+
+
+
+
+
+Objectives:
+Capture the spirits of 3 screechers in Feralas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Missing In Action 
+Info:Who:Missing SignWhere:Redridge MountainsLevel:25Items Needed:Undiscovered (1260416097)Undiscovered (1377857396)Added: May 28th, 2004Updated: Jul 29th,2004
+
+
+
+
+
+Objectives:
+Protect Corporal Keeshan on the journey back to Redridge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Hints of a New Plague? 
+Info:Who:KineloryWhere:Hillsbrad FoothillsLevel:33Items Needed:Undiscovered (7959151)Added: Jun 12th, 2004Updated: Aug 6th,2004
+
+
+
+
+
+Objectives:
+Protect Kinelory until she returns to Quae.

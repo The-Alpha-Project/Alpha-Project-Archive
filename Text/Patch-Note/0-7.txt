@@ -1,0 +1,410 @@
+Patch 0.7
+Release date	June 15, 2004
+Initial version	3694
+Interface .toc	—
+Highlights & notes
+
+    PVP system testing commenced
+    2 testing servers: PVE and PVP
+    All items deleted and quest progress reset
+    Postal system implemented
+    Mounts introduced
+    Level cap raised to 45
+    Major class changes
+    Assorted other changes
+    2 new dungeons introduced: Gnomeregan and Uldaman
+
+Official links
+
+    Patch Notes
+        Dated 6-12-04 in URL.
+        Dated 6-15-04 in page title.
+
+
+
+
+Patch 0.7 was a beta patch for World of Warcraft that was released on June 15, 2004.
+
+Today's patch features the start of Player vs. Player testing for the World of Warcraft beta test, and we are pleased to announce the opening of an additional realm for this purpose. This new Player vs. Player realm is an all-out Horde vs. Alliance server, where the factions can finally battle! If this rollout is completed successfully, we will then officially begin the next phase of the World of Warcraft beta test and add the next round of testers. Due to the amount of changes and new content being implemented in this patch, we will be distributing the updated version of the beta via the Blizzard Downloader.
+
+Please be sure to completely delete World of Warcraft from your computer prior to starting the download.
+
+When entering the character-creation/selection area, players will see a "Realm Down" message and notice that their characters appear to be gone. This is because there are two servers available now. Please click on the "Change Realm" button to select one of the two available servers. The regular beta server will contain all of the old characters, and the PvP server will have no characters available.
+Major Changes
+Standard Player vs. Environment Server
+
+Currently, players now have the ability to attack almost all opposing faction NPCs including vendors and quest givers. If a player attacks an opposing faction NPC, players of the opposite faction are then able to target and attack that player. Whenever an NPC is attacked, players who share the same faction as that NPC will receive a system message indicating that a specific town is under attack.
+
+Please be aware that some quest NPCs might not always be available. If they have been killed, players should wait for the NPC to respawn. The development team expects there to be some bugs associated with this so be sure to /bug and /suggest whenever necessary.
+
+Actions that will enable PvP on the standard player vs. environment server are: attacking an NPC of the opposing faction, attacking a player who attacked an NPC, and/or aiding a player engaged in PvP. Players will also have the ability to enable PvP on their own by using the /pvp command. Once PvP has been enabled by a player, no matter what the method, it will remain in effect for five minutes.
+
+In time, all standard servers will include a consensual Player vs. Player system called Battlegrounds. Once Battlegrounds has been implemented, players will have the ability to attack other players to defend their cities and towns from invasion. We expect the Battlegrounds system to be available later during the beta test.
+Horde vs. Alliance Race War Server
+
+The new Horde vs. Alliance race war server will establish a straightforward method for the development team to test and balance the races and classes in a PvP environment. PvP concepts will be gradually introduced on this server. This means that the initial implementation of PvP is not how our final model will work once World of Warcraft is released. This patch includes the fundamental ideas of PvP in order to tune and refine the very foundation of our PvP model.
+
+On the Horde vs. Alliance race war server, territories will be indicated whenever a player enters a new zone. The zone name will now include additional information to inform the player of the territories status. Additionally, the mini-map will be color coded to indicate who controls the zone: Green = Friendly, Red = Enemy and Yellow = Contested.
+
+Players will be able to initiate player vs. player combat based on what territory they are in. Players in friendly territories are safe unless they decide to engage an opposing faction player in combat. Players in enemy territories will always be at risk and can be attacked by all players that belong in the territory. All players can be attacked in neutral (contested) territories.
+
+Actions that will enable a player for PvP status on the Horde vs. Alliance race war server will be: entering or being in an enemy territory, entering or being in a contested territory, attacking an NPC of the opposing faction, attacking another player, and/or aiding a player engaged in PvP. Players will also be able to enable PvP on their own by using the /pvp command. Once PvP has been enabled for a player, no matter what the method, it will remain in effect for five minutes.
+Rest State Changes
+
+The Rest State system has undergone several changes. There are now three tiers of rest states: Rested = 200% experience, Normal = 150% experience and Tired = 100% experience.
+
+The rest timer is much more flexible than before, allowing players to gradually accumulate incremental rest credit for all time spent logged out. Additionally, people who do not log into World of Warcraft for several days will gain bonus rest credit. This will allow those who only play once or twice a week the added bonus of playing as rested (200% experience) for longer periods of time than those who play on a daily basis.
+
+Players also have the ability to rest anywhere in the world. This should help players who forget or choose not to log off at an inn. Resting at an inn is still the preferred method, as rest credit will accumulate four times faster for players logged off inside of an inn.
+
+Lastly, the Rest State modifier is now level-based using a sliding scale to determine how much experience you can gain at each tier instead of the previous flat 20,000 experience per level.
+Enter the City to Rest
+
+When visiting one of the six main cities (Darnassus, Ironforge, Orgrimmar, Stormwind, Thunder Bluff and The Undercity), players will no longer need to check into the inn to rest. Players will however still need to seek an innkeeper to receive a hearthstone or to bind themselves to the city.
+
+In this initial implementation, there will be some areas close to the cities that will allow a player to rest without actually being in the city. There are also some areas within each city that are not currently activated for resting. Please be sure to check the character portrait to ensure that the character is resting before logging off. The team is aware of this and will continue to work through these areas.
+
+As before, you will still need to rest at an Inn in smaller towns.
+Skill System Changes
+
+The focus of the skill system is to allow characters the ability to choose secondary skills. As such, attributes will now raise automatically when a character levels. As a result of this change, characters will receive fewer skill points than before.
+
+Current characters may lose some skill points to compensate for the redesign of the Skill System. In some instances, characters may fall into a negative skill point status if they have already spent more skill points than the new system will a lot them.
+Old Characters Unlocked
+
+All of the older characters from previous patches have been unlocked and are available once again. The older characters have all been assigned skill points as appropriate for their levels. Their talents have been disabled.
+Items Deleted
+
+With a few exceptions, all items and currency are being deleted for this patch. The following items will not be deleted: Bags, Scarlet Key, all Shaman Totems and the  [Hearthstone]. Each character will be assigned funds based on their level.
+
+Players will be able to redo quests that have already been completed in order to gain back quest items.
+Quests Reset
+
+All quest progress for existing characters has been reset. Characters have the ability to go back and redo all quests if they wish. For players that were in the middle of a quest chain, those quests will need to be restarted from the beginning.
+
+Quests were reset to allow players the means for reacquiring lost quest items and to participate in the many quests that have been fixed and rebalanced.
+Resistances
+
+The beginnings of the new resistance system are in the game. Players and some creatures now have the ability to resist damage from offensive spells and abilities based on their total resistance, their level and the level of the person or creature causing the damage.
+
+New items, with better resistances, will be available in the future.
+Introduction Cinematic For All Races
+
+A cinematic is now available for each race and will be played after character creation takes place.
+Postal System Introduced
+
+Players now have the ability to send and receive in-game mail through World of Warcraft's postal system. Every inn has a mailbox that players can right click in order to access mailbox functionality.
+
+There are several types of mail:
+
+    Normal Mail: This is text only mail written on stationery. Normal mail may also include money.
+    Package: Players will receive a package when an item is sent to them. A package can also include a text message and money.
+    C.O.D: Players will receive a C.O.D. mail when an item has been sent to them that they still need to pay for. C.O.D. mail will need to be accepted and paid for, rejected or postponed until its expiration date.
+
+Normal Mail will arrive at its destination immediately while Packages and C.O.D items will take one hour to arrive.
+
+    Normal mail: expires in 30 days, deleted when expired.
+    Package: expires in 30 days, returned to sender when expired.
+    C.O.D.: expires in 3 days, returned to sender when expired.
+
+Mail can be sent to players by NPCs.
+Level Cap Raised
+
+The level cap has been increased to 45. New zones, quests, items and content have been added to accommodate the level increase along with the ability to purchase and ride mounts!
+Mounts
+
+Race specific mounts are now available. A player can train in any mount; however, the skill points necessary to train for a mount assigned to a different race will cost significantly more skill points.
+
+The Warlock spell to summon the Nightmare, a Warlock specific mount, is available as well. The Paladin's class specific mount, the Charger, will be available at a later date.
+Wide Screen Support
+
+Support for wide screen ratios (16:9, 16:10 and 5:4) have been added as a fullscreen choice. The video options have been enhanced to list individual display resolution modes. At this time, windowed mode will still be limited to a 4:3 ratio.
+Macintosh OS Upgrade
+
+World of Warcraft beta testers using the Macintosh version will need to upgrade their OS to OS X 10.3.4 or World of Warcraft will not run. OS X 10.3.4 is a free upgrade from any previous 10.3 releases and contains OpenGL drivers that are now necessary for World of Warcraft to operate on a Macintosh system.
+Other Changes
+Macintosh Specific:
+
+    The pixel shader feature has been disabled for this patch.
+
+Sound:
+
+    All new ambient sounds have been added to zones and dungeons.
+    Ambient sounds have been upgraded to wav files for better sound quality.
+    A new feature under sound options has been added. This new option will allow players to position the sound to emanate directly from their character or from the camera.
+
+Cities/Zones:
+
+    Ironforge has undergone a layout change.
+    Feralas, Tanaris Desert and The Hinterlands are now open and itemized.
+    The guards in Thunder Bluff now give general directions to trainers and points of interest within the city.
+    The graveyard in the Wetlands has been moved to a more centralized location.
+    A new Inn has been added to Sun Rock in Stonetalon Mountains along with a safe path from the Barrens.
+    The Eye of Azora, located in the Tower of Azora is now working.
+    A new graveyard has been added to The Shimmering Flats in Thousand Needles.
+    The Gryphon now flies between Aerie Peak and Southshore.
+
+The Barrens:
+
+As promised, many changes have been implemented in The Barrens with more to come in the future:
+
+    Oases are more lush.
+    Northwatch Hold and The Merchant Coast have been expanded.
+    A new raptor town has been added.
+    Points of interest have been added within the zone.
+    Many quests have been redone with others pending for the next patch.
+    Graveyards have been added to Camp Taurajo and Ratchet for a total of three graveyards in The Barrens.
+    A new Inn has been added to Camp Taurajo for a total of three Inns in The Barrens.
+    Some NPCs and creatures have been moved to more efficient locations, more will be moved for the next patch.
+
+Dungeons:
+
+    Gnomeregan, a level 24 - 33 dungeon is now opened and itemized in Dun Morogh.
+    Uldaman, a level 35 - 45 dungeon is now open and itemized in The Badlands.
+    When a player logs out in an instance dungeon and that instance dungeon resets, the player will be moved to the zone in the area they used to enter the dungeon.
+    The non-instanced area of Razorfen Downs is available to give testers a sneak peek. Razorfen Downs is located in the Southern Barrens. The instanced portion of Razorfen Downs is expected to be available for the next patch.
+    Chests will no longer respawn in instance dungeons.
+
+Guilds:
+
+    A new Guild Management Tool has been added.
+        Shows all guild members with online status available.
+        Lists guild rank information.
+        Area available for notes on each guild member.
+        Controls available to edit the message of the day, add new members, change and add additional ranks, promote and demote members and much more!
+    Over 150 new tabard designs are now available.
+
+Tradeskills:
+
+    Alchemy: Alchemy has been increased to level 50. Thirty new recipes have been added. The ability to transmute metals has been added. Invisibility potions now last for 20 seconds. Potion effects will not stack with themselves, but will stack with class buffs.
+    Blacksmithing: Blacksmithing has been increased to level 50. Forty new recipes have been added. At high levels, players have the ability to specialize as an Armorsmith or Weaponsmith. The  [Iron Buckle] recipe now makes two buckles for one iron bar. Golden Scale Glove recipes have been added.
+    Cooking: Recipes that require fish have been added to the Alliance areas.
+    Engineering: The  [Mechanical Dragonling]'s health has been reduced. Scopes no longer require the Engineering skill to equip.
+    First Aid: Bandages are now interrupted during combat. The cooldown timer for bandages has been removed, however each player can receive treatment only once in a 60 second period.
+    Fishing: The skill-up rates for fishing have changed; we look forward to feedback regarding the new system. Messages in a bottle now have a chance of having a recipe in them.
+    Herbalism:  [Stranglekelp], a new lower level herb has been added to level 15 30 watery areas. More herbal nodes have been added to the world. Herbal nodes will no longer respawn in instance dungeons. New icons appear when herbal nodes are targeted. New, high level herbs have been added around the world; the ability to harvest some of the new herbs will become available in the next patch.
+    Leatherworking: Leatherworking has been increased to level 50. Fifty new recipes have been added. At high levels, players have the ability to specialize as a Dragonscale Leatherwoker, Elemental Leatherworker or Tribal Leatherworker.
+    Mining: Smelting Bronze]] now requires one copper and two tin to produce two bronze bars. More mining nodes have been added to the world. Mineral nodes will no longer respawn in instance dungeons. New icons appear when mineral nodes are targeted.
+    Skinning: The skill-up rates for skinning have changed; we look forward to feedback regarding the new system. Players can no longer harvest pelts from creatures that are of much higher levels than their skinning levels.
+    Survival: Campfires now last 10 minutes.
+    Tailoring: Bolts of wool now require three woolen cloths. Bolts of silk now require four silk cloths. Linen drops have been increased.
+
+General Spells/Abilities:
+
+    Spell casting can now be canceled by hitting the ESC key.
+    The interrupt reliability has been increased for things like [Counterspell], [Earth Shock], [Kick], [Pummel] and [Shield Bash]. They can still be resisted, dodged, blocked, parried and deflected as appropriate.
+    Training costs rebalanced to reflect the number of spells and abilities that need to be purchased at any particular level.
+    Healing spells with long casting times have had their mana costs reduced, making them more mana-efficient.
+    Many spells and abilities now have more frequent replacements. Players are encouraged to visit trainers for existing characters.
+    Channeled spells can now be interrupted.
+
+Druid Druid:
+
+    [Bash]: Rage cost reduced if Bash fails.
+    Claw: Damage increased. Energy cost reduced if Claw fails.
+    [Cower]: Energy cost reduced if Cower fails.
+    [Entangling Roots]: Mana cost has increased.
+    Feline Fury: Energy cost reduced and damage increased.
+    [Growl]: Rage cost reduced if Growl fails.
+    [Healing Touch]: Mana cost reduced.
+    [Mark of the Wild]: Mana cost and resistance increased.
+    [Maul]: Rage cost reduced if Maul fails.
+    [Pounce]: Damage and stun reduced. Energy cost reduced if Pounce fails.
+    [Rake]: Damage increased. Energy cost reduced if Rake fails.
+    [Ravage]: Damage increased. Energy cost reduced if Ravage fails.
+    [Regrowth]: Mana cost and heal amount increased.
+    [Rip]: Energy cost and duration increased. Damage reduced.
+    Roar: No longer locks out other Roar abilities for five seconds.
+    [Shred]: Damage increased. Energy cost reduced if Shred fails.
+    [Soothe Animal]: Now an instant cast spell.
+    [Starfire]: Mana cost and damage reduced.
+    Swipe: Damage slightly increased.
+    [Thorns]: Mana cost and damage increased.
+    Hit Points and Attack Power at lower levels has been increased while in Bear form.
+    Attack Rate is faster while in Cat form.
+    Druids in shapeshifted form can now gather herbs and skin creatures.
+    The camera now changes appropriately for shapeshifted forms.
+    Druids under the effects of Enrage are now considered in combat.
+    Attack power has been lowered for Druids in their normal caster form.
+
+Mage Mage:
+
+    [Arcane Explosion]: Mana cost, casting time and damage reduced.
+    [Arcane Missiles]: Mana cost and damage increased.
+    [Cone of Cold]: Mana cost, duration, damage and cooldown increased.
+    [Counterspell]: Moved to level 24. Mana cost reduced.
+    [Detect Magic]: Range increased and hate removed.
+    [Fire Ward]: Moved to level 20.
+    [Fireball]: Added a small damage over time effect.
+    [Frost Armor]: Resistance increased.
+    [Frost Ward]: Moved to level 22.
+    [Frostbolt]: Duration increased with each replacement.
+    [Scorch]: Damage increased.
+    Sleep: Mana cost increased.
+
+Paladin Paladin:
+
+    [Cleanse]: Moved to level 30.
+    [Crusader Strike]: Damage increased. Now an instant cast spell.
+    [Devotion Aura]: More frequent replacements added.
+    [Divine Favor]: Mana cost increased.
+    [Divine Shield]: Mana cost increased. Moved to level 34.
+    [Exorcism]: More frequent replacements added.
+    [Fist of Justice]: Replacements have been changed.
+    Healing Aura: Healing rate increased. More frequent replacements added. No longer causes hate.
+    [Holy Strike]: Mana cost and damage increased.
+    Might Aura: New spell at level 14.
+    [Resistance Aura]: Moved to level 28. Resistances increased.
+    [Retribution Aura]: Damage slightly increased. Replacements available.
+    [Seal of Fury]: Moved to level 14. Mana cost is percentage based. Duration increased.
+    Seal of Might: Spell replaced with Might Aura.
+    [Seal of Protection]: Moved to level 8.
+    [Seal of Righteousness]: Mana cost and duration reduced. Cooldown added.
+    Seal of Sacrifice: Moved to level 36. No longer interrupts spells. Cooldown added.
+    Seal of Salvation: Moved to level 22. Mana cost is percentage based. Potency increased. Duration reduced. Cooldown added.
+    [Seal of Wisdom]: Spell replaced with Wisdom Aura.
+    Seal of Wrath: Mana cost and duration increased.
+    [Turn Undead]: Moved to level 24.
+    Wisdom Aura: New spell at level 26.
+
+Priest Priest:
+
+    [Abolish Disease]: New spell at level 32.
+    [Cure Disease]: New spell at level 14.
+    [Flash Heal]: Mana cost and heal amount reduced.
+    [Greater Heal]: Mana cost reduced.
+    [Heal]: Mana cost reduced.
+    Holy Word: Shield: Mana cost increased.
+    [Lesser Heal]: Mana cost reduced.
+    [Mana Burn]: Moved to level 24.
+    [Mind Blast]: Damage slightly reduced.
+    [Mind Control]: Range increased. Creatures will now be more responsive after Mind Control wears off.
+    [Mind Soothe]: Changed to an instant cast spell.
+    Nullify Disease: Spell replaced by Cure Disease.
+    [Prayer of Healing]: Mana cost and heal amount increased.
+    [Renew]: Mana cost increased.
+
+Rogue Rogue:
+
+    [Ambush]: Damage increased.
+    [Backstab]: Damage increased.
+    [Blind]: Energy cost increased.
+    [Cheap Shot]: Energy cost increased.
+    [Crippling Poison]: Effect and duration reduced.
+    [Deadly Poison]: Damage slightly increased. Cost reduced.
+    [Distract]: Energy cost increased.
+    [Eviscerate]: Damage slightly increased.
+    Expose: New finishing move at level 14.
+    [Garrote]: Damage increased.
+    [Instant Poison]: Damage slightly reduced.
+    [Kick]: Damage increased. Interrupt chance raised to 100%.
+    [Pick Pocket]: No longer deselects the target after use.
+    [Sinister Strike]: Damage increased.
+    [Vanish]: Duration reduced.
+
+Shaman Shaman:
+
+    [Chain Lightning]: Moved to level 32.
+    [Disease Cleansing Totem]: Moved to level 38.
+    [Earth Shock]: Interrupt duration decreased.
+    [Earthbind Totem]: Pulses effect more frequently.
+    [Far Sight]: Moved to level 26.
+    [Fire Nova Totem]: New spell available at level 10.
+    [Flametongue Totem]: Moved to level 26. Damage reduced.
+    Flametongue: Damage increased.
+    [Frost Resistance Totem]: Moved to level 24. Resistance increased.
+    [Frost Shock]: Moved to level 20.
+    [Frostbrand]: Mana cost and damage increased.
+    [Ghost Wolf]: Moved to level 20. Mana cost increased.
+    [Grace of Air Totem]: New spell available at level 42.
+    [Grounding Totem]: New spell available at level 30.
+    [Healing Wave]: Mana cost and heal amount reduced.
+    [Lesser Healing Wave]: Mana cost and heal amount reduced.
+    Lightning Shock: Moved to level 30.
+    [Magma Totem]: Moved to level 28. Mana cost increased. Damage reduced.
+    Mana Font Totem: Moved to level 26.
+    [Nature Resistance Totem]: New spell available at level 30.
+    [Poison Cleansing Totem]: Moved to level 22.
+    [Purge]: Moved to level 12.
+    Rockbiter: Mana cost and damage increased.
+    [Searing Totem]: Damage increased.
+    [Stoneclaw Totem]: Hit points increased.
+    [Tremor Totem]: Moved to level 18.
+    [Windfury Totem]: Moved to level 32. Changed to a flat damage bonus. Mana cost and damage reduced.
+    [Windfury]: Changed to a flat damage bonus. Swings and damage increased.
+    Totems can now be cast while moving and will no longer interrupt combat.
+    The area of effect has increased for Strength of Earth, Stoneskin, Fire Resistance, Frost Resistance, Flametongue, Healing Stream, Mana Font, Disease Cleansing and Poison Cleansing totems.
+
+Warlock Warlock:
+
+    [Banish]: Cooldown reduced to 20 minutes.
+    [Corruption]: Mana cost reduced. Deals damage more frequently.
+    [Curse of Agony]: Mana cost reduced.
+    [Curse of Recklessness]: Moved to level 14.
+    [Curse of Tongues]: Moved to level 26. Mana cost increased.
+    [Demon Armor]: Resistance increased.
+    Enslave Demon: Soul shard cost added. Periodic resistance chances. Maximum target level added. Slows the charmed creature's attack and casting speeds.
+    [Eye of Kilrogg]: Moved to level 32.
+    Siphon Mana: Moved to level 24.
+    Imp's [Fire Shield]: Damage reduced.
+    Voidwalker: Melee damage increased.
+    Voidwalker's [Torment]: Mana cost and potency increased.
+    Succubus: Melee damage and armor reduced.
+    Succubus' [Lash of Pain]: Mana cost and damage reduced.
+    Succubus' [Soothing Kiss]: Mana cost increased. Potency reduced.
+    Succubus' [Seduction]: Cost changed to a percentage of the Succubus' mana.
+    All curses are instant cast spells now.
+    Warlocks can now only summon players into their own instances.
+
+Warrior Warrior:
+
+    [Charge]: All ranks now include a short stun.
+    [Cleave]: Damage reduced.
+    [Disarm]: Will only work on targets that are carrying weapons. Changed to an instant ability.
+    [Hamstring]: Changed to an instant ability. Cooldown removed.
+    [Inner Rage]: Rage cost reduced. Replacements added.
+    [Intimidating Shout]: Cooldown reduced to 3 minutes.
+    [Overpower]: Only activates after dodge now (not block and parry).
+    Punishing Blow: Rage cost and damage increased. Changed to an instant ability.
+    [Rend]: Damage reduced. Changed to an instant ability.
+    [Revenge]: Moved to level 14. Changed to flat damage with the damage reduced.
+    [Shield Bash]: Moved to level 12. Interrupt chance raised to 100%.
+    [Shield Block]: Moved to level 16.
+    Shout: No longer locks out other Shout abilities for five seconds.
+    [Slam]: New berserker stance added at level 30.
+    Sundering Strike: Changed to an instant ability.
+    [Thunder Clap]: Damage increased. Now deals nature damage instead of physical damage.
+
+Quests:
+
+    New quests have been added for the following new areas: Feralas, Gnomeregan, Hinterlands, Tanaris and Uldaman.
+    The "Arugal Must Die" quest no longer has the prerequisite that "H [11] Arugal's Folly" and "H [10] Prove Your Worth" quests be completed. The minimum level has been adjusted for this quest.
+    Additional Horde and Alliance level 16 and 20 Rogue quests are now available.
+    Blacksmithing quests have been added for both Horde and Alliance.
+    Many player submitted quest suggestions have been implemented.
+
+NPCs/Creatures/Spawns:
+
+    The majority of all NPCs are now flagged for combat and can be attacked.
+    When attacked, pets belonging to creatures will now call their owners for help.
+    Some NPCs now serve multiple purposes like being a tradeskill instructor and a vendor.
+    The Witchwing Slayer will no longer try to execute players continually.
+    Elite creatures will now do less spell damage than before.
+    Creatures will now do increased damage with ranged weapons. When a player is at close range, creatures will be unable to continue using their ranged weapons.
+    The Myzrael encounter has been altered.
+
+Bugs:
+
+    Ghosts can now use the /stuck command.
+    Ghosts will no longer be able to see fishing bobbers.
+    Characters that were created prior to the patch cannot attack Syndicate creatures, but new characters can. The team is looking into this problem.
+    There is a known problem with very low hit points for Gnome Rogues.
+    Many bugs associated with quests have been fixed.
+
+Misc.:
+
+    Small pets are now in the game. Look for an NPC selling cats, rabbits, parrots and a variety of other ambient creatures.
+    Platemail is now available for Paladin and Warrior classes at level 40.
+    To strengthen the economy, many items have been set as Bind on Acquire or Bind on Equip.
+    Players will now have the ability to target summoned creatures and pets.
+    Creatures will no longer chase a player forever due to damage shields, such as Thorns.

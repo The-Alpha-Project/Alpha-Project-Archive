@@ -1,0 +1,250 @@
+
+ New Rest State Reactions, A look at resting
+Track this topic | Email this topic | Print this topic
+Deathwing 	
+Posted: Apr 15th 2004, 05:24 AM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Many of you will note that most significant change in the new World of Warcraft push is the introduction of the rest state. The change has got the Wow Beta Community up in riot, and controvery is at an all time high. To undertand it, we first invite you to read the official description.
+
+QUOTE
+
+To broaden and balance some of the gameplay elements, we've incorporated a few new features. One of them is the Rest State modifier, which gives players a time-limited bonus to combat (PvE) experience. This frees up time for exploring other aspects of the game without penalty, such as tradeskilling and social activities, and helps players avoid level-grinding. We've also added Inns, which serve as a good place to hang up your sword or staff for the night because they confer special bonuses. Inns also act as home locations, which our third new feature, Hearthstones, take advantage of. Hearthstones provide a speedy way to travel back to an Inn when you need to take care of business in town or when you're ready to check in and call it a night. The basics of these new features are covered below.
+
+The Rest state modifier only affects experience earned from killing monsters. It does not affect experience earned from quest rewards or other experience rewards in the game (such as future PvP experience rewards).
+
+As players kill monsters and gain experience points, they become increasingly tired. Their rest level reflects this tiredness in five tiers: well rested, rested, normal, fatigued and exhausted.
+
+Well-rested players receive bonus experience points for killing monsters. Rested players receive a smaller bonus. At the normal rest level, players receive no bonus experience points for killing monsters. Fatigued players receive half of the normal experience points from their kills, and when exhausted they will receive a quarter of normal experience from a kill.
+
+To become well rested and start earning bonus experience from killing monsters again, players must either log out or rest online at an Inn (see below) for several hours.
+
+Thanks to the comforts of a warm bed and a hearty meal, players who rest or log out at an Inn can regain energy up to the maximum level: well rested (it takes 8 hours to go from exhausted back to well rested). Players who log out anywhere else in the world will only regain energy up to the normal level.
+
+Note that while your character is resting at an Inn, you can play other characters on your account. The rest state is per character only.
+Inns
+
+Players can rest or log out at any Inn in the world.
+
+Inns will be located in all major cities and some towns.
+
+Whenever players enter an Inn or log out at an Inn, they will effectively be "resting," which is indicated by their portrait flashing yellow.
+
+Players can leave an Inn at any time and continue fighting monsters; the experience they gain will be based on the Rest level that they have rested up to.
+
+If players log out in an Inn, they will be able to instantly exit the game as opposed to having to wait 20 seconds before exiting.
+
+When players log in to play the next day, their well-rested characters will have slept off the ill effects of any nasty debuffs from the day before.
+
+
+Many people ask why Blizzard has decided to inplement such a controversial concept, where no many people, it seems like subscribers are penalised for playing the game. Blizzard's philosophy for World of Warcraft has always being that it should be accessible to casula gamers, players who can only spent 2 hours player the game each day in one sitting. This system gives them a EXP bonus compared to hardcore gamers, who player 12 hours each day. Theoretically, Casual Gamers would feel less intimidated by everyone else being far higher levels than them, and be more enticed to play the game.
+
+With regards to exactly how this system pans out, we will first have to experience it in the game... Will it take 4 hours to get tired, or 8 hours? Such questions are very important to forming a complete opinion on the matter.
+
+Yet opinions are alreadying being formed, and many of them quite justified. Regardless of how much time it to to get tired, the whole concept is a restriction a person's playstyle. People like playing game the way they want, and people enjoy a game a lot more if they have more freedom, many see this immediately as a punishment for people who play a lot, and thus are automatically negative towards to idea.
+
+And they do bring up a few good points. It is said that the rest time will allow people to explore other aspects of the game, such as trade skills. Yet, Skill Points that are used to learn Trade Skills are now recieved direactly from the experience used to kill monsters. This leads to a seeming contradiction in ideas. The majority of the time spent on trade skills is the gathering of reagents for the skills, which are done outside an inn, often involving killing monsters. Some skills, such as Fishing, cannot be practiced in the inn at all!
+
+Also, many argue that the system may not be very beneficial to casual player at all. For now, a player is very much encouraged to log off at an inn. Previously, a casual gamer could camp outside, near the monsters he had being creeping, and thus be able to instantly get back into the action when he logs back on. Now that he must log off in a inn, this involves, at oftentimes, a 10 minute trip back to where he was. For a casual gamer, this extra time consumed may become quite an annoyance.
+
+Also, there's the inconvience of playing with friends. What if you logged on, played for several hours, and then a fellow friend or guildmate came on and ask you to party with him against that big Orc Boss? You'll be forced to party, with an experience penalty at your side. It just doesn't sound right.
+
+It is also apparent that people will not be motivated to do quests while exhausted, for nearly all quests in WoW involve killing monsters... and who wants to go kill them if they'll only get a quarter of the experience?
+
+World of Warcraft has excelled at first impressions and reviews because of its accessibility, and one of the biggest reasons that reviewers gave was the lack of downtime. Where's in other MMORPGS, a player spent half of his time resting and regenerating health after a battle... its constant action in WOW. Yet, with an hours rest time, one fears that World of Warcraft may have lost one of its biggest edges when compared to other MMORPGS of the same genre.
+
+Of course, not all is bad. Is the time it takes to reach being tired is over 8 hours, most people probably wouldn't care. If a person played for more than 8 hours straight, he probably really does need to take a break!
+
+The creation of an inn will also serve as a nice social point to gather, where people can easily go to trade items, talk about their latest adventures, fight in duels, and form parties for future quests. Blizzard also plans to give out PVP experience, and we can see the possibilities of some great organised tournaments and just general pub brawls!
+
+So the overall verdict? We cannot really say till we have tried the patch, but personal opinions are currently reserved. This feature could really make or break the game, and is certaonly not a feature that will be recieved with open arms.
+
+The concept is nice, but the question is? Will it make the game more fun? Only playing the game will tell.
+
+Whatever the result, we're confident that Blizzard will change it. This is after all a beta, a time to try new ideas, and see how they worked, and if they don't, how they can be tweaked.
+
+We can be sure of two things, first, if us testers ain't happy with it, it won't make it to the final release. World of Warcraft has immense potential, and will certainly be one of the biggest games this decade.
+
+Second, if this feature does pull through, at least Wow won't cause nearly so much divorces as Everquest, and 10 years down the track. WOW will be the only MMORPG without the "Warning: Playing this Game may damage your health" Label!
+	
+Top
+The Dark Caller 	
+Posted: Apr 15th 2004, 10:15 AM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Well, as stated, it entirely depends on how long all of this, but, furthermore, how much the Rest state is implemented into the game:
+
+Let's go into theory craft here, and then see how well my thoughts stack up against Blizzard's actual final course of action with this new 'feature.'
+
+Your character begins at a well-rested state. We can assume, from how the actual description is worded, that your moving down into a less-rested state is caused by battles, not actual 'time' spent on the game. Given that the action IS nearly constant, these two things can almost be the same, but it IS an important distinction.
+
+Let us say you can reap the benefits of well-rested state for, say, 10 monster kills. This is a huge bonus to your experience of you're grouped and taking down powerful monsters for a big, experience-laden quest.
+
+Now, you find yourself rested, earning much less of a bonus, but still doing better than usual. 20 kills later, you drop down into Normal.
+
+At Normal, you are playing the same game you always have, and 30 kills later, you see your first negative change - Fatigued status.
+
+Now, earning half experience, you still truck on for 40 more kills, until you drop down into the lowest of the low, Exhausted.
+
+At this point, you come to realize that it's time to stop killing and do something else. Needless to say, if you've gone on to kill 100 monsters, and done a quest or three along the way, you've likely leveled, so you spend these skill points to strengthen a Tradeskill. Let's say that you choose. . . fishing.
+
+Heading out to the nearest lake, you relax, draw out your high-level fishing rod, and set about to an hour or two's worth of fishing. Through this, you gain valuable improvements in your fishing skill, as well as a raw material to either sell or use with your Cooking Skill. Also, as an added bonus, you've found that you've very quickly moved up to the Fatigued rest level. Just for the practice of it, and to have some free food to use in tomorrow's battles, you set up at a nearby campfire and cook your fish, which have grown to be quite large in number.
+
+After chatting with friends and Cooking for an hour, your skill has improved, you've got scads of food to hold you through tomorrow's battling, and you have also moved into the Normal rest level. Sadly bidding your friends goodnight, you activate your Hearthstone and are transported to the nearest Inn, roughly 10 minutes of running away.
+
+Here, you set up shop, selling off the various things you've looted from monsters to NPCs and fellow players, talking to a few other friends and discussing possible grouping to take on a camp of high level monsters you saw near the place where you'd been leveling all day. You make a tidy profit from selling some of your food and loot and logout, satisfied.
+
+The next day, whenever you log back in, you find yourself Well-Rested, and, re-activating the same Hearthstone you used to travel to the Inn, you and the group you'd organized the night before make your way back to the area you'd been hunting in and group together to take down a goodly number of high level monsters and completea mutual quest.
+
+Thanks to the new tapping system, you and your group of four others are able to extend the time you spend at your rest levels significantly by distributing the kills across the group evenly. You earn an unGodly amount of experience before finally dropping down to Exhausted, and you make your way back to the lake to try out the new rod you looted an hour earlier in your battles.
+
+-------
+
+Now, what all am I purporting and suggesting with all of this?
+
+First and foremost, this was created to BENEFIT those who could not dedicate large chunks of time to the game. Thus, for your first, say, 30 kills, you are receiving a large bonus to experience, making new players and casual gamers feel as though they are really making a difference in their character, no matter how little time they might have in a playing session.
+
+Second, this should NOT penalize a hardcore player, thus,it should be extremely hard to move your character into the lowest Rest levels - normal should persist as long as possible to ensure that you are, in the end, playing about the same as you used to, pre-patch.
+
+Third, after dropping down into the lowest of the rest levels, things OUTSIDE of an Inn should aid you. It was already stated that logging out in the world itself could get you up to the Normal Rest Level. . . so. . . why not follow through with their promise to use this to make Tradeskills more viable by allowing them to speed along your rest process in the normal world. Obviously, most players will have collected a good deal of stuff they want to turn their tradeskills on during their monster-slaying over the past few hours, and if they cna benefit by returning to a higher rest level from it, this makes tradeskills even MORE important. Why limit this to Survival when you can use the tradeskill Rest Modifier (Copyright me, as of now :D) to keep more dedicated players happy and encourage tradeskill use?
+
+Next up, Inns and Hearthstones: If your Hearthstone is a one-way ticket, then you'd better put Inns every 10 feet in the world, Blizz. It's already been stated in the article - walking from Inn back to enemy locations is the very sort of downtime that WoW wants so desperately to avoid. However, if you make it a dual use item (Much like the Transit function in Knights Of The Old Republic), allowing you to enter the Inn at night, and then go back to where you were the next day, then you make it a quality item that, once again, doesn't penalize anyone.
+
+Furthermore, this definitely encourages grouping at high levels, where it takes many more monster kills to level. You'd spend an eternity trying to go from 28 to 29 if you wanted to do it in a day like some mad-crazy coffee-guzzling Korean suicide-gamer, but in a group, you can take down baddies, and use the Tapping system to your advantage by allowing everyone to slow their Rest-degredation by as much to as much as 20% of its usual rate. Now, you have the ability to socialize, complete long quests, take down hard-to-kill monsters, collect high level loot, level up quickly, and play longer with your friends. Afterwards, you even have a large group of friends who can sit down at the lake or campfire together and talk as they improve their tradeskills and gain rest levels in the process.
+
+Finally, yes, it sould be exceedingly easy to rest back to Normal rest level, just as it should be exceedingly hard to drop back out of it. You want to keep players on Normal as much as possible, and then reward those who do take a long break with enough experience to make up for their 8 hour (or whatever it ends up being) downtime.
+
+However, it should be more difficult to rest up to that high level of Well Rested, just as it should be easy to drop out of it - it IS a reward for being gone a long time, in the form of making up for the lost experience.
+
+-----
+
+Implemented as anything even nearly resembling that, you have something that makes WoW highly unique by adding a fun, useful, fair game mechanic that no one else has ever touched before in such a manner. Keep it exactly as is, and you're going to have some pissy beta testers.
+
+So, who's up for bets on how this Rest thing turns out? :D
+	
+Top
+Asmodeus_Tek 	
+Posted: Apr 15th 2004, 10:20 AM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+I read somewhere that just going around killing monsters didn't give you a ton of experience anyway, and that the real deal was with the quests. If there is no other changes in experience gain, then can't you just go on quests and not hunt monsters in the wilderness?
+	
+Top
+AlienInfection 	
+Posted: Apr 15th 2004, 12:39 PM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+You can often get about 100 XP for a monter kill, give or take a few points, if the monster's close to your level; whereas a quest, for my level 17 Rogue, gave me about 2000-2500 in Lakeshire (Starting out you get ~1000)
+	
+Top
+Darian_TruBlade 	
+Posted: Apr 15th 2004, 08:34 PM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+The thing that really hits me is the "per character" bit. Certainly, Hardcore players are seemingly at a disadvantage. But at the same time, this is incentive to level up multiple characters and even fill in gaps in your original character (Need Blacksmithing anyone?). So while casual players may be able to have one character near or at the same level as a hardcore player's, that same player may have 5 characters at a near equal level.
+	
+Top
+Lifesbain 	
+Posted: Apr 15th 2004, 11:53 PM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Ok idea, terrible implementation. You should never penalize for playing the game. If they want, they can make your first 2 hours of play on any character grant extra experience, but penalizing experience is just going to make people not want to play. Doing anything to increase the leveling grind is bad.
+
+Edit: As explanation for why this idea isn't so great, consider: rewarding players for not playing strikes me as just a bad idea. If I'm gonna get as much experience playing my character for that extra time as not, the game better be interesting as hell to just play killing stuff - and I'd bet most anything that it won't be, not by the hundredth or 200th day. Unless, of course, experience from monsters is more or less irrelevant, in which case I wonder why they're bothering with this in the first place.
+
+This post has been edited by Lifesbain on Apr 16th 2004, 12:02 AM
+	
+Top
+Balrog 	
+Posted: Apr 16th 2004, 12:20 AM
+[ Quote ]
+
+
+
+
+
+
+
+
+
+
+
+
+	
+From what I've read on the Bliz boards, it seems it takes about 7-8 hours to get from Well-Rested to Normal, which sounds good to the casual gamer and the semi-hardcore. The only thing I'd recommend is tweaking it to only 5-6 hours to get from exhausted to well-rested, and make things like camping in the wild contribute to resting too.
+
+Although I can't help but chuckle at people who say "Blizzard shouldn't force us how to play!" (I guess they're the same people who use exploits because "that's how they want to play" ^_^ ) Not to be mean to anyone here or anything, but spending 16 hours in front of a computer screen can't seriously be all that good for you.
+	
+Top 

@@ -1,0 +1,350 @@
+Entry : 721 | Name : Rabbit | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 1984 | Name : Young Thistle Boar | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 5
+Entry : 2079 | Name : Conservator Ilthalaine | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1992 | Name : Tarindrella | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2031 | Name : Young Nightsaber | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 2
+Entry : 1988 | Name : Grell | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2077 | Name : Melithar Staghelm | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2082 | Name : Gilshalan Windwalker | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 883 | Name : Deer | Subname :  | Type: 8 | Static Flags : 22 | Beast Family : 0
+Entry : 3571 | Name : Teldrassil Sentinel | Subname :  | Type: 7 | Static Flags : 2 | Beast Family : 0
+Entry : 3589 | Name : Keina | Subname : Bowyer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1989 | Name : Grellkin | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1985 | Name : Thistle Boar | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 5
+Entry : 1420 | Name : Toad | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 3587 | Name : Lyrai | Subname : General Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3590 | Name : Janna Brightmoon | Subname : Clothier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3591 | Name : Freja Nightwing | Subname : Leathercrafter | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3595 | Name : Shanda | Subname : Priest Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3588 | Name : Khardan Proudblade | Subname : Weaponsmith | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3592 | Name : Andiss | Subname : Armorer & Shieldcrafter | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3596 | Name : Ayanna Everstride | Subname : Hunter Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3597 | Name : Mardant Strongoak | Subname : Druid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6091 | Name : Dellylah | Subname : Grocer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2032 | Name : Mangy Nightsaber | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 2
+Entry : 6780 | Name : [PH] Porthannius | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 3593 | Name : Alyissia | Subname : Warrior Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3594 | Name : Frahun Shadewhisper | Subname : Rogue Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3514 | Name : Tenaron Stormgrip | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1998 | Name : Webwood Lurker | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 3
+Entry : 1995 | Name : Strigid Owl | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 7
+Entry : 2042 | Name : Nightsaber | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 2
+Entry : 2150 | Name : Zenn Foulhoof | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2107 | Name : Gaerolas Talvethren | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2008 | Name : Gnarlpine Warrior | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2006 | Name : Gnarlpine Ursa | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2007 | Name : Gnarlpine Gardener | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 3601 | Name : Dazalar | Subname : Hunter Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3598 | Name : Kyra Windblade | Subname : Warrior Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3613 | Name : Meri Ironweave | Subname : Armorer & Shieldcrafter | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3612 | Name : Sinda | Subname : Leathercrafter | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3609 | Name : Shalomon | Subname : Weaponsmith | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2041 | Name : Ancient Protector | Subname :  | Type: 5 | Static Flags : 2 | Beast Family : 0
+Entry : 2083 | Name : Syral Bladeleaf | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2078 | Name : Athridas Bearmantle | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6781 | Name : [PH] Melarith | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2081 | Name : Sentinel Kyra Starsong | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3610 | Name : Jeena Featherbow | Subname : Bowyer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3599 | Name : Jannok Breezesong | Subname : Rogue Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3567 | Name : Tallonkai Swiftroot | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3600 | Name : Laurna Morninglight | Subname : Priest Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3608 | Name : Aldia | Subname : General Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4266 | Name : Danlyia | Subname : Grocer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6094 | Name : Byancie | Subname : First Aid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3614 | Name : Narret Shadowgrove | Subname : Trade Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3611 | Name : Brannol Eaglemoon | Subname : Clothier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6736 | Name : Innkeeper Keldamyr | Subname : Innkeeper | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2151 | Name : Sentinel Amara Nightwalker | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3697 | Name : Kyln Longclaw | Subname : Boar Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5437 | Name : Tamed Boar | Subname :  | Type: 1 | Static Flags : 102 | Beast Family : 5
+Entry : 3515 | Name : Corithras Moonrage | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3602 | Name : Kal | Subname : Druid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3603 | Name : Cyndra Kindwhisper | Subname : Alchemist | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6286 | Name : Zarrin | Subname : Cook | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4265 | Name : Nyoma | Subname : Cooking Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3604 | Name : Malorne Bladeleaf | Subname : Herbalist | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6491 | Name : Spirit Healer | Subname :  | Type: 7 | Static Flags : 10485862 | Beast Family : 0
+Entry : 2022 | Name : Timberling | Subname :  | Type: 4 | Static Flags : 0 | Beast Family : 0
+Entry : 2010 | Name : Gnarlpine Defender | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2009 | Name : Gnarlpine Shaman | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2025 | Name : Timberling Bark Ripper | Subname :  | Type: 4 | Static Flags : 0 | Beast Family : 0
+Entry : 2080 | Name : Denalan | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2152 | Name : Gnarlpine Ambusher | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2003 | Name : Shadow Sprite | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2004 | Name : Dark Sprite | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2002 | Name : Rascal Sprite | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2038 | Name : Lord Melenas | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2005 | Name : Vicious Grell | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2033 | Name : Elder Nightsaber | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 2
+Entry : 2162 | Name : Agal | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2011 | Name : Gnarlpine Augur | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1999 | Name : Webwood Venomfang | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 3
+Entry : 1993 | Name : Greenpaw | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1996 | Name : Strigid Shreeker | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 7
+Entry : 2039 | Name : Ursal the Mauler | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2043 | Name : Nightsaber Stalker | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 2
+Entry : 3607 | Name : Androl Oakhand | Subname : Fisherman | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2012 | Name : Gnarlpine Pathfinder | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2013 | Name : Gnarlpine Avenger | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2014 | Name : Gnarlpine Totemic | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2852 | Name : Enslaved Druid of the Talon | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 3560 | Name : Healing Ward | Subname :  | Type: 9 | Static Flags : 1101062 | Beast Family : 0
+Entry : 2853 | Name : Freed Druid of the Talon | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 2000 | Name : Webwood Silkspinner | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 3
+Entry : 2155 | Name : Sentinel Shayla Nightbreeze | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2084 | Name : Natheril Raincaller | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4262 | Name : Darnassus Sentinel | Subname :  | Type: 7 | Static Flags : 2 | Beast Family : 0
+Entry : 3698 | Name : Bolyun | Subname : Spider Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5446 | Name : Tamed Spider | Subname :  | Type: 1 | Static Flags : 102 | Beast Family : 3
+Entry : 3681 | Name : Wisp | Subname :  | Type: 8 | Static Flags : 38 | Beast Family : 0
+Entry : 4181 | Name : Fyrenna | Subname : Fruit Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4241 | Name : Mydrannul | Subname : General Goods Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1412 | Name : Squirrel | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 3469 | Name : Ancient of War | Subname :  | Type: 7 | Static Flags : 2 | Beast Family : 0
+Entry : 3517 | Name : Rellian Greenspyre | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3936 | Name : Shandris Feathermoon | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4089 | Name : Sildanair | Subname : Warrior Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4170 | Name : Ellandrieth | Subname : General Goods Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4230 | Name : Yldan | Subname : Bag Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6142 | Name : Mathiel | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4203 | Name : Ariyell Skyshadow | Subname : Weapon Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4169 | Name : Jaeana | Subname : Meat Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4087 | Name : Arias'ta Bladesinger | Subname : Warrior Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4164 | Name : Cylania | Subname : Night Elf Armorer (Needs Vendor List) | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4088 | Name : Elanaria | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4208 | Name : Lairn | Subname : Banker | Type: 7 | Static Flags : 16777318 | Beast Family : 0
+Entry : 4209 | Name : Garryeth | Subname : Banker | Type: 7 | Static Flags : 16777318 | Beast Family : 0
+Entry : 4155 | Name : Idriana | Subname : Banker | Type: 7 | Static Flags : 16777318 | Beast Family : 0
+Entry : 4221 | Name : Talaelar | Subname : Fish Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4156 | Name : Astaia | Subname : Fishing Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4222 | Name : Voloren | Subname : Fishing Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3562 | Name : Alaindia | Subname : Reagent Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4165 | Name : Elyissa | Subname : Portal Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4090 | Name : Astarii Starseeker | Subname : Priest Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4091 | Name : Jandria | Subname : Priest Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4092 | Name : Lariia | Subname : Priest Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2912 | Name : Chief Archaeologist Greywhisker | Subname : Explorers' League | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5782 | Name : Crildor | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 3838 | Name : Vesprystus | Subname : Hippogryph Master | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6145 | Name : School of Fish | Subname :  | Type: 8 | Static Flags : 0 | Beast Family : 0
+Entry : 2185 | Name : Darkshore Thresher | Subname :  | Type: 1 | Static Flags : 0 | Beast Family : 0
+Entry : 6133 | Name : Shade of Elura | Subname :  | Type: 6 | Static Flags : 0 | Beast Family : 0
+Entry : 2231 | Name : Pygmy Tide Crawler | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 8
+Entry : 3841 | Name : Caylais Moonfeather | Subname : Hippogryph Master | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6086 | Name : Auberdine Sentinel | Subname :  | Type: 7 | Static Flags : 2 | Beast Family : 0
+Entry : 6887 | Name : [PH] Haleh | Subname : Needs Texture | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4190 | Name : Kyndri | Subname : Baker | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4200 | Name : Laird | Subname : Fish Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2070 | Name : Moonstalker Runt | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 2
+Entry : 3666 | Name : Wizbang Cranktoggle | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4192 | Name : Taldan | Subname : Drink Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4191 | Name : Allyndia | Subname : Grocer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6737 | Name : Innkeeper Shaussiy | Subname : Innkeeper | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3583 | Name : Barithras Moonshade | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2930 | Name : Sentinel Glynda Nal'Shea | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2913 | Name : Archaeologist Hollee | Subname : Explorers' League | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4187 | Name : Harlon Thornguard | Subname : Armorer & Shieldsmith | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4186 | Name : Mavralyn | Subname : Leathercrafter | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3701 | Name : Tharnariun Treetender | Subname : Bear Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5433 | Name : Tamed Bear | Subname :  | Type: 1 | Static Flags : 102 | Beast Family : 4
+Entry : 3657 | Name : Sentinel Elissa Starbreeze | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3693 | Name : Terenthis | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3695 | Name : Grimclaw | Subname :  | Type: 1 | Static Flags : 102 | Beast Family : 0
+Entry : 6301 | Name : Gorbold Steelhand | Subname : General Trade Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6298 | Name : Thelgrum Stonehammer | Subname : Mining Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6300 | Name : Elisa Steelhand | Subname : Blacksmithing Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2321 | Name : Foreststrider Fledgling | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 12
+Entry : 2018 | Name : Bloodfeather Sorceress | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2015 | Name : Bloodfeather Harpy | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2017 | Name : Bloodfeather Rogue | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1997 | Name : Strigid Hunter | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 7
+Entry : 3519 | Name : Sentinel Arynia Cloudsbreak | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3605 | Name : Nadyia Maneweaver | Subname : Leatherworker | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3699 | Name : Nerra | Subname : Cat Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6287 | Name : Radnaal Maneweaver | Subname : Skinner | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5438 | Name : Tamed Cat | Subname :  | Type: 1 | Static Flags : 102 | Beast Family : 2
+Entry : 4233 | Name : Mythidan | Subname : Mace & Staff Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4171 | Name : Merelyssa | Subname : Blade Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4180 | Name : Ealyshia Dewwhisper | Subname : Two Handed Weapon Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4232 | Name : Glorandiir | Subname : Axe Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4231 | Name : Kieran | Subname : Weapon Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4235 | Name : Turian | Subname : Thrown Weapons Merchant (Needs Merchant List) | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4173 | Name : Landria | Subname : Bow Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6034 | Name : Lotherias | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 6292 | Name : Eladriel | Subname : Skinning Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4168 | Name : Elynna | Subname : Tailoring Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4225 | Name : Saenorion | Subname : Leatherworking Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4212 | Name : Telonis | Subname : Leatherworking Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4783 | Name : Dawnwatcher Selgorm | Subname : The Argent Dawn | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4786 | Name : Dawnwatcher Shaedlass | Subname : The Argent Dawn | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4226 | Name : Ulthir | Subname : Alchemy Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4159 | Name : Me'lynn | Subname : Tailoring Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4161 | Name : Lysheana | Subname : Guild Master | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4784 | Name : Argent Guard Manados | Subname : The Argent Dawn | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4160 | Name : Ainethil | Subname : Alchemy Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4229 | Name : Mythrin'dir | Subname : General Trade Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6735 | Name : Innkeeper Saelienne | Subname : Innkeeper | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4213 | Name : Taladan | Subname : Enchanting Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4228 | Name : Vaean | Subname : Enchanting Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5191 | Name : Shalumon | Subname : Tabard Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5047 | Name : Ellaercia | Subname : Tabard Vendor | Type: 7 | Static Flags : 65638 | Beast Family : 0
+Entry : 4211 | Name : Dannelor | Subname : First Aid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3468 | Name : Ancient of Lore | Subname :  | Type: 7 | Static Flags : 2 | Beast Family : 0
+Entry : 4210 | Name : Alegorn | Subname : Cooking Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4205 | Name : Dorion | Subname : Hunter Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4244 | Name : Shadow | Subname : Dorion's Pet | Type: 1 | Static Flags : 102 | Beast Family : 0
+Entry : 4207 | Name : Valyen Wolfsong | Subname : Wolf Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4223 | Name : Fyldan | Subname : Cooking Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4423 | Name : Darnassian Protector | Subname :  | Type: 4 | Static Flags : 2 | Beast Family : 0
+Entry : 5449 | Name : Tamed Wolf | Subname :  | Type: 1 | Static Flags : 102 | Beast Family : 1
+Entry : 4243 | Name : Nightshade | Subname : Jeen'ra's Pet | Type: 1 | Static Flags : 102 | Beast Family : 0
+Entry : 4146 | Name : Jocaste | Subname : Hunter Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4153 | Name : Kysandia | Subname : Cat Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4753 | Name : Jartsam | Subname : Nightsaber Riding Instructor  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4242 | Name : Frostsaber | Subname :  | Type: 1 | Static Flags : 0 | Beast Family : 0
+Entry : 4138 | Name : Jeen'ra Nightrunner | Subname : Hunter Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4730 | Name : Lelanai | Subname : Animal Handler | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4167 | Name : Dendrythis | Subname : Fruit Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2803 | Name : Malygen | Subname : Survival Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4163 | Name : Syurna | Subname : Rogue Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4215 | Name : Anishar | Subname : Rogue Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3516 | Name : Arch Druid Fandral Staghelm | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4220 | Name : Cyroen | Subname : Reagent Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4219 | Name : Fylerian Nightwing | Subname : Druid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4218 | Name : Denatharion | Subname : Druid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4217 | Name : Mathrengyl Bearwalker | Subname : Druid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4214 | Name : Erion Shadewhisper | Subname : Rogue Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3561 | Name : Kyrai | Subname : Poison Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2796 | Name : Faelyssa | Subname : Lockpicking Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4206 | Name : Talar | Subname : Bear Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2027 | Name : Timberling Trampler | Subname :  | Type: 4 | Static Flags : 0 | Beast Family : 0
+Entry : 2029 | Name : Timberling Mire Beast | Subname :  | Type: 4 | Static Flags : 0 | Beast Family : 0
+Entry : 2030 | Name : Elder Timberling | Subname :  | Type: 4 | Static Flags : 0 | Beast Family : 0
+Entry : 4521 | Name : Treshala Fallowbrook | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4175 | Name : Vinasia | Subname : Cloth Armor Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4236 | Name : Cyridan | Subname : Leather Armor Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4177 | Name : Melea | Subname : Mail Armor Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4240 | Name : Caynrus | Subname : Shield Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4234 | Name : Andrus | Subname : Staff Merchant | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4172 | Name : Anadyia | Subname : Robe Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4216 | Name : Chardryn | Subname : Herbalism Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4204 | Name : Firodren Mooncaller | Subname : Herbalism Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6299 | Name : Delfrum Flintbeard | Subname : Blacksmithing Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6297 | Name : Kurdram Stonehammer | Subname : Mining Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4182 | Name : Dalmond | Subname : General Goods | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4189 | Name : Valdaron | Subname : Tailoring Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4193 | Name : Grondal Moonbreeze | Subname : Tailor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4183 | Name : Naram Longclaw | Subname : Weaponsmith | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3649 | Name : Thundris Windweaver | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4185 | Name : Shaldyn | Subname : Clothier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2164 | Name : Rabid Thistle Bear | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 4
+Entry : 2163 | Name : Thistle Bear | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 4
+Entry : 2189 | Name : Vile Sprite | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 3650 | Name : Asterion | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2190 | Name : Wild Grell | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2324 | Name : Blackwood Windtalker | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2167 | Name : Blackwood Pathfinder | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2234 | Name : Young Reef Crawler | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 8
+Entry : 2201 | Name : Greymist Raider | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 2202 | Name : Greymist Coastrunner | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 3895 | Name : Captain Eo | Subname : Boat Operator | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3644 | Name : Cerellean Whiteclaw | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3843 | Name : Anaya | Subname :  | Type: 7 | Static Flags : 620 | Beast Family : 0
+Entry : 4455 | Name : Red Jack Flint | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3178 | Name : Stuart Fleming | Subname : Fisherman | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2099 | Name : Maiden's Virtue Crewman | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1571 | Name : Shellei Brondir | Subname : Gryphon Master | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3896 | Name : Captain Placeholder | Subname : Boat Operator | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3179 | Name : Harold Riggs | Subname : Fishing Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1242 | Name : Karl Boran | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1434 | Name : Menethil Sentry | Subname :  | Type: 7 | Static Flags : 130 | Beast Family : 0
+Entry : 1481 | Name : Bart Tidewater | Subname : Captain of the Maiden's Virtue | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1483 | Name : Murphy West | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1451 | Name : Camerick Jongleur | Subname : Wandering Minstrel | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2094 | Name : James Halloran | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2104 | Name : Captain Stoutfist | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1458 | Name : Telurinon Moonshadow | Subname : Herbalism Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1454 | Name : Jennabink Powerseam | Subname : Specialty Tailor & Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1463 | Name : Falkan Armonis | Subname : Reagent Vendor | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1453 | Name : Dewin Shimmerdawn | Subname : Alchemy Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1446 | Name : Regina Halloran | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 1482 | Name : Andrea Halloran | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1445 | Name : Jesse Halloran | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 2086 | Name : Valstag Ironjaw | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2052 | Name : Nag | Subname :  | Type: 1 | Static Flags : 6 | Beast Family : 0
+Entry : 1479 | Name : Timothy Clark | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1460 | Name : Unger Statforth | Subname : Horse Breeder | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1437 | Name : Thomas Booker | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1448 | Name : Neal Allen | Subname : Engineering & General Goods Supplier | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2097 | Name : Harlo Barnaby | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2096 | Name : Tarrel Rockweaver | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2111 | Name : Sida | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1462 | Name : Edwina Monzor | Subname : Fletcher | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1459 | Name : Naela Trance | Subname : Bowyer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1447 | Name : Gimlok Rumdnul | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 1484 | Name : Derina Rumdnul | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1480 | Name : Caitlin Grassman | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1452 | Name : Gruham Rumdnul | Subname : General Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1239 | Name : First Mate Fitzsimmons | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1450 | Name : Brahnmar | Subname : Armorer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1441 | Name : Brak Durnad | Subname : Specialty Weaponsmith | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3182 | Name : Junder Brokk | Subname : Lockpicking Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1461 | Name : Murndan Derth | Subname : Gunsmith | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2098 | Name : Ram | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 2911 | Name : Archaeologist Flagongut | Subname : Explorers' League | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5082 | Name : Vincent Hyal | Subname :  | Type: 7 | Static Flags : 108 | Beast Family : 0
+Entry : 4963 | Name : Mikhail | Subname : Bartender | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1217 | Name : Glorin Steelbrow | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1457 | Name : Samor Festivus | Subname : Shady Dealer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1464 | Name : Innkeeper Helbrek | Subname : Innkeeper | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1476 | Name : Hargin Mundar | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1456 | Name : Kersok Prond | Subname : Tradesman | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 4962 | Name : Tapoke "Slim" Jahn | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 3181 | Name : Fremal Doohickey | Subname : First Aid Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1418 | Name : Bluegill Raider | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 1933 | Name : Sheep | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 475 | Name : Kobold Tunneler | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 113 | Name : Stonetusk Boar | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 5
+Entry : 40 | Name : Kobold Miner | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 30 | Name : Forest Spider | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 3
+Entry : 476 | Name : Kobold Geomancer | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 524 | Name : Rockhide Boar | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 5
+Entry : 327 | Name : Goldtooth | Subname :  | Type: 7 | Static Flags : 0 | Beast Family : 0
+Entry : 416 | Name : Imp | Subname :  | Type: 3 | Static Flags : 1048582 | Beast Family : 23
+Entry : 2442 | Name : Cow | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 241 | Name : Remy "Two Times" | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 66 | Name : Tharynn Bouden | Subname : Trade Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1423 | Name : Stormwind Guard | Subname :  | Type: 7 | Static Flags : 2 | Beast Family : 0
+Entry : 6749 | Name : Innkeeper Erma | Subname : Innkeeper | Type: 7 | Static Flags : 100 | Beast Family : 0
+Entry : 6778 | Name : Melika Isenstrider | Subname : Assistant Innkeeper | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2942 | Name : Dylan Bissel | Subname : Wolf Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 328 | Name : Zaldimar Wefhellt | Subname : Mage Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 927 | Name : Brother Wilhelm | Subname : Paladin Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 5403 | Name : White Stallion | Subname :  | Type: 1 | Static Flags : 1 | Beast Family : 0
+Entry : 5406 | Name : Palomino | Subname :  | Type: 1 | Static Flags : 1 | Beast Family : 0
+Entry : 620 | Name : Chicken | Subname :  | Type: 8 | Static Flags : 6 | Beast Family : 0
+Entry : 3937 | Name : Kira Songshine | Subname : Traveling Baker | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 913 | Name : Lyria Du Lac | Subname : Warrior Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 514 | Name : Smith Argus | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 240 | Name : Marshal Dughan | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2046 | Name : Andrew Krighton | Subname : Armorer & Shieldcrafter | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 74 | Name : Kurran Steele | Subname : Clothier & Leathercrafter | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 54 | Name : Corina Steele | Subname : Weaponsmith | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6121 | Name : Remen Marcot | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 6374 | Name : Cylina Darkheart | Subname : Imp Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 906 | Name : Maximillian Crowe | Subname : Warlock Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 1430 | Name : Tomas | Subname : Cook | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 377 | Name : Priestess Josetta | Subname : Priest Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 295 | Name : Farley | Subname :  | Type: 7 | Static Flags : 100 | Beast Family : 0
+Entry : 917 | Name : Keryn Sylvius | Subname : Rogue Trainer | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 2329 | Name : Michelle Belle | Subname : Physician | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 253 | Name : William Pestle | Subname :  | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 3935 | Name : Toddrick | Subname : Butcher | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 465 | Name : Barkeep Dobbins | Subname : Bartender | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 151 | Name : Brog Hamfist | Subname : General Supplies | Type: 7 | Static Flags : 102 | Beast Family : 0
+Entry : 299 | Name : Young Wolf | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 1
+Entry : 795 | Name : Mark | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 797 | Name : Bo | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 796 | Name : Joshua | Subname :  | Type: 7 | Static Flags : 110 | Beast Family : 0
+Entry : 525 | Name : Mangy Wolf | Subname :  | Type: 1 | Static Flags : 16 | Beast Family : 1
+Entry : 6306 | Name : Helene Peltskinner | Subname : Skinner | Type: 7 | Static Flags : 102 | Beast Family : 0

@@ -1,0 +1,473 @@
+CGW Preview
+Written by: Chr1s
+Viewed: 452 time(s).
+Comments: 0.
+
+
+WORLD OF WARCRAFT
+
+Warcraft fanboy alert: Your secret dream of becoming an Orc is now ever closer to fruition. Since announcing its massively multiplayer RPG, World of Warcraft, more than a year ago, Blizzard Entertainment has been very quiet about the details-partially to keep all of its competitors at bay-but now it's finally starting to spill the goods. Here's a quick update, including the first info on a previously unannounced character class, the warlock. Blizzard has announced four playable races so far-Humans, Orcs, Taurens, and Dwarves-with at least one more coming soon. Our money is on either the Undead or Night Elves. Along with the warlock (more on that in a minute), you'll be able to play as a warrior, mage, and shaman. However, as in all MMORPG's, not all classes will be available to all races.
+
+CLASS WAR
+
+Right now, Blizzard is working on the class kits, ensuring that each is unique while remaining distinctly WarCraft in feel. Warriors, for example, will have their standard melee combat skills enhanced with special abilities like Battle Shouts to either enhance your stats or lower those of your enemies. They will also have unique weapon abilities depending ont he weapon wielded. Try using Stun or Crippling Blow, as well as a variety of stances that will modify your stats during combat. Assume an aggressive posture, for example, and you'll dish out more damage, but you'll also be more susceptible to getting hit. Finally, warriors will be able to perform specific WarCraft III hero abilities, such as the Orc blade master’s Bladestorm, a whirlwind attack with brutal area-effect damage. Mages are more offensive, multipurpose magic users with an emphasis on fire and frost magic. They'll mete out more damage than any other class, but will be very weak in melee situations, wearing only cloth armor. Some of the cooler spells include invisibility (the only class for which this is planned), and crowd-control spells such as Freeze, which briefly stuns enemies, and Chain of Ice, which rotates monsters in place. The mage will also be able to summon a variety of elementals as pets, which won't be directly controllable by the player, but will act as guardians to the mage and his allies. The shaman, another magic user, has both offensive spells and healing and buffing abilities. Along with brutal combat spells-like Molten Blast, Lightning Bolt, and Chain Lightning-the shaman can summon spiritual guardians and enhance allies with strength and stamina buffs. Shamans are less frail than mages since they can wear leather armor and wield a mace, thus mixing up melee combat with spellcasting.
+
+The just-announced warlock is a fire and shadow magic caster who can cast direct-damage spells, like Firebolt and Death Coil, as well as spells that cause damage over time, like Immolation and Corruption, which drain hit points continually. Most important, the warlock is an expert in demonic magic who, as he/she levels up, will accumulate a suite of demons-including (in increasing order of strength) imps, fel hounds, succubi, and void walkers-that can be summoned as pets. Unlike other summoning classes, however, the warlock develops a specific relationship with his pets. The imp he summons will be the same imp with the same name every time (A demon that dies in combat will revert to a demonic plane and recharge over time.) Unlike mage pets, you can control demons directly-they'll have their own interface so you can use them to attack specific targets or use specific abilities. Finally, warlocks can create a powerful item called a Soul Stone that will instantly revive anyone who is carrying it upon death.
+
+MAD SKILLS
+
+Blizzard has also begun leaking information about skills, which will play a huge role in World of WarCraft. All classes and races will have both core and secondary skills players can develop. Cire skills, such as Weapon Use for warriors, will increase automatically as you use them and level up. Secondary skills are optional skills that you spend points on to improve. As in Diablo II, there are more skills than you'll have points to buy, so every player will choose the skills they prefer, allowing for tons of customization amongst players of similar classes. For example, one warrior might choose to master Lockpicking and Horse Riding, while another might specialize in First Aid and Languages. Both will be good warriors because of the core skills, but beyond that, they'll be totally different. (You can also abandon skills and respond later-but it will be at a cost.) Blizzard is also working on an elaborate trade-skill system in which players can specialize, for example, in Herbalism, which involves collecting herbs littered throughout the world in order to make magic potions and elixirs (for health, strength, agility, and so on). You'll level up your trade skills by using them, finding trainers, or completing quests- offering a huge optional metagame for those not as interested in bashing monsters. At mid to high levels, players will need to work together for certain trade skills. To create a flaming sword, for example, an alchemist will need to make a potion of flame oil, while a blacksmith that have to forge a particular sword, after which the two can be combined.
+
+MORE CRAFT
+
+This is just the beginning. Blizzard, normally reticent with info, gave us more than we could possibly print here. Is the company excited, or maybe just nervous about venturing into a genre that's produced more failures than hits? World of WarCraft is a huge risk, but if there's one thing we know about Blizzard, it never does anything half-baked. Watch for a bigger feature on this huge game soon in CGW.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+WarCraft Legacy - Your WoW Beta Headquarters - Sections - World of Warcraft - Death in MMORPGs/WoW
+
+Death in MMORPGs/WoW
+Written by: Kilja.bL
+Viewed: 184 time(s).
+Comments: 0.
+Article: Death in MMORPGs and what does it mean for World of Warcraft.
+Date: December 5th, 2003
+
+Please note that these ratings are based off of my experiences, they change with each individual player.
+
+History of Death in MMORPGs
+
+ There are great benefits of playing massively-multiplayer online games (MMORPGs). Some of these benefits are: a deep sense of community, mass interaction between people, ability to meet new types of people, and form groups with your friends to venture forth into the unknown and, (hopefully), to prosper in a virtual world. All these great benefits come with a price, and the price of being famous, having fortune, and fighting monsters, is that you will die. You will die a lot. In any current MMORPG death occurs often, and most of the time it is out of the hands of the player, no matter how skilled he/she may be.
+
+Death in Ultima Online
+
+ In Ultima Online you had the option of being a tailor, alchemist, blacksmith, bowyer, cook, fencer, wizard, paladin, necromancer, and a slew of other professions. Almost all of these skill-sets were accompanied by either magery, or a warrior skill (such as fencing, macing, swordsmanship), so the player could venture out, gather money and resources, and then use those to progress his skill in his craft. I, myself, was a very addicted UO player for close to four years, in this time I had 5 characters (the maximum amount per shard/server), and most of them were fighter templates. All but a few were crafters (to supply my warriors with weapons and armor). Death in Ultima Online was simple, and I felt it was a bit too common. This may be because I was on a very slow connection, I didn't do all that well (even for being a Grandmaster in my skills), and I was rather poor, so I couldn't afford the luxuries some players did. If you were killed in Ultima Online, all your items were left on your body, you had to be ressurected, either by a wizard or by in-town clerics, and you had to venture all the way back and pick up the loot on your body before it decomposed and everyone could reach into it. Most of the time this meant travelling for miles in game on foot, because your horse died, as a ghost, then travel back through the forest (most often plagued with liches, bears, orcs, lizardmen, tribal people, and insane killers), finally reaching the place where you died, most often with the creatures that killed you standing right there waiting for you to take the time to loot your body. In most recent patches the tension of dying in UO has been alleviated through quick-loot, an ability that allows you just to double click your corpse, pull all the items off your body (and equip what you had on instantly), and you're on your way.
+Ease of recovery when killed in Ultima Online: 2/5
+
+Death in Anarchy Online
+
+ The realm of Anarchy Online is one where cyberpunk Fixers and bruteforce Enforcers, mad wizard Nanotechnicians and crafty robot-guiding Engineers roam the world. All professions in this game are combat oriented, but there is a crafting side, which is handled mainly by the profession known as Traders. Engineers and Bureacrats sometimes take up the nano-needle and thread, but most of the craftwork was done by Traders. All the combat in Anarchy Online is a bit more in-depth than most MMORPGs of its type. You have special moves, varieties of weapons, armors, spells, and a slew of people you can team up with, along with an almost endless armada of beasts you have to kill. Combat in Anarchy Online is not just Player versus Monster, a very large part of it is also Player versus Player (mainly thanks to The Notum Wars expansion pack, which pits guilds who control notum mining towers versus eachother to claim small city regions and guild-only benefits). Death in Anarchy Online, is also a very, very large part of the game. When dying in Anarchy Online you really don't have a choice as to whether or not you will be able to run away. 40% of the time you are able to runaway (also depending on level and class), and the other times, you just get crushed. There are tanks, casters, healers and support classes, and out of all of these I will share with you the beauty, and ugliness, of being an Enforcer. An Enforcer can be summed up like this, pure meat shield. He has THE most hit points of any class, his favored breed has the most hitpoints of any, he has the highest stamina and strength, class-specific buffs, and until recently, did most, if not all of the damage in PvP and PvM. I played an Enforcer for about 5 months, in which I reached a level of 120. I guarantee, in those 120 levels, I died close to 40 dozen times. Now death in Anarchy Online isn't NEARLY as harsh in Ultima Online, but it can also cause you to stay levels for extended periods of time, sometimes not even getting a level for a month. There is no item loss in Anarchy Online when you die, but you do return through the ressurection machines at your nearest insurance terminal with a hellacious ressurection sickness, and you probably lost half, if not more, of your experience. Insurance terminals function as 'save points', you usually pay ten times your level in credits to secure your experience so far in the progression of a certain level. If you die, you go all the way back down to where you last insured your experience (you automatically insure upon level gain, and never lose levels). Item loss wasn't existent, but experience loss was killer, especially for me. I remember staying level 62 as an enforcer for close to two weeks, because I had complications in armor/weapons/implants and groups. Death in this MMORPG, is easier to handle in UO, but can also be far more frustrating and frequent if you don't have much money.
+Ease of recovery when killed in Anarchy Online: 3.5/5
+
+Death in Dark Age of Camelot
+
+ Oh, the mighty world of Camelot! Three regions fight against eachother to rule Camelot, all the while killing monsters in the fields to gain personal levels. Albion, Hibernia, and Midgard were three distinct, but also quite similar regions when it came to the basic game mechanics of Dark Age of Camelot. Albion was home to great Wizards and Warriors, Paladins and Clerics, and mainly Humans. Hibernia was home to great Rangers, Archers, and Sorcerers, and consisted mainly of Elves and the small-gnome like Lurikeens. Midgard was home to mighty Barbarians and Shamans, and consisted mainly of Dwarves, Giant Stone Trolls, and Norsemen. Death in DAoC, like in any other MMORPG, occurs often. For some it isn't as often, but for others, it can occur more often than times you breathe while alive. I played an Albion Wizard, focused on Pyromancy and Fire-based Magic, and took large part in the Player versus Player aspect of the game. Other than balancing issues between the distinct regions, death had continuity across them all. In Dark Age of Camelot, if you died, you didn't lose your items, but you lost experience, and the more times you died, a larger percentage of experience you had before you died was lost. This caused a mass amount of headaches for all people in game. But, in a stroke of good luck, in Player versus Player combat, you do not lose experience, but rather gain points toward a medal you can earn by killing and sieging keeps of enemy realms, which allow you to gain more levels. You also gained experience for killing enemies, and never lost experience while doing this. That may sound great and all, but levelling in player versus player combat was far slower than in the real Player versus Monster world. Levelling mainly occured by grouping with fellows from your region, jumping into a dungeon, and slowly crawling through, killing everything that walked, so you could hopefully get a fraction of a point of experience for your level for the night. If you died, you woke up at the bind stone, which were all too rare, and you had a nice case of ressurection sickness. Death in Dark Age of Camelot was far less stressful as compared to Anarchy Online or Ultima Online, but was still a major pain.
+Ease of recovery when killed in DAoC: 4/5
+
+Death in World of Warcraft
+
+ Because the mighty land of Azeroth is currently out of our waiting and wriggling hands, we have to deal with what little information Blizzard has given us on this subject. Death in World of Warcraft is going to happen, and it will probably happen a lot, but I dont think it will compare to Anarchy Online, or the difficulty of Ultima Online.
+
+A character will remain where he or she died for a reasonable amount of time (to allow for possible resurrection) or until the player chooses to "release" the character. After the player releases the character or the designated amount of time has passed, the character will reappear at a bind point with all of his or her equipment safely intact. Although there might be some penalty attached, our goal is to make sure that a character's death is not overly frustrating for the player.
+
+I am glad to see a game where item loss is minimal, if non-existent, and (hopefully) experience loss is damaging, but not crippling. I know, that through my game experience, we will NOT be let down by Blizzard, and maybe we can see a change for the better in style and execution of MMORPGs with World of Warcraft. Hopefully the Beta will answer some, if not all of these questions. What are your opinions on the matter? What would you like to see in the life/death system of World of WarCraft? Questions and Comments about myself and the article? Head to the comments area!
+Projected ease of recovery when killed in WoW: At least a 4.1/5!
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Paladin
+Written by: Kilja.bL
+Viewed: 1,023 time(s).
+Comments: 0.
+The Paladin (thanks goes to FOHGuild.Org for a good portion of information in this article)
+
+Blizzards description of the WoW Paladin:
+
+"Upholders of the Holy Light and defenders of the Alliance, the Paladins can be found from the northern forests of the Tirisfal Glades, fighting back the advance of the Forsaken, to the southern reaches of the Blasted Lands, ceaselessly upholding their vigil against demonic forces from beyond the Dark Portal. Wielding their mighty hammers and the strength of the Light, these Holy warriors command forces in battle, all the while throwing themselves to where the fighting is the thickest."
+
+Holy Warriors are in most games we see, Massively Multiplayer Online Role-Playing Games have them, Real-Time Strategy games have them, and regular Role-Playing Games have them. They extend as far back in gaming as the early releases of Dungeons and Dragons, and have been an active character template in fantasy games. He is considered the epitome of the valiant hero, the plate-donned priest that can use words of wisdom to strengthen the hearts of even the weakest man, ride into battle fearless and swinging, and crush his enemies with Holy-strengthened weapons.
+
+The Paladin of World of WarCraft is one of the most true-to-fantasy archetypes out there, and in the World of WarCraft the Paladin uses Holy Enchantments, Auras, Spells, Weapons and Armor to be protect and be protected, and to crush those who oppose him.
+
+The Paladin is an Alliance specialist, only two races of the Alliance can play him, Humans and Dwarves. Their power is drawn of course from the "Light", or Holy energy. He starts off as a Chainmail wearing class, and later gain the ability to don plate.
+
+Combat Ability:
+
+The Paladins main weapon grouping is Hammers, while Swords can be used the Hammer seems to be the main choice by Blizzard for the Paladin in the past series of WarCraft games, and it looks to be a mighty weapon so far.
+
+Paladins get a few melee abilities that draw from their mana pool. One of the currently known abilities is Holy Strike which is a high damage melee attack that does extra damage versus the Undead. Another ability is Fist of Justice, which is a stun that actually knocks opponents to the ground (humanoids only) and can be used to interrupt spellcasters and cripple the actions of melee opponents. The other ability we know of is Lay on Hands, similar to the Dungeons and Dragons spell, and it drains all of the Paladins mana but completely heals the Paladins target, from alpha information we are told it is on a one-hour cooldown (it cannot be used for one hour after it is used).
+
+Magic Ability:
+
+The Paladins magic is drawn from Holy power, and one such spell is Holy Light. Holy Light is the base heal spell used by Paladins, it isn't as efficient as a Priests heal spell, but it is effective. Purify, another spell, acts as a Purge against spell effects that harm the player and his allies over time.
+
+At level 12, the Paladin can ressurect players, not nearly as efficent as the priest, since it brings them back with minimal health and mana, the ressurected health and mana rise as you gain levels.
+
+Seals are short duration buffs and are limited. Paladins can only cast one Seal per player. He cannot stack all of his Seals on one player, but multiple Paladins can cast different Seals (the effectiveness of a Paladin Army could be shown through this effect). Currently known Seals are, Seal of Might, increases damage output. Seal of Protection, adds immunity to attack for 5 seconds. Seal of Righteousness, increases players damage versus undead. Seal of Fury, which is a short duration hate buff, which acts as a taunt to the creature, causing it to attack the recipient of the Seal.
+
+Auras are long term enchantments, they include Devotion Aura which increases the whole parties armor class. A Healing Aura which increases the regeneration rate of lost hit points. Retribution Aura, which creates a damage shield on party members that deals damage back to the opponents striking the team.
+
+Conclusion:
+
+The Paladin looks to be a mighty class, and Blizzard looks to be doing a beautiful job with it. My personal favorite, hope to see you on the battlefield!
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Rogue of WoW
+Written by: Kilja.bL
+Viewed: 958 time(s).
+Comments: 0.
+The Rogue (thanks goes to FOHGuild.Org for a good portion of information in this article)
+
+Blizzards description of the WoW Rogue:
+
+"At home in the shadows and skilled at disappearing from sight, the Rogues of Azeroth are most comfortable when acting in the background. Twisting events to their favor, striking only when advantage is greatest: this is where a Rogue excels. With their cunning tricks, physical abilities, and mastery of concealment and disguise, Rogues have no trouble finding employment as thieves, cutthroats, spies, and assassins."
+
+Rogues are the ultimate in stealth, they can poison, backstab, disguise, and fool even the most cautious player. Their fantasy background is strong in games such as Dungeons and Dragons, and is carried over in a lot of current MMORPGs, DAoC and UO come to mind with the most similar class-characteristics of the rogue.
+
+The Rogue of World of WarCraft is, along with the Paladin, one of the most true-to-fantasy archetypes out there. In the World of WarCraft the Rogue uses Backstabbing, Poisons, and perhaps Espionage to cut the throats of, and to spy on, virtually anyone.
+
+The Rogue is an not a Horde or Alliance specialist, all races of World of WarCraft can play him: Human, Dwarf, Night Elf, Orc, Undead, Gnome, and Troll. They're an all melee class with a very strong focus on stealth and assassination, and they start off and stay as a leather armor-only class.
+
+Combat Ability:
+
+The Rogues main weapon grouping is Daggers, while other weapons can be used the Dagger seems to be the main choice for shady types. Rogues will be able to dual-wield these weapons (carry one in each hand), and will be able to use them poisoned.
+
+The Stealth ability of a Rogue is very unique, and is similar to the fade-style of Stealth classes in DAoC. Depending on the skill of the Rogue and the person viewing the Rogue, the transparency of the Rogue differs, some have outlines, while others are almost completely visible, while some are completely invisible. Rogues can pickpocket NPCs, and to ensure that the player community doesn't shoot this ability down, the pickpocketed items come from a different pool, probably a less expensive pool depending on the level and ability of the pickpocketer.
+
+Rogues are almost all melee and the systems being used in World of WarCraft for the Rogue are truly amazing. A Rogues damage and power moves up in levels with Opening and Finishing moves. During combat, a rogue will engage their opponent. On the enemy target indicator will be five unlit bubbles. Opening moves light these bubbles up. Differing Opening Moves have different bubble amounts attached to them. Once enough of the bubble slots are full, the Rogue can execute Finishing moves which are also based upon how many bubbles are lit up.
+
+Currently known Opening Moves include: Sinister Strike, a high damage opening move that can be used from any angle, and Backstab, a high damage attack which can only be used from the back of the opponent. The Rogue also gets a large pool of utility moves they can use for solo or group play. Gouge is a 4-second stun that the Rogue can use, during which they can strafe around the back of the stunned enemy and backstab them. Anti-taunt and anti-hate moves are also available for the Rogue, to keep the creature from focusing on them entirely, and keeping the damage to a minimum.
+
+Two currently known Finishing Moves are: Kidney Shot, a high damage hit plus a stun, and Eviscerate (which means to disembowel, it is a very high damage attack). These moves will use the bubbles lit up. Depending on how many bubbles are lit up, the damage of the attack varies. A Rogue will not be able to chain Finishing Moves, but rather will have to use Opening moves to relight the bubbles to be able to use another Finishing move.
+
+The last known ability is Sap, a stealth knockout used by Rogues to incapacitate an enemy for 30 seconds.
+
+According to the FOH Guild site, Espionage is still under debate and not much information is being given out about it. Hopefully we will see it in Beta and if not, perhaps in the main game release.
+
+Rogues also get the ability to craft and apply poisons to weapons, different herbs producing stronger or weaker poisons.
+
+Conclusion:
+
+The Rogue looks to be a very very powerful friend and foe, and with this information a lot of people will take a liking to this character type, I hope to see you on the battlefield!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+WarCraft Legacy - Your WoW Beta Headquarters - Sections - World of Warcraft - PirateFace's WoW Beta Journal
+
+PirateFace's WoW Beta Journal
+Written by: PirateFace
+Viewed: 1,414 time(s).
+Comments: 0.
+
+Pages: 1 2 
+
+PirateFace's Beta Journal:
+
+• First Impressions & Character Selection (Page 1)	• The Controls and Window Screens (Page 2)
+ 	 
+ 	 
+ 	 
+
+First Impressions & Character Selection
+
+Well, after about 6 days of playing around World of Warcraft, I can finally say that I'm hooked on a MMORPG for the first time ever! Believe me, I've never been a big MMORPG'er as they usually get boring real fast, or the game lacks something that I need to keep me hooked, if I'm gonna be paying for it monthly. The main issues with MMORPGs that I find are things such as the ability to solo, cash flow, graphics, story, quests, simplicity but still a bit complex for more advance users and the other things that makes MMORPGs for what they are.
+
+Now I wouldn't be the most knowledgeable persons to comment on a MMORPG as I've hardly played them on a serious pace, mainly because I never want to pay for an online game for one, and the whole role-playing thing wasn't really something that appealed to me. I have played Diablo, Diablo II, RO (Ragnarko Online); I've touched Final Fantasy XI a bit, and watched EQ (Everquest) being played before so I guess I can do a bit of comparing. Even though I'm not thrilled about MMORPGs, I just had to play World of Warcraft; why? Well, for starters it's a beta, betas are always fun, and I'm currently bored out of my mind over playing the Unreal Tournament 2K4 Demo (speaking of which I should pick that up soon, it's already out :\ ).
+
+Anyways enough about that, this is my guide/beta journal to World of Warcraft through my game play. Here I'll run down the basics of how the game is played before I start journalizing my beta journey with fellow beta testers, Redcloak, XG3, Enforcerman, and the other we've meet such as Mr.Plow from Warcraft.org and the others who have joined our little guild (Lords of Legacy).
+
+For starters, the fun factor of World of Warcraft can be summed up with the following quote that I've said:
+"WoW is like a really good/fun TFT RPG map, only sexed up"
+
+For those of you who aren't Blizzard Gamer savvy in our lingo, that means that World of Warcraft is like one of those really well put/made custom maps in The Frozen Throne expansion of Warcraft III, only more fun, complex but not too complex for the newbs. Also the game looks way better, mainly cause it isn’t stuck on a certain angle all the time like Warcraft III. Basically WoW is running on a mixed of an Warcraft III/EQ type of engine but looks way better than the two or two put together, if that helps any, don't quote me on that, but that's how I see it. There's tons of quests, ways to level up through quests, and killing things, tons of items and spells some of which you'll recognize if you've played past Warcraft games, and you'll finally get to see some towns and major cities of your favorite Warcraft places, such as Ashenvale.
+
+Ok, WoW is so big, there's no way that I can tell you all the spells/abilities for every class or even one particular class at every level, all the items, all the quests, people/NPCs, and other info, so I'm just gonna write up a beta journal, and try my best to give you all of that info from game play rather than make it a book that Prima or Brady Games will eventually come out with or something you’ll read off Blizzard.com. However I'll be writing other stuff for WCL other than a beta journal.
+
+Let's meet our character:
+Upon registering your User ID and Password after using the authorization code that all legit Beta tester's received, you'll logo onto the World Server by default upon clicking on LOGON. Once you click on the Create New Character button at the top you'll enter the below screen. Here in this screen you'll see 4 main boxes to the right. Those 4 boxes will customize the look of your character that you'll be using.
+
+Choose Race:
+This will allow you to choose one of eight races, which you want your character to be. Your choices are Human, Orc, Dwarf, Undead, Night Elf, Tauren, Gnome and Troll.
+
+Choose your Class:
+After selecting your Race, by putting a check next to the box you want, you can choose your class, here you can choose among Warrior, Hunter, Rogue, Priest, Druid, Paladin, etc.... depending on the race you've selected. Note: If you pick Night Elf you won't be able to be a Paladin, because Night Elves don't have Paladins. So, be aware of what you want your character to be before creating. Currently at the time I'm writing this the Hunter class isn't available, as I originally had the Hunter class as my second account, as I wanted to try out both Hunter and Rogue class under the Night Elf race.
+
+Choose Gender:
+Male or Female
+
+Customize Character:
+Here you'll be able to do tons of customizing of your actual look of your character, such as how dark your skin is/skin tones, how your face looks like from beautiful, to funny looking, to ass ugly. You can also customize the hair style such as pony tails, long hair as in shoulder length, big hair, pig tails, etc.. All depending on gender and class. Oh Gnomes are the funniest looking if you’re looking to customize a funny as hell type of character. Such as one of our guild member by the name of KeKeKeROFL who is using a female Gnome, with bright pink pig tales, it looks like Rennie from Salor Moon in Gnome form, very Japanese anime/funny like ^^
+
+If your one that don't care how your character looks (highly doubt it), there is a randomize function which will custom pick random looks, and once your happy with the randomizing look you can click Accept. Note you can rotate your character that you customized in a 360° turn so you can look on the sides and back of your character. Just don't stare too long at your beautiful creation ;)
+
+Once your happy, type in your Character's name and click on the Accept button. Here I've selected and customize a beautiful female Night Elf Rogue, as I didn't want to be a male character cause if I'm gonna be playing a MMORPG and pretty much sticking with one character forever, I want to stare at a woman's behind rather than a guy. But enough about that, I'll continue with the window screen and how the controls and window screen looks and runs.
+Click Here to Enlarge
+(A pic of me messing around with the looks)
+
+Click Here to Enlarge
+(What I ended up with, isn't she sexy?)
+
+The Left side of the screen shows info about the Fraction that your Race belongs too, a bit of info on the history of your race, and some info about the class that your character is. All of which is a bit of a good read if your wanting to specialize in a particular field.
+
+
+
+The Controls and Window Screens
+
+After looking around the web there doesn't seem to be a good site that offers a really good indepth look of how the user inteface works. By that I mean a step by step run down of the entire user interface giving those who don't have a clue of how WoW works, the basic and overview look of the user controls and window screens of how WoW operates at. With that in mind, this article is to provide a those of you who are new to the WoW Beta or to those who haven't gotten the beta of how this game works. So let's get started shall we?
+
+
+Highlight a location of the screen
+
+Basic Controls:
+Your Basic controls are:
+W = Forward
+A = Left
+S = Backwards
+D = Right
+Space = Jump
+Num Lock = Toggle ON/OFF Auto Run
+
+Left Click = Select (When you Click and Hold with the Left Click on the World Area you can change Camera Angles, when you release it goes back to the original camera angle)
+Right Click = Do/Use Command (While Moving your character, Click&Hold and move your Mouse to control where your character moves.
+Mouse Scroller = Zoom IN/OUT
+
+C = Brings up Character Info Box
+L = Brings up Quest Info Box
+B = Brings up Backpack Box
+K = Brings up Skills Info Box
+
+
+
+
+Character Status Window:
+	 	Here's the Character Status Bar which is displayed at the top left corner of the screen. The picture in the circle is a portrait of your character, and the smaller cicle to the lower left of that indicates your character's current Level (in this example it's Level 15).
+
+To the right we have the Name of the Character at the top, in this case my character is called PirateFace. The green bar under the name is the hit points of your character, below that will display either mana, engery or other depending on your class. In this case I'm a rogue, and rogues don't use mana, so I get an energy bar which is indicated with a yellow bar, while say a priest would get a blue bar indicating mana.
+
+
+Party:
+	 	
+When you enter a party or start a party, you can make a party group of up to 5 Max players. To do this you'll use one of the right click on a user's Portrait of the Character Status window and click on the Invite command on the following drop down box. You can also youse the Group Invite under the Friends Box to invite people on your friends list.
+
+In the picture below there is a party of 5 members, which displays PirateFace, Redcloak, sclegacy, DoomSlice and Duma.
+
+Note the small little Golden Crown ontop of Redcloak's Portrait indicates that he's the Party/Group Leader of the 5 guys present in the party.
+
+Party Leaders have the following commands by right clicking top of your own portrait:
+Loot: Free for All (Changes the way a Party loots)
+Loot: Round Robin (Changes the way a Party loots)
+Loot: Master Looter (Changes the way a Party loots)
+Leave Party (Leave the Party)
+Cancel (Cancels the dialog box)
+
+
+Party Members have the following Commands when you right click any Party member:
+Inspect (If your in range, you can check out the equipment of a party member)
+Duel (Requests a Duel with this party member)
+Promote to leader (Promotes the following party memeber as Leader of the group)
+Uninvite (Kicks the following member out of the Group)
+Follow (Puts your character in follow mode, which will make your character follow the current party member)
+Cancel (Cancels the dialog box)
+
+ 
+
+
+
+
+
+Message/Chat Box:
+	 	
+Here's the Chat Box.
+Press Enter to start entering your message. Depending in which messing mode your in, you'll send messages only in the mode that your currently in, until you change it by typing /X (X depending on which mode you want, some of the modes are listed below).
+
+Some of the modes are as follows:
+/G message sends messages to all Guild Members (text shown in Green)
+/P message sends messages to all Party Members (text shown in purple)
+/S message sends a general message to all (text shown in white)
+/Y message yells out your message to all (text shown in red)
+
+
+
+
+
+Command Bar:
+	 
+
+Here lays the Command Bar at it's fullest. Notice at the top of the Command Bar are 20 little bars (which in this picuture most of it is in purple), lays your Experience Bar. In the middle will show you how much Experience you need for your next level (number on your left), and how much Experience you've gained thus far (number on your right).
+
+
+Spell/Ability Bar
+Normal Bar
+
+
+Extended Bar
+
+ 
+
+Above is the Normal common Spells/Abilities bar that everyone has. Here you can click and drag different spells/abilities that you've learned in your Abilities Dialog box. You can have up to 6 different configurations, depending on how you map out your abilities. For my Rogue I had a basic Battle Bar, and a Stealth Bar which I use to link abilities while I'm in Stealth mode. This is so useful as you can have say, a Battle Bar, Healing Bar, Magic Bar, a Talent Bar (ie. Finding Herbs, or Alchemy Items), etc... depending on your play method. Note you can also Click and drag items in your inventory into these spell/ability bars so you can have quick access to potions/food.
+
+Below is a special bar depending on what class you are. Here in this picture, is a Bar that Redcloak has for his Gnome Warlock. This secondary Bar is likely his Beast's Spell/Ability bar, which he is able to control how his beasts attacks and casts spells.
+
+
+Console Bar / Ping Bar / Bags Bar:
+	 
+
+I got lazy and I wasn't gonna split this rather small picture into 3 smaller ones so bare with me.
+
+To your Left section of this picture, lays your Console Bar. Here you can access (in order frome left to right) your Character Box, Ability Box, Quests Box, Social Box, World Map, Main Menu Box, and the Help Box. These will be shown in detail later in this section.
+
+To the middle of this picture, is a semi pale green verticle bar which is your ping meter which displays how bad you lag on the server. Obviously the more green it is the better, oppose to having a yellow to red bar (meaning you lag like hell).
+
+To the Far right are your Bags. Bags are what your character uses to carry all the junk and necesscities that you'll need, ie. your weapons, armor, food, items, etc.... Clicking on each Bag will allow you to view the contents of the bag which would be displayed to the right side of your screen. Opening up multiple bags will result in bags stacking ontop of eachother. Note you can only carry 5 diffterent types of containers, pouches usally car small amounts like 6, wheras bags carry a lot more like 8-10.
+
+
+Backpack, Bags, and Pouches Exploded view:
+	 	
+Here is an exploded view of all the bags my Rogue carries. As you can see I have a few small pouches which carries 6 slots and a few 8 slotters. Note that your money/Gold is only shown in your Backpack Bag as well as 1 Gold Piece is equal to 100 Silver Pieces which 1 Silver Piece is equal to 100 Bronze Pieces. Also note, some items are stackable, obviously the more powerful of an item the less their stackable and the more weaker/useless items your able to stack more (max 20 items in one slot being stacked).
+
+As mentioned above, bags carry your character's food, weapons, armor, quest items, rare items, herbs, potions, trade skill items (such as your fishing rod, pick tool for mining, hammer for blacksmithing, etc....), and other miscellenous items you get from killing creatures which you can use in junction with your trade skills to make rare items or you can sell them for some income. Later when you get extra money it's always wise to buy larger bags to replace your smaller bags, or stash your smaller unused bags in the banks located in all major cities.
+
+
+
+
+
+Minimap:
+	 	
+In the top Right corner of your screen is where you'll find the mini map. Obviously this depics where you are on a very small portion of the world map, the current location of where you are on the world is written in text at the top of the mini map, also on the mini map you'll be able to location party members, towns/cities, caves/dens, your corspe (when you die) and other locations, just remember you need to know your North, South, East and West ;)
+
+Also on the world map, you'll see a Day/Night Cycle simular to Warcraft III/Frozen Throne. Note you can also zoom in and out of the mini world map a bit.
+
+
+
+
+
+Your Character:
+This is the area your character occupies ;) , Here you can zoom in and out depending on the situation or preference or both. You can zoom out as far as making your character about 10% of the screen, or zoom in to first person look (sorry you don't see your weapons on screen like in a First Person Shooter :( ). Also looking at your character you can view clearly all the armor, pants, shoulderpads or whatever equipment you have on (very sexy :) ). Also your character have commands which makes them do funny little things to cool things which are just good fun as well as necessary commands, such commands are as follows:
+
+Character Commands:
+/sit makes your character sit down to regenerate hit points/mana points/engery points faster
+/dance makes your character break loose and dance like a dancing queen :)
+/sleep same thing as sit but I think it replenishes fatigue too over some time
+/wave waves hand (you can do /wave name and it'll say on screen "Waves at name", same with the other commands)
+
+Voice Commands
+/v help yells out to all who are near to help you
+/v inc yells out to all who are near "coming"
+/v charge yells out to all who are near to charge into battle
+/v flee yells out to all who are near to flee
+/v attack yells out to all who are near to attack
+/v oom yells out to all who are near that your mana is low
+/v fol yells out to all who are near to follow
+/v wait yells out to all who are near to wait
+/v heal yells out to all who are near to heal you
+/v cheer cheers out loud
+/v fire yells out a fire command like how a captain does with a firing squad
+/v rasp does a rude gesture
+
+There are a bunch of other commands which you can find all at WorldofWarcraft.com
+
+
+
+
+
+Character Info:
+This box is a combination of a few other boxes, which will all be discussed below:
+
+Character Info Box:
+	 	
+
+In the middle you can view your character and rotate him/her/it around in a circle to view how you look. To the right of your character are colored stones so they seem, these are your elemental resistance. From Top to bottom they are your: Holy, Fire, Nature, Frost, Shadow.
+
+At the bttom of the middle screen shows your character's attributes such as how much strength, agility, stamina, etc... you have. Below that are 3 slots for weapons/shields/ranged weapons. The First slot is for your Main Hand, this is the hand you'll be using for your main weapon, next to it is your Off Hand which is mainly used for Sheilds but if your using dual weild such as my Rogue girl, you can use a second weapon. The last slot is reserved for ranged weapons this would be for throwing knives and arrows.
+
+
+
+Talent Info Box:
+	 	
+Currently in the 2nd Push of the Beta (ie. the Horde Push) this menu is disabled as Blizzard is reworking this system. But for what it did before it was disable was every time you Leveled up to a new Level you get anywhere from 10-15 or more TP (Talent Points) which you can invest into for bonus Hit Points, Mana Points, ie. your increasing your attributes or other useful abilities such as Beast Slaying.
+
+Well Until this has been reworked and re-released to something different that's basically what Talent Points did.
+
+
+
+Reputation Info Box:
+	 	
+I have no idea what this is... well I kinda do, but haven't seen this in use. Obviously based on your questing, or what race/class and very likely what GUILD you belong to or whenever Blizzard Admins want to do some kind of a WoW war, you'll be divided up or something. So that's something cool to look forward too if that is what this is.
+
+
+
+Skills Info Box:
+	 	
+Every Level you gain your basic class skills will increase by 5 per level. How you increase these skills is by using those skill on a regular basis. Obviously the higher level these are the stronger these skills will be when used the next time.
+
+Example: Assassination on my Rogue Skills requires to use Assassination type of attacks such as Back Stab.
+
+Secondary Skills are your Trade Skills such as Herbalism, Alchemy, Blacksmithing, Mining, Fishing, Cooking, etc... When you refine these skills you'll be able to make/do better things such as making better potions, gathering high potent herbs, mining valuable minerals, cooking better food, etc... you get the point.
+
+Note you can see at the bottom of this screen you see that I have 3 Skill Points, these are unused skill points which I haven't invested into another skill. However you can also unlearn Trade Skills to get back Skill Points, but by doing so you'll lose all Points that you've refined with that skill, so do not unlearn skills which you've heavily invested and refined.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

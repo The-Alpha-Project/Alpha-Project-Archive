@@ -1,0 +1,80 @@
+
+<html><!-- ADTAG: size=skyscraper&network=ign&site=warcraftvault&pagetype=article --> <!-- TYPE=skyscraper -->
+<!-- SIZE  -->
+<!-- STYLE=html -->
+<!-- Sniffer Code for Flash version=50 -->
+<script src="https://archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app221.us.archive.org';v.server_ms=461;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="../../../../../_static/js/bundle-playback.js?v=MzYkZ0TU" charset="utf-8"></script>
+<script type="text/javascript" src="../../../../../_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://adserver.ign.com:80/html-ng/size=skyscraper&amp;network=ign&amp;site=warcraftvault&amp;pagetype=article","20040905094330","https://web.archive.org/","web","/_static/",
+	      "1094377410");
+</script>
+<link rel="stylesheet" type="text/css" href="../../../../../_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="../../../../../_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+<script language="JavaScript">
+<!--
+var swf_click = "https://web.archive.org/web/20040905094330/http://adserver.ign.com/event-ng/Type%3dclick%26FlightID%3d92082%26AdID%3d92986%26TargetID%3d1452%26Targets%3d3625,1319,1208,1452,3386,3469,2587,2718,2324,4078,5604,5312,5071,5607,90288,90367%26Values%3d25,34,46,51,63,77,80,93,101,110,130,152,1017,1266,1308,1345,1407,1408,1412,1413,1468,1477,1578,1712,1894,2258,2584,2707,3239,3283%26RawValues%3d%26Redirect%3dhttp://www.us.playstation.com/Content/OGS/SCUS-97316/Site/";
+var dcswf_click = escape(swf_click);
+var ShockMode = 0;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if (plugin && parseInt(plugin.description.substring(plugin.description.indexOf(".")-1)) >= 5) 
+{
+ShockMode = 1;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+&& (navigator.userAgent.indexOf("Windows 95")>=0 || navigator.userAgent.indexOf("Windows 98")>=0 || navigator.userAgent.indexOf("Windows NT")>=0)) {
+document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+document.write('on error resume next \n');
+document.write('ShockMode = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5")))\n'); 
+document.write('if ( ShockMode <= 0 ) then ShockMode = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6")))\n'); 
+document.write('<\/SCRIPT\> \n');
+}
+if ( ShockMode ) {
+document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+document.write(' codebase="https://web.archive.org/web/20040905094330/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"');
+document.write(' ID=flashad WIDTH=160 HEIGHT=600>');
+document.write(' <PARAM NAME=movie VALUE="https://web.archive.org/web/20040905094330/http://ads.ign.com/advertisers/scea/sly/SC2_160x600driver3a.swf?clickTag='+dcswf_click+'"> '); 
+document.write(' <PARAM NAME=quality VALUE=best> <PARAM NAME=wmode VALUE=opaque> ');
+document.write(' <EMBED SRC="https://web.archive.org/web/20040905094330/http://ads.ign.com/advertisers/scea/sly/SC2_160x600driver3a.swf?clickTag='+dcswf_click+'" QUALITY=best'); 
+document.write(' NAME=flashad swLiveConnect=TRUE WIDTH=160 HEIGHT=600');
+document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="https://web.archive.org/web/20040905094330/http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+document.write('</EMBED>');
+document.write('</OBJECT>');
+} else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+document.write('<A HREF="https://web.archive.org/web/20040905094330/http://adserver.ign.com/event-ng/Type%3dclick%26FlightID%3d92082%26AdID%3d92986%26TargetID%3d1452%26Targets%3d3625,1319,1208,1452,3386,3469,2587,2718,2324,4078,5604,5312,5071,5607,90288,90367%26Values%3d25,34,46,51,63,77,80,93,101,110,130,152,1017,1266,1308,1345,1407,1408,1412,1413,1468,1477,1578,1712,1894,2258,2584,2707,3239,3283%26RawValues%3d%26Redirect%3dhttp://www.us.playstation.com/Content/OGS/SCUS-97316/Site/" target="_blank"><IMG SRC="https://web.archive.org/web/20040905094330/http://ads.ign.com/advertisers/scea/sly/160x600_driver_bkup.gif" WIDTH=160 HEIGHT=600 BORDER=0></A>');
+}
+//-->
+</script>
+<noembed>
+<a href="https://web.archive.org/web/20040905094330/http://adserver.ign.com/event-ng/Type%3dclick%26FlightID%3d92082%26AdID%3d92986%26TargetID%3d1452%26Targets%3d3625,1319,1208,1452,3386,3469,2587,2718,2324,4078,5604,5312,5071,5607,90288,90367%26Values%3d25,34,46,51,63,77,80,93,101,110,130,152,1017,1266,1308,1345,1407,1408,1412,1413,1468,1477,1578,1712,1894,2258,2584,2707,3239,3283%26RawValues%3d%26Redirect%3dhttp://www.us.playstation.com/Content/OGS/SCUS-97316/Site/" target="_blank"><img src="https://web.archive.org/web/20040905094330im_/http://ads.ign.com/advertisers/scea/sly/160x600_driver_bkup.gif" width="160" height="600" border="0"></a>
+</noembed>
+<noscript>
+<a href="https://web.archive.org/web/20040905094330/http://adserver.ign.com/event-ng/Type%3dclick%26FlightID%3d92082%26AdID%3d92986%26TargetID%3d1452%26Targets%3d3625,1319,1208,1452,3386,3469,2587,2718,2324,4078,5604,5312,5071,5607,90288,90367%26Values%3d25,34,46,51,63,77,80,93,101,110,130,152,1017,1266,1308,1345,1407,1408,1412,1413,1468,1477,1578,1712,1894,2258,2584,2707,3239,3283%26RawValues%3d%26Redirect%3dhttp://www.us.playstation.com/Content/OGS/SCUS-97316/Site/" target="_blank"><img src="https://web.archive.org/web/20040905094330im_/http://ads.ign.com/advertisers/scea/sly/160x600_driver_bkup.gif" width="160" height="600" border="0"></a>
+</noscript>
+
+</html>
+<!--
+     FILE ARCHIVED ON 09:43:30 Sep 05, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:49:12 Dec 15, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 199.594
+  exclusion.robots: 0.112
+  exclusion.robots.policy: 0.1
+  RedisCDXSource: 14.054
+  esindex: 0.005
+  LoadShardBlock: 165.37 (3)
+  PetaboxLoader3.datanode: 238.222 (4)
+  CDXLines.iter: 18.139 (3)
+  load_resource: 254.784
+  PetaboxLoader3.resolve: 55.631
+-->

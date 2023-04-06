@@ -1,0 +1,1638 @@
+"Confessions of an Alpha Tester.. " by UndeadScottsman	2004-03-18
+
+Forgive me fella's, for I had to play World of WarCraft without telling anyone :P Yeah, I'm sure your hearts are just bleeding for me :)
+
+I suppose I should start this out with my overall impression of WoW. In a word.. WOW.
+
+Okay, that was lame.. :)
+
+Seriously though, I LOVE this game.. Even in it's alpha state, it's PHENONAM... PHENENO... It's BLOODY FANTASTIC!!! The world LOOKS good.. It seriously looks like someone took War3 and blew up it. Towns are full of people and great looking architecture, the various cities look great and are bloody HUGE (Luckily, most have an easy to use signpost system to get around..) The terrain looks good, with tons of various areas to explore (Mines, lakes, farms, towns, cities, encampments, mage towers, mountains.... And that's just in Elwynn Forest!) and they all look great!
+
+Monsters look great as well, they, again, look like someone took the RTS and zoomed in to see the detail. Monsters have cool animations when they idle (Watch the Trogg scratch it's ass :) ) Ogres lumberig around looks awesome, and the Harvest Golems are the singlemost AWESOME monster I've seen in a game in recent years.. Especially when they die and start shorting out :) Even the players have awesome animations.. People BLINK! When you talk, you're character moves his arms like he's describing something.. Saying "I don't know" will get your character to shrug! :) And the dances are HILARIOUS.. Especially the gnome dances! :)
+
+But of course, looks aren't everything, especially in Blizzard games.. Blizzard has managed to take the annnoyance of MMORPG and basicly flush it down the toilet.. Grinding levels has been choppped up and converted into doing quests.. I don't level for the sake of leveling now.. I level as a consequence of doing quests.. and since the quests are a lot more fun to do than level grinding, the game is a LOAD of fun!
+
+Trade skills are also a lot of a fun, as I initially didn't think I'd really be all that interesting in 'em.. but when I hit a small lull in quests with my Gnome Rogue, I found that mining and building stuff with engineering was awesome! It was about the time I finished my pair of Tigerseye Goggles that I was hooked for life :) Building stuff like explosives, goggles, scopes (add damage to ranged weapons) target dummies (pull aggro from monsters) and the EXTREMLY awesome telescope (lets you zoom in on stuff!) is awesome, and you tend to gain experiance through tradeskills because monsters tend to either have, or be standing around the materials you need :) Heh, I massacred a whole colony of kobolds to get a lot of copper :)
+
+My Orc Warrior was able to take First Aid, which allowed me to heal myself without having to buy or find a ton of food or healing potions. I haven't really gotten an opportunity to try much more beyond that, but if the rest of the trade skills are this cool, I probably won't be able to keep away :)
+
+I've only had a brief ammount of time with the classes, but I really like the Shaman (Totems are cool, healing rocks, and ranged spells are awesome.. As is the ablility to light my weapon on fire which has a 5% chance of extra damage with each attack :) ) and the Rogue (Steath is awesome, dual weild is neat, and the ability to lockpick, make and use posions and use the vanish ability (Use a flash bomb to make a cloud of smoke and your character steaths.. right out of Kung Fu movies :) ) make the rogue REALLY awesome.. combined with the really unique combat system for hte rogues (Various attacks add bubbles and other attacks use bubbles) makes the rogue a interesting class to play. I love being in a group and continually backstabbing a monster, only to pull of a super damaging attack with five bubbles when the critter tries to run away!
+
+Anywho, I suppose I'll take a break for now. If you got any questions, feel free to ask 'em in this post on the War3.com forums [url]http://www.forumsx.net/showthread.php?t=26059[/url]
+
+Unfortunatly, I deleted all my screenshots when I deleted my alpha version of wow to download the beta.. I'm an idiot. :P But I'll make sure to take start taking a lot more screenshots as I play the beta. :)
+
+Sincerely,
+Jeremy Dunn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What does beta mean?
+	
+
+What does beta mean?
+by TS -- TS@Forsakenguild.org
+
+I've been reading forum posts and chat rooms where virtually every other person says at one time or another, "I can't wait for beta!" when referring to World of Warcraft.  It started to make me wonder, do these people actually know what beta means?  Now I'm not talking about looking it up on dictionary.com to find that it's the second letter in the Greek alphabet, or searching Google to find that IBM came up with the term in the 60's.  I'm talking about the fact that most people seem to think playing the beta version of the game is just getting to play a few months for free, or before everyone else.
+
+While playing a beta does generally give you an advantage of content knowledge, as in what classes can do what, what spells are better where, and how to get from point A to point B, that's not the point of it.  A beta is a test, simple as that.  It's no longer on the designers working to remove the kinks, but a number of people interested in the product hoping for it to be the best it can.  This isn't saying that playing a beta is like a full time job, and that you can't have fun while doing it; it's just saying that the point of it isn't to allow you to play for free, or give you bragging rights since you got it and your friend didn't.
+
+I've been in at least a dozen online game beta tests, among numerous offline betas, and I can safely say there hasn't been one that I didn't find at least one bug in.  The games might be as polished as a real version, but there's only so much testing a small group of people can do.  That same small group of people is also unable to test the durability of the servers.  Most games I've played in beta generally do stress testing as a phase of beta, thus dropping servers and having crashes daily, sometimes hourly.  And with those crashes, in every game I've played, someone will run to the forums and cry that their game went down, and demand that it be brought back up.  They fail to note the fact that the beta process is one of finding and fixing bugs, not playing a polished game.
+
+Betas are often fun, because the games are fun.  If the game isn't fun, I might not continue the beta for very long.  I've been in beta for some terrible games, I mean ones that weren't fun to play, not ones that were bug ridden.  If the game isn't fun in the first place, no amount of testing is going to help it.  So the fact that you're having fun playing the beta is showing that the final game will be fun, and helping to find and remove said kinks and bugs would only increase that fun.
+
+I recently read a post asking about how many games people had beta tested, almost as if it was some form of a contest, and the one with the most was the winner.  It made me think, how many people sign up for just about every game beta they can, just to say they were in it?  If those are public betas, there's no problem really; but if you're taking up a spot for someone who might be a serious tester in a private beta, someone looking forward to playing the game when it comes out, just because you can add it to your 'list', what good are you doing? 
+
+Some people think playing a beta is a way to play the game before it's released...but have you heard of demos?  I haven't bought every game I've been in beta for, for various reasons.  I didn't buy Anarchy Online for instance, not because I thought the game would suck, but because I felt that the release was far, far too soon.  It wasn't ready, and anyone who played it can easily confirm that.  It seemed like it could have been a fun game, but I wasn't about to pay money to continue the beta test I had been previously doing.
+
+If you sign up for the World of Warcraft beta, which will probably be the biggest beta with the most sign ups ever recorded, make sure you do it because you want to help make the game a complete success, instead of because you want to play it before everyone else. Don't complain when you encounter problems; think about possibly typing /bug rather than /shout when you find something that isn't working correctly.
+
+
+
+
+
+
+
+
+
+
+The Tester actually tests out the games. He tries a variety of skills on a variety of monsters, he will look at factors which unbalance aspects of the game, watch the economy, look at the effect of items on their characters, watch the balance rates between heroes, and most importantly ACTUALLY REPORT ERRORS. The tester will not only report bugs, but errors in graphics or the game "Freezing".
+
+
+The Gamer
+
+The Gamer will feel satisfied reporting one or two bugs (often which are obvious and commonly reported) and feel justified. Be they balance or technical, the typical gamer will only report one or two bugs.
+
+
+The Sloth
+
+The Sloth is pathetic and reports nothing. He just wants the beta so he can play the beta. Great, eh?
+
+
+The Websiter
+
+Most companies will give the beta to webmasters of fansites. This way, the non-testers still get good information as the beta is taking place. Also, it helps with the hype of the game, appealing to gamers who do not have the beta. While, at the same time, helping to balance the game.
+
+
+Written by JimB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Exclusive: Day 1 E3 Write-up
+	
+
+I started things off at the Blizzard booth by watching the giant 20+ foot wide screen setup they had overhead; looping both movies of SC: Ghost and World of Warcraft. The Ghost video was a shorter one, only about 30 seconds or so…however the WoW one was over 2 minutes long. I must say I was very impressed with the movie. The graphics were breathtaking. When the movie finished playing, I stepped back and took a look around…there were at least 30 other people standing there watching it. Each time I passed back by the booth throughout the day, there were at least 15-20 people standing there in awe.
+
+Down below the giant movie screen, there were a few computers displaying World of Warcraft Beta, which was connected right into the beta server. Up some stairs there were another set of computers running WoW; a few with devs playing and a few set aside for players. Up another small set of stairs and across a walkway was the SC: Ghost display. Ghost was playable on a few machines and had movies/trailers running on others.
+
+I didn’t get much of a chance to stop by and check out Ghost as I was too interested in finding out some stuff from WoW. The area up the stairs wasn’t that big, maybe 10’x15’ or so and there was constant traffic moving in and out of the area. I don’t have a meeting with Blizzard until Friday but I thought I’d see if I could step in and ask some questions. When asked if he would answer a couple of my questions, Game Designer Shawn Carnes was eager to oblige. I started off my barrage of questions asking about the ETA of the next beta push and phase. He was able to tell me that the next push would be by the end of this month, but wasn’t able to comment on when the next phase might begin. He added that he wasn’t sure when open beta would begin either. Though he was able to say that the game would positively ship this year, and open beta would begin roughly a month to two months prior to its ship date. In relation to the ETA of the beta info, I asked if the next push would increase levels to 40+ as well as bring mounts and plate armor. While he said plate armor and mounts were about ready to bring in, the level limit may not yet increase. I also asked if the hunter class would be one we’d see soon; he responded that while it was very close to being ready, he wasn’t exactly sure on when it would be in. I noticed several comments from people saying banks were too far apart, or that a run to a bank might take too long if your hearthstone is unavailable. When asked about this, Shawn was able to tell me that much of the current content has been revamped, and more is being looked at in terms of things like banking.
+
+The next thing on my list to find out about was PvP. Everyone has been left pretty much in the dark on PvP so far, and I figured it was about time we got some answers. Unfortunately, I wasn’t able to get too many direct yes or no answers. Shawn was able to tell me that the PvP Battlegrounds would be ready to test sometime soon, and there will be a bit of time devoted to testing primarily just that. I went into a bit more detail and asked how the frontier zones or battlegrounds would differ from standard ‘pvp zones’ of other games. He said one thing they’re really looking to do is make npc’s interactive with pc’s. He went on to explain that while you and your friends battling against a group of the enemy would be fun, they wanted to add something that had never been done and make it more fun for everyone. The idea he described would be something to the nature of a Warcraft 3 battle. Say you’re a warrior heading into the heat of battle with your group, who consist of a mage, priest, and rogue. In addition to your group of four, you’d be likely to see some ghouls or elves rushing to your aide, depending on your faction. I asked if experience would be lost if you were killed by an npc in the pvp battleground, since that would be a major discouragement for a lot of people; the answer was a very simple, “no”. I went on to ask if there would be rewards for pvp. I was told that there would be, but it may not be in the traditional sense of a reward. I asked what he meant and I was informed that while an item may drop in a pvp zone, it might not be more powerful than one you could obtain via crafting or questing. It might have a different particle effect or graphic to it; something extra to show that it was obtained via pvp rather than through a quest. This sounded like a promising idea to me, since it wouldn’t exclude those who didn’t wish to spend their time fighting other players, but would reward those who did. He also said another idea in the works was to have items or enhancements as rewards in pvp that would further enhance your pvp attributes or skills, rather than things that would help you more in pve. Again this will help those who want to pvp, but not hurt those who don’t. Keeping with Blizzard’s stance to make the game fun for both the casual and the hardcore, these ideas fit right in and seemed like they would work nicely.
+
+I tried to get some details regarding class and level balancing in pvp, and did receive some answers, but was told that a lot of it will have to be tested and balanced once everything is ready to go. It was added that balancing will be an ongoing process, so if skills, spells or items somewhere down the line enhance one class a bit too much, or if one class ends up being found lacking, adjustments will be made for them to become more equal. Shawn wasn’t able to tell me an exact level range difference for pvp encounters to be ‘fair,’ however he was able to say that they want it to primarily revolve around players skill rather than items or level. That being said he added that even the most skilled level 30 wouldn’t be very likely to kill a level 50. He did however say that a group of 35-40 would be able to give a few level 50’s some fun. In a lot of current games, ranged attackers such as mages or archers, are dominating forces against their melee counterparts. I asked how this would differ in WoW, or how it would be balanced. I didn’t get much detail on this but Shawn was able to tell me that while a hunter may be able to hit a warrior from a distance, when that warrior closed in, the hunter would definitely feel the pain. From the sound of what he was telling me, a warrior might take less damage from spells and arrows than a class with lesser armor, and would deal more damage to leather and cloth type wearers than to an opposing warrior. The tradeoff is that they have to be right up against the enemy, rather than able to attack from a distance. In all honesty that makes perfect sense to this writer, and it seems like most games should have been this way, rather than the typical archer one-shotting anyone in range type.
+
+I changed angles a bit and asked some questions regarding the game client itself, and was given several answers that I hadn’t heard before. I first asked about cross-realm chatting, and was told that it isn’t in…yet. I also asked about a feature of being able to chat with friends in game while not actually being in game. If you’ve played Everquest you might be familiar with EQIM, which is sort of like a cheap knock-off of AIM or MSN messenger but is a great feature for allowing you to chat with friends in game when you’re not able to log in. The answer I was given to this was that there was already something in the works, so that’s definitely something to look for. It was added that in addition to being able to chat with friends, you will also probably be able to check server status and see which servers are up. Continuing with the client questions, I wanted to know if an in-game browser or mp3 player might be in the works. Shawn told me that while the ideas had been considered, they wouldn’t likely be added due to the fact that you can alt-tab out of the game and user the browser and mp3 player of your choice. On that note, I asked if the bug occurring when auto-running and alt-tabbing, which causes you to stop running, would be fixed. He assured me it would be, and thought that it had already been corrected in the next patch.
+
+Along those lines, I asked when patching would occur after launch. If you’re familiar with other online games, patching is generally around the middle of the night Pacific or Eastern Time in the US. Shawn told me that they hope to have patching localized as much as possible. He went on to explain that if there’s a game server in Europe, it will run its patches during the night for Europeans; however the US players would have their patches done during their night time. While this does mean some players might get content even as far as a day in advance, it does ensure for far less downtime for a majority of players. He also told me that they hope the server/client software relation will keep patches to a minimum, meaning that some of it may be downloaded while you’re playing so you wouldn’t actually have to stop and get a patch. With this style of patching, Shawn told me the patches should be much smaller in size and take only an hour or two as opposed to an entire ‘patch day.’ He also told me patches will likely end up being on somewhere between a bi-weekly and monthly schedule. Now keep in mind, my meeting with Blizzard isn’t actually until Friday. These questions were all answered out of courtesy while others were constantly asking questions of their own.
+
+I’d like to thank Shawn Carnes for taking the time to answer my questions and tip my hat to the Blizzard staff for such a great exhibit and experience. I’ll be back on Friday to ask some more questions and take a crack at some content myself.
+
+
+
+Written by TS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Interview with Andy Kirton
+by: Tucker Smedes
+Ascension Gaming Network
+
+   Have you ever spent an entire day sitting down in front of a screen, answering questions for a multitude of people that stop by to ask them…often the same ones over and over? I know I haven't, but that's what the people at E3 do. It wasn't until 2:00pm on the final day of the convention that I was able to meet with Blizzard's Associate Level Designer, Andy Kirton. Even though approximately 24 hours of actual convention time had passed, he was eager to answer my questions, and provided answers with enthusiasm. You are able to tell from that and that alone, the game they are in the process of finishing must be a good one.
+
+   I was fortunate enough to meet with Shawn Carnes on Wednesday and fire a set of questions his way, which let me reload with a new batch heading into my meeting with Andy. As everyone who has ever visited a convention knows, if you ask one person you'll sometimes hear one answer, and when you ask another the answer may vary slightly. When I did ask some of the same questions, I was surprised to find that very few of the answers were different. It wasn't as if they had rehearsed answers though, it's more that they are so into the game, they just know a lot more about it.
+
+   My previous write-up included information about the cross-server chat system which would likely be implemented, and on this, Andy told me, "it's not in yet, but I can't see why it wouldn't be eventually." The same holds for an "IM" utility for messaging players in game when you're not in game yourself.
+
+   When I mentioned that my next question was a somewhat controversial one, Andy chuckled and said, "the rest state" with a large grin on his face. I smiled and nodded as he went on to explain the intentions of it. It did make more sense when he told me how it was meant to let players who didn't have the chance to play for longer durations daily catch up to their friends faster. But he did say that the way it was presented to the players didn't go over quite right, so tweaks were in the process of being done and the next version should hopefully be better received. The new version will allow players who play a few hours a day but like to go 'all out' on weekends to remain rested longer, since they never really left the well rested state to begin with. It really sounds promising for the casual players.
+
+24 hour clock - good or bad?
+
+   My next slightly controversial question was the 24 hour clock, and what revolved around its making. Andy told me that as a level designer, he loved it. He said that it makes things so much better for the environment because he can do things like say, at 6:00 at night all kids go inside. In the morning, you might hear a rooster crow and see the women and children come out of their houses to begin their days. Also added was the fact that since it is done in real time, special events like putting pumpkins out for Halloween or lights up for Christmas are all possible. "Some people might only ever play when it's dark, but we feel that it's a small sacrifice for what we're able to do with it this way," Andy told me.
+
+   I didn't go into much detail regarding PvP, but Andy did inform me that a new server would be launched for beta, with the sole purpose of testing PvP. The only other question I had about PvP was the possibility of siege warfare, and the capturing of castles and the like. Andy told me that it wouldn't likely be in for release, but eventually we would see things like catapults, ballista's, and perhaps even steam tanks.
+
+		
+	
+		
+   As most of you have now guessed, the Troll's mount is currently a raptor. I say currently because it was noted that this might still change. The Gnome mounts are still being decided upon though. "At one point we were working on mechanical mounts for the Gnomes, but that's still being decided," Andy explained. He went on to add that the Gnomes at one point did use the Dwarf mounts, but in release that wouldn't be the case.
+
+   Andy did tell me though, that when an expansion was released, we would see additional mounts and possibly even the ability to ride a different kind of mount. On the note of an expansion, it was also added that new races and possibly even classes were definitely in the works.
+
+   Some people might be familiar with games like City of Heroes that offer free content upgrades every few months; well so will WoW. Not exactly huge new areas or races, but we will be able to look forward to special events expanding or changing the land. Something like an earthquake causing a cave in of a mine or dungeon, and unveiling yet another one, wouldn't be too unlikely. All major upgrades however would be in store-bought expansions. There was of course no release date on how far out those expansions would be.
+
+World of Warcraft Mounts
+
+   If you've ever played Everquest, you'll be familiar with how the mounts in that game were quite a pain to maneuver around. If you haven't, let me briefly explain. You would mount your horse and begin to run forward, however you might skip a little before actually starting. If you were a melee class, you could attack on them but never use special attacks like kick or backstab. For casters, a horse was a must, as it allowed them to meditate (regen mana) while remaining mobile. In World of Warcraft, we won't see these things. "Mounts are purely for travel, you can't fight on them," Andy exclaimed. He also hinted at the fact that your mount may eventually evolve. As for whether or not this will be something in release or an expansion, he didn't go into details.
+
+   I wanted to know a bit about the race specific traits, such as the underwater breathing or immunity to fear we all heard about with the Undead. However Andy said the whole racial trait system was being reworked and tweaked so few answers were provided. He did however say that no race would receive negative bonuses such as an exp penalty for getting a better trait.
+
+   If you plan on playing a Dwarf Paladin with your second character being a Tauren Shaman, you'll be playing them on two different servers. It was explained that you would not be able to have characters from both factions on the same server; which in all honesty makes perfect sense seeing as you will be fighting against your opposing faction. You will however be able to have different faction characters on different servers of your account.
+
+Andy was able to clarify that, "currently you can have 10 characters per server and can play on any number of servers that you want. So, say if we have 10 servers at launch, you can have up to 100 characters (at 10 per server)." So you will be able to play every race and class combo you want...just not on the same server.
+
+   Some have been wondering if their Warlock will ever be able to wield a scythe, and to this I was told that it might be a possibility. "It's just a matter of adding the animations for each weapon type, so more could definitely be added," Andy explained.
+
+Auction System
+
+   The auction system was one feature that definitely intrigued me. Instead of simply yelling that you have an item for sale, or posting it into a channel, you'll actually be able to put it at an auction house; at least that's the current design idea. "When you put your item up, the easiest way to think about it would be Ebay," Andy told me. You'll see your item up for auction and can either specify a price or let people bid. Once someone pays the set amount for an item, the money is taken from their account and put in either your account or sent to you via the mail system. To pick up the item you've won, you'll head to the nearest Inn and check your mailbox outside. I asked if there would be any type of "you've got mail" notification and was told probably not; as it is something they want players to check at least once a day…when you stop by an Inn, check your mail.
+
+   Bots or macros have plagued many games like RO or AC; characters run by scripts and programs. I questioned whether people would be banned, suspended, or what consequences would be given to those who were found using bots and macros. "While banning is definitely an option, we would much rather not have any bots in the first place. We feel partially responsible when they show up due to the fact that we had to 'let' them in," Andy went on to say.
+
+
+   A similar stance was being taken on that of selling items for cash. I'm sure all of you are aware things like this have happened in past games such as EQ or even Diablo 2. It will be easier to track in WoW, and there will definitely be measures taken to prevent it or punish those who can't abide by the rules.
+
+   One of the final questions I had was in regards to in-game customer service. If you have ever played EQ, you'll know what I mean when it is very important to have a competent GM (Game Master) service in place. There were very often problems with Guides (non-paid GM's) in EQ and people more often than not got frustrated and impatient with them. I wanted to know how things like these would be handled in WoW, and was quite pleased with the answers I received. All GM's will be paid staff members and will be running shifts to ensure that there is always at very least one GM on during any period of time. During the more common hours of noon to midnight, we will usually see more than one GM. Andy added that, "we're striving to make most questions people would have for a GM answered within the game itself. One comment all of our current GM's have mentioned is that they have had very few questions, which means we're doing a good job so far." This sounded very promising because a lack of customer support is always a bad thing.
+
+Upcoming Beta Plans
+
+   I questioned the possible release of the next phase and next push, but got a few mixed details on it. Andy said that the push was going to occur this week or next, however due to E3, it may be pushed back a slight bit. However he did comment that the level limit will likely be increased to 45 and we will see plate armor and mounts. Unfortunately for those of you waiting to be a hunter, it looks like you may have to wait a little longer. Another thing to look forward to is the fact that another group of people will be invited sometime in the near future, so keep watching your e-mail!
+
+   For all of those people wondering when the game will hit open beta or when the final launch would be, I believe the quote Andy gave was one that fits quite well. He told me, "It's my philosophy that the launch will make or break you." And he went on to add that there's no reason to release an unfinished product on the market. Just think if car manufacturers released an awesome looking new car, but it only came with three wheels. If you're familiar with Blizzard, you'll know they strive for perfection and won't release a game until it's ready. However I was once again told that they definitely do plan on releasing this year.
+
+   I'd like to once again thank Andy Kirton and the rest of the Blizzard staff for being one of the best groups of people I had the opportunity to meet with while at E3 this year. They made my visit quite worthwhile and enjoyable.
+
+
+
+Written by: Tucker Smedes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Review of E3 2004 Infomation
+	
+
+Review of E3 2004 Infomation
+by: Sam
+
+   
+
+-Next push by the end of the month
+
+-Game is positively going to ship this year
+
+-Open beta expected a month or two prior to launch
+
+-Plate armor and mounts are ready to be brought in
+
+-Hunter class "very close" to being ready
+
+-PvP Battlegrounds will be ready to test soon, likely with an entire new server encouraging it
+
+-PvP Battlegrounds will include NPC's joining forces with PC's to give a larger-scale feeling to the battle, with NO experience loss if killed by an enemy NPC. The NPC's vary depending on your faction.
+
+-Rewards from PvP may include regularly crafted or found items, with special effects or conditions attached to them, to show that they were acquired through PvP. Other rewards may include special items or enhancements which would strengthen your pvp attributes and skills, but not quite aid you with PvE
+
+-Large-scale PvP will be tightly balanced
+
+-Cross-realm chatting will be added
+
+-You will be able to chat with friends who are in-game, while you are out of game
+
+-Blizzard will strive to update their content locally, so that players in different time zones are not put-out by having patching performed in mid-day
+
+-Level cap is being raised to 45 in beta
+
+-In-game email client being added, with the ability to attach items to send to players using a Cash-On-Delivery system
+
+-Five new zones are ready for implementation: Ajami, The Burning Steppes, The Hinterlands, Tamaris and Feralas
+
+-The Barrens zone is undergoing a revamp, due to massive player complaints. Everything from the topography to the quest design
+
+-One idea for PvP Battlegrounds is to have players take transportation to an instanced zone where players must attain a number of tactical objectives in an allotted amount of time
+
+-A Guild Management Tool is almost ready for implementation, giving much greater control to guild masters, such as giving ranks, contacting members, setting permissions for various privileges, as well as a timer to see how active the guild's members are
+
+-Talent system is being added, allowing players to customize many more things about their characters, such as run speed, stamina, health, preferred style of combat enhancements as well as talent-specific lines of spells and skills
+
+-The talent system may lay down prerequisites for high-level sub classes (or prestige classes) in the future, if not at launch, then at a post-launch update. Two mentioned were demon hunters and archmages
+
+-New dungeons with different combat tactics will be added, such as swarming monsters that cannot be crowd controlled, and an end-dungeon boss who brings statues in his room to life to fight with him
+
+-Ultra high-level content is being added, such as one zone shown at the demonstration, where the goal was to fight your way through battling demons and dragons to re-purify the Well of Eternity
+
+-There will be separate zones to travel to in PvP, with the focus on fast-paced combat, as opposed to other game's systems (the team is aiming to make you feel as if you're inside a Warcraft 3 battle)
+
+-Level-based PvP zones may be added
+
+-The current out-of-PvP-zone cross-faction combat system is being reworked, to streamline random contact between Horde and Alliance players
+
+-PvP servers are planned for implementation
+
+-Leveling speed is being rebalanced
+
+-All large-scale dungeons are planned on being instanced, with smaller ones such as random caves being part of the overall world, and more dungeons are being developed
+
+-The 24-hour clock's pros and cons are under close review
+
+-Events may be held twice a day, to give a chance to people who only log on at a certain time to participate
+
+-New models and artwork are being developed for cloaks
+
+-The troll mount is definitely a raptor, as shown in the official screenshot in the press kit at E3, the gnome mount, however, is still yet unknown
+
+-In the future, well-known characters may in fact be quest-givers, such as Thrall or Cairn
+
+-GM-run events will take place
+
+-A system is being designed to allow dynamic changes to be implemented into the world without large patches having to be sent to clients
+
+-The weather system is not yet implemented, but is in the works
+
+-The Orc Male, Human Female and Orc Female have had their polygon count increased, something planned for the rest of the characters further down the line as well
+
+-The Rest System is being redesigned
+
+-Siege weaponry will likely be implemented into PvP Battlegrounds at a later date
+
+-Plans for expansion include new mounts, races and classes, among other things
+
+-You cannot have characters from the separate factions (alliance, horde) on the same server - you have to choose which faction you wish to be a part of for each server (DAoC players will be familiar with this)
+
+-A new auction house system is being implemented to expedite the selling of player-sold items
+
+-The trade of items or characters for real-life money will be strongly discouraged
+
+-The entire GM staff will be paid employees, none volunteers
+
+
+
+
+
+
+
+
+
+Developing a Character into the Later Levels
+by Crow
+
+      
+
+
+
+Whether the latest patch has caused you to make a new character or continue an old one, we are all headed to the new level cap. In retrospect, with many beta players having leveled to the previous cap (level 39) for weeks, characters sought new ways, other than leveling, to develop. Item-hording, trade-skilling, and quest selection were heavily mixed into each character's formulation. Read on to see why a maximum level is far from maximum development.
+
+
+
+
+
+
+Having spent a great deal of time exploring the world with Xom, my level 39 Undead mage, I've met many different characters. For me, the biggest interest is to see how they are different from other players of that same class. Often it is equipment and trade skills that directly and significantly separate one character from another. Indirectly, when players choose a variety of quests, they are also choosing different ways in which they development (especially multi-part quests).
+
+
+
+
+
+
+Understanding your character and knowing the potential equipment available to him, you can direct him down many paths, even while capped at level 39, 45, or whatever the cap may be. My mage, for instance, has 1 bag dedicated to swapping equipment in and out, to create different combinations. With one combination, my character has a high armor class. With another, I have the maximum amount of mana and hit points for battling casters. Lastly, I have an arrangement for grouping, which is based around a very high spirit score.
+
+These ideas are shown as I have directly applied them to my mage (before patch, mind you), but can be applied to any class or race combination.
+
+
+
+
+
+
+Skill and Stats
+
+Under the current system, your most difficult choices in distribution of skill points come in the early levels. During the late levels, there is a plethora of excess skill points to go around, and, at the current level max, you can continually earn new skill points, even if you do not gain experience. By excess, of course, I do not mean that all skills are possibly maxed, but that weapons are easily covered and at least 3 trade skills can be mastered.
+
+
+
+
+
+
+With my mage, I've chosen to max all stats (previous to patch) and master engineering, tailoring, first aid, and mining. Let us look at supplements that trade skills can provide to a character:
+
+More mana: alchemy, enchanting, and all armor trades.
+
+More hit points: alchemy, enchanting, and all armor trades.
+
+More damage: blacksmithing, engineering (pets, bombs), alchemy, poisoning, and enchanting.
+
+Crowd control: engineering (flash and stun bombs).
+
+Less downtime: alchemy, enchanting, cooking, and survival.
+
+Money: mining, herbalism, skinning, fishing, enchanting, lock picking, and blacksmithing.
+
+Ranged Attack: engineering (bombs, guns).
+
+Pet: engineering (dragon or harvester).
+
+Resurrection: engineering (goblin jumper cables).
+
+Water Breathing: alchemy.
+
+Anti-Magic: alchemy (resistance potions are amazing! Shadow, nature, fire etc..), enchanting, engineering (cloaking device to counter spell).
+
+Anti-Melee: engineering (flash bombs [fear nearby enemies], stun bombs), enchanting, and alchemy.
+
+Stealth: alchemy and engineering.
+
+Lock Picking: lock picking and engineering.
+
+Healing: alchemy, first aid, cooking, and survival.
+
+There are many other ways that skills can supplement your character, but these are a few that are often potential character "needs" or "weaknesses." I matched my mage's needs to the above skills, concentrating on my lack of hit points, tank, and money.
+
+With engineering, tailoring, first-aid, and mining, my character underwent many changes. From engineering, I gained the ability to resurrect teammate, AoE stun, anti-caster cloaking (vs players only), pets, AoE fear, and even some money. First-aid has allowed me to contribute more to groups, avoid downtime when solo, and fight tougher mobs than before. Mining, even at the bronze and iron level, has given me extra money too and provided the necessary ore to raise my engineering skill. Tailoring, though not incredibly useful, has given me the icy cloak (22 AC, +6 resist frost, +5 stamina) and perhaps even more new items when more recipes are released.
+
+I did not have enough excess skill points to pursue alchemy or enchanting. But, after I learn the new tailoring recipes, might consider dropping tailoring for an 800 skill point refund to spend on other trades.
+
+
+Items and Collecting
+
+Basically, there is a square of needs. The four major points (corners) are high hit-point, high spirit, high damage, and high AC (armor). Your character's equipment will determine how far into each of these needs your equipment can take you.
+
+Though some players settle into a specific "build" or selection of equipment that they prefer. When it comes to mages, many want either all spirit or all intelligence. Others want a mix of the two. Is there a difference? Absolutely.
+
+The mage who picks all spirit will be very valuable in a group, where he will need to keep up with the efficiency of tanks and healers. High spirit mages can cast nearly continuously. However, having high spirit at other times, does not help you.
+
+The solo mage attempting to kill a large, single target that does a lot of damage quickly, is better off to have more AC, stamina, or intelligence than to have more spirit. Why? Because, unless the battle is long, he will not have enough time to allow spirit to regenerate his life or mana and help him survive. Likewise, spirit will not give you very many hit points if you are a caster (140 spirit gives 40 mana per tick and only 14 hit points).
+
+If the mob you are fighting attacks quickly and mostly by melee, using armor that is high in AC will help greatly. If the mob is a caster mob and shoots giant, large spells, hit points (stamina) or more damage are your best choices. If two mages were to fight each other (sleep aside) and resist each other's spells equally, the player with the most hit points or doing the most damage will generally win. AC and spirit have little to do with duels less than 5 minutes.
+
+If you are in a group who is fighting one giant mob, your hit points will not come into question very often (assuming you have a tank). Instead of picking high AC or spirit, your best choice is high mana. In this scenario, the mage will be able to cast more big spells, like blizzard or fireball. However, equipment that adds damage to your spells (or strength for a warrior, etc) won't help the mage too much, as he does not want to do TOO much damage and draw the mob's attention.
+
+
+
+Example Equipment Builds
+
+Equipment that you loot and the quests that you choose also greatly affect your character's outcome. Equipment can affect every facet of WoW, whether it is looted from a standard mob or attained from a quest.
+
+Quest items are often superior to drop items. As quest items cannot be traded anymore, this makes choosing your quest a matter of potential consequence. Series quests, which have multiple parts, often have the biggest rewards. Reading websites, asking players, and experimenting is the only way to figure out what equipment is out there.
+
+With the same square of needs, here are the equipment builds that I choose for Xom, my mage:
+
+
+
+
+
+This first build is my attempt at a more balanced build. This build is not "bad" in any situation, but is perhaps equally "not perfect" for any either. I do use this build often when solo, as it accommodates most of my needs.
+
+
+
+
+
+
+The above build is the best for grouping. I can almost cast frost bolt back-to-back throughout the battle and never run out of mana. I do feel fragile with this build though, as I do not have an excessive amount of mana to shield myself with. Nor do I have very many hit points. Still, in a group, high spirit makes a big difference.
+
+
+
+
+
+The last, and perhaps oddest, of my equipment "builds" is my high AC build. This build, though seemingly mismatched for a mage's purpose, is my favorite. This suit allows me to beat my toughest opponents: fast attacking melee mobs and groups of them. In groups without a tank that can taunt, I often mix in a reasonable amount of AC equipment to lower the danger of a mob who decides to attack me.
+
+
+
+New Level Cap
+
+Will a raised level cap make these choices invalid? No. Look at the latest patch as being an opportunity to stay ahead of everyone else when collecting items (either with your new character or while you continue your old one). Inspect players who are higher level and ask about their equipment or read online. Though the cap may be raised to level 45, it is not very far from 39, so you will find yourself quickly in this situation again.
+
+I'm predicting several more pieces of equipment that will add damage to a specific school of magic, ie fire, nature, or frost magic. It will be a lot of fun to collect suits made specifically to raise one magic school and then attempt to optimize the bonus damage by casting all quick spells of that type.
+
+I also expect to see resistances play an even bigger role than they already do. Already, resistances absorb high amounts of damage from their respective counter (fire, frost, nature, etc), but with the right equipment suit, a new understanding of resistances might come. Players might be able to completely devastate certain class match-ups in duels or power level on a caster mob with an attack of that magic type.
+
+
+Though collecting items through loot, quests, and trade skills might seem trivial, the results of collecting are out there. Having a mix of equipment might make you balanced, but knowing how and on what to focus can give you a significant advantage.
+
+Every class has its options. Warriors are succeeding in different way other than pure strength or pure stamina by using high AC and high spirit gear. Paladins, shaman, and druids are finding many different possible roles they can fulfill through equipment choices. Even rogues are finding new roles in high AC and high stamina builds.
+
+Take a step back, and look at your class again. The level cap doesn't mean character growth has ended, but that it has begun on new levels.
+
+- Crow
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to join a GREAT guild...
+	
+
+  How to find and join a great guild in the MMO world
+   by Whyme
+
+
+   So. You've decided you want to join a guild. You want to be part of something bigger, greater, and ultimately better then yourself. Well, bravo - you have come to the right place. Now, you see, guilds as a whole are tricky things. Extremely diverse, tricky things. Some guilds will demand certain things from you, while others may demand a completely different thing. For example, some will have a very brief, concise application process (if any at all), while others may have a lengthier, much more demanding one. However, the first thing you must understand is that to FIND a great guild, you need to KNOW what you want from said guild. This is much harder then it sounds.
+
+ 
+
+ Part I: Finding the guild for YOU!
+"Ask not what you can do for your guild, but what your guild can do for you!"
+
+
+   I know this might sounds selfish, but bear with it. The first thing you have to ask yourself is 'what do I want'. Common responses to this: I want to be uber. I want to PVP. I want to role-play. I want to log in every once and a while and find a warm, fun, and receptive environment… The list goes on and on. This is something that YOU need to figure out for yourself; no one else can do it for you.
+
+   However, while I can't do it for you, I can help. To give you a basic idea of what type of guilds there are out there, I'm going to give you a brief breakdown of some of the more common types:
+
+The Casual Guild - Friendly and fun is at the core of this type. Mostly focusing on tightening member relations, and maintaining a clean, family atmosphere. These guilds are usually small, and extremely tight-nit. Most of them have several obligatory real life duties, which means they can only devote short periods of time to the game.
+The Uber Guild - Basically the complete opposite of the casual guild. They have an almost laser-like focus on progressing and being the best. Although the guild atmosphere might still be fun and friendly, there is always a serious undertone of intensity and commitment. Members usually have large blocs of time to devote to playing the game.
+The Role-Play Guild - An RP guild takes the second to last two letters in MMORPG very seriously. Members enjoy role-playing their characters, and enjoy experiencing the many different types of situations they get into by simply staying true to their character. Member's time-devotion to the game may vary.
+The PK Guild - This guild is for people who like to PK (player kill). Many times a PK guild is even closer and more tight-nit than the Casual/Family guild… why? Because they have to be. To save your own skin, and the guild's skin as a whole, you have too, day in and day out, put blind faith and trust into your guild mates - this creates a very special kind of bond, not easily broken. PK guilds can vary from Uber to Casual, in terms of playing times.
+   Those are really the top four "types" of guilds. Now I say "types", because most guilds won't fit perfectly into any of these categories. Instead, they will usually be a mix - now there are obvious mixes that won't go together very well (The Casual Uber guild for instance), but others will fit extremely well with each other (The Uber PK guild for instance). Again, it's up to you to figure out where you want to fit, based on your own desire.
+
+   Hopefully, you now you know what you want - the hunt begins.
+
+   Now you need to begin researching. Research, research, research, research. Get all (research) that? Good. Visit as many guild websites as you can. Don't be easily swayed by pretty graphics and colors on their front page; check out their forums and policies. Read their charter (if they don't have one, unless you see active plans for one or one in development, run. Run fast and far, because chances are that guild is more confused then you are). After you review their policies, and guild rules, take a look at their other public sections. Important things to note: are there members friendly or are they flaming each other? Are the forums busy, or a ghost town? These are the types of things you need to be looking for when you're doing your guild research.
+
+   A good place to start searching for guilds is usually the actual games' forum. Look for any guild listing post, or anything like that. Also check fan sites for similar posts as well, as they usually have different guilds and listings. If all else fails, just Google it: "XYZ _Name_of_Game guild".
+
+   The important thing here and the overall goal of this, is to expose yourself to as many different guilds as possible (not that kind of expose, pervert.) You want to find one that fits your OWN play style and preferences as much as possible - this is why it's important to know what you want and work hard to find it.
+
+   Let me put it to you this way, when intelligent people are shopping for a car, they don't just go to the nearest dealer and buy whatever fancies them, only to later find out it's not really their type of car; when intelligent people are looking to buy a new house, they don't just look at a house catalog and go "eeny meeny meiney mo". Instead they research meticulously, spend hours, days, weeks, months trying to find one that truly, wholly, completely fits them. Now the question is do you want to be this type of person when it comes to looking for a guild? Well, for your own sake, I truly hope so.
+
+ 
+
+ Part II: The Application
+"Um…………. can I join ur guild? Plz?"
+
+
+   So now you've found your guild. It suits you, everything's peachy, and it's looking good. Time to take the next step - you have to apply. Now, again, we're going to begin seeing very diverse ways in doing this application thing here. Some guilds take as long as MONTHS to get in, while others are a few days to a few weeks. I want to make it clear right now however, that neither is necessarily better or worse then the other - different guilds simply have different expectations and demands. It's up to you if you want to attempt to meet them.
+
+   Typically, when you apply, you'll have to post or fill out some type of application on their website (usually found in the forums, but not always). You can effectively call this the guild's first impression of you, so naturally you'll want it to be a good one. Here are some tips to writing a smoking app:
+
+Be as comprehensive as possible. Now I don't mean write them a thesis, but try and cover all of the things they would want to know about you. If it's a "hardcore" guild, you'd generally want to include how much time you can spend playing, etc. Usually they will have some type of "READ ME FIRST BEFORE APPLYING" post which details exactly what they want to know about you - but even if they don't, you want to be comprehensive just the same.
+Be legible. For god sakes, be legible. What do I mean? I mean PARAGRAPHS. I mean PERIODS and proper use of punctuation and syntax. I mean no "u" in place of you, no "2" in place of two, no l33t sp34k, none of that - I recommend writing out a rough draft of your application in some type of word processing program, and then spell checking/editing it so it is as easy to read and understand as possible. Then copy it over when you're ready.
+Sleep on it. Don't post your app the moment you finish it. I know you're excited, but seriously -- read it over a few times, make sure it has all of the above, then save it and leave it alone for a day or two. Come back to it with fresh eyes, and see if you missed anything. Maybe even show it to a friend, as other people can usually offer perspectives and comments you would have never thought of.
+Try to be interesting. The best app I ever read was full of witty and interesting remarks. Heck I still remember some parts, because it was THAT good. Now if you can't do this, its ok - this one won't make or break you, but it certainly doesn't hurt if you have your reader cracking up the entire time. If you do choose this, just make sure not to go overboard - funny is one thing, but remember this IS a serious thing you are doing.
+Be respectful. You are applying to THEM. They are not applying to YOU. Remember this, because a disrespectful application is probably the quickest road you can take to DenialLand. You don't need to bow down and praise their existence, but you should show a certain level of humility.
+   Now I'm going to show you an example of what could be considered a GOOD application and what could be considered a very BAD one. See if you can figure out which is which!
+
+   Meet GargledMouthwash. He is applying to Legion of Frozen Popsicles, a semi casual guild who likes to "raid" every now and again.
+
+Greetings, Legion of Frozen Popsicles!
+
+First off, I'd like to say what a great website you guys have! I've been frequenting your Legion of Frozen Popsicles forums for a while now, and you guys definitely seem to be something I would like to be a part of.
+
+Now to the specifics. I play GargledMouthwash in game, and I am a level 26 Executioner. I have been playing for about 5 months now - I have never been guilded, but FangoJet and LunChee are good friends of mine, and neither of them can stop talking about how much fun they're having in Legion of Frozen Popsicles.
+
+I live in the east coast, (big NY to be exact), and I play a few hours every few days. I have a job, and go to school, which unfortunately eats up most of my time. I think I'm a pretty fun loving person, who enjoys being around equally likeminded individuals.
+
+What I hope to bring to LoFP is a great sense of humor, and a fun loving, up-beat attitude. Despite my normal care-free mood, when things need to get done, I am usually one of the first though the starting gate. I also have been known to enjoy a lively debate every now and again… ;)
+
+What I hope to get from LoFP is a sense of camaraderie and friendship that I am obviously unable to obtain solo. I wish to finally be part of the same great guild as my two good friends, and hopefully find many more friends.
+
+Well, that's about it! I look forward to see some of you in-game, and eagerly await a response to this application. Thanks!
+
+--GargledMouthwash
+
+   Right. So that was our good friend Mr. Gargled. Now meet BillyTheRoxx0r. He is applying to a resident "hardcore" guild.
+
+Hi my names billytheroxx0r n i wanna join ur guild i play a lot when i come home from skool, so i can come to all raidz. i m a gud player, n i been in lotsa gud guilds. i left my last one tho cuz they suked and didnt give me a loot i wanted n i also left the one before that one too because um……… o yah they didnt gimme a loot i wanted i now u guyz r gonna be diffren tho cuz i now u guyz take care of ur members not like suky guilds like Legion of Frozen Popsicles they really suk n o btw i play a lv 9 buttchimp, but i really roxx0r wit him, even tho im lo level so dont call me a noob cuz im not………. Also I now som of u have had problemz wit me, but i can tell you that it wasnt me dat was my brother playing my toon he does that a lot and always ends up doing something bad i cant do anything about it cuz my mom always makes me let him play i know it really sukz don't it?/? Well anywayz, imam bounce, check you guys l8r
+
+   Hopefully it's pretty obvious which the good application is and which is the bad one. Also, I want to stress that while Billy is obviously a kid, not all bad applications are written by kids, and not all kids write bad applications; as sad as it may be to believe, there are adults who write like that.
+
+   Really, it doesn't take much; you just need to put in some genuine effort. Now a guild may ask you for more, or less then they asked of Gargled, but generally that's the type of application you want to strive for; professional yet informatively concise.
+
+ 
+
+ Part III: The Recruit
+"Please be gentle :("
+
+
+   Well, first off, congratulations… or should I say, I'm sorry? Hah, well you're in too deep to pull out now, it's time to put up or shut up. You see, now you need to SHOW these people that you fit in with them, and that YOU are a good match for THEM.
+
+   Now I see many recruits fall into the same exact pitfalls over and over again, so I'm going to lay some of them out for you so hopefully you'll avoid them when it's your turn.
+
+Don't whine. This privilege is usually strictly reserved for members (and sometimes not even that :p). It's important to keep a positive, non-cynical outlook on things - members notice this. Don't go on wild tirades about how you didn't get this or that, or how you have a problem with how a member handled this or that. You should take it as a PRIVILEGE for you to be where you are, and even if you do think you have a valid complaint; chances are it will be better in the long run if you don't voice them. If you find yourselves "not voicing" a lot of things, then you might want to consider the possibility that they're not the guild for you.
+Don't flame. Both on the guild boards and any other community boards. The first thing you have to assume as a recruit is that everything you say/do will be seen/heard by a member and ultimately judged. With this in mind, you don't want some insignificant flame you decided to write to end up biting you in the butt later on. Keep your temper and any attitude you may have firmly in check, or the guild might just check it for you (bad thing).
+Fulfill the demands of your guild. If you're applying to a hardcore guild, you need to make sure you're playing a lot. If you're applying to a casual guild, you need to make sure you're getting to know everyone and befriending as many as possible (although this is also something you ALWAYS want to do). If you're applying to an RP guild, then you need too (duh) RP. If you're applying to a PK guild then you need to make sure you're PKing (player kill) left and right. Get my drift? You might SAY you can live up to the guild's expectations and demands, but the true test is SHOWING them that you can do it.
+Last but certainly not least, BE YOURSELF. I know this might seem a little contradictory to some of my previous advice, but remember you are looking to join a guild, somewhere where you will be content… if you have to be a completely different person to fit in, then that guild is not for you. If you don't "keep it real", you'll end up in a deadly cycle of negativity and detachment that will most likely end up with your own removal from the guild (voluntary or otherwise). The result from this cycle is as sure as the rising sun, so DON'T fall into the cycle!
+   Now many of these things are simple, and common sense - but many, many people do these things every day, completely oblivious to the fact that they're the ones shooting themselves in the foot. Don't be one of these people. Remember, stay positive, stay respectful, and stay real. If you manage to do all of this, then you have just maximized your chances at becoming a member.
+
+ 
+
+ Part IV: The Aftermath
+"I didn't get in… HELP!?"
+
+
+   Don't worry, not getting into a guild is not the end of the world. The first thing you need to do is figure out WHY you didn't get in. Usually the person who informs you will give you a general reason, but if they don't then it's not inappropriate to ask. Just make sure you do it the right way. Do NOT post on their forums with an "OMGZ WHY DIDN"T I MAKE IT IN????//" thread - this will get you nothing except a swift public execution. Instead, try to have a one on one with the person who cut you, and politely ask them why. Whatever they tell you, THAT'S IT! Leave it alone! Do not try to argue with them, they are usually just the messenger and what's done is done. Arguing just makes you look bad. Bad. Baaaad.
+
+   It's important to note, that guilds are not like girlfriends. When the former says "really, it's not you, it's me", they are usually not lying, unlike the latter. Many times there are just complex personality conflicts, or other things that you have no control over. If this is the case, then the best thing to do is accept it, and move on. Really, just move on.
+
+   Remember that there are many, many, many, MANY guilds out there. Your job is to find one which fits your particular needs and desires. Be smart, be respectful, and be yourself - eventually you will find your own personal "great" guild.
+
+
+-Whyme
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+The Tactical Mage
+by Crow
+
+
+Often seen as a mere "cannon," the Mages of the World of Warcraft have commonly been overlooked. In what seems to be a sea of damage spells, most think of the Mage is a simpleton class. However, with closer examination of spell strengths and combat situations, the Mage can be seen as one of WoW's most tactical classes.
+
+Often I hear players in the chat rooms or see posts declaring that there is "no difference" in the Mage's spell lines. I thoroughly disagree with this statement. Let's look closer.
+
+
+
+
+Foreword
+
+For those of you who read some of my earlier guides, I spoke of the Mage as the simplest of all classes. After having played two Mages to level 10, I was certain that I had a relatively accurate perspective on the class. However, after some friendly coercion, I found myself promising to play the Mage to level 20.
+
+Now at level 23, my Undead Mage, Xom, has transmuted my entire outlook on the class. After understanding the relative differences between each spell and recognizing the proper time for each, I have been able to realize tremendous power in what was once considered a "weak" class. You can see in the screenshot above the "solo" heading of this article that I have been able at level 23 to kill level "28+" mobs.
+
+Please note: I am only going to address the spells I currently have! Though I can make assumptions about the upper levels of Mage play, I would prefer to stick to hard-facts and results I have seen.
+
+In this guide I do not cover, in spreadsheet form, all of the intricacies of mana, cooldown, and casting times. Instead, I will give you the most prominent, useful definitions of each spell and the time at which this spell can be utilized. You will have to trust me that if I say a spell is the "fastest" or "most efficient damage/mana," that I have done my homework and this has come from accurate numbers.
+
+Most of the material in this guide assumes you know already know a little about the Mage. If you are not already briefly familiar with the Mage, you may want to consider giving a quick read to guides intended for beginners.
+
+
+Spell Types
+
+There are several ways in which the Mage's spells can be categorized. However, I have chosen the following categories because I think they aid in an overall understanding of how the Mage works. These categories are ranged attacks, area of effect (AoE) attacks, slows, shields, and miscellaneous. A few spells will appear in more than one category, as frost bolt, for example, is a ranged attack and a slowing effect.
+
+Each spell within each category offers a unique advantage given the right circumstances. Yes, there are times when a fireball and frost bolt can serve the same purpose, but there are many times when a fireball would be the right spell and the frost bolt would be the wrong spell.
+
+Spells within the each category differentiate themselves either in casting time, mana, cooldown, range, efficiency, or more than one of these qualities. These may seem to be nominal differences, but in reality, these make ALL the difference.
+
+In a situation where you are in a full group and a skirmish has broken out again 3 or more mobs, what spell do you cast? Should you use sleep, to lower their offensive presence, or perhaps use an AoE damage spell instead? The right answer is that it depends on the situation!
+
+Before we discuss the scenarios the Mage is faced with, lets first look at each category and spell and see what makes each of these spells unique. Next to each spell name, I have written a single concept to help remember the typically best times to cast the spell.
+
+If you learn the situation when each spell is best, you will have the tools to mastering the Mage.
+
+
+
+Ranged Attacks
+
+Fireball - When mobs are coming or going
+Though the fireball is NOT the most mana efficient of the ranged spells, it has the longest range. In close proximity, there are better spells than fireball. This is also a good spell when a fast, retreating mob begins to run (as sometimes a mob can run outside of your range).
+
+Frost Bolt - When you are low on mana
+In addition to slowing the mob, frost bolt is the most efficient damage per mana ranged spell of the Mage's. When you are low on mana and have a long battle ahead, this spell should be one of your first choices. This spell has a much weaker damage for its casting time though (where arcane missiles, flireblast, scorch, and fireball are all better).
+
+Arcane Missiles - When you are being interrupted or against resists
+The second most damage/casting time, Arcane Missiles' primary use is in situations where you do not want to be interrupted, as it cannot be interrupted by normal melee and spell attacks. When a mob is resisting your spells because of level differences, Arcane missiles is your best choice, as each missile has to be individually resisted.
+
+Scorch - When you only have a small window
+A cousin of the fireball, scorch is the fasted ranged spell (1.5 cast time, half the time of fireball) the Mage has, next to the instant fireblast. Scorch does not have the range that fireball does, but because of its speed, scorch is useful in many situations when you do not have time for larger spell or when a larger spell isn't needed.
+
+Fireblast - Whenever the cooldown is expired!
+Fireblast is an instant cast, short-ranged (20 yards) attack. Because it requires only a moment to cast, it frees the Mage up for another spell or a melee/wand attack. This makes Fireblast a priority whenever its cooldown has expired. In most combat situations, you should use fireblast each time its cooldown timer has expired.
+
+
+
+AoE Attacks
+
+Arcane Explosion - When mobs are not standing still or when you have a small window
+This spell is the fastest AoE Mage spell (2 seconds) and is a single-shot AoE. This spell damaged mobs within a 10 yard radius of Mage and is not ranged. This can be cast even at times when two mobs are attacking you. This spell is also more accurate than the other AoE spells since a mob cannot "move" away from it.
+
+Flamestrike - When mobs are standing still
+This spell is the second fastest to cast (3 seconds) and has a moderate range of 20 yards. It does slightly more damage per mana than Arcane Explosion. Its secondary effect is damage over time to the area. This does not stack, so casting back-to-back Flamestikes will not reap twice the damage. Additionally, a mob can move out of the spell's area to avoid the damage over time.
+
+Blizzard - When mobs are all close and you have a lot of mana This is by far the slowest (8 seconds) of the AoE spells, but has both the greatest range (30 yards) and best damage per mana. Additionally, it cannot be interrupted by normal melee attacks or spells. Blizzard should be used only when the situation is right. At best, the mobs and your group are concentrated in a small area and you have both a mana shield and a great deal of excess mana (as you will be drawing a great deal of aggression). Blizzard is best used when you are near full mana.
+
+
+
+Shields
+
+Mana Shield - When you need to get off a crucial spell or are about to die
+Acquired at level 20, this shield allows you to cast important spells uninterrupted, such as sleep or when multiple mobs are attacking you. This spell is instant. This spell does cost 40 mana to soak 120 damage (which will actually drain you of 240 mana). That is a total of 280 mana for 120 damage. This is amazingly inefficient. Do not rely on the mana shield as the priest does his holy shield. The mana shield is used to give you "windows" to cast spells in, not to supplement your every action.
+
+Fire Shield - Whenever you are up against fire attacks and spells
+This spell provides an instant shield to absorb damage from fire magic. You can power-level some mobs with this spell. It is excellent for dueling as well.
+
+Frost Shield - Whenever you are up against ice attacks and spells
+This spell provides an instant shield to absorb damage from ice magic.
+
+Frost Armor - Whenever it wears off!
+Providing an armor bonus and potentially slowing the movement and attack of the enemy, a Mage should always have this spell on. When a mob is using ranged attacks, they will be unaffected by the shield. However, if you can rush up to the enemy and draw out a melee attack, the mob will be affected by the ice. Then, even ranged attacks will be delivered more slowly. Frost armor is also very useful when traveling. Indeed, if a mob is not ranged, you can literally walk through a field of aggressive mobs and none will get more than a single attack off.
+In situations when your mana is extremely low or even out, the frost armor can be used to slow a target, giving you just enough time to step back and use a quick spell (such as scorch!).
+
+Dampen Magic - Against enemy casters and on group's tank
+This spell reduces the benefit of heals and the damage taken from spells. This is best used to fight against casters.
+
+Amplify Magic - To increase a group's healing power
+This spell does the reverse of dampen magic, adding to all spell damage taken and all heals. You can only cast Amplify magic on friendly units. This spell is best used when a priest and tank are present in your group and you are not fighting against caster mobs.
+
+
+
+Slows
+
+Frost Bolt - See above.
+
+Frost Shield - See above.
+
+Frost Nova - When you need to stabilize battle
+An instant rooting spell, frost nova hits all targets within a specified radius of the Mage. I can be called an AoE root. This spell is excellent not only for saving your own neck, but the neck of your group members. When a player is cornered, you can rush in and cast the nova to give everyone a window to reposition, heal, attack, or run. I often use nova and then sleep to stabilize hectic situations.
+
+Sleep - Whenever a mob "add" comes to battle or at start of battle
+A Mage can use it to create distance between him and a mob before attacking with ranged spells or to buy time (even enough to eat if you want). In groups, this spell is primarily used to control additional mobs that are brought with each pull. Against powerful casters, you can repeatedly cast it on them while your group is attacking the mob. Though they will wake him over and over, you will be interrupting and stopping many of his spells.
+
+
+
+Misc.
+
+Sleep - See above.
+
+Blink - When you are rooted
+This spell currently has few uses other than dueling, though a Mage can use it to escape bonds, such as root spell. This spell is not on my main hot-key bar.
+
+Khadga's Unlocking -
+This spell gives a Mage the utility to unlock chests and doors.
+
+Remove Curse - When you are in or out of battle
+This spell is crucial for the expunging of powerful curses. It is instant cast and can be used in mid-battle to remove powerful curses.
+
+Teleporting -
+At level 20, the Mage begins to gain teleports to major cities.
+
+
+
+Combat
+
+There are simply infinite combat scenarios that a Mage could run into. Instead of showing you the "fix" to every problem, I will show you the "tools" with which you can fix any problem.
+
+
+
+
+
+
+Group Fighting
+
+Think of yourself as an engine that always revs just below red-line. Ideally, your first contribution to combat will be in dividing the enemy's forces with sleep. After you have done this, your goal is to do the maximum amount of damaging and killing as much as possible without drawing mob aggression and while keeping the sleeping mob at rest. Lastly, you have the power to assassinate single, dangerous targets.
+
+That is essentially what you will need to keep running through your mind as you play. Quickly, you will start to develop good habits and begin mastering each.
+
+Take out weak targets whenever possible. You should constantly mouse-over mobs to find weak targets for your missile/fireblast combination. Often it is your decision which mob will die first. The best target is usually the weakest one. For instance, an imp pet, priest, or Mage mob would be an easy target for a quick kill. This way, the group is quickly able to reduce the total enemy offensive (by killing a mob) instead of attacking the strongest target, who would help sustain the maximum enemy offensive for the longest period.
+
+Some decisions are easy. If in any scenario you are low on mana, you might pick the most efficient damage/mana spell available. If you are pulling a mob at a long range, fireball is your best choice. However, there are some scenarios that are not so simple.
+
+Much of the Mage's tactical play in grouping expands out of a need to balance the aggression from all mobs and still contribute the maximum amount. There are times when you will need to slow down your attacking or you will find yourself at the mercy of a sword. You can see in one of the above pics that I have chosen to keep a large distance from the mobs. This large distance allows you to accumulate more mob aggression with it turning.
+
+Only experience and attention to combat events can tell you when a mob will switch his aggression towards you. Range, level, damage, and even more factors are used to determine a mob's aggression. However, when you are getting near to this breaking point, you have options.
+
+For example, in scenarios where the mob you are attacking has still yet a large portion of his life left, consider turning your attention to another mob and casting sleep on it (see the screenshot above where our dwarven enemy takes a sleep shot in between my Frost bolts). This will give a moment for your tank to create a greater difference between the mob's aggression against him and yourself. If the gap was already narrow, you could decide to use only your wand for a few moments after casting sleep to save up mana and still contribute, but not turn the mob's aggression (see the wand shooting above the heading "Wands and Melee Weapons"). You must read the situation and then decide. You need a sense of how much damage you are doing in how much time.
+
+In a similar scenario, if the mob is nearly turned against you, but the mob is low on life, you could finish him off. If your Fireblast is available, you could use it and an Arcane Missile attack to dish out a heap-full of damage in a short amount of time. Killing a mob off quickly can save the entire party a lot of trouble.
+
+Yet, if the mob is very low on life, you could choose to cast an AoE spell to finish him off and begin working the next mobs down at the same time. Choosing which AoE spell can be based on a few more factors. The first of which is how much damage would need to be done to kill the first mob. Secondly, consider that your AoE might turn all the other mob aggression against you. For this reason, you may want to use the least damaging of the AoE spells, Arcane Explosion. Or in still another situation, if you fear being interrupted, the Blizzard could be your best choice.
+
+I realize this all sounds like circular, indefinite thinking. However, these are the thought processes you need to go through with a Mage. Carelessly firing-off spells will only get you killed and create a huge burden for the healers and tanks in your group.
+
+In summation, first divide their forces and then do as much damage as possible without overstepping the aggression line of any dangerous mob. If a dangerous mob does turn his aggression towards you (dangerous meaning he has enough life to stick around and kill you), use a slowing effect or shield to give your tanks time to re-attract the mob. Keep a constant scan for a chance to eliminate weak targets.
+
+
+
+   
+
+
+
+Solo Play
+
+In most solo play, you will be simply engaging the mob at as great of a distance as possible with fireball, launching a damage array as the mob approaches, then using frost nova. From there, you back up and repeat. If the mob doesn't die during the process, cast sleep on him and eat/drink.
+
+When solo play becomes interesting is when you are doing complex battles of 2 or more opponents. I think it is always best to sleep the most difficult target to kill and to gun-down the easiest target. Your tools for multi-opponent solo fighting are sleep, frost nova, fireblast, and mana shield. These spells are all understandable useful, and quick. Only the sleep will need a time window, which mana shield can create.
+
+When you are very low on life and mana, it is best to use your melee attack or run a few steps (if the mob is slowed because of frost shield). You are waiting for enough mana to cast frost nova. When the nova hits, you have two good options. The first of which is to back up and use your wand repeatedly if the mob is low on life. As a second option you can back up and quickly sit to drink for 1 tick and then stand up can cast sleep on the mob. You can figure it out from there.
+
+It is much better to keep health potions than it is to keep mana potions. Yes, ideally it would be nice to have both, but in you are dying or are in danger, mana will not do as much as health can to save you.
+
+Don't forget when soloing higher level mobs that resist your spells to use Arcane Missiles. Yes, technically level resists resist all spells evenly over time, but when you are only casting 3-4 fireballs, very easily 2 or 3 can be resisted and cause trouble. With missiles, there would be 16 separate attacks in 4 casts. This makes the law of averages come out much better (avoids the gamble of only a few shots).
+
+
+
+
+
+
+
+Wands and Melee Weapons
+
+For the most part, wands are the Mage's primary non-spell method of attack. However, this does not make your melee weapon without its own uses.
+
+Wands play a very important role in the Mage's game. When the Mage is low on mana, the wand is an essential way to produce damage without having to be attacked. In a group, the wand allows for the Mage to constantly be contributing to the battle, even when he is conserving mana. Wands also offer an alternative to highly damaging spells, allowing the Mage to take a "back seat" while a tank catches up in mob aggression.
+
+Wands, however, do suffer from silence. That is, spells, which silence the Mage, also prevent him from using a wand. In most scenarios, when you are not casting, the wand should be used as a warrior uses his melee attack: constantly. However, when you are silenced, you will need to whip out your melee weapon for some action.
+
+Additionally, the fact that most Mage wands are fire can be a disadvantage. Certain mobs have naturally high resistances for fire and yet others, such as enemy Mages, can cast wards to protect against fire magic. In these scenarios, it is again useful to have a melee weapon.
+
+
+
+Applying the Concepts
+
+To show you how to apply the concepts, I would first like to give an example where the Mage's role can be a truly tactical one.
+
+In only a group of 2, myself, a level 22 Mage at the time, and another player, a level 22 druid were wanting to attack a mob camp of 3 level 25-26 mobs. We tried at first to merely cast sleep on one and focus fire on a second, but we were not able to win by a long shot. Finally, we arrived at a working plan:
+
+I would lead with the longest range spell, fireball. Then when the mobs began to run in, my friend would cast a DoT on the same mob and I would shoot it with scorch (not fireball because I needed to be free from casting quickly). Next, I ran up and cast frost nova to root all 3 while my friend kept shooting the first mob. I backed-up from the 3 rooted mobs and began dumping fireblasts and missiles into killing the first mob. Just as he died, the second and third mobs became loosed from root. I slept one. From there, We killed 1 at a time.
+
+In that example, timing in the lead was crucial. In hindsight, I should have perhaps used fireblast after scorch but before frost nova.
+
+If I had done the typical Mage routine of casting sleep and then trying to gun one mob down, we would have seen the same results we did the first time: death. Why? If the mobs had arrived at my partner, he would have been interrupted and would have to back away from them once they got rooted. Additionally, leading with sleep would have segmented the enemies, making a universal frost nova impossible. So, by using scorch instead of a second fireball, I had enough time to run in front and cast my frost nova before the mobs arrived and yet still rooting (controlling) all 3.
+
+
+
+      
+
+
+
+Behind the Wheel
+
+Above I included my hotkey bars 1-3 and a picture of the new advanced user interface. I wanted to show that my second bar contains mostly spells that are not time-sensitive. My third bar contains all of my AoE spells, whough at times I keep one of them on my bar #1 as well. This is just to give you some ideas, as organization is always a personal choice.
+
+
+
+Take time to re-read the italicized text under group fighting. Likewise, review the italicized spell descriptions. The only other ingredient for success is experience. Take not of your life and mana totals after a fight to discover the most efficient solo techniques. In a group, extend your awareness to all targets and not just one.
+
+If you have any questions about any specific Mage scenario, please email it to me and I'll give you my best solution.
+
+-Phil, aka Crow, aka Xom
+
+
+
+
+
+
+
+
+
+
+
+
+Druid Invasion
+	
+
+  Druid Invasion
+   by Crow
+
+
+Aside from a wide variety of new changes to the interface, quests, and even skill point system, druids have now been put into the mix. Though a full-scale invasion of druids is upon the World of Warcraft, I wanted in on the action. When the beta finished reinstalling, I headed straight to Thunder Bluff to give rise to a druid of my own.
+
+
+   
+
+
+
+Why are druids everywhere breaking into dance? Could it be the relief from finishing a 24-hour beta download or that the druid class just that fun? I had to find out.
+
+
+   
+
+
+
+Initial Impressions
+
+I named my druid, Turu. Because druids only came as tauren or night elves, my choices were limited. I worried if there would be far too many similar druids running around (boy was I ever right!). For this reason, and others, I choose the tauren over the elf, expecting the elf to be far more popular (a good choice in retrospect).
+
+My first impression of the druid was a neutral one. His spells and style seemed extremely close to that of a shaman (which I had played in alpha): a pure hybrid class or a collection of sub-par abilities that added up to competency.
+
+Gradually though, after leveling, I began to see the druid diverging from the shaman. After receiving Entangling roots, my entire game plan changed from melee to root-n-shoot. Undoubtedly, the druid goes through other major changes as he levels.
+
+I enjoyed the lowered downtime that a hybrid class typically has. However, I did feel weaker than with my other characters at the same level. For instance, at level 6, I was pressed to consistently kill level 8 mobs without going into danger. Level 9 mobs where always a risk (something that is easily killed by every other class at level 6). At level 8, I really needed to group to be at my best. This could mean that the druid is primarily a support class, that the druid has yet to reach his potential, or that the patch has made things more difficult for all. Honestly, I believe the last possibility is true.
+
+"Players will now find it more difficult to fight monsters a good deal higher in level than they are," says the Official patch notes from Blizzard. All experienced players will notice this after a short time. So, don't believe all the hype about druids not being good. I see their lower levels (1-10) as already fairly balanced.
+
+I polled a few of the then level 10+ druids online. Most of them agreed that level 10 is the breaking point. Bear-form makes the class go from instability to stability in solo play. Commonly, I see two druids grouping together, where one is in bear-form, tanking, and the other is playing the role of support and healing.
+
+The druid's strong points lie first in his casting times. The majority of his offensive, defensive, and healing spells are either instant or 2 seconds/less casting time. Even when being attacked by 2 mobs, I was able to cast my healing spell (not possible for some healers). At later levels, most of his abilities are in fact warrior/rogue abilities. These are no longer even spells, but instead rage/energy-based abilities used in animal-form.
+
+For flavor, the druid has a series of druid-only quests. The first of these, the "vision" quest, has you collect reagents to summon a spirit wolf and follow him "wherever he leads you." It was a nice change from the typical quest.
+
+
+   
+
+
+
+Early Levels
+
+Before we begin discussing the apparent end-result of a high-leveled druid, lets look at the spells for a level 8 druid:
+
+Wrath- Ranged lighting attack with a 1.5 cast time. 1.7 cast at level 2 wrath.
+Mark of the Wild- 30 minute duration +15 armor buff for any friendly character.
+Healing Touch- 1.5 casting time heal. 2 seconds at level 2 healing touch.
+Rejuvenation- Instant cast Heal over time (HOT). Same as Renew line of priest spells.
+Moonfire-Instant cast small damage spell that does additional damage over time (short time of 3 seconds).
+Entangling Roots- 20 damage over 12 seconds while rooting the target. 1.5 casting time.
+Thorns- 10 minute buff for a friendly target. Thorns deals 3 damage to a melee mob each time they attack the player with thorns.
+
+Most combat situations resolve like an early shaman: Wrath,Wrath (leading the mob), moonfire, melee attack, wrath, moonfire, melee attack, wrath, moonfire, etc with an occasional heal when things get hairy.
+
+When you gain thorns, the process is preceded by a thorn buff. Once entangling roots is learned, you will use it to lead the mob and can get off a variable amount of additional wraths. This is a strong indication (given DoT, roots, and direct damage) that druids can be a pure-caster type with the right talents, skills, and equipment.
+
+Like with all hybrid classes, you need to learn to time spells with your melee attacks. The basic pattern I used in the early levels was to swing with my staff and begin casting wrath at the same time. Upon the conclusion of wrath, I cast moonfire. You can then repeat and the moonfires will perfectly time themselves apart.
+
+Moonfire, because of its instant nature, can be used in many instances where timing is important. For example, if a mob is close to the HP range where he will run in fear, cast moonfire to send him running (in effect, stopping the damage from coming to you).
+
+Moonfire can be used to shoot the runners too. If moonfire is resisted, the cooldown is so minimal, you can nearly cast it again immediately.
+
+
+      
+
+
+
+Mid-Levels and Late-Game (Shapeshifting)
+
+After having learned the casting ways of the tauren or elf-form druid, you reach level 10, when it starts to get even more interesting. Level 10 is significant because you will gain your first shapeshifting spell: Bear-form. With bear-form, you have access to an entire catalog of warrior abilities. These abilities equivocate most of the warrior's diversity, including stuns, taunts, rage, and area of effect attacks (all based on rage, not mana).
+
+At level 16, you gain aquatic-form. This form (though creature unknown), allows you increased movement and breathing in water! There are no other abilities yet listed for the aquatic form.
+
+At level 20, you gain the ability to transform into a cat! The cat is to the rogue as the bear is to the warrior. The druid will have options and an energy bar to execute many rogue-only techniques, such as ambush, sneak, and eviscerate (though with different names and at different levels).
+
+
+         
+
+
+
+Druid Types
+
+As a druid, your options are very diverse. With the right equipment and skills, you could specialize in a specific form of the druid's, such as bear-form.
+
+With the druid having access to leather and to axes (even 2-handed axes), a combative druid is definitely a possibility. The druid even has thorn shield, which damages enemies who do melee attacks on you.
+
+The pure-caster druid is very viable too. Acting similar to a mage, a root-n-shoot style lead with enough mana to repeat as necessary can kill your enemies before they even swing at you. You would probably stick with staffs and mana-yielding armor to make this possible.
+
+There is even enough room in this broad class for group-specialized druids. With rooting, healing, cures, and buffs, the druid does not need to boast his offensive abilities in a group. The druid is more apt to playing the role of a healer than the shaman. Later, the druid gains group heal-over-time spells that heal as much as 100hp per second to all group members.
+
+
+Open Doors
+
+It's not easy being green, right? Well, it definitely has its perks. Here are even more advantages to the druid class:
+
+-Rarely will you not fit into a group, as your multiple forms allow you to be a warrior, rogue, healer, or mage (all with less-focused abilities, but more diversity).
+
+-Play dead, soothe animal, root, and the cat-form quickness ability all give you a relatively high amount of death prevention.
+
+-Utilities such as Cat-sneak and aquatic-form give increased mobility.
+
+-Man-tracking is unique to the druids! See humanoids on your mini-map with this cat-form ability.
+
+-Two-handed Axes and leather give a substantial combative ability to a primarily casting class.
+
+-Different forms are better against different mobs. Using the right form, such as bear-form against melee attackers, is both challenging and rewarding.
+
+
+Hindsight
+
+The Druid is easily the most diverse class. Only the warlock can compare to the amount of options the druid has. Expect to see many different druids when they reach max level. There will be a wide variety of druids, each with his own interpretation of the druid's tools.
+
+The class is exceptionally fun to play. If you seek a dynamic experience and often feel other classes cannot give it to you, the druid might very well be perfect for you.
+
+In my next article, I will look closely at the major game changes (rest system, heartstones, and balance) in the Horde & Alliance push.
+
+
+
+-Crow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+New Info from December 2003
+	
+
+Transportation :: Races :: Skills :: Talents :: Classes :: Guilds :: PvP :: Housing :: Beta :: Items :: Character Development :: Economy :: Game Appearence :: Miscellaneous :: Links
+December 2003. Arguably one of the best months yet for the World of Warcraft fan. This article will attempt to bring you up to date on the vast information that has been unveiled this month. With so much being released, even the most attentive fan was bound to miss something. Big news this month included:
+
+Gen Con, a big event located in Anaheim Convention Center in Anaheim, California, was held December 11-14. Many visitors were attracted to this large event, with more than two hundred different booths. Blizzard Entertainment set up World of Warcraft with Nvidia® in booth #223. Below comes a detailed description from a visitors eye; TheSuq.
+
+Quote: Think of the geekiest person you ever met, in your entire life. Let’s call him “Brian.” Now, picture a giant room filled with hundreds of people that Brian would never have hung out with on account of not being THAT much of a geek. Consider the bell curve that defines humanity’s traits. You know how much higher on the “coolness” curve Al Pacino is relative to the typical fairly-cool high school sophomore? That’s how much lower the average Gen Con attendee is on that same scale than your friend Brian. Mind you, there were fairly normal looking folks there (I’d like to pretend I fall into that category), but some people…Jumpin’ Jesus on a pogo stick, they SCARED me. (Note to the 300 pound guy dressed as Liam Neeson’s character from Star Wars Episode I: please don’t breed.) For these people, Gen Con is like Christmas, Halloween, and Mardi Gras all rolled into one: it is a paradise for the dork’s dork.
+
+The Paladin and Rogue classes were revealed in detail by Furor of FoH.
+A World of Warcraft Community Manager, Katricia, was hired and has been posting like mad on the Blizzard World of Warcraft forums.
+World of Warcraft beta was delayed...again
+
+
+World of Warcraft is in many people's eyes much better already than many games were at their release, and that Blizzard could release the game right now if they had wanted to.
+
+Below is a summary of all the NEW information we learned this month:
+
+Transportation :: Races :: Skills :: Talents :: Classes :: Guilds :: PvP :: Housing :: Beta :: Items :: Character Development :: Economy :: Game Appearence :: Miscellaneous :: Links
+
+^ back to top ^
+Transportation
+The world is huge. According to the developers, it takes one hour and forty-five minutes to travel from the tip of a continent to the other tip by foot. Travelling becomes much easier and faster as you level up, and can make use of for example mounts, taxis, boats and magical ways of traveling. There is also a train running from Ironforge to Stormwind. While you are limited in your travel range early on, after about the 10th level you should be able to move around the world and gather with friends fairly easily.
+Mounts
+Undead ride Fel Steeds (not Nightmares anymore) and giant bats.
+Orcs, Tauren and Trolls air transport is the Wind Rider.
+Orcs ride wolves, Tauren does not use ground mounts, and the Trolls ground mount is unknown (although wolves like the Orcs has been rumored).
+Humans use Horses and Gryphons(air).
+The Gnome mount is still unknown, but one developer guessed something like kittens, bunnies, or squirrels. They might ride Battle Rams like the dwarves as well...
+Dwarves ride their trustworthy Battle Rams.
+The Night Elves mount Nightsaber Tigers and Hippogryphs.
+Magical ways of transportion include mages being able to teleport to and between cities, and warlocks performing rituals with 2 other players to summon a fourth player to any location on the map.
+
+
+^ back to top ^
+Races
+Each player has a special bonus which is unique to their race. A developer stated that there will only be positive effects, no negative, as they want the game to be as fun as possible for everybody.
+Each race has an intro cinematic that explains the race's background.
+
+Race Bonuses
+Dwarves get treasure finding, frost resistance and natural mining.
+Night Elves get shadowmeld and find herb.
+Humans get extra tradeskill points.
+Undead are immune to fear and charm spells, and can breathe under water.
+Gnomes, Orcs, Tauren and Trolls racial bonuses are unknown.
+Gnomes
+Entertaining voice emotes.
+Have huge hands.
+World of Warcraft breaks abilities into two separate fields: skills and talents. Skills are those items that do not directly affect combat - included here are languages, riding on steeds, trade skills, and some miscellaneous abilities (discussed more in other sections). Talents are combat-oriented abilities: attribute increases, defense, regeneration, magical abilities, holy specialization, magical resistances, slayer talents, weaponry skills, invisibility detection, etc.
+
+^ back to top ^
+Skills
+A player earns 1 skill point at every level, so there will be no level 1 trade mules. Max level players might be able to buy or quest for more skill points. Each skill has 3 levels, with each being increasingly expensive. You will need to spend about 10-15 skill points to max out a skill. In order to gain a skill, you must speak with the trainer for that skill. Secret skills from faraway hidden trainers will exist.
+
+  Some Skills
+Blacksmiths make chain and plate weapons as well as metal weaponry. Can also make consumable whetstones which offer temporary bonuses to metal armor/weapons. Must be supplied through mining.
+Leatherworking is the skill most characters will get their armor through. Makes leather-based armor as well as consumable leather patches, which offer temporary bonuses to leather.
+Clothiers make clothes, cloth armor for pure casters, and bags. These bags are very important because your carrying capacity is only limited by the size of your bags.
+Enchanters make consumable, temporary enchantments to any equipment as well as permanent enchantments.
+Cooks can make both foods and beverages. Food regenerates your hit points, while beverages regenerate your mana. Alcohol will be in the game, but there will be no brewer skill at release to make it. Blizzard has some hilarious ideas on how to implement alcohol...
+Alchemists make potions. Requires a herbologist to gather raw materials.
+The Mining skill is how metals are extracted from the earth for making weapons, engineered items, and armor. The best metal-veins will be found in high-level dungeons.
+Fishing requires a fishing pole. You cast it into the water, and watch until your bobber dips beneath the water. You then quickly click on it, and if you are fast enough you catch a fish.
+Engineers can create everything from dynamite to exploding sheep, harvesters, and guns/ammo. It won't be a very tradable skill, because you will need to have the engineering skill to use things such as dynamite.
+Fletching isn't in yet, but coming.
+A Weapon skill allows you to use new weapons your class couldn't ordinarily use (ex - swords for Paladins).
+Languages
+Cartography
+Camping lets you make fires, which is useful for the cook skill.
+Riding Steeds allows you to use a mount. You will NOT be able to attack however.
+^ back to top ^
+Talents
+Characters gain talent points at every level; 10 early on, and more later. A trainer is not needed, as all available talents for your class (as well as prices) will be available in the interface. Talents will show up in green if you are high enough level to purchase them, red if you aren't. All talents will be combat oriented, and it will be impossible to gimp your character with poor choices.
+
+  Some Talents (from Teh_Suq's GenCon report)
+
+- Shield: warriors have access to the shield talent. If you improve your shield talent, your character will benefit more from equipping a shield. (Shields boost your armor and defense, but a high-shield warrior will get a larger bonus to armor and defense from a shield than a low-shield warrior will get from the same shield.) Increased shield talent also gives a player access to stronger shield-related skills, like bash (stunning move) and wall (makes your character extremely hard to hit, but completely prevents him from attacking).
+- Weapons: melee characters can improve their talent with a particular weapon. In doing so, they access new and deadly weapon styles.
+- Dual wield: rogues get dual wield talent at level 4ish; Hunters also gain dual wield talent early in their career. Other classes may be able to buy dual wield as a skill (not talent) later in their career. Skill-based combat abilities will generally be vastly inferior to talent-based combat abilities: while a warrior who bought the dual-wield skill may be able to wield a second weapon, the rogue who advanced his dual-wield talent will be superior with two weapons due to having special dual-wield styles and abilities (i.e., damage bonuses, etc).
+- Defense: while armor increases your damage reduction (every 5 points of AC reduces the damage taken per hit by 1), the defense talent increases your damage AVOIDANCE (makes it harder for your enemies to land their blows on you).
+- Archery: again, while most classes can buy an archery skill, bow Hunters will have class-specific archery TALENTS, making them superior with a bow.
+- Offense: just as defensive talents can increase your defense, so too are there offensive talents.
+- Invisibility detection: stealth-haters rejoice - EVERY class has access to this talent if they want it.
+- Magic ability talents for mages and warlocks.
+- Holy specialization talents for paladins and priests.
+- Magical resistance talents can improve your defenses against certain classes of magic.
+- Slayer talents can make you especially deadly against a particular type of enemy.
+- Regeneration talents can help those non-healers get back on their feet more quickly, or survive fights more easily.
+
+^ back to top ^
+Classes
+The maximum level will be 60, while the max monster level will be 90-100 (so not all monsters can be soloed).
+Druids
+Shapeshifting - purpose is to enhance the Druid's melee damage
+Sea lion looking creature can be used in underwater environments. (no underwater mount however)
+Panther (stealthy with the abilities Rend and Tear)
+Bear (heavy damage)
+Priests
+Healing and Crowd-control spells
+Dominate is a high-level skill that gives total control over a humanoid creature as long as the priest remains motionless.
+Hunters
+No mana, the orange bar is their focus.
+While a Hunter is standing still, Focus gradually increases. The moment a Hunter moves, Focus drops to zero to prevent kiting.
+Tauren and Dwarf hunters can use guns and crossbows, but not bows. Other races can use bows and crossbows, but not guns.
+Can duel-wield early on and automatically as a talent.
+Can tame any beast of a low-enough level.
+Can enter beastmaster mode (making them immune to beasts), but cannot attack beasts while in this mode.
+Paladins
+Mix between Priests and Warriors.
+  Excellent versus the Undead
+Turn Undead makes the undead mob run away.
+Sense Undead shows all undead in the area on the mini-map.
+Exorcism does about 90-110 direct dmg to undead.
+Judgement is similar to Exorcism but even more powerful.
+Seal of Righteousness adds 5 damage to undead for 5 minutes.
+  Other Spells
+Fist of Justice stuns the opponent for 5 seconds and knocks them to the ground.
+Lay on Hands drains all mana from the Paladin, but completly heals its target. Currently has a 60 minute cooldown.
+Holy Light is a low-level heal spell.
+Purify is a dispel skill.
+Resurrect brings the player back to life, but with low HP and mana at lower levels.
+Seal of Wisdom gives the target caster enhanced mana regeneration.
+Seal of Might increases the damage output of melee classes.
+Devotion Aura increases the party's armor class.
+Healing Aura regenerates the health of injured group members (not during combat).
+Retribution Aura causes damage to enemies who strike the party.
+Shamans
+Can Shapeshift like druids. A Timber Wolf (like the FarSeer's wolves from War3) was a shapeshift that was basically a speed buff.
+Shamans are NOT tanks.
+Use totems like the Witch Doctor from War3. Sight totems give the Shaman vision of the area even if they leave, serpent totems look like a snake (which attacks), and healing totems heal nearby friendlies.
+Buffs and damage over time spells as well.
+Warriors
+Kick spell interrupts opponent's spells. The Warrior actually does a kick animation, which looks pretty badass.
+Warlocks
+Can summon Nightmares as their own personal steeds. (high level)
+Rogues
+Two attack styles: one that builds "points" and one that uses the "points".
+When a rogue starts combat with an enemy, five small white circles form in a semi-circle along the right-hand side of the enemy’s image at the top of the screen. At first, they are all white; as a rogue uses openers, more of those white bubbles fill in with red. When all five bubbles have turned red, the rogue gains nothing more from opening moves. Every closing move will use ALL the red bubbles, and without any red bubbles, closing moves cannot be used. The more red bubbles consumed, the more effective the closing move will be (either it will do more damage, be more effective, or last longer). Every style a rogue uses, whether it is an opener or closer, will consume some endurance; without endurance, the rogue’s styles are unavailable.
+Rogues will be able to duel-wield from early on.
+Can create poisons, and poison weapons for other classes.
+Can steal from mobs (taken from a seperate pool), but not from other players.
+A pure melee class limited to leather armor.
+Stealth can allow the rogue to be completely invisible, or partially transparent.
+  Opening Moves (build points)
+Rip
+Tear
+Sinister Strike is a high damage move that can be executed from any angle.
+Backstab is a high damage attack that can only be done from behind.
+  Closing Moves (uses the points)
+Kidney Shot does high damage as well as stun.
+Cheap Shot
+Eviscerate does very high damage.
+  Other Skills
+Sprint
+Street Fighting
+Acrobatics
+Gouge stuns an enemy for 4 seconds.
+Sap takes humanoid characters out long periods (~30 seconds).
+Mages
+High-level Mages will be able to teleport to and between towns pretty much at will.
+Frost Nova Shield *name might not be correct* slows mobs that hit the mage. [21_Blessings] thinks mages will be the king of kiting.
+Hero
+Not yet implemented, but currently being worked on.
+^ back to top ^
+Guilds
+
+  Structure
+Similar to guilds in EQ, with a loose hierarchy of control.
+Maximum number of members has been discussed, to keep guilds from taking over servers.
+
+  Creation
+Guild Leader gets a sign-up sheet from a NPC, which is then passed around to the potential guild members to sign similar to a petition. After you get enough "signatures" (about 10 required), the Guild Leader returns the "petition" and the guild is formed.
+
+  Tabards
+Used to customize your guild's look.
+Cloth "loincloths" that fit over your character's armor.
+Can choose a symbol, border, and 2 colors.
+Players will be able to modify their emblems as follows:
+Select a Symbol
+Select the Color of the Symbol
+Modify the Border
+Select a Color for the Border
+Select a Color for the Background
+
+  Other perks
+Private Guild Chat (one of the main reasons to form a guild in the first place) - type /g message
+Instanced Dungeons
+Large Social Network
+Cooperation on Raids and Trade Skills
+Guild Housing - will probably be added after release
+^ back to top ^
+PvP
+
+Devs are just turning to PvP issues, so they have no information to release at this time.
+Siege gear will be in the game for PvP. Blizzard is hoping to bring their RTS experience to the game.
+Uberguild dominance of PvP is not likely. The devs have some ideas about this, too, including such things as limiting entry to PvP areas by level and skill (as determined by previous performance).
+Nothing in-game prevents one faction from invading the cities of another faction; whether this would lead to any lasting benefit for the faction remains to be seen.
+  Classes
+Every class will have their use in PvP.
+No negative bonuses for classes.
+^ back to top ^
+Housing
+
+Won't make the initial beta release, but hopefully for the final release.
+It will work like War3, in that you plop a transparent image of the house to anywhere on the ground. There will be restrictions though.
+^ back to top ^
+Beta
+
+A dev said to expect the beta within a month and 1/2 at latest (from January 1st).
+Huge community interaction right from the start, with possibly some sort of "team leader" information channeling.
+Blizzard wants the beta server to be populated right from the start to stress-test the newbie areas.
+There will be no timeline for adding testers; they will be added as the game becomes ready for them.
+^ back to top ^
+Items
+
+80-90% chance that creeps will drop something. The items are USEFUL.
+All items had a min level limit and an average level. The hammer we saw said level 21 (17 min). We were told that at level 21 this was the average weapon you should be using, but if you are level 17 you could still use it with no negatives to hits, damage, etc.
+Some classes such as warriors will rely heavily on items, while some classes such as mages will not.
+NPC vendors have names such as "Mace Vendor".
+^ back to top ^
+Character Development
+Blizzard has made sure that there will be no "gimped" or destroyed characters due to a "bad" allocation of skill and talent points. In other words, every skill and talent will be useful. Blizzard dev's have also stated that the racial differences are mostly aesthetics, with the biggest practical difference being starting abilities and racial bonuses as well as the different access to classes.
+
+At the character creation screen, you are given no option to modify your stats. This is also a step against gimped characters, as you are not experienced enough to make a good decision about your stat points when making your first character. It is a unusual path Blizzard has taken, but it sure is a good one for newcomers to the game. You will of course be able to modify your stats later on in the game, when you have more ground below your feet for what's best for your character.
+
+Each class will, similar to the Warcraft 3 heroes, have a primary stat. The primary stats will (among others) boost your damage. In other words, a stronger Warrior will hit harder, but a more agile Rogue will hit harder. It is also worth to note that the accuracy in combat is based on your level and not your stats(although stats may modify this).
+
+Blizzard will not tell us how to play the game, and we are free to check any FAQ that we want if we would want to do so. The time it takes to level is logically depending on your playing style, and whether you want to fight all the time, use your trade skills, or chat is entirely up to you. All paths will be viable and will improve your character in some ways(maybe not chatting, but hey).
+
+Blizzard has stated that the leveling curve will be smooth. Other MMORPG's have had "hell levels", where the amount of experience needed to gain a level was severely increased from the previous level, instead of a smooth increase from the previous level to the current. Level 20 will be a little harder than level 19, and level 21 will be a little harder than level 20. According to Blizzard dev's, it will take a few months to reach maximum level for an average gamer. All classes will be able to solo to max level if they wish, but it will be tougher than having a group, as you cannot kill every creature on your own, and you will have to fight lower-level creatures in order to stay alive.
+
+^ back to top ^
+Economy
+
+100 copper = 1 silver, and 100 silver = 1 gold
+Blizzard plans to keep money tight.
+One of the ways they plan to control the economy is by always having something "fun" and "cool" that players can save up for. This is particularly true for guilds, although nothing specific was mentioned
+Cooperation will be very important for trade skills, and since those trade skills will be very important for adventurers, we can expect to see a vibrant economy resulting from this.
+^ back to top ^
+Appearence
+From Teh_Suq's GenCon report:
+
+The details in this game are already unbelievable. Just breath-taking. Examples:
+- Characters blink.
+- Facial expressions adjust during emotes.
+- When a character moves, he leaves footprints that linger for a noticeable amount of time. (No footprints when you are invisible, though.)
+- In cold country, you can see your character’s breath - little puffs of white came from my Gnome’s lips every few seconds.
+- Movements are absolutely fluid and natural-looking, from fighting to running to emoting to standing still (and fidgeting).
+- Natural and artificial fires will burn a character, causing damage.
+- Music was developed in-house with areas in mind. The designers led the composers through the game, saying "OK, here it should sound ominous. Here, make it sound tense. Here, things get safer. Danger over here. Etc." The music is wonderfully mood-enhancing, but subtle enough not to even be noticed most of the time. Of course, there is situational music (i.e., battle songs) as well as regional music. (Side note: as of now, there is no in-game MP3 player, but that is being discussed, and may be implemented after the game goes live. Even without it, you can always run one in the background, since the game can be played in a window.)
+
+The entire world was created by HAND: there was no automation whatsoever in the process. As a result, every tree is slightly different, every hill nuanced, every road and mountain and shrub subtly changed from the others around it. Of course, everything FEELS like the Warcraft world, with its cartoonishness and artistic beauty.
+
+As to lighting, the game is well lit, and you will never need artificial lighting. However, if you WANT it, you can always buy a (permanent) torch and wear it (unfortunately, it goes in your primary hand slot, so you can either wield a torch or a weapon). Torchlight flickers realistically and casts shadows.
+
+Reputation
+
+You can build up a reputation with the opposing faction NPC's and learn the language of the opposing side. Like, if I really wanted to, I could dump all my talent points into language (remember there are the 2 skill sets, talent skills and tradeskills) and build up a good enough reputation with the opposing faction.
+^ back to top ^
+Miscellaneous
+
+You need to breathe every 90 seconds while underwater, although this might change. Undead do not need to breathe underwater.
+You gain fatigue while swimming in really deep water, and you will die if it gets too high.
+Armor affects how much damage you take, not whether or not you get hit.
+There are market channels for selling items, but you can sell them to NPCs as well for a fair price.
+You can trade for services.
+"Say, John the Warrior wants poison effect for his sword. Dave the Rogue wants boots and ten gold. You open the trade menu between them and John puts in the boots, gold AND sword...the Rogue can automatically upgrade the weapon once the trade accept button is hit. And the warrior will automatically get back his new upgraded sword and the Rogue will get his boots and gold."
+When you step into a campfire, the fire engulfes you and embers go flying everywhere, damaging you quite quickly.
+Rituals require more than one character; the largest ritual is yet to be determined, but the devs are bantering around the number "20" as of now. These rituals will be cast in sequence, with the first character casting the first part, the second casting the second part, and so on until the ritual is done. Some rituals may need all characters to be of a single class, while others may not. As of now, only warlocks have rituals, but that could easily change in the future - potentially, there might be some wartime ritual that requires 20 Warriors to perform.
+Bloody Bunny Man: it'll be interesting to see if people can actually explore all of WoW
+Bloody Bunny Man: the griffons take 5-10 minute rides just to get to another major town
+Bloody Bunny Man: which is only one or two "regions" away
+
+^ back to top ^
+Links
+GenCon Reports
+DSal (from our forums)
+Teh_Suq
+GanjaGorilla
+wb-cyborg
+21_Blessings (Day 1) - (Day 2) - (Day 3)
+SoCxRhijord
+Phryer Tuck
+Sugatora
+Eternal
+Tuck
+Unindel
+Katricia (cleared up inaccuracies)
+Furor's Paladin and Rogue article.
+
+
+Written by Cide and Dalgar
+
+
+
+
+
+
+
+
+
+
+
+
+GenCon Report
+	
+
+Confirmations:
+
+Game is played WASD or optionally with a mouse.
+
+
+A player gains 10 points for each level up called “Talent Points” which can be spent on Attributes (such as Strength, Intelligence, Dexterity, etc.), Defensive Abilities (Chance to dodge an attack and the like), class-specific skills, and others. A single Attribute point costs all 10 Talent Points.
+
+
+Projected level cap at release is 70.
+
+
+Cross-Factional PvP is enabled by default in any city.
+
+
+Undead have immunity to Charm and Fear spells.
+
+
+Game’s release is still estimated to be within 2004.
+
+
+
+
+Race Specifics:
+
+Gnomes also have a plethora of character customization with beards, mustaches, and eyebrows that can be blue, pink, orange, and “other bizarre colors”. Gnomes are anywhere from 6-12 inches shorter than Dwarves, at about shoulder-height to Dwarves.
+
+
+Night Elves inherently have an ability called “Find Herb”.
+
+
+Undead do not need to stop to take breaths while swimming.
+
+
+Humans receive bonus tradeskill points as a racial advantage.
+
+
+Dwarves have Frost Resistance, Natural Mining, and Treasure Finding.
+
+
+
+
+Class Specifics:
+
+Warlocks have a Ritual Summon in which they initiate a spell and two other players of any class channel their energy, allowing them to summon a player to anywhere on the map.
+
+
+Shamans can shapeshift into what's called a "Timber Wolf" (also in WCIII), its primary use being a speed buff.
+
+
+Rogues get some type of speed buff at later levels called “Sprint”. The ability "Rip and Tear" automatically adds a "bubble" to the Fear-meter if it lands a hit. They also have bonuses called "Street Fighting" and "Acrobatics".
+
+
+With about 10-15 Rage, any one of the Warrior's skills Rend, Kick, Punishing Blow, and Strike could be performed.
+
+
+An Undead Priest tested started out with a Mace, a healing spell, and a direct damage spell called Holy Smite.
+
+
+Night Elf Druids can also cast Nature’s Wrath (direct damage), Mark of the Wild (seemed to be similar to Roar), Nature’s Touch (a light Heal), and Disembowel.
+
+
+Paladins start out with the abilities Holy Light and Holy Strike and begin with a hammer as a weapon. At level 2 Paladins receive two auras. In this test, the player acquired low-level versions of a Healing aura and the traditional Devotion aura (additional armor). At level 20, Divine Shield grants immunity from ALL attacks for 10 seconds. Paladins also have spells like: Turn Undead, Sense Undead, Exorcism, Judgement.
+
+
+A Hunter's orange bar below the HP represents the Hunter's Focus, which makes their ranged attack more accurate.
+
+
+
+
+World Specifics:
+
+Underwater breathing time (here it is assumed that the player was using a level 1 character with no extra skill points in underwater breathing or swimming, if possible) is 20-30 seconds.
+
+
+Spell/Ability Specifics (See Class Specifics for more information):
+
+
+Invisibility is detectable if the player that is invisible gets too close to another player.
+
+
+Creeps' maximum level is 100 (notably higher than a player's)
+
+
+
+
+Miscellaneous:
+
+Each race has a beginning introduction cinematic that is based directly on the game’s graphics engine, which explains the background and history of the race and flows seamlessly into the game and your character.
+
+
+Dreadlords are creeps, as are more powerful demons.
+
+
+Guards are attackable, but upon being attacked, a swarm of guards is called and apparently chases you until you die or outrun them.
+
+
+The name of the default Undead mount has been changed from Nightmare to Fel Steed.
+
+
+It is possible to attack while mounted.
+
+
+
+
+All of the above is subject to change by beta or Gold Master.
+
+
+
+
+Written by PsychicOracle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Choosing the Right Character
+	
+
+  Choosing the Right Character
+   by Crow
+
+
+With the World of Warcraft Beta finally open, thousands of new players are asking the same question: "Which race and class should I choose?" Though there is no "best" race or class, there could be a race and class combination that is best for you. We will examine the strengths and weaknesses, as well as the gameplay and game burden of each race/class choice.
+
+Chances are, you've already made a few characters and played them up to a modest level, but now you've begun to wonder if you've chosen the right race or class for you. World of Warcraft's races and classes do not always take on the typical role they would in other MMORPGs. You might have seen a priest soloing and wondered how it was possible or questioned what the funky yellow bar under the rogue's health was for. Regardless what questions you may have, this guide will lift the fog from the character selection process.
+
+Race vs Class
+
+You begin the process of selecting a character by either choosing your race or class first. Class is the most prominent choice in character creation. Your choice of race is ultimately a choice base stats (strength, stamina, etc..). Each class within a race has a different set of base stats. Regard the following table I created for base-stat reference:
+
+Alliance Race-Class Stat Table
+
+Strength	Agility	Stamina	Intel.	Spirit
+Warrior	
+Human	23	21	22	21	22
+Dwarf	24	19	23	20	23
+Night Elf	22	22	21	23	22
+Gnome	22	22	21	22	22
+Rogue	
+Human	21	23	22	21	22
+Dwarf	22	21	23	20	23
+Night Elf	20	24	21	23	21
+Gnome	20	24	21	22	22
+Mage	
+Human	21	21	22	23	22
+Dwarf	22	19	23	22	23
+Gnome	20	22	21	24	22
+Warlock	
+Human	21	21	22	23	22
+Gnome	20	22	21	24	22
+Priest	
+Human	21	21	22	23	22
+Dwarf	22	19	23	22	23
+Night Elf	20	22	21	25	21
+Paladin	
+Human	23	21	22	21	22
+Dwarf	24	19	23	20	23
+
+
+Statistically speaking, the race you choose will not differentiate you nearly as much as your class choice. In this same way, two characters of the same class do not differ greatly just because they are from a different race. This doesn't mean that race is not important, but rather that you should not feel stressed to "pick the right race for your class." There are a great deal of readily available items and enchantments that can supplement your stats as well.
+
+Class, on the other hand, does make a big difference. Your choice of class is the primary determinat of your character's strengths, weaknesses, and game burdens. My recommendation is that you first decide the class you can live with and then find a race that allows that class.
+
+
+Base Stats
+Base Stats do not affect your tradeskills or ability to use equipment. Base stats act mainly to determine your defense, offense, and magical abilities. Each class has one or two stats that are of pinnacle importance while usually having one or two stats that are of little to no significance.
+
+Though there are brief descriptions of each of the primary (or base) stats, allow me to put these stats in terms of game needs. Next to each stat heading are the classes to whom the stat is of importance.
+
+
+Strength (Warrior and Paladin)
+Strength determines the damage of a weapon for all classes other than the rogue (whose damage is based on agility). Strength also effects your chance to get a critical strike (double the amount of normal damage) and to block (a nullification of a single attack). As you can imagine, for the paladin and warrior, strength is of pinnacle importance. For the warlock, mage, and priest, strength is of little to no importance, as the vast majority of their damage will come from spells, not weapons.
+
+Stamina (Warlock)
+Stamina and class together decide the hit points of your character. Stamina is important to all characters, though beyond pure life total, stamina has no effect in game. Even casters should not overlook this stat, as more life means more time to live, cast, and regenerate mana.
+
+Stamina is not the single most important stat for a warlock, but it is more important to him than other casters. At low levels in particular, and occasionally throughout all levels, the warlock will have to do some tanking for his pet. The warlock also has spells that use his health as a resource. For these reasons, stamina should not be neglected by an aspiring warlock.
+
+Agility (Rogue)
+For most classes, agility is only used to determine defense and dodge ability. However, for the rogue, agility is also the determining stat for weapon damage. Putting points into agility as a rogue is as safe as putting strength into a warrior (benefiting both offense and defense). Agility is also important to caster classes who lack a magical shield or pet, as higher defense means a lowered chance to have your spell interrupted. Although, if you can survive the earlier levels of a casting class, eventually all casting classes have some method to separate themselves from the attack of their enemy (root, pet, or shield).
+
+Intelligence (Mage, Warlock, Priest, Paladin)
+Like most MMORPG games, intelligence means mana. The same is true in WoW. In fact, it has no other effect that providing mana, so warriors and rogues can neglect the stat altogether. Though the paladin can survive with little to no mana, you will find that the paladin's mana often determines the amount of damage he will take and deal.
+
+Spirit (Paladin, Warlock)
+Your mana and health regeneration are both tangent on your spirit score. Realize that food and water provide far superior rates of health and mana regeneration. For this matter, getting high spirit as a warrior is somewhat futile, as it will never give you enough hit points to avoid eating altogether. You may avoid a few sits per hour, but this is probably not enough to make putting points into spirit worth it for a melee or casting only class. However, can you only either eat or drink at a time, not both. So, classes who have a high need for mana and health, like the warlock and paladin, spirit is significant in eliminating downtime.
+
+When a warrior or rogue sits, they regenerate an amount of health determined by their spirit. On the other hand, when a paladin or warlock sits, they regenerate health AND mana, making their spirit twice as effective. Often a warlock will end a battle low on mana and only slightly low on health. Likewise, the paladin will end battles low on health and moderately low on mana. In these instances, it is best to choose either food or drink to solve the primary need while spirit solves the second.
+
+
+      
+Click for larger version...
+
+
+Melee Classes
+
+Warrior
+The Warrior has the classic role of tank with the spice of options. Unlike the warrior in other MMORPGs, the warrior of WoW has a great deal of tools available to him. These tools offer utility and keep the gameplay from getting stale. The warrior has an attack or ability for each occasion. Abilities such as hamstring will slow down their opponent, while rend will cause damage over time. The warrior even has abilities for grouping, like battle shouts (benefiting the entire party), and others for fighting multiple mobs, like thunderclap(area of effect damage). At later levels, the warrior has access to multiple stances. Each of these stances offer a completely different set of abilities, in effect making the warrior multiple sub-classes within a class.
+
+Most of the warrior's abilities cost a certain number of "rage" points. Rage is not built outside of combat like mana or health, but rather a warrior starts each fight with little to no rage and builds it during combat. As he levels, the warrior has other means to gain rage outside of combat.
+
+Though a warrior is successful solo, he will often find himself fairing better in a group. Several of the warrior's abilities point to this reality of being group-natured. The taunting ability, for example, gives the warrior a key role in groups that is otherwise not seen. The defensive stance also performs better in a group, when a warrior is being attacked by multiple attackers.
+
+Game Burden: Warriors become equipment intensive at an early level. Disease and magical effects make soloing a bad idea for certain areas. No crowd control until late levels.
+
+Strengths: Excellent melee, always needed in a group, variety of abilities to keep the character fresh, access to nearly every piece of equipment, dual wield
+
+Weaknesses: Equipment dependent, weak against magic (root, shield, etc)
+
+
+Paladin
+Differing from the warrior class, but much along the same lines is the Paladin. The paladin can act as a tank or occasionally as healing-support. The paladin is not a warrior with priest spells, as one might expect, but rather is a warrior with an entire new set of skills. In my eyes, the paladin is a melee class with slightly decreased combat potency who in turn has little to no game burden.
+
+The paladin has two unique lines of spells available only to him. These include a series of "seals" which buff a single aspect (defense, mana regen, etc..) for one hour and "auras" which perform a similar single function, but for a group. The paladin can only use one seal (on each player) and one aura at a time. The paladin also has lay-on-hands, which can be a "get out of jail (corpse run) free" card. Lay-on-hands is also a great tool to solo mobs that are nornally too strong.
+
+The paladin's healing, disease relief, and invulnerability shield alone make playing him a pleasure. Casual gamers will enjoy the ease with which most irritations are handled. Teammates who die prematurely can be resurrected. Mobs who spawn on top of you no longer mean death, but merely a run (invulnerability shield, aka Divine Favor). All sit times are reduced because of spells and auras. It is also very enjoyable that the auras do not require mana. It could probably be said about game burden that if the paladin has to deal with it, then all the other classes do too.
+
+Game Burden: Equipment intensive later levels can be time consuming. Little to no crowd control. In large groups you will be out of mana casting seals over and over.
+
+Strengths: Excellent melee ability, utility role in group, can use heavy armor (mail/plate)
+
+Weaknesses: Not as damaging as a rogue or as sustaining as a warrior, limited to swords and maces only
+
+
+Rogue
+The rogue is another unique class in WoW. The rogue operates as a melee class apt at dealing high amounts of damage, but lacking in sustaining damage from an enemy. Like the warrior, they have a wide variety of combat techniques as well as some other abilities (such as stealth and pick-pocket). Playing a rogue in combat can be a lot of fun. Various combos can reap devastating amount of damage. Rogues are less equipment oriented than a warrior, but should still be considered gear-intensive.
+
+Rogues have a yellow "energy" bar below their health bar. This energy bar allows the rogue to perform a variety of acrobatic attacks. Some of these attacks earn "combo" points, which appear next to the icon of your opponent (top of the screen) as red dots. These combo points result from some of the rogue's special attacks and are required for some of the other special attacks. You cannot increase the amount of total energy your rogue has, as it always peaks at 100. It does regenerate extremely fast though. You will easily reach full energy before you recover half of your lost health from battle.
+
+The rogue does a furious amount of damage when full of energy. In 1 on 1 combat, the rogue is perhaps slightly imbalanced. However, the rogue does pay a price for this, as when fighting multiple attackers, a rogue can meet his end. Because he has a limited amount of energy, he often begins fighting the second or third of the attackers with no energy at all. The rogue fairs well solo and in a group. With a group, he has a role similar to what a mage would do in other MMORPGs, providing damage-support. The rogue can act as a tank too in smaller groups. As a solo character, the rogue turns into a ninja, often sneaking through dangerous places to find an isolated mob to kill.
+
+Game Burden: Frequent rests between fights to gain health. Disease and sustained magical effects can really be a burden. Equipment intensive times arise.
+
+Strengths: TONS of damage, dual wield, crowd control with "sap" (knock an enemy out temporarily)
+
+Weaknesses: Limited to leather, several powerful abilities require a dagger, typically lower hit points, not enough energy for many attackers
+
+
+Warlock   Priest
+Click for larger version...
+
+
+Caster Classes
+
+Mage
+The mage does resemble his cousins from other MMORPGs, but, as most WoW classes, has many differences. Masters of fire and ice magic, the mage still has the role of the group's howitzer, firing hugely damaging spells. The mage is probably the most straight forward of all classes.
+
+Those familiar with "root-n-shoot" will easily adapt to the mage. The mage gets a variety of these root spells, some of which deal damage and hit multiple targets. The mage also has a variety of spell-bombs to drop on the enemy. Some of these do damage over time, while others deal damage to an area of effect. A few spells even slow the enemy, like frost nova.
+
+Right now, the mage can be frustrating to play at lower levels, as the mage must use his own skin to get spells off. Later, the mage begins acquiring root spells to save some health. At level 20 the mage receives mana shield, which will allow his mana to lose what his health would have otherwise. The mage has been undergoing many changes of late and should probably see another reworking before the retail arrives.
+
+Game Burden: The mage can only fight in situations which his variety of root spells allow at his level. Because of the demands of casting several roots and damage spells at later levels, the mage does a lot of sitting to drink between fights.
+
+Strengths: Very powerful in a group that can protect the mage. Later levels greatly improve the mage's power and eliminate some of his weaknesses. Can summon food or drink to avoid untimely errands.
+
+Weaknesses: Somewhat group dependent, as solo takes more time. Lacking in utility.
+
+
+Priest
+The priest is a very atypical healer class. Though they sound passive by name, they are similar to a pure-damage caster. The class could exist without its healing spells altogether and still be powerful. Instant damage, damage over time, shields, healing, and crowd control are the basis for most of their magic.
+
+The priest's shield is his best friend. The shield prevents nearly all priest spells from being interrupted by attackers. The shield itself is cast instantly, making it very easy to survive as long as your mana doesn't run out. The priest's healing spells are also very effective and crucial to large groups.
+
+Soloing with a priest is easily accomplished. Leading with damage over time spells and shooting the approaching enemy give the priest a head start to do combat behind his shield.
+
+Many frustating situations that arise, such as spawn-deaths, disease, and long downtime are all made a little easier by the priest. He has an array of holy spells that alleviate these troubles and make solo or grouping very effective.
+
+Game Burden: Very little game burden makes it to the priest. The priest will need to sit often when fighting higher level mobs solo or in a group, as healing and damage stem from the priest's mana.
+
+Strengths: Shields prevent spell interruption, several instant spells, balance of utility spells and offensive spells. Lots of crowd control like sleep and psychic scream
+
+Weaknesses: Must hide behind holy shield, mobs with high hit point totals or mobs dealing damage in large chucks can counter the priest's shield
+
+
+Warlock
+The warlock looks like a necromancer from Everquest at first glance. However, after closer examination, the warlock can almost be considered a mage with a pet. Warlocks summon demon pets to aid them in defeating their foes. Warlocks are a complex class to play, as their pet is accompanied by a large variety of spells as well.
+
+The basics of the warlock are balancing the life of your pet with that of your own while you fight enemies. At times, the pet takes the hits, while at others it is best for the warlock to take the damage himself. When you have a pet, a second hot-key bar appears above your own. This does congest the interface a little, but controlling the pet is not overly difficult.
+
+The warlock's spell catalog includes fear spells, damage over time, instant damage, curses, and even buffs. The warlock has means to exchange his own life and mana or that of his pet or opponent for one another. This complexity of play is not un-rewarded. When played by a skilled gamer, the warlock is very deadly.
+
+In most situations, the warlock is the same in a group as he is solo.
+
+Game Burden: The warlock's largest burden is in balancing the actions of himself, his pet, and a multitude of monsters the way he wants. The warlock also has mana and food needs alike, which can increase downtime if both are low. Disease and sustained magical effects are not as pervasive to the warlock's performance as with other classes, but still irritating. If you like a simple game, the warlock isn't for you.
+
+Strengths: The warlock's later pets allow the warlock to cast uninterrupted at times. The pet's damage is a constant offensive force as long as it lives.
+
+Weaknesses: Often either the pet or the warlock himself can become overly damaged, creating sticky situations that might end in death. If the warlock's pet is somehow dealt with easily (sap or sleep), the warlock's power is greatly reduced.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Encounter With a Hunter
+	
+
+I’d like to talk to you all about the Hunter Class, one of the announced classes for World of Warcraft. You might ask, "Why do you care about the Hunter? They don’t have any cool magic, and they aren’t as good as the warrior for melee, so shouldn’t you just forget about them?"
+
+To put it lightly, no. To me, the Hunter looks like one of the best classes, and depending on how the balance works out, perhaps the best. I’m going to go through this like it is a PvP encounter between me, a Hunter *gasp*, and you, something else.
+
+So, you’re walking around Stranglethorn Vale, looking for a little PvP action. You spot something in the bushes... what could it be? A Rouge, waiting to backstab you? "I can handle that," you say to yourself. Wrong. That little thing in the bushes wasn’t a Rouge, it was me, a Hunter, and I have a gun. Yes, a G U N. I begin to shoot you, because that is what one does with a gun. I bet you wish you had a gun.
+
+Anyway, let’s say you are a solid fellow, and you make it up to me before I dispatch you with my dwarven rifle. "I have him now!" you say to yourself, because you are thinking that a character with a gun can’t be that good in melee combat. Wrong again. Hunters have varying weapon masteries, including Axe Mastery. As you approach me, I whip out two axes. "Shall we dance?"
+
+Suppose that even after I have shot you multiple times, and even after I have started hitting you with both of my axes, I am still losing. You think to yourself, "Man, this guy is tough, but I will have his ears yet!" I hate to tell you, but you are wrong again. You forgot the other thing sitting in the bushes; my big white tiger pet Misha. He is Siberian. I got him from Siegfried after Misha ate Roy. As Misha closes in for the kill, and all goes black, you wonder, "How in the heck did I get beaten by a hunter?"
+
+I hope your episode in Stranglethorn has shown you not to underestimate the Hunter. After all, they do have guns, axes, and big angry pets that want to eat you like an animal cracker. Until we meet again, I wish you good hunting.
+
+
+
+Written by MOrazem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

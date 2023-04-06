@@ -1,0 +1,199 @@
+/* wow stylesheet */
+
+body { 
+       background: #6A4427;
+       margin-top:0;
+       margin-left: 0;
+       margin-right: 0;
+       margin-bottom:0;
+       }
+body,td,li,p{    
+              color: #e5e0dd;
+              font-size: 10pt;
+              font-family: verdana, helvetica, sans-serif;
+              }
+#menubar_main{
+               position: absolute;	
+               left: 0;
+               top: 152;
+               width: 165;
+               }
+#main_body {
+             position: absolute;
+             left: 170;
+             top: 162;
+             margin-right: 5px;
+             }
+input, select {
+                font-size: 10px;
+                background: white;
+                color: black;
+                border: 1px solid #502F15;
+                font-family: "MS Sans Serif",helv,sans-serif;
+                }
+textarea {     
+           background: white;
+           color: black;
+           border: 1px solid #502F15;
+           }
+a {text-decoration: none; color: orange;}
+a:hover {text-decoration: underline;}
+b { font-weight: bold; }
+bs { font-weight: bold; font-size: 9px;}
+i { font-style: italic; }
+.sm,#fs8 {font-size: 9px;}
+.lg {font-size: 18px;}
+.headerrow,#headerrow {
+                        background: #5E3B20;
+                        color: white;
+                        padding: 1,1,1,1;
+                        vertical-align: middle;
+			}
+.headerrowtop,#headerrowtop {
+                        background: #5E3B20;
+                        color: white;
+                        padding: 1,1,1,1;
+                        vertical-align: top;
+                        }
+.borderrow {
+             border: 1px solid #502F15;
+             }
+.hb {font-size: 10px; background: #523D34;}
+a.hb {color: white;}
+a.hb:hover {text-decoration: underline;}
+
+.menuheader,.mitem {
+              background: url('https://web.archive.org/web/20040804123125im_/http://wow.allakhazam.com/images/section_header_off.gif'); 
+              color: #D9D4D4;  
+              padding-left: 7px;
+              padding-bottom: 1px;
+              padding-top: 1px;
+              border-bottom: 1px solid black;
+              border-right: 1px solid black;
+              }
+.menuheaderover { 
+                  background: url('https://web.archive.org/web/20040804123125im_/http://wow.allakhazam.com/images/section_header_on.gif');
+              color: #D9D4D4;  
+              padding-left: 7px;
+              padding-bottom: 1px;
+              padding-top: 1px;
+              border-bottom: 1px solid black;
+              border-right: 1px solid black;
+                  }
+.menuitem {
+            background: #4C1607;
+            padding-left: 7px;
+            padding-bottom: 1px;
+            padding-top: 1px;
+            border-bottom: 1px solid black;
+            border-right: 1px solid black;
+            }
+.menuitemsmall {
+            font-size: 8pt;
+            background: #4C1607;
+            padding-left: 7px;
+            padding-bottom: 1px;
+            padding-top: 1px;
+            border-bottom: 1px solid black;
+            border-right: 1px solid black;
+            }
+.menuitemover { 
+                background: #6C2816;
+                padding-left: 7px;
+                padding-bottom: 1px;
+                padding-top: 1px;
+                border-bottom: 1px solid black;
+                border-right: 1px solid black;
+                }
+.menulink {color: #B09C96;  }
+.menulink:hover {text-decoration: underline;cursor: hand;}
+.mh:hover {text-decoration: underline;cursor: hand;}
+.mform {background: #714e32; border: 1px solid #502F15;}
+.mform2 { border: 1px solid #502F15;}
+.lr {background: #714e32;}
+.rr {
+      font-size: 170%;
+      font-weight: bold;
+      /*font-family: "Georgia","Times","serif"; */
+      vertical-align: 100%;	
+      }	
+.flatbox { border: 1px solid black;background: \#57598A; color: white;}
+.invisbox { border: none;background: \#35375D; color: white;}
+.sbyline { font-size: 11px; vertical-align: baseline; font-style: italic;}
+.msgbutton { 
+             border: 1px solid #502F15;
+             background: #5E3B20;
+             padding: 2px;
+             color: white;
+             cursor: hand;
+             }
+.mhback {
+          background: url('https://web.archive.org/web/20040804123125im_/http://wow.allakhazam.com/images/section_header_off.gif'); 
+          color: #D9D4D4;  
+          padding-left: 7px;
+          padding-bottom: 1px;
+          padding-top: 1px;
+          border-bottom: 1px solid black;
+          
+border-right: 1px solid black;
+          }
+.mlr {
+         border-bottom: 1px solid black; 
+         padding: 2px;
+         background: #714e32;
+         }
+.mdr {
+       border-bottom: 1px solid black; 
+       padding: 2px;
+       }
+#msg_sidebar {font-size: 11px;}
+#Scholar {color: #A88B74; font-weight: bold;}
+#Sage {color: #DB8325; font-weight: bold;}
+#Guru {color: #E24318; font-weight: bold;}
+#Administrator {color: #8AB3D5; font-weight: bold;}
+#titled {color: #8AB3D5; font-weight: bold;}
+
+.wowitem {
+    font: 12px arial;
+    border: 1px solid darkgray;
+    padding: 3px;
+    position: relative;
+    width: auto;
+    background-color: #333333;
+    -moz-border-radius: 4px;
+}
+.wowitemt, .wowitemt TD, .wowitem TH
+{
+    font: 12px arial;
+    color: white;
+}
+HR.ws
+{
+  height: 1px; 
+  border: 1px solid #5E3B20; 
+  color: #5E3B20; 
+  background-color: #5E3B20;
+}
+
+
+/*
+     FILE ARCHIVED ON 12:31:25 Aug 04, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:27:08 Dec 20, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 94.978
+  exclusion.robots: 0.36
+  exclusion.robots.policy: 0.349
+  RedisCDXSource: 1.178
+  esindex: 0.014
+  LoadShardBlock: 72.271 (3)
+  PetaboxLoader3.datanode: 99.737 (4)
+  CDXLines.iter: 18.071 (3)
+  load_resource: 83.738
+  PetaboxLoader3.resolve: 30.608
+*/

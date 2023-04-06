@@ -1,0 +1,424 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"><script src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/analytics.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app202.us.archive.org';v.server_ms=5907;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/bundle-playback.js" charset="utf-8"></script>
+<script type="text/javascript" src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/wombat.js" charset="utf-8"></script>
+
+<link rel="stylesheet" type="text/css" href="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+
+        <title>World of Warcraft Vault - Dynamic Map</title>
+        <meta http-equiv="imagetoolbar" content="no" xmlns:v="urn:schemas-microsoft-com:vml">
+        <!--link rel="stylesheet" href="maps.css"-->
+        <style type="text/css">
+        <!--
+            v\:* { behavior: url(/web/20040603072242im_/http://db.wowvault.ign.com/locations/map.php?map=7#default#VML); }
+        -->
+        </style>
+    <script language="javascript">
+<!--
+
+var game = "wow";
+
+var mapID = 7;
+
+var maps = new Array();
+maps[1] = "Dun Morogh";
+maps[2] = "Elwynn Forest";
+maps[4] = "Redridge Mountains";
+maps[7] = "Stormwind";
+maps[9] = "Teldrassil";
+maps[3] = "Westfall";
+maps[8] = "World Routes";
+
+var server = 0;
+var serverName = "";
+
+var servers = new Array();
+
+var locID = -1;
+
+var mapDataIdIndex = 0;
+var mapDataNameIndex = 1;
+var mapDataImageIndex = 2;
+var mapDataImageWidthIndex = 3;
+var mapDataImageHeightIndex = 4;
+var mapDataWorldIndex = 5;
+var mapDataXOriginIndex = 6;
+var mapDataYOriginIndex = 7;
+var mapDataScaleIndex = 8;
+
+var mapInfo = new Array(7, "Stormwind", "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/stormwind.jpg", 1650, 1544, 0, -643, -573, 4.125);
+
+var override = 2;
+var config = new Array();
+config['show_coords'] = 0;
+config['show_neg_coords'] = 1;
+config['use_game_servers'] = 0;
+config['separate_server_maps'] = 0;
+config['coord_precision'] = 2;
+config['coord_text_loc'] = 0;
+config['x_coord_first'] = 1;
+config['use_z_coord'] = 0;
+config['x_coord_pos_text'] = "";
+config['x_coord_neg_text'] = "";
+config['y_coord_pos_text'] = "";
+config['y_coord_neg_text'] = "";
+config['z_coord_pos_text'] = "";
+config['z_coord_neg_text'] = "";
+config['map_logo_url'] = "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/DynamicMapLogo.jpg";
+config['map_logo_link'] = "https://web.archive.org/web/20040603072242/http://wowvault.ign.com";
+config['map_background_color'] = "black";
+config['map_text_color'] = "#d7cea4";
+config['legend_border_color'] = "#d7cea4";
+config['legend_width'] = 300;
+
+var mapTypeIdIndex = 0;
+var mapTypeNameIndex = 1;
+var mapTypeIconIndex = 2;
+var mapTypeIconWidthIndex = 3;
+var mapTypeIconHeightIndex = 4;
+var mapTypeTextColorIndex = 5;
+var mapTypeLineColorIndex = 6;
+var mapTypeBackgroundColorIndex = 7;
+
+var mapTypes = new Array();
+mapTypes[17] = new Array(17, "Bank", "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/money.gif", 13, 13, "black", "", "yellow");
+mapTypes[9] = new Array(9, "Bind Stone", "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/tombstone.gif", 12, 16, "black", "", "lightgrey");
+mapTypes[15] = new Array(15, "City Buildings", "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/building.gif", 9, 9, "black", "", "red");
+mapTypes[6] = new Array(6, "Class Trainer", "", 0, 0, "", "", "");
+mapTypes[4] = new Array(4, "Dungeon", "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/dungeon.gif", 9, 11, "white", "", "darkblue");
+mapTypes[7] = new Array(7, "NPC", "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/limedot.gif", 7, 7, "black", "", "lime");
+mapTypes[16] = new Array(16, "Route", "", 0, 0, "", "", "");
+mapTypes[19] = new Array(19, "Trade Skill Trainer", "", 0, 0, "", "", "");
+mapTypes[5] = new Array(5, "Vendor", "./World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/orangedot.gif", 7, 7, "black", "", "orange");
+
+var mapSubtypeIdIndex = 0;
+var mapSubtypeNameIndex = 1;
+var mapSubtypeAssocTypeIndex = 2;
+var mapSubtypeIconIndex = 3;
+var mapSubtypeIconWidthIndex = 4;
+var mapSubtypeIconHeightIndex = 5;
+var mapSubtypeTextColorIndex = 6;
+var mapSubtypeLineColorIndex = 7;
+var mapSubtypeBackgroundColorIndex = 8;
+
+var mapSubtypes = new Array();
+mapSubtypes[46] = new Array(46, "Alchemy Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/purplediamond.gif", 11, 11, "black", "", "mediumpurple");
+mapSubtypes[70] = new Array(70, "Alliance - Gryphon", 16, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/taxi-yellow.gif", 16, 16, "black", "yellow", "yellow");
+mapSubtypes[22] = new Array(22, "Blacksmithing Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/yellowdiamond.gif", 11, 11, "black", "", "yellow");
+mapSubtypes[18] = new Array(18, "Cooking Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/whitediamond.gif", 11, 11, "black", "", "white");
+mapSubtypes[8] = new Array(8, "Druid Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/greensquare.gif", 9, 9, "black", "", "lime");
+mapSubtypes[50] = new Array(50, "Enchanting Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/tealdiamond.gif", 11, 11, "black", "", "aqua");
+mapSubtypes[51] = new Array(51, "Engineering Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/orangediamond.gif", 11, 11, "black", "", "orange");
+mapSubtypes[52] = new Array(52, "First Aid Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/reddiamond.gif", 11, 11, "black", "", "red");
+mapSubtypes[48] = new Array(48, "Fishing Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/bluediamond.gif", 11, 11, "black", "", "blue");
+mapSubtypes[33] = new Array(33, "Gryphon Master", 7, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/purpledot.gif", 7, 7, "black", "", "mediumpurple");
+mapSubtypes[47] = new Array(47, "Herbalism Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/greendiamond.gif", 11, 11, "black", "", "lime");
+mapSubtypes[7] = new Array(7, "Hunter Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/bluesquare.gif", 9, 9, "black", "", "dodgerblue");
+mapSubtypes[38] = new Array(38, "Leatherworking Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/pinkdiamond.gif", 11, 11, "black", "", "magenta");
+mapSubtypes[4] = new Array(4, "Mage Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/orangesquare.gif", 9, 9, "black", "", "orange");
+mapSubtypes[53] = new Array(53, "Mining Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/browndiamond.gif", 11, 11, "black", "", "SaddleBrown");
+mapSubtypes[9] = new Array(9, "Paladin Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/yellowsquare.gif", 9, 9, "black", "", "yellow");
+mapSubtypes[64] = new Array(64, "Pet Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/brownsquare.gif", 9, 9, "black", "", "SaddleBrown");
+mapSubtypes[2] = new Array(2, "Priest Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/lightbluesquare.gif", 9, 9, "black", "", "aqua");
+mapSubtypes[6] = new Array(6, "Rogue Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/whitesquare.gif", 9, 9, "black", "", "white");
+mapSubtypes[5] = new Array(5, "Shaman Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/pinksquare.gif", 9, 9, "black", "", "magenta");
+mapSubtypes[39] = new Array(39, "Skinning Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/greydiamond.gif", 11, 11, "black", "", "lightgrey");
+mapSubtypes[54] = new Array(54, "Survival Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/mintdiamond.gif", 11, 11, "black", "", "palegreen");
+mapSubtypes[49] = new Array(49, "Tailoring Trainer", 19, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/creamdiamond.gif", 11, 11, "black", "", "lightgoldenrodyellow");
+mapSubtypes[1] = new Array(1, "Warlock Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/purplesquare.gif", 9, 9, "black", "", "mediumpurple");
+mapSubtypes[3] = new Array(3, "Warrior Trainer", 6, "https://web.archive.org/web/20040603072242/http://wowvault.ign.com/maps/icons/redsquare.gif", 9, 9, "black", "", "red");
+
+var mapLocationIdIndex = 0;
+var mapLocationNameIndex = 1;
+var mapLocationTypeIndex = 2;
+var mapLocationSubtypeIndex = 3;
+var mapLocationXCoordIndex = 4;
+var mapLocationYCoordIndex = 5;
+var mapLocationZCoordIndex = 6;
+var mapLocationRoutePointIndex = 7;
+
+var mapLocations = new Array();
+mapLocations[197] = new Array(197, "Agustus Moulaine [Mail Armor Merchant]", 5, 13, 323.64, 311.27, 0, new Array());
+mapLocations[260] = new Array(260, "Alchemy Needs", 15, 0, 335.27, 450.18, 0, new Array());
+mapLocations[106] = new Array(106, "Aldric Moore [Mail Armor Merchant]", 5, 13, 384, 357.09, 0, new Array());
+mapLocations[81] = new Array(81, "Aldwin Laughlin [Guild Master]", 7, 0, 399.27, 407.03, 0, new Array());
+mapLocations[267] = new Array(267, "Alexandra Bolero [Tailoring Supplier]", 5, 65, 321.21, 431.03, 0, new Array());
+mapLocations[271] = new Array(271, "Allan Halfgan [Staves Merchant]", 5, 23, 320.73, 400.97, 0, new Array());
+mapLocations[126] = new Array(126, "Alyssa Griffith [Bag Vendor]", 5, 41, 454.79, 334.3, 0, new Array());
+mapLocations[238] = new Array(238, "Ancient Curios", 15, 0, 261.58, 458.42, 0, new Array());
+mapLocations[139] = new Array(139, "Andor Germaine [Warrior Trainer]", 6, 3, 494.06, 288, 0, new Array());
+mapLocations[241] = new Array(241, "Angus Stern [Head Chef]", 7, 0, 311.76, 491.39, 0, new Array());
+mapLocations[205] = new Array(205, "Archbishop Benedictus", 7, 0, 303.03, 248.97, 0, new Array());
+mapLocations[253] = new Array(253, "Archmage Malin", 7, 0, 302.79, 460.61, 0, new Array());
+mapLocations[270] = new Array(270, "Ardwyn Cailen [Wand Merchant]", 5, 23, 318.3, 400.48, 0, new Array());
+mapLocations[224] = new Array(224, "Argos Nightwhisper", 7, 0, 200.24, 361.21, 0, new Array());
+mapLocations[213] = new Array(213, "Arthur the Faithful [Paladin Trainer]", 6, 9, 294.79, 271.76, 0, new Array());
+mapLocations[128] = new Array(128, "Barracks", 15, 0, 500.12, 355.39, 0, new Array());
+mapLocations[138] = new Array(138, "Bartleby [Drunk]", 7, 0, 492.12, 286.06, 0, new Array());
+mapLocations[84] = new Array(84, "Ben Trias [Apprentice of Cheese]", 5, 30, 416.24, 391.76, 0, new Array());
+mapLocations[120] = new Array(120, "Bernard Gump [Florist]", 5, 36, 439.03, 381.58, 0, new Array());
+mapLocations[78] = new Array(78, "Bertran Keldrake [Spirit Healer]", 7, 26, 480, 512, 0, new Array());
+mapLocations[182] = new Array(182, "Billibub Cogspinner [Engineering Supplier]", 5, 57, 388.85, 171.15, 0, new Array());
+mapLocations[168] = new Array(168, "Bishop DeLavey", 7, 0, 518.79, 241.7, 0, new Array());
+mapLocations[206] = new Array(206, "Bishop Farthing", 7, 0, 297.21, 252.85, 0, new Array());
+mapLocations[175] = new Array(175, "Brohann Caskbelly [Explorer's League]", 7, 0, 440.24, 224, 0, new Array());
+mapLocations[189] = new Array(189, "Brooke Stonebraid [Mining Supplier]", 5, 58, 366.55, 208.24, 0, new Array());
+mapLocations[204] = new Array(204, "Brother Anton [Scarlet Crusade Emissary]", 7, 0, 316.61, 238.79, 0, new Array());
+mapLocations[201] = new Array(201, "Brother Benjamin [Priest Trainer]", 6, 2, 312.73, 256.73, 0, new Array());
+mapLocations[203] = new Array(203, "Brother Cassius [Reagent Vendor]", 5, 62, 323.15, 248.48, 0, new Array());
+mapLocations[209] = new Array(209, "Brother Joshua [Priest Trainer]", 6, 2, 293.82, 248.48, 0, new Array());
+mapLocations[215] = new Array(215, "Brother Kristoff", 7, 0, 335.76, 293.82, 0, new Array());
+mapLocations[159] = new Array(159, "Bryan Cross [Shield Merchant]", 5, 56, 439.52, 309.82, 0, new Array());
+mapLocations[164] = new Array(164, "Caledra Dawnbreeze", 7, 0, 501.09, 255.52, 0, new Array());
+mapLocations[116] = new Array(116, "Canal Tailor and Fit Shop", 15, 0, 357.82, 356.12, 0, new Array());
+mapLocations[227] = new Array(227, "Caretaker Folsom", 7, 0, 244.12, 385.94, 0, new Array());
+mapLocations[108] = new Array(108, "Carla Granger [Cloth Armor Merchant]", 5, 13, 384.97, 361.45, 0, new Array());
+mapLocations[221] = new Array(221, "Celmoridan [Tallstrider Trainer]", 6, 64, 187.15, 364.85, 0, new Array());
+mapLocations[239] = new Array(239, "Charys Yserian [Arcane Trinkets Vendor]", 5, 62, 259.88, 455.76, 0, new Array());
+mapLocations[195] = new Array(195, "City Hall", 15, 0, 348.61, 265.45, 0, new Array());
+mapLocations[85] = new Array(85, "Corbett Schneider", 7, 0, 417.45, 392.73, 0, new Array());
+mapLocations[162] = new Array(162, "Count Remington Ridgewell [House of Nobles]", 7, 0, 494.3, 262.06, 0, new Array());
+mapLocations[229] = new Array(229, "Darian Singh [Fireworks Vendor]", 5, 66, 244.36, 407.76, 0, new Array());
+mapLocations[155] = new Array(155, "Dashel Stonefist", 7, 0, 474.91, 317.82, 0, new Array());
+mapLocations[143] = new Array(143, "David Langston", 7, 0, 498.18, 285.58, 0, new Array());
+mapLocations[233] = new Array(233, "Demisette Cloyce [Warlock Trainer]", 6, 1, 220.12, 448, 0, new Array());
+mapLocations[167] = new Array(167, "Donyal Tovald [Librarian]", 7, 0, 482.18, 173.09, 0, new Array());
+mapLocations[266] = new Array(266, "Duncan Cullen [Light Armor Merchant]", 5, 13, 322.18, 433.45, 0, new Array());
+mapLocations[265] = new Array(265, "Duncan's Textiles", 15, 0, 326.06, 431.03, 0, new Array());
+mapLocations[96] = new Array(96, "Dungar Longdrink [Gryphon Master]", 7, 33, 449.21, 385.7, 0, new Array());
+mapLocations[210] = new Array(210, "Duthorian Rall", 7, 0, 299.64, 257.7, 0, new Array());
+mapLocations[181] = new Array(181, "Dwarven Embassy", 15, 0, 407.76, 168.48, 0, new Array());
+mapLocations[94] = new Array(94, "Edna Mullby [Trade Supplier]", 5, 32, 404.61, 379.39, 0, new Array());
+mapLocations[178] = new Array(178, "Einris Brightspear [Hunter Trainer]", 6, 7, 424.73, 202.91, 0, new Array());
+mapLocations[86] = new Array(86, "Elaine Trias [Mistress of Cheese]", 5, 30, 419.39, 391.27, 0, new Array());
+mapLocations[219] = new Array(219, "Eldraeith [Herbalism Supplier]", 5, 37, 163.39, 338.18, 0, new Array());
+mapLocations[261] = new Array(261, "Eldraeith [Herbalism Supplier]", 5, 37, 339.39, 449.45, 0, new Array());
+mapLocations[87] = new Array(87, "Elling Trias [Master of Cheese]", 5, 30, 416.73, 394.18, 0, new Array());
+mapLocations[145] = new Array(145, "Elly Langston [Barmaid]", 7, 0, 494.3, 280.97, 0, new Array());
+mapLocations[257] = new Array(257, "Elsharin [Mage Trainer]", 6, 4, 287.76, 461.33, 0, new Array());
+mapLocations[142] = new Array(142, "Erika Tate [Cooking Supplier]", 5, 42, 504.24, 285.33, 0, new Array());
+mapLocations[248] = new Array(248, "Essential Components", 15, 0, 283.64, 436.36, 0, new Array());
+mapLocations[245] = new Array(245, "Evan Larson [Hatter]", 5, 35, 317.58, 442.67, 0, new Array());
+mapLocations[318] = new Array(318, "Everyday Merchandise", 15, 0, 403.39, 384.48, 0, new Array());
+mapLocations[121] = new Array(121, "Felicia Gump [Herbalism Supplier]", 5, 37, 438.55, 378.42, 0, new Array());
+mapLocations[119] = new Array(119, "Fragrant Flowers", 15, 0, 442.42, 376.97, 0, new Array());
+mapLocations[98] = new Array(98, "Frederick Stover [Bow and Arrow Merchant]", 5, 34, 360, 367.03, 0, new Array());
+mapLocations[190] = new Array(190, "Furen Longbeard", 7, 0, 405.82, 208.97, 0, new Array());
+mapLocations[234] = new Array(234, "Gakin the Darkbinder", 7, 0, 218.91, 450.18, 0, new Array());
+mapLocations[208] = new Array(208, "Gazin Tenorm", 7, 0, 293.82, 246.3, 0, new Array());
+mapLocations[188] = new Array(188, "Gelman Stonehand [Mining Trainer]", 19, 53, 364.61, 209.94, 0, new Array());
+mapLocations[79] = new Array(79, "General Marcus Jonathan [High Commander of Stormwind Defense]", 7, 0, 438.1, 437.3, 0, new Array());
+mapLocations[268] = new Array(268, "Georgio Bolero [Tailoring Trainer]", 19, 49, 323.39, 429.82, 0, new Array());
+mapLocations[150] = new Array(150, "Gerik Koen [Two Handed Weapon Merchant]", 5, 23, 475.15, 308.85, 0, new Array());
+mapLocations[173] = new Array(173, "Grand Admiral Jes-Tereth", 7, 0, 536.97, 193.94, 0, new Array());
+mapLocations[200] = new Array(200, "Gregory Ardus [Mace Merchant]", 5, 23, 285.58, 296.24, 0, new Array());
+mapLocations[187] = new Array(187, "Grimand Elmore", 7, 0, 369.94, 191.76, 0, new Array());
+mapLocations[111] = new Array(111, "Gunther Weller [Weapons Merchant]", 5, 23, 401.94, 368.48, 0, new Array());
+mapLocations[105] = new Array(105, "Harlen Bagley", 7, 0, 385.45, 361.94, 0, new Array());
+mapLocations[140] = new Array(140, "Harry Burlguard", 7, 0, 495.03, 289.45, 0, new Array());
+mapLocations[149] = new Array(149, "Heavy Handed Weapons", 15, 0, 469.82, 304, 0, new Array());
+mapLocations[135] = new Array(135, "Heinrich Stone [Blade Merchant]", 5, 23, 494.79, 309.58, 0, new Array());
+mapLocations[207] = new Array(207, "High Priestess Laurena [Priest Trainer]", 6, 2, 294.55, 244.61, 0, new Array());
+mapLocations[258] = new Array(258, "High Sorcerer Andromath", 7, 0, 288.97, 464.48, 0, new Array());
+mapLocations[170] = new Array(170, "Highlord Bolvar Fordragon", 7, 0, 518.3, 214.06, 0, new Array());
+mapLocations[134] = new Array(134, "Honest Blades", 15, 0, 488.97, 312.24, 0, new Array());
+mapLocations[148] = new Array(148, "Ilsa Corbin [Warrior Trainer]", 6, 3, 489.94, 286.06, 0, new Array());
+mapLocations[154] = new Array(154, "Jasper Fel [Shady Dealer]", 5, 45, 474.42, 313.45, 0, new Array());
+mapLocations[137] = new Array(137, "Jenn Langston", 7, 0, 474.91, 301.58, 0, new Array());
+mapLocations[256] = new Array(256, "Jennea Cannon [Mage Trainer]", 6, 4, 288.24, 459.15, 0, new Array());
+mapLocations[252] = new Array(252, "Jenny Anship", 7, 0, 297.7, 452.61, 0, new Array());
+mapLocations[274] = new Array(274, "Jessara Cordell [Enchanting Supplier]", 5, 67, 319.52, 396.36, 0, new Array());
+mapLocations[127] = new Array(127, "Jillian Tanner [Leatherworking Supplier]", 5, 40, 455.03, 335.52, 0, new Array());
+mapLocations[242] = new Array(242, "Joachim Brenlow [Arcane Bartender]", 5, 30, 308.61, 496.73, 0, new Array());
+mapLocations[101] = new Array(101, "John Burnside [Banker]", 7, 25, 390.06, 431.27, 0, new Array());
+mapLocations[113] = new Array(113, "Julia Gallina [Ale and Wine]", 5, 30, 371.15, 410.91, 0, new Array());
+mapLocations[199] = new Array(199, "Just Maces", 15, 0, 288.73, 293.82, 0, new Array());
+mapLocations[226] = new Array(226, "Kaerbrus [Survival Trainer]", 19, 54, 207.76, 347.88, 0, new Array());
+mapLocations[191] = new Array(191, "Kaita Deepforge [Blacksmithing Supplier]", 5, 12, 394.42, 212.12, 0, new Array());
+mapLocations[211] = new Array(211, "Katherine the Pure [Paladin Trainer]", 6, 9, 287.27, 268.36, 0, new Array());
+mapLocations[186] = new Array(186, "Kathrum Axehand [Axe Merchant]", 5, 23, 367.27, 192.24, 0, new Array());
+mapLocations[91] = new Array(91, "Keldric Boucher [Alchemy Supplier]", 5, 31, 390.79, 397.58, 0, new Array());
+mapLocations[146] = new Array(146, "Kendor Kabonka [Master of Cooking Recipes]", 5, 42, 492.85, 289.7, 0, new Array());
+mapLocations[169] = new Array(169, "King Anduin Wrynn", 7, 0, 516.85, 213.58, 0, new Array());
+mapLocations[90] = new Array(90, "Kyra Boucher [Reagent Vendor]", 5, 62, 393.94, 397.58, 0, new Array());
+mapLocations[107] = new Array(107, "Lara Moore [Leather Armor Merchant]", 5, 13, 384.24, 359.76, 0, new Array());
+mapLocations[255] = new Array(255, "Larimaine Purdue [Portal Trainer]", 6, 4, 290.91, 457.94, 0, new Array());
+mapLocations[244] = new Array(244, "Larson Clothiers", 15, 0, 314.18, 443.64, 0, new Array());
+mapLocations[157] = new Array(157, "Lenny 'Fingers' McCoy [Lockpicking Trainer]", 19, 44, 462.79, 315.88, 0, new Array());
+mapLocations[183] = new Array(183, "Lilliam Sparkspindle [Engineering Trainer]", 19, 51, 385.94, 173.09, 0, new Array());
+mapLocations[263] = new Array(263, "Lilyssia Nightbreeze [Alchemy Trainer]", 19, 46, 338.42, 453.09, 0, new Array());
+mapLocations[131] = new Array(131, "Limited Immunity", 15, 0, 490.91, 326.55, 0, new Array());
+mapLocations[99] = new Array(99, "Lina Stover [Arrow Merchant]", 5, 34, 362.67, 365.58, 0, new Array());
+mapLocations[104] = new Array(104, "Lionheart Armory", 15, 0, 387.39, 362.91, 0, new Array());
+mapLocations[251] = new Array(251, "Lisan Pierce", 7, 0, 299.15, 450.18, 0, new Array());
+mapLocations[117] = new Array(117, "Lisbeth Schneider [Clothier]", 5, 35, 360.24, 359.52, 0, new Array());
+mapLocations[163] = new Array(163, "Lord Baurles K.  WIshock [House of Nobles]", 7, 0, 500.85, 265.21, 0, new Array());
+mapLocations[171] = new Array(171, "Lord Daval Prestor II", 7, 0, 516.12, 211.39, 0, new Array());
+mapLocations[212] = new Array(212, "Lord Grayson Shadowbreaker [Paladin Trainer]", 6, 9, 286.3, 273.45, 0, new Array());
+mapLocations[166] = new Array(166, "Lord Gregor Lescovar", 7, 0, 488.97, 168.24, 0, new Array());
+mapLocations[273] = new Array(273, "Lucan Cordell [Enchanting Trainer]", 19, 50, 318.55, 394.42, 0, new Array());
+mapLocations[259] = new Array(259, "Maginor Dumas [Master Mage]", 7, 0, 293.09, 465.7, 0, new Array());
+mapLocations[174] = new Array(174, "Major Samuelson [Stormwind City Guard]", 7, 0, 486.3, 205.82, 0, new Array());
+mapLocations[222] = new Array(222, "Maldryn [Druid Trainer]", 6, 8, 185.21, 349.82, 0, new Array());
+mapLocations[110] = new Array(110, "Marda Weller [Weapons Merchant]", 5, 23, 399.27, 366.3, 0, new Array());
+mapLocations[262] = new Array(262, "Maria Lumere [Alchemy Supplier]", 5, 31, 340.85, 452.36, 0, new Array());
+mapLocations[124] = new Array(124, "Maris Granger [Skinning Trainer]", 19, 39, 458.18, 333.33, 0, new Array());
+mapLocations[130] = new Array(130, "Master Matthias Shaw [Guildmaster of the Stormwind Assasins]", 7, 0, 493.82, 347.39, 0, new Array());
+mapLocations[161] = new Array(161, "Mayda Thane [Cobbler]", 5, 13, 455.76, 311.76, 0, new Array());
+mapLocations[165] = new Array(165, "Milton Sheaf [Librarian]", 7, 0, 493.33, 172.61, 0, new Array());
+mapLocations[172] = new Array(172, "Mithras Ironhill", 7, 0, 540.36, 197.82, 0, new Array());
+mapLocations[92] = new Array(92, "Morgan Pestle", 7, 0, 393.94, 394.18, 0, new Array());
+mapLocations[177] = new Array(177, "Morgg Stormshot [Swordsmith]", 19, 22, 411.64, 227.39, 0, new Array());
+mapLocations[216] = new Array(216, "Morris Lawry", 7, 0, 318.79, 333.09, 0, new Array());
+mapLocations[102] = new Array(102, "Newton Burnside [Banker]", 7, 25, 393.45, 430.06, 0, new Array());
+mapLocations[151] = new Array(151, "Nikova Raskol", 7, 0, 466.67, 300.36, 0, new Array());
+mapLocations[156] = new Array(156, "Ol' Beasley", 7, 0, 471.52, 323.39, 0, new Array());
+mapLocations[103] = new Array(103, "Olivia Burnside [Banker]", 7, 25, 396.61, 428.12, 0, new Array());
+mapLocations[129] = new Array(129, "Osborne the Night Man [Rogue Trainer]", 6, 6, 510.3, 369.7, 0, new Array());
+mapLocations[132] = new Array(132, "Osric Strang [Heavy Armor Merchant]", 5, 13, 494.79, 326.55, 0, new Array());
+mapLocations[249] = new Array(249, "Owen Vaughn [Reagent Vendor]", 5, 62, 280, 435.15, 0, new Array());
+mapLocations[88] = new Array(88, "Pestle's Apothecary", 15, 0, 397.09, 394.91, 0, new Array());
+mapLocations[136] = new Array(136, "Pig and Whistle Tavern", 15, 0, 480.73, 298.18, 0, new Array());
+mapLocations[228] = new Array(228, "Pyrotechnics", 15, 0, 245.58, 411.39, 0, new Array());
+mapLocations[82] = new Array(82, "Rebecca Laughlin [Tabard Vendor]", 5, 29, 397.09, 408.24, 0, new Array());
+mapLocations[144] = new Array(144, "Reese Langston [Tavernkeeper]", 5, 30, 495.76, 282.67, 0, new Array());
+mapLocations[118] = new Array(118, "Rema Schneider", 7, 0, 358.3, 360, 0, new Array());
+mapLocations[89] = new Array(89, "Renato Gallina", 7, 0, 397.33, 391.27, 0, new Array());
+mapLocations[196] = new Array(196, "Righteous Plates", 15, 0, 326.55, 311.76, 0, new Array());
+mapLocations[114] = new Array(114, "Roberto Pupellyverbos [Merlot Connoisseur]", 5, 30, 370.18, 408.97, 0, new Array());
+mapLocations[235] = new Array(235, "Sandahl [Warlock Trainer]", 6, 1, 222.3, 453.33, 0, new Array());
+mapLocations[125] = new Array(125, "Seoman Griffith [Leather Armor Merchant]", 5, 13, 455.76, 333.33, 0, new Array());
+mapLocations[202] = new Array(202, "Shaina Fuller [First Aid Trainer]", 19, 52, 320.73, 245.58, 0, new Array());
+mapLocations[225] = new Array(225, "Sheldras Moontree [Druid Trainer]", 6, 8, 195.88, 360, 0, new Array());
+mapLocations[220] = new Array(220, "Shylamiir [Herbalism Trainer]", 19, 47, 166.3, 336.48, 0, new Array());
+mapLocations[123] = new Array(123, "Simon Tanner [Leatherworking Trainer]", 19, 38, 457.45, 338.18, 0, new Array());
+mapLocations[153] = new Array(153, "Sloane McCoy [Poison Supplier]", 5, 43, 473.45, 310.79, 0, new Array());
+mapLocations[232] = new Array(232, "Spackle Thornberry [Demon Trainer]", 6, 64, 222.3, 446.3, 0, new Array());
+mapLocations[141] = new Array(141, "Stephan Ryback [Cooking Trainer]", 19, 18, 501.33, 285.58, 0, new Array());
+mapLocations[93] = new Array(93, "Stephanie Turner", 7, 0, 399.76, 383.27, 0, new Array());
+mapLocations[243] = new Array(243, "Steven Lohan", 7, 0, 312.48, 495.76, 0, new Array());
+mapLocations[193] = new Array(193, "Stormwind Anvils", 18, 61, 397.33, 208, 0, new Array());
+mapLocations[100] = new Array(100, "Stormwind Counting House", 17, 0, 386.42, 405.09, 0, new Array());
+mapLocations[192] = new Array(192, "Stormwind Forges", 18, 59, 393.21, 208, 0, new Array());
+mapLocations[269] = new Array(269, "Stormwind Staves", 15, 0, 320, 404.85, 0, new Array());
+mapLocations[409] = new Array(409, "Stormwind to Duskwood", 16, 70, 452.12, 387.64, 0, new Array(new Array(1206.29, 1114.31)));
+mapLocations[388] = new Array(388, "Stormwind to Ironforge", 16, 70, 452.12, 387.64, 0, new Array(new Array(1170, -1393.5)));
+mapLocations[385] = new Array(385, "Stormwind to Redridge Mountains", 16, 70, 452.12, 387.64, 0, new Array(new Array(1656, 620)));
+mapLocations[349] = new Array(349, "Stormwind to Westfall", 16, 70, 452.12, 387.64, 0, new Array(new Array(211, 1143)));
+mapLocations[80] = new Array(80, "Stormwind Visitor's Center", 15, 0, 402.42, 406.55, 0, new Array());
+mapLocations[184] = new Array(184, "Strummer Flintheel [Raptor Trainer]", 6, 64, 384.48, 197.58, 0, new Array());
+mapLocations[250] = new Array(250, "Suzanne", 7, 0, 299.39, 452.61, 0, new Array());
+mapLocations[115] = new Array(115, "Suzetta Gallina", 7, 0, 371.64, 407.27, 0, new Array());
+mapLocations[264] = new Array(264, "Tannysa [Herbalism Trainer]", 19, 47, 328.97, 446.3, 0, new Array());
+mapLocations[160] = new Array(160, "Thane's Boots and Shoulderpads", 15, 0, 452.85, 311.76, 0, new Array());
+mapLocations[194] = new Array(194, "The Argent Dawn", 15, 0, 355.88, 271.03, 0, new Array());
+mapLocations[240] = new Array(240, "The Blue Recluse", 15, 0, 303.03, 477.82, 0, new Array());
+mapLocations[83] = new Array(83, "The Cheese Cutters", 15, 0, 415.27, 395.88, 0, new Array());
+mapLocations[97] = new Array(97, "The Empty Quiver", 15, 0, 365.09, 367.52, 0, new Array());
+mapLocations[217] = new Array(217, "The Finest Thread", 15, 0, 299.39, 328.97, 0, new Array());
+mapLocations[122] = new Array(122, "The Protective Hide", 15, 0, 459.64, 333.33, 0, new Array());
+mapLocations[152] = new Array(152, "The Seven Deadly Venoms", 15, 0, 470.79, 312.97, 0, new Array());
+mapLocations[158] = new Array(158, "The Silver Shield", 15, 0, 444.12, 310.3, 0, new Array());
+mapLocations[230] = new Array(230, "The Slaughtered Lamb (Warlock Tavern)", 15, 0, 241.45, 433.7, 0, new Array());
+mapLocations[275] = new Array(275, "The Stockade", 4, 0, 305.94, 361.21, 0, new Array());
+mapLocations[278] = new Array(278, "The Stockade", 15, 0, 305.7, 363.15, 0, new Array());
+mapLocations[112] = new Array(112, "The Wine Cask", 15, 0, 368, 410.42, 0, new Array());
+mapLocations[198] = new Array(198, "Theresa Moulaine [Robe Vendor]", 5, 13, 321.45, 312.48, 0, new Array());
+mapLocations[223] = new Array(223, "Theridran [Druid Trainer]", 6, 8, 196.12, 345.94, 0, new Array());
+mapLocations[214] = new Array(214, "Thomas [Alter Boy]", 7, 0, 304.24, 256.73, 0, new Array());
+mapLocations[180] = new Array(180, "Thorfin Stoneshield [Hunter Trainer]", 6, 7, 429.82, 199.52, 0, new Array());
+mapLocations[185] = new Array(185, "Thulman Flintcrag [Guns Vendor]", 5, 23, 384.73, 203.64, 0, new Array());
+mapLocations[95] = new Array(95, "Thurman Mullby [General Goods Vendor]", 5, 15, 406.3, 382.79, 0, new Array());
+mapLocations[246] = new Array(246, "Thurman Schneider", 7, 0, 316.61, 440, 0, new Array());
+mapLocations[179] = new Array(179, "Ulfir Ironbeard [Hunter Trainer]", 6, 7, 427.15, 200.48, 0, new Array());
+mapLocations[231] = new Array(231, "Ursula Deline [Warlock Trainer]", 6, 1, 225.21, 444.61, 0, new Array());
+mapLocations[272] = new Array(272, "Warden Thelwater", 7, 0, 310.06, 368.24, 0, new Array());
+mapLocations[109] = new Array(109, "Weller's Arsenal", 15, 0, 394.67, 370.42, 0, new Array());
+mapLocations[176] = new Array(176, "Wilder Thistlenettle", 7, 0, 446.55, 225.21, 0, new Array());
+mapLocations[133] = new Array(133, "Wilhelm Strang [Mail Armor Merchant]", 5, 13, 496, 328.24, 0, new Array());
+mapLocations[254] = new Array(254, "Wizard's Sanctum", 15, 0, 291.64, 461.82, 0, new Array());
+mapLocations[147] = new Array(147, "Wu Shen [Warrior Trainer]", 6, 3, 490.91, 288, 0, new Array());
+mapLocations[247] = new Array(247, "Wynne Larson [Robe Merchant]", 5, 13, 313.7, 440.48, 0, new Array());
+mapLocations[236] = new Array(236, "Zardeth of the Black Claw", 7, 0, 225.94, 450.91, 0, new Array());
+mapLocations[237] = new Array(237, "Ziggi", 7, 0, 228.12, 450.42, 0, new Array());
+mapLocations[410] = new Array(410, "Duskwood to Stormwind", 16, 70, 1206.29, 1114.31, 0, new Array(new Array(452.12, 387.64)));
+
+
+//-->
+</script><script language="javascript" src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/error.js"></script><script language="javascript" src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/legend.js"></script><script language="javascript" src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/mapping.js"></script><script language="javascript" src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/dynamic.js"></script></head>
+
+
+
+
+
+<body><div id="oToolTip" style="text-align: center; border: solid black 1px; padding: 3px; color: black; position: absolute; visibility: hidden; z-index: 6"></div><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/world-of-warcraft.htm" name="map_image" style="position: absolute; left: 300; top: 0; z-index: 0" onmousemove="showCoords()"><div style="position: absolute; left: 300; top: 0; z-index: 3" onmousemove="showCoords()" onclick="moveMarker()"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/blank_002.gif" id="map_cover" width="1" height="1"></div><div id="marker" style="visibility: hidden; position: absolute; left: -100; top: -100; z-index: 5" onmouseover="showMarkerCoords()" onmouseout="hideLandmark()"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/marker.gif"></div><div class="legend" id="legendDiv" style="z-index: 2; border-color: #d7cea4" onmouseover="showCoords()"><center><a href="https://web.archive.org/web/20040603072242/http://wowvault.ign.com" target="_blank"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/DynamicMapLogo.jpg" border="0"></a></center><br><center><p>Click on any location for more info.<br>See a missing landmark? <a href="https://web.archive.org/web/20040603072242/http://db.wowvault.ign.com/locations/index.php?view=usersubmit" target="_blank">Submit it!</a></p></center><table id="legendTable" cellspacing="5" cellpadding="0" border="0"><form method="GET" action="map.php"></form>
+<tbody><tr><td><b>Map:&nbsp;</b></td><td><select name="map" onchange="this.form.submit();">
+<option value="1">Dun Morogh</option>
+<option value="2">Elwynn Forest</option>
+<option value="3">Westfall</option>
+<option value="4">Redridge Mountains</option>
+<option value="7" selected="selected">Stormwind</option>
+<option value="8">World Routes</option>
+<option value="9">Teldrassil</option>
+</select></td></tr>
+<tr><td><b>Search:&nbsp;</b></td><td><input type="text" onkeypress="searchKeyPressed()" name="SearchText" style="width:100%"></td></tr></tbody></table><br><div id="legendBody" style="position: relative; z-index: 2"><table cellspacing="0" cellpadding="1" border="0"><colgroup width="12"></colgroup><colgroup width="20"></colgroup><colgroup width="20"></colgroup><colgroup width="20"></colgroup><colgroup width="20"></colgroup><colgroup></colgroup><tbody><tr><td valign="center" align="center"><b><span onclick="collapseLegend('allLocations');" style="cursor: hand;" id="allLocations_collapse"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/minus.gif" width="11" height="11"></span></b></td><td><input type="checkbox" id="allLocations_option" checked="checked" onclick="enableLocationType('allLocations', '-1')"></td><td colspan="4" align="left"><span onclick="collapseLegend('allLocations');" style="cursor: hand;" id="allLocations_collapse"><nobr>All Locations</nobr></span></td></tr><tr><td></td><td></td><td><input type="checkbox" id="type_4_option" checked="checked" onclick="enableLocationType('type_4', '-1')"></td><td valign="center" align="center"><span id="type_4_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/dungeon.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="11"></span></td><td colspan="2"> <nobr>Dungeon</nobr></td></tr><tr><td></td><td></td><td><input type="checkbox" id="type_5_option" checked="checked" onclick="enableLocationType('type_5', '-1')"></td><td valign="center" align="center"><span id="type_5_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/orangedot.gif" valign="center" onmousemove="showCoords()" width="7" vspace="3" hspace="3" height="7"></span></td><td colspan="2"> <nobr>Vendor</nobr></td></tr><tr><td></td><td valign="center" align="center"><b><span onclick="collapseLegend('type_6');" style="cursor: hand;" id="type_6_collapse"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/minus.gif" width="11" height="11"></span></b></td><td><input type="checkbox" id="type_6_option" checked="checked" onclick="enableLocationType('type_6', '-1')"></td><td valign="center" align="center"><span id="type_6_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/blank.gif" valign="center" onmousemove="showCoords()" width="1" vspace="3" hspace="3" height="1"></span></td><td colspan="2"> <nobr>Class Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_1_option" checked="checked" onclick="enableLocationType('subtype_1', '-1')"></td><td valign="center" align="center"><span id="subtype_1_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/purplesquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Warlock Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_2_option" checked="checked" onclick="enableLocationType('subtype_2', '-1')"></td><td valign="center" align="center"><span id="subtype_2_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/lightbluesquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Priest Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_3_option" checked="checked" onclick="enableLocationType('subtype_3', '-1')"></td><td valign="center" align="center"><span id="subtype_3_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/redsquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Warrior Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_4_option" checked="checked" onclick="enableLocationType('subtype_4', '-1')"></td><td valign="center" align="center"><span id="subtype_4_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/orangesquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Mage Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_5_option" checked="checked" onclick="enableLocationType('subtype_5', '-1')"></td><td valign="center" align="center"><span id="subtype_5_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/pinksquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Shaman Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_6_option" checked="checked" onclick="enableLocationType('subtype_6', '-1')"></td><td valign="center" align="center"><span id="subtype_6_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/whitesquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Rogue Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_7_option" checked="checked" onclick="enableLocationType('subtype_7', '-1')"></td><td valign="center" align="center"><span id="subtype_7_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/bluesquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Hunter Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_8_option" checked="checked" onclick="enableLocationType('subtype_8', '-1')"></td><td valign="center" align="center"><span id="subtype_8_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/greensquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Druid Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_9_option" checked="checked" onclick="enableLocationType('subtype_9', '-1')"></td><td valign="center" align="center"><span id="subtype_9_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/yellowsquare.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Paladin Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_64_option" checked="checked" onclick="enableLocationType('subtype_64', '-1')"></td><td valign="center" align="center"><span id="subtype_64_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/world-of-warcraft_002.htm" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td> <nobr>Pet Trainer</nobr></td></tr><tr><td></td><td valign="center" align="center"><b><span onclick="collapseLegend('type_7');" style="cursor: hand;" id="type_7_collapse"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/minus.gif" width="11" height="11"></span></b></td><td><input type="checkbox" id="type_7_option" checked="checked" onclick="enableLocationType('type_7', '-1')"></td><td valign="center" align="center"><span id="type_7_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/limedot.gif" valign="center" onmousemove="showCoords()" width="7" vspace="3" hspace="3" height="7"></span></td><td colspan="2"> <nobr>NPC</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_33_option" checked="checked" onclick="enableLocationType('subtype_33', '-1')"></td><td valign="center" align="center"><span id="subtype_33_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/purpledot.gif" valign="center" onmousemove="showCoords()" width="7" vspace="3" hspace="3" height="7"></span></td><td> <nobr>Gryphon Master</nobr></td></tr><tr><td></td><td></td><td><input type="checkbox" id="type_9_option" checked="checked" onclick="enableLocationType('type_9', '-1')"></td><td valign="center" align="center"><span id="type_9_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/tombstone.gif" valign="center" onmousemove="showCoords()" width="12" vspace="3" hspace="3" height="16"></span></td><td colspan="2"> <nobr>Bind Stone</nobr></td></tr><tr><td></td><td></td><td><input type="checkbox" id="type_15_option" checked="checked" onclick="enableLocationType('type_15', '-1')"></td><td valign="center" align="center"><span id="type_15_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/building.gif" valign="center" onmousemove="showCoords()" width="9" vspace="3" hspace="3" height="9"></span></td><td colspan="2"> <nobr>City Buildings</nobr></td></tr><tr><td></td><td valign="center" align="center"><b><span onclick="collapseLegend('type_16');" style="cursor: hand;" id="type_16_collapse"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/minus.gif" width="11" height="11"></span></b></td><td><input type="checkbox" id="type_16_option" checked="checked" onclick="enableLocationType('type_16', '-1')"></td><td valign="center" align="center"><span id="type_16_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/blank.gif" valign="center" onmousemove="showCoords()" width="1" vspace="3" hspace="3" height="1"></span></td><td colspan="2"> <nobr>Route</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_70_option" checked="checked" onclick="enableLocationType('subtype_70', '-1')"></td><td valign="center" align="center"><span id="subtype_70_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/world-of-warcraft_004.htm" valign="center" onmousemove="showCoords()" width="16" vspace="3" hspace="3" height="16"></span></td><td> <nobr>Alliance - Gryphon</nobr></td></tr><tr><td></td><td></td><td><input type="checkbox" id="type_17_option" checked="checked" onclick="enableLocationType('type_17', '-1')"></td><td valign="center" align="center"><span id="type_17_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/money.gif" valign="center" onmousemove="showCoords()" width="13" vspace="3" hspace="3" height="13"></span></td><td colspan="2"> <nobr>Bank</nobr></td></tr><tr><td></td><td valign="center" align="center"><b><span onclick="collapseLegend('type_19');" style="cursor: hand;" id="type_19_collapse"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/minus.gif" width="11" height="11"></span></b></td><td><input type="checkbox" id="type_19_option" checked="checked" onclick="enableLocationType('type_19', '-1')"></td><td valign="center" align="center"><span id="type_19_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/blank.gif" valign="center" onmousemove="showCoords()" width="1" vspace="3" hspace="3" height="1"></span></td><td colspan="2"> <nobr>Trade Skill Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_18_option" checked="checked" onclick="enableLocationType('subtype_18', '-1')"></td><td valign="center" align="center"><span id="subtype_18_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/whitediamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Cooking Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_22_option" checked="checked" onclick="enableLocationType('subtype_22', '-1')"></td><td valign="center" align="center"><span id="subtype_22_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/yellowdiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Blacksmithing Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_38_option" checked="checked" onclick="enableLocationType('subtype_38', '-1')"></td><td valign="center" align="center"><span id="subtype_38_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/pinkdiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Leatherworking Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_39_option" checked="checked" onclick="enableLocationType('subtype_39', '-1')"></td><td valign="center" align="center"><span id="subtype_39_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/greydiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Skinning Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_46_option" checked="checked" onclick="enableLocationType('subtype_46', '-1')"></td><td valign="center" align="center"><span id="subtype_46_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/purplediamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Alchemy Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_47_option" checked="checked" onclick="enableLocationType('subtype_47', '-1')"></td><td valign="center" align="center"><span id="subtype_47_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/greendiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Herbalism Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_48_option" checked="checked" onclick="enableLocationType('subtype_48', '-1')"></td><td valign="center" align="center"><span id="subtype_48_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/bluediamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Fishing Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_49_option" checked="checked" onclick="enableLocationType('subtype_49', '-1')"></td><td valign="center" align="center"><span id="subtype_49_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/creamdiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Tailoring Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_50_option" checked="checked" onclick="enableLocationType('subtype_50', '-1')"></td><td valign="center" align="center"><span id="subtype_50_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/tealdiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Enchanting Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_51_option" checked="checked" onclick="enableLocationType('subtype_51', '-1')"></td><td valign="center" align="center"><span id="subtype_51_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/orangediamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Engineering Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_52_option" checked="checked" onclick="enableLocationType('subtype_52', '-1')"></td><td valign="center" align="center"><span id="subtype_52_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/reddiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>First Aid Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_53_option" checked="checked" onclick="enableLocationType('subtype_53', '-1')"></td><td valign="center" align="center"><span id="subtype_53_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/world-of-warcraft_003.htm" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Mining Trainer</nobr></td></tr><tr><td></td><td></td><td></td><td><input type="checkbox" id="subtype_54_option" checked="checked" onclick="enableLocationType('subtype_54', '-1')"></td><td valign="center" align="center"><span id="subtype_54_optionitem"><img src="World%20of%20Warcraft%20Vault%20-%20Dynamic%20Maps-Dateien/mintdiamond.gif" valign="center" onmousemove="showCoords()" width="11" vspace="3" hspace="3" height="11"></span></td><td> <nobr>Survival Trainer</nobr></td></tr></tbody></table><br></div></div>
+
+<script language="javascript">
+
+showAllLocations()
+var mapInUse = document.getElementsByTagName("img")
+var legendDiv = document.getElementById("legendDiv")
+
+mapInUse[0].style.width = "2500px";
+mapInUse[0].style.height = "1666px";
+
+mapInUse[0].style.left = "-122px";
+mapInUse[0].style.top = "-10px";
+
+legendDiv.style.backgroundColor = "black"
+
+</script>
+
+<style type="text/css">
+<!--
+body
+{
+background-color: black; color: #d7cea4; }
+div, p, table, td, tr, span, a
+{
+color: #d7cea4; }
+.legend
+{
+border: 2px solid; padding: 5px; position: absolute; left: 10; top: 10; border-color: #d7cea4;}
+-->
+</style>
+
+
+
+
+
+</body></html>
+<!--
+     FILE ARCHIVED ON 07:22:42 Jun 03, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:40:31 Dec 30, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 4640.904
+  exclusion.robots: 0.187
+  exclusion.robots.policy: 0.18
+  cdx.remote: 0.061
+  esindex: 0.008
+  LoadShardBlock: 826.053 (3)
+  PetaboxLoader3.resolve: 447.606 (3)
+  PetaboxLoader3.datanode: 1427.967 (4)
+  CDXLines.iter: 12.772 (3)
+  load_resource: 1258.042
+-->

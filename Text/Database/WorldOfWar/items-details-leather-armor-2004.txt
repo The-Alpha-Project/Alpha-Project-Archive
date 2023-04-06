@@ -1,0 +1,3646 @@
+Ringed Helm
+	Stats
+	Min Level: 20
+Armor: 26
++5 Spirit
++3 Stamina
+Pawn Price: 16 63
+	
+	
+
+Emblazoned Helm
+	Stats
+	Min Level: 21
+Armor: 27
++2 Intellect
++4 Spirit
++40 Health
+Pawn Price: 17 67
+	
+	
+
+Ruffled Chaplet
+	Stats
+	Min Level: 21
+Armor: 27
++6 Intellect
++2 Stamina
+Pawn Price: 18 84
+	
+	
+
+Whisperwind Headdress
+	Stats
+	Min Level: 22
+Armor: 27
++3 Intellect
++4 Spirit
++15 Health
+Pawn Price: 20 59
+	
+	
+
+Tribal Worg Helm
+	Stats
+	Min Level: 22
+Armor: 27
++3 Agility
++2 Spirit
++4 Stamina
+Pawn Price: 20 65
+	
+	
+
+Enduring Cap
+	Stats
+	Min Level: 24
+Armor: 30
++9 Spirit
++3 Stamina
+Pawn Price: 29 21
+	
+	
+
+Feathered Headdress
+	Stats
+	Min Level: 26
+Armor: 30
++5 Intellect
++5 Stamina
+Pawn Price: 28 46
+	
+	
+
+Insignia Helm
+	Stats
+	Min Level: 26
+Armor: 30
++3 Intellect
++5 Spirit
++50 Health
+Pawn Price: 29 69
+	
+	
+
+Studded Leather Cap
+	Stats
+	Min Level: 27
+Armor: 28
++5 Spirit
+Pawn Price: 20 40
+	
+	
+
+Glyphed Helm
+	Stats
+	Min Level: 30
+Armor: 32
++5 Agility
++2 Spirit
++5 Stamina
+Pawn Price: 40 69
+	
+	
+
+Reinforced Leather Cap
+	Stats
+	Min Level: 40
+Armor: 34
++9 Stamina
+Pawn Price: 55 4
+
+
+
+Patched Leather Shoulderpads
+	Stats
+	Min Level: 15
+Armor: 19
+Pawn Price: 2 7
+	
+	
+
+Rugged Spaulders
+	Stats
+	Min Level: 15
+Armor: 27
+Pawn Price: 3 8
+	
+	
+
+Rigid Shoulderpads
+	Stats
+	Min Level: 15
+Armor: 27
+Pawn Price: 3 13
+	
+	
+
+Bashing Pauldrons
+	Stats
+	Min Level: 15
+Armor: 24
+Pawn Price: 3 23
+	
+	
+
+Tough Leather Shoulderpads
+	Stats
+	Min Level: 15
+Armor: 19
+Pawn Price: 4 18
+	
+	
+
+Forest Leather Mantle
+	Stats
+	Min Level: 15
+Armor: 27
+Pawn Price: 5 89
+	
+	
+
+Hardened Leather Shoulderpads
+	Stats
+	Min Level: 16
+Armor: 19
+Pawn Price: 4 40
+	
+	
+
+Scouting Spaulders
+	Stats
+	Min Level: 17
+Armor: 28
+Pawn Price: 4 5
+	
+	
+
+Inscribed Leather Spaulders
+	Stats
+	Min Level: 17
+Armor: 28
+Pawn Price: 4 36
+	
+	
+
+Dark Leather Shoulders
+	Stats
+	Min Level: 18
+Armor: 32
++35 Health
+Pawn Price: 14 57
+	
+	
+
+Emblazoned Shoulders
+	Stats
+	Min Level: 20
+Armor: 31
+Pawn Price: 9 63
+	
+	
+
+Mantle of Thieves
+	Stats
+	Min Level: 20
+Armor: 35
++4 Agility
++1 Shadow Resistance
+Pawn Price: 19 57
+	
+	
+
+Forest Tracker Epaulets
+	Stats
+	Min Level: 20
+Armor: 35
++4 Agility
+Pawn Price: 21 15
+	
+	
+
+Dervish Spaulders
+	Stats
+	Min Level: 21
+Armor: 31
+Pawn Price: 6 69
+	
+	
+
+Hillman's Shoulders
+	Stats
+	Min Level: 21
+Armor: 34
++1 Spirit
+Pawn Price: 11 99
+	
+	
+
+Barbaric Shoulders
+	Stats
+	Min Level: 25
+Armor: 38
++3 Spirit
+Pawn Price: 26 9
+	
+	
+
+Insignia Mantle
+	Stats
+	Min Level: 28
+Armor: 41
++2 Agility
++2 Intellect
+Pawn Price: 36 71
+
+
+
+Frostmane Leather Vest
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 8
+	
+	
+
+Ragged Leather Vest
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 8
+	
+	
+
+Nomadic Vest
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 8
+	
+	
+
+Layered Vest
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 12
+	
+	
+
+Cracked Leather Vest
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 12
+	
+	
+
+Handstitched Leather Vest
+	Stats
+	Min Level: 1
+Armor: 12
+Pawn Price: 12
+	
+	
+
+Dirty Leather Vest
+	Stats
+	Min Level: 1
+Armor: 12
+Pawn Price: 12
+	
+	
+
+Woodland Tunic
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 13
+	
+	
+
+Patched Leather Vest
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 59
+	
+	
+
+Rough Leather Vest
+	Stats
+	Min Level: 1
+Armor: 20
+Pawn Price: 71
+	
+	
+
+Brood Mother Carapace
+	Stats
+	Min Level: 1
+Armor: 22
++1 Stamina
+Pawn Price: 1 19
+	
+	
+
+Black Bear Hide Vest
+	Stats
+	Min Level: 2
+Armor: 23
+Pawn Price: 1 21
+	
+	
+
+Soft Leather Tunic
+	Stats
+	Min Level: 2
+Armor: 25
++1 Agility
+Pawn Price: 2 1
+	
+	
+
+White Leather Jerkin
+	Stats
+	Min Level: 3
+Armor: 24
+Pawn Price: 1 50
+	
+	
+
+Burnt Leather Vest
+	Stats
+	Min Level: 3
+Armor: 27
++1 Stamina
+Pawn Price: 2 43
+	
+	
+
+Footman Tunic
+	Stats
+	Min Level: 3
+Armor: 27
++1 Agility
++1 Spirit
+Pawn Price: 2 43
+	
+	
+
+Riverpaw Leather Vest
+	Stats
+	Min Level: 3
+Armor: 27
++2 Agility
+Pawn Price: 2 49
+	
+	
+
+Hard Crawler Carapace
+	Stats
+	Min Level: 3
+Armor: 27
++1 Agility
++1 Stamina
+Pawn Price: 2 52
+	
+	
+
+Worn Leather Vest
+	Stats
+	Min Level: 4
+Armor: 14
+Pawn Price: 37
+	
+	
+
+Battered Leather Harness
+	Stats
+	Min Level: 5
+Armor: 22
+Pawn Price: 75
+	
+	
+
+Gnoll War Harness
+	Stats
+	Min Level: 5
+Armor: 28
++3 Stamina
+Pawn Price: 3 47
+	
+	
+
+Hunting Vest
+	Stats
+	Min Level: 5
+Armor: 28
++3 Agility
+Pawn Price: 3 66
+	
+	
+
+Spore-covered Tunic
+	Stats
+	Min Level: 5
+Armor: 28
++3 Spirit
+Pawn Price: 3 68
+	
+	
+
+Pioneer Tunic
+	Stats
+	Min Level: 6
+Armor: 24
+Pawn Price: 89
+	
+	
+
+Tiller's Vest
+	Stats
+	Min Level: 6
+Armor: 24
+Pawn Price: 90
+	
+	
+
+Bound Harness
+	Stats
+	Min Level: 6
+Armor: 24
+Pawn Price: 90
+	
+	
+
+Tribal Vest
+	Stats
+	Min Level: 6
+Armor: 26
++3 Health
++1 Mana
+Pawn Price: 1 60
+	
+	
+
+Embossed Leather Vest
+	Stats
+	Min Level: 7
+Armor: 28
++3 Health
+Pawn Price: 1 92
+	
+	
+
+Tanned Leather Vest
+	Stats
+	Min Level: 7
+Armor: 28
+Pawn Price: 2 90
+	
+	
+
+Murloc Scale Breastplate
+	Stats
+	Min Level: 9
+Armor: 32
++3 Stamina
++24 Health
++25 Mana
+Pawn Price: 6 1
+	
+	
+
+Rawhide Vest
+	Stats
+	Min Level: 10
+Armor: 21
+Pawn Price: 2 77
+	
+	
+
+Ceremonial Leather Harness
+	Stats
+	Min Level: 10
+Armor: 31
++1 Intellect
+Pawn Price: 3 41
+	
+	
+
+Bard's Tunic
+	Stats
+	Min Level: 10
+Armor: 31
+Pawn Price: 3 44
+	
+	
+
+Tough Leather Vest
+	Stats
+	Min Level: 11
+Armor: 22
+Pawn Price: 3 37
+	
+	
+
+Fine Leather Tunic
+	Stats
+	Min Level: 12
+Armor: 33
++1 Agility
+Pawn Price: 4 61
+	
+	
+
+Loch Croc Hide Vest
+	Stats
+	Min Level: 12
+Armor: 35
++5 Stamina
+Pawn Price: 9 29
+	
+	
+
+Moonglow Vest
+	Stats
+	Min Level: 13
+Armor: 34
++1 Spirit
+Pawn Price: 5 45
+	
+	
+
+Dark Leather Tunic
+	Stats
+	Min Level: 15
+Armor: 36
++2 Agility
+Pawn Price: 6 89
+	
+	
+
+Hillman's Leather Vest
+	Stats
+	Min Level: 15
+Armor: 36
++2 Stamina
+Pawn Price: 7 23
+	
+	
+
+Tunic of Westfall
+	Stats
+	Min Level: 15
+Armor: 37
++3 Agility
++3 Spirit
+Pawn Price: 13 29
+	
+	
+
+Bone-studded Leather
+	Stats
+	Min Level: 15
+Armor: 37
++3 Agility
++2 Stamina
++30 Health
+Pawn Price: 13 35
+	
+	
+
+Forest Leather Breastplate
+	Stats
+	Min Level: 15
+Armor: 37
++3 Agility
++3 Stamina
+Pawn Price: 13 50
+	
+	
+
+Gloomshroud Armor
+	Stats
+	Min Level: 15
+Armor: 39
++5 Agility
++2 Stamina
++1 Shadow Resistance
+Pawn Price: 15 53
+	
+	
+
+Turtle Skin Vest
+	Stats
+	Min Level: 15
+Armor: 39
++4 Intellect
++3 Stamina
+Pawn Price: 15 53
+	
+	
+
+Inscribed Leather Breastplate
+	Stats
+	Min Level: 16
+Armor: 37
++1 Stamina
++1 Spirit
+Pawn Price: 8 22
+	
+	
+
+Cured Leather Armor
+	Stats
+	Min Level: 17
+Armor: 35
+Pawn Price: 5 59
+	
+	
+
+Studded Leather Harness
+	Stats
+	Min Level: 17
+Armor: 35
++1 Stamina
+Pawn Price: 5 74
+	
+	
+
+Hardened Leather Vest
+	Stats
+	Min Level: 17
+Armor: 25
+Pawn Price: 6 48
+	
+	
+
+Armor of the Fang
+	Stats
+	Min Level: 17
+Armor: 38
++1 Agility
++1 Strength
++5 Health
+Pawn Price: 8 94
+	
+	
+
+Camouflaged Tunic
+	Stats
+	Min Level: 17
+Armor: 38
++2 Agility
+Pawn Price: 9 53
+	
+	
+
+Scouting Tunic
+	Stats
+	Min Level: 17
+Armor: 38
+Pawn Price: 9 81
+	
+	
+
+Cuirboulli Vest
+	Stats
+	Min Level: 17
+Armor: 35
+Pawn Price: 10 44
+	
+	
+
+Toughened Leather Armor
+	Stats
+	Min Level: 19
+Armor: 36
++2 Stamina
+Pawn Price: 7 43
+	
+	
+
+Barkshell Tunic
+	Stats
+	Min Level: 20
+Armor: 41
++2 Intellect
++1 Spirit
+Pawn Price: 13 55
+	
+	
+
+Dry Moss Tunic
+	Stats
+	Min Level: 20
+Armor: 41
++2 Agility
++10 Health
+Pawn Price: 13 60
+	
+	
+
+Dervish Tunic
+	Stats
+	Min Level: 20
+Armor: 41
+Pawn Price: 14 11
+	
+	
+
+Snapbrook Armor
+	Stats
+	Min Level: 20
+Armor: 41
++3 Spirit
++5 Stamina
++1 Nature Resistance
+Pawn Price: 23 51
+	
+	
+
+Green Leather Armor
+	Stats
+	Min Level: 21
+Armor: 42
++2 Stamina
++6 Spirit
+Pawn Price: 23 66
+	
+	
+
+Dark Iron Leather
+	Stats
+	Min Level: 22
+Armor: 40
+Pawn Price: 16 16
+	
+	
+
+Emblazoned Chestpiece
+	Stats
+	Min Level: 23
+Armor: 41
++5 Spirit
+Pawn Price: 18 57
+	
+	
+
+Raptorbane Tunic
+	Stats
+	Min Level: 24
+Armor: 45
++3 Agility
++2 Stamina
+Pawn Price: 20 23
+	
+	
+
+Thick Murloc Armor
+	Stats
+	Min Level: 24
+Armor: 46
++11 Spirit
++6 Agility
+Pawn Price: 32 11
+	
+	
+
+Guardian Armor
+	Stats
+	Min Level: 25
+Armor: 47
++9 Agility
+Pawn Price: 34 77
+	
+	
+
+Studded Leather Vest
+	Stats
+	Min Level: 27
+Armor: 44
++5 Spirit
+Pawn Price: 27 39
+	
+	
+
+Barbaric Harness
+	Stats
+	Min Level: 28
+Armor: 45
++6 Stamina
+Pawn Price: 27 38
+	
+	
+
+Insignia Armor
+	Stats
+	Min Level: 28
+Armor: 50
++7 Agility
++5 Stamina
+Pawn Price: 47 90
+	
+	
+
+Glyphed Breastplate
+	Stats
+	Min Level: 30
+Armor: 52
++6 Agility
++3 Spirit
++5 Strength
+Pawn Price: 56 8
+	
+	
+
+Reinforced Leather Vest
+	Stats
+	Min Level: 40
+Armor: 55
++9 Stamina
+Pawn Price: 67 90
+
+
+
+Nomadic Belt
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 2
+	
+	
+
+Outfitter Belt
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 4
+	
+	
+
+Blackened Leather Belt
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 4
+	
+	
+
+Ragged Leather Belt
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 4
+	
+	
+
+Squealer's Belt
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 6
+	
+	
+
+Dirty Leather Belt
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 6
+	
+	
+
+Cracked Leather Belt
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 6
+	
+	
+
+Ratty Old Belt
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 37
+	
+	
+
+Worn Leather Belt
+	Stats
+	Min Level: 2
+Armor: 5
+Pawn Price: 9
+	
+	
+
+Burnt Leather Belt
+	Stats
+	Min Level: 2
+Armor: 10
+Pawn Price: 56
+	
+	
+
+Handstitched Leather Belt
+	Stats
+	Min Level: 3
+Armor: 8
+Pawn Price: 19
+	
+	
+
+Animal Skin Belt
+	Stats
+	Min Level: 3
+Armor: 8
+Pawn Price: 19
+	
+	
+
+Patched Leather Belt
+	Stats
+	Min Level: 4
+Armor: 8
+Pawn Price: 60
+	
+	
+
+Rough Leather Belt
+	Stats
+	Min Level: 5
+Armor: 10
+Pawn Price: 36
+	
+	
+
+Battered Leather Belt
+	Stats
+	Min Level: 5
+Armor: 10
+Pawn Price: 37
+	
+	
+
+Hunting Belt
+	Stats
+	Min Level: 5
+Armor: 11
+Pawn Price: 1 2
+	
+	
+
+Wendigo Collar
+	Stats
+	Min Level: 5
+Armor: 12
++1 Agility
+Pawn Price: 1 69
+	
+	
+
+Tribal Belt
+	Stats
+	Min Level: 6
+Armor: 10
+Pawn Price: 46
+	
+	
+
+Pioneer Belt
+	Stats
+	Min Level: 6
+Armor: 10
+Pawn Price: 46
+	
+	
+
+Weathered Belt
+	Stats
+	Min Level: 7
+Armor: 11
+Pawn Price: 57
+	
+	
+
+Murloc Scale Belt
+	Stats
+	Min Level: 8
+Armor: 12
+Pawn Price: 1 56
+	
+	
+
+Ceremonial Leather Belt
+	Stats
+	Min Level: 10
+Armor: 12
+Pawn Price: 1 3
+	
+	
+
+Binding Girdle
+	Stats
+	Min Level: 10
+Armor: 14
++5 Mana
+Pawn Price: 1 75
+	
+	
+
+Bard's Belt
+	Stats
+	Min Level: 11
+Armor: 13
+Pawn Price: 1 24
+	
+	
+
+Fine Leather Belt
+	Stats
+	Min Level: 11
+Armor: 13
+Pawn Price: 1 25
+	
+	
+
+Tanned Leather Belt
+	Stats
+	Min Level: 12
+Armor: 13
+Pawn Price: 1 45
+	
+	
+
+Reinforced Belt
+	Stats
+	Min Level: 12
+Armor: 15
++1 Strength
+Pawn Price: 4 69
+	
+	
+
+Patched Leather Belt
+	Stats
+	Min Level: 13
+Armor: 10
+Pawn Price: 1 2
+	
+	
+
+Whipping Belt
+	Stats
+	Min Level: 13
+Armor: 16
++2 Strength
+Pawn Price: 5 32
+	
+	
+
+Deviate Scale Belt
+	Stats
+	Min Level: 13
+Armor: 16
++3 Stamina
+Pawn Price: 6 58
+	
+	
+
+Tough Leather Belt
+	Stats
+	Min Level: 14
+Armor: 10
+Pawn Price: 2 35
+	
+	
+
+Guardsman Belt
+	Stats
+	Min Level: 14
+Armor: 16
++1 Stamina
+Pawn Price: 5 86
+	
+	
+
+Scouting Belt
+	Stats
+	Min Level: 16
+Armor: 16
+Pawn Price: 4 22
+	
+	
+
+Cured Leather Belt
+	Stats
+	Min Level: 17
+Armor: 15
+Pawn Price: 2 77
+	
+	
+
+Steadfast Cinch
+	Stats
+	Min Level: 17
+Armor: 17
++1 Stamina
+Pawn Price: 4 47
+	
+	
+
+Inscribed Leather Belt
+	Stats
+	Min Level: 17
+Armor: 17
++10 Mana
+Pawn Price: 4 92
+	
+	
+
+Cuirboulli Belt
+	Stats
+	Min Level: 17
+Armor: 15
+Pawn Price: 5 24
+	
+	
+
+Belt of Vindication
+	Stats
+	Min Level: 17
+Armor: 17
++1 Strength
++1 Stamina
+Pawn Price: 8 23
+	
+	
+
+Girdle of the Blindwatcher
+	Stats
+	Min Level: 19
+Armor: 18
++1 Intellect
+Pawn Price: 6 29
+	
+	
+
+Hardened Leather Belt
+	Stats
+	Min Level: 20
+Armor: 12
+Pawn Price: 4 65
+	
+	
+
+Forest Leather Belt
+	Stats
+	Min Level: 20
+Armor: 18
++1 Spirit
+Pawn Price: 6 68
+	
+	
+
+Dervish Belt
+	Stats
+	Min Level: 20
+Armor: 18
+Pawn Price: 6 98
+	
+	
+
+Dark Leather Belt
+	Stats
+	Min Level: 20
+Armor: 18
++1 Agility
+Pawn Price: 7 3
+	
+	
+
+Zephyr Belt
+	Stats
+	Min Level: 20
+Armor: 18
++1 Agility
++40 Health
+Pawn Price: 10 71
+	
+	
+
+Emblazoned Belt
+	Stats
+	Min Level: 21
+Armor: 17
++1 Stamina
+Pawn Price: 7 18
+	
+	
+
+Green Leather Belt
+	Stats
+	Min Level: 22
+Armor: 19
++2 Spirit
++28 Mana
+Pawn Price: 13 11
+	
+	
+
+Beastmaster's Girdle
+	Stats
+	Min Level: 23
+Armor: 19
++1 Agility
++5 Health
+Pawn Price: 9 47
+	
+	
+
+Raptor Hide Belt
+	Stats
+	Min Level: 23
+Armor: 20
++3 Stamina
+Pawn Price: 15 53
+	
+	
+
+Azure Sash
+	Stats
+	Min Level: 24
+Armor: 20
++2 Intellect
+Pawn Price: 10
+	
+	
+
+Guardian Belt
+	Stats
+	Min Level: 24
+Armor: 20
++3 Agility
+Pawn Price: 15 92
+	
+	
+
+Shepherd's Girdle
+	Stats
+	Min Level: 24
+Armor: 20
++3 Spirit
+Pawn Price: 16 35
+	
+	
+
+Insignia Belt
+	Stats
+	Min Level: 26
+Armor: 19
++2 Strength
+Pawn Price: 12 5
+	
+	
+
+Studded Leather Belt
+	Stats
+	Min Level: 27
+Armor: 19
++30 Health
+Pawn Price: 13 74
+	
+	
+
+Gem Studded Leather Belt
+	Stats
+	Min Level: 27
+Armor: 22
++3 Stamina
+Pawn Price: 26 52
+	
+	
+
+Barbaric Belt
+	Stats
+	Min Level: 30
+Armor: 23
++2 Strength
++40 Mana
+Pawn Price: 28 4
+	
+	
+
+Reinforced Leather Belt
+	Stats
+	Min Level: 40
+Armor: 24
++3 Stamina
+Pawn Price: 34 8
+
+
+
+Ragged Leather Pants
+	Stats
+	Min Level: 1
+Armor: 2
+Pawn Price: 2
+	
+	
+
+Dwarven Leather Pants
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 8
+	
+	
+
+Canopy Leggings
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 8
+	
+	
+
+Cracked Leather Pants
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 11
+	
+	
+
+Dirty Leather Pants
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 12
+	
+	
+
+Dust-covered Leggings
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 12
+	
+	
+
+Rough Leather Pants
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 70
+	
+	
+
+Patched Pants
+	Stats
+	Min Level: 1
+Armor: 17
+Pawn Price: 75
+	
+	
+
+Worn Leather Pants
+	Stats
+	Min Level: 2
+Armor: 10
+Pawn Price: 18
+	
+	
+
+Handstitched Leather Pants
+	Stats
+	Min Level: 3
+Armor: 15
+Pawn Price: 39
+	
+	
+
+Burnt Leather Pants
+	Stats
+	Min Level: 3
+Armor: 23
++1 Agility
+Pawn Price: 2 44
+	
+	
+
+Vagabond Leggings
+	Stats
+	Min Level: 3
+Armor: 23
++2 Stamina
+Pawn Price: 2 47
+	
+	
+
+Rough-hewn Kodo Leggings
+	Stats
+	Min Level: 4
+Armor: 17
+Pawn Price: 54
+	
+	
+
+Battered Leather Pants
+	Stats
+	Min Level: 5
+Armor: 19
+Pawn Price: 68
+	
+	
+
+Harvester's Pants
+	Stats
+	Min Level: 5
+Armor: 25
++3 Spirit
+Pawn Price: 3 39
+	
+	
+
+Hunting Pants
+	Stats
+	Min Level: 5
+Armor: 25
++2 Agility
++2 Stamina
+Pawn Price: 3 41
+	
+	
+
+Pioneer Trousers
+	Stats
+	Min Level: 6
+Armor: 21
+Pawn Price: 92
+	
+	
+
+Rugged Leather Pants
+	Stats
+	Min Level: 6
+Armor: 23
++4 Health
+Pawn Price: 1 49
+	
+	
+
+Tribal Pants
+	Stats
+	Min Level: 7
+Armor: 24
++4 Health
+Pawn Price: 1 99
+	
+	
+
+Frontier Britches
+	Stats
+	Min Level: 7
+Armor: 26
++3 Agility
+Pawn Price: 4 58
+	
+	
+
+Rawhide Pants
+	Stats
+	Min Level: 8
+Armor: 17
+Pawn Price: 2 8
+	
+	
+
+Warped Leather Pants
+	Stats
+	Min Level: 9
+Armor: 17
+Pawn Price: 1 23
+	
+	
+
+Embossed Leather Pants
+	Stats
+	Min Level: 10
+Armor: 27
++1 Stamina
+Pawn Price: 3 47
+	
+	
+
+Stretched Leather Trousers
+	Stats
+	Min Level: 10
+Armor: 27
++1 Spirit
+Pawn Price: 3 63
+	
+	
+
+Kodo Hunter's Leggings
+	Stats
+	Min Level: 10
+Armor: 27
++10 Health
+Pawn Price: 3 68
+	
+	
+
+Smelting Pants
+	Stats
+	Min Level: 10
+Armor: 29
++2 Spirit
++2 Stamina
+Pawn Price: 6 99
+	
+	
+
+Stonemason Trousers
+	Stats
+	Min Level: 10
+Armor: 29
++3 Agility
++2 Spirit
+Pawn Price: 7 31
+	
+	
+
+Tanned Leather Pants
+	Stats
+	Min Level: 12
+Armor: 26
+Pawn Price: 2 89
+	
+	
+
+Ceremonial Leather Loin Cloth
+	Stats
+	Min Level: 12
+Armor: 29
++1 Intellect
+Pawn Price: 4 54
+	
+	
+
+Bard's Trousers
+	Stats
+	Min Level: 12
+Armor: 29
+Pawn Price: 4 56
+	
+	
+
+Bluegill Breeches
+	Stats
+	Min Level: 13
+Armor: 31
++5 Agility
+Pawn Price: 10 85
+	
+	
+
+Tough Leather Pants
+	Stats
+	Min Level: 14
+Armor: 20
+Pawn Price: 4 79
+	
+	
+
+Light Leather Pants
+	Stats
+	Min Level: 14
+Armor: 31
++1 Agility
+Pawn Price: 5 90
+	
+	
+
+Brambleweed Leggings
+	Stats
+	Min Level: 15
+Armor: 32
++1 Strength
++1 Stamina
+Pawn Price: 6 92
+	
+	
+
+Slick Deviate Leggings
+	Stats
+	Min Level: 15
+Armor: 32
++2 Agility
+Pawn Price: 7 13
+	
+	
+
+Smith's Trousers
+	Stats
+	Min Level: 15
+Armor: 32
++1 Agility
++1 Stamina
+Pawn Price: 7 15
+	
+	
+
+Shadow Weaver Leggings
+	Stats
+	Min Level: 15
+Armor: 32
++3 Agility
++3 Stamina
++1 Shadow Resistance
+Pawn Price: 13 60
+	
+	
+
+Inscribed Leather Pants
+	Stats
+	Min Level: 16
+Armor: 33
++2 Spirit
+Pawn Price: 8 25
+	
+	
+
+Fine Leather Pants
+	Stats
+	Min Level: 16
+Armor: 33
++1 Stamina
++1 Spirit
+Pawn Price: 8 29
+	
+	
+
+Cured Leather Pants
+	Stats
+	Min Level: 17
+Armor: 30
++1 Intellect
+Pawn Price: 5 61
+	
+	
+
+Scouting Trousers
+	Stats
+	Min Level: 17
+Armor: 33
+Pawn Price: 8 97
+	
+	
+
+Cuirboulli Pants
+	Stats
+	Min Level: 17
+Armor: 31
+Pawn Price: 9 61
+	
+	
+
+Dark Leather Pants
+	Stats
+	Min Level: 18
+Armor: 34
++2 Agility
++1 Stamina
+Pawn Price: 10 89
+	
+	
+
+Saber Leggings
+	Stats
+	Min Level: 18
+Armor: 35
++5 Spirit
++2 Stamina
++35 Mana
+Pawn Price: 18 94
+	
+	
+
+Forest Leather Pants
+	Stats
+	Min Level: 19
+Armor: 35
++3 Spirit
+Pawn Price: 11 99
+	
+	
+
+Mystic Leggings
+	Stats
+	Min Level: 19
+Armor: 35
++7 Spirit
+Pawn Price: 20 99
+	
+	
+
+Hardened Leather Pants
+	Stats
+	Min Level: 20
+Armor: 23
+Pawn Price: 8 56
+	
+	
+
+Dervish Leggings
+	Stats
+	Min Level: 20
+Armor: 36
+Pawn Price: 13 31
+	
+	
+
+Stalking Pants
+	Stats
+	Min Level: 21
+Armor: 36
++3 Agility
+Pawn Price: 15 71
+	
+	
+
+Guardian Pants
+	Stats
+	Min Level: 22
+Armor: 38
++8 Stamina
+Pawn Price: 27 94
+	
+	
+
+Emblazoned Pants
+	Stats
+	Min Level: 23
+Armor: 39
++5 Agility
++5 Spirit
+Pawn Price: 28 73
+	
+	
+
+Ferine Swine Leggings
+	Stats
+	Min Level: 23
+Armor: 39
++4 Agility
++5 Stamina
+Pawn Price: 30 42
+	
+	
+
+Barbaric Leggings
+	Stats
+	Min Level: 24
+Armor: 40
++9 Spirit
+Pawn Price: 31 51
+	
+	
+
+Insignia Leggings
+	Stats
+	Min Level: 25
+Armor: 41
++9 Agility
+Pawn Price: 36 25
+	
+	
+
+Basilisk Hide Pants
+	Stats
+	Min Level: 25
+Armor: 43
++9 Agility
++3 Spirit
+Pawn Price: 41 87
+	
+	
+
+Studded Leather Pants
+	Stats
+	Min Level: 27
+Armor: 39
++5 Agility
+Pawn Price: 24 95
+	
+	
+
+Panther Hunter Leggings
+	Stats
+	Min Level: 30
+Armor: 45
++11 Agility
++1 Nature Resistance
+Pawn Price: 54 3
+	
+	
+
+Glyphed Leggings
+	Stats
+	Min Level: 33
+Armor: 48
++6 Stamina
++8 Strength
+Pawn Price: 71 15
+	
+	
+
+Reinforced Leather Pants
+	Stats
+	Min Level: 40
+Armor: 48
++9 Agility
+Pawn Price: 68 42
+
+
+
+Ragged Leather Boots
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 2
+	
+	
+
+Dirty Leather Boots
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 9
+	
+	
+
+Cracked Leather Boots
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 9
+	
+	
+
+Handstitched Leather Boots
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 14
+	
+	
+
+Weather-worn Boots
+	Stats
+	Min Level: 1
+Armor: 14
+Pawn Price: 52
+	
+	
+
+Burnt Leather Boots
+	Stats
+	Min Level: 1
+Armor: 14
+Pawn Price: 54
+	
+	
+
+Lithe Boots
+	Stats
+	Min Level: 1
+Armor: 14
+Pawn Price: 54
+	
+	
+
+Rainwalker Boots
+	Stats
+	Min Level: 2
+Armor: 11
+Pawn Price: 21
+	
+	
+
+Worn Leather Boots
+	Stats
+	Min Level: 3
+Armor: 8
+Pawn Price: 19
+	
+	
+
+Zombie Skin Boots
+	Stats
+	Min Level: 3
+Armor: 12
+Pawn Price: 30
+	
+	
+
+Battered Leather Boots
+	Stats
+	Min Level: 5
+Armor: 15
+Pawn Price: 51
+	
+	
+
+Rough Leather Boots
+	Stats
+	Min Level: 5
+Armor: 15
+Pawn Price: 52
+	
+	
+
+Tribal Boots
+	Stats
+	Min Level: 5
+Armor: 15
+Pawn Price: 54
+	
+	
+
+Tiger Hide Boots
+	Stats
+	Min Level: 6
+Armor: 16
+Pawn Price: 71
+	
+	
+
+Pioneer Boots
+	Stats
+	Min Level: 7
+Armor: 17
+Pawn Price: 87
+	
+	
+
+Embossed Leather Boots
+	Stats
+	Min Level: 8
+Armor: 18
+Pawn Price: 1 11
+	
+	
+
+Fine Leather Boots
+	Stats
+	Min Level: 8
+Armor: 20
+Pawn Price: 2 43
+	
+	
+
+Black Whelp Boots
+	Stats
+	Min Level: 8
+Armor: 22
++1 Agility
++1 Spirit
+Pawn Price: 4 20
+	
+	
+
+Rawhide Boots
+	Stats
+	Min Level: 9
+Armor: 14
+Pawn Price: 1 76
+	
+	
+
+Warped Leather Boots
+	Stats
+	Min Level: 10
+Armor: 14
+Pawn Price: 1 9
+	
+	
+
+Ceremonial Leather Ankleguards
+	Stats
+	Min Level: 11
+Armor: 22
++5 Mana
+Pawn Price: 2 92
+	
+	
+
+Bard's Boots
+	Stats
+	Min Level: 11
+Armor: 22
+Pawn Price: 3 2
+	
+	
+
+Tanned Leather Boots
+	Stats
+	Min Level: 12
+Armor: 21
+Pawn Price: 2 15
+	
+	
+
+Hunting Boots
+	Stats
+	Min Level: 12
+Armor: 23
++5 Health
+Pawn Price: 3 39
+	
+	
+
+Stable Boots
+	Stats
+	Min Level: 13
+Armor: 24
++1 Stamina
+Pawn Price: 3 99
+	
+	
+
+Dark Leather Boots
+	Stats
+	Min Level: 15
+Armor: 23
+Pawn Price: 3 7
+	
+	
+
+Tough Leather Boots
+	Stats
+	Min Level: 15
+Armor: 16
+Pawn Price: 4
+	
+	
+
+Agile Boots
+	Stats
+	Min Level: 15
+Armor: 25
++1 Agility
+Pawn Price: 5 26
+	
+	
+
+Inscribed Leather Boots
+	Stats
+	Min Level: 15
+Armor: 25
++1 Strength
+Pawn Price: 5 40
+	
+	
+
+Scouting Boots
+	Stats
+	Min Level: 15
+Armor: 25
+Pawn Price: 5 52
+	
+	
+
+Ambassador's Boots
+	Stats
+	Min Level: 15
+Armor: 25
++3 Agility
+Pawn Price: 9 67
+	
+	
+
+Mariner Boots
+	Stats
+	Min Level: 15
+Armor: 25
++2 Agility
++1 Spirit
+Pawn Price: 10 39
+	
+	
+
+Feet of the Lynx
+	Stats
+	Min Level: 15
+Armor: 29
++3 Stamina
+Pawn Price: 12 14
+	
+	
+
+Hardened Leather Boots
+	Stats
+	Min Level: 16
+Armor: 16
+Pawn Price: 4 78
+	
+	
+
+Buckled Boots
+	Stats
+	Min Level: 16
+Armor: 26
++1 Intellect
+Pawn Price: 6 1
+	
+	
+
+Cured Leather Boots
+	Stats
+	Min Level: 17
+Armor: 24
+Pawn Price: 4 22
+	
+	
+
+Cuirboulli Boots
+	Stats
+	Min Level: 17
+Armor: 24
+Pawn Price: 7 88
+	
+	
+
+Stomping Boots
+	Stats
+	Min Level: 19
+Armor: 28
++1 Agility
++1 Strength
+Pawn Price: 9 22
+	
+	
+
+Lancer Boots
+	Stats
+	Min Level: 20
+Armor: 29
++2 Agility
++35 Health
+Pawn Price: 16 1
+	
+	
+
+Swampwalker Boots
+	Stats
+	Min Level: 20
+Armor: 30
++5 Agility
++3 Spirit
+Pawn Price: 21
+	
+	
+
+Forest Leather Boots
+	Stats
+	Min Level: 21
+Armor: 28
++2 Spirit
+Pawn Price: 11 53
+	
+	
+
+Draftsman Boots
+	Stats
+	Min Level: 22
+Armor: 29
++1 Intellect
++1 Spirit
+Pawn Price: 12 45
+	
+	
+
+Dervish Boots
+	Stats
+	Min Level: 22
+Armor: 29
+Pawn Price: 13 6
+	
+	
+
+Emblazoned Boots
+	Stats
+	Min Level: 22
+Armor: 30
++4 Agility
++2 Stamina
+Pawn Price: 20 20
+	
+	
+
+Grizzled Boots
+	Stats
+	Min Level: 24
+Armor: 31
++1 Spirit
++2 Strength
+Pawn Price: 15 81
+	
+	
+
+Thick Leather Boots
+	Stats
+	Min Level: 25
+Armor: 20
+Pawn Price: 10 31
+	
+	
+
+Insignia Boots
+	Stats
+	Min Level: 25
+Armor: 32
++3 Agility
++3 Stamina
+Pawn Price: 27 29
+	
+	
+
+Studded Leather Boots
+	Stats
+	Min Level: 27
+Armor: 31
++3 Agility
+Pawn Price: 18 86
+	
+	
+
+Reinforced Leather Boots
+	Stats
+	Min Level: 40
+Armor: 38
++5 Agility
+Pawn Price: 51 50
+
+
+
+Ragged Leather Bracers
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 2
+	
+	
+
+Wolfskin Bracers
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 2
+	
+	
+
+Nomadic Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 4
+	
+	
+
+Cracked Leather Bracers
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 6
+	
+	
+
+Feral Bracers
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 13
+	
+	
+
+Patched Leather Bracers
+	Stats
+	Min Level: 1
+Armor: 8
+Pawn Price: 32
+	
+	
+
+Sturdy Leather Bracers
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 36
+	
+	
+
+Rough Leather Bracers
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 37
+	
+	
+
+Handstitched Leather Bracers
+	Stats
+	Min Level: 2
+Armor: 8
+Pawn Price: 13
+	
+	
+
+Burnt Leather Bracers
+	Stats
+	Min Level: 2
+Armor: 12
+Pawn Price: 56
+	
+	
+
+Ice-covered Bracers
+	Stats
+	Min Level: 2
+Armor: 12
+Pawn Price: 58
+	
+	
+
+Sandrunner Wristguards
+	Stats
+	Min Level: 3
+Armor: 9
+Pawn Price: 20
+	
+	
+
+Worn Leather Bracers
+	Stats
+	Min Level: 4
+Armor: 7
+Pawn Price: 18
+	
+	
+
+Zombie Skin Bracers
+	Stats
+	Min Level: 4
+Armor: 10
+Pawn Price: 27
+	
+	
+
+Gnoll Kindred Bracers
+	Stats
+	Min Level: 4
+Armor: 12
+Pawn Price: 87
+	
+	
+
+Battered Leather Bracers
+	Stats
+	Min Level: 5
+Armor: 11
+Pawn Price: 34
+	
+	
+
+Plains Hunter Wristguards
+	Stats
+	Min Level: 5
+Armor: 11
+Pawn Price: 35
+	
+	
+
+Pioneer Bracers
+	Stats
+	Min Level: 5
+Armor: 11
+Pawn Price: 36
+	
+	
+
+Ivy Cuffs
+	Stats
+	Min Level: 5
+Armor: 13
+Pawn Price: 1 4
+	
+	
+
+Tribal Bracers
+	Stats
+	Min Level: 7
+Armor: 13
+Pawn Price: 59
+	
+	
+
+Burnt Hide Bracers
+	Stats
+	Min Level: 7
+Armor: 13
+Pawn Price: 60
+	
+	
+
+Light Leather Bracers
+	Stats
+	Min Level: 9
+Armor: 14
+Pawn Price: 84
+	
+	
+
+Bard's Bracers
+	Stats
+	Min Level: 11
+Armor: 15
+Pawn Price: 1 20
+	
+	
+
+Hunting Bracers
+	Stats
+	Min Level: 11
+Armor: 15
+Pawn Price: 1 20
+	
+	
+
+Tough Leather Bracers
+	Stats
+	Min Level: 11
+Armor: 11
+Pawn Price: 1 61
+	
+	
+
+Ceremonial Leather Bracers
+	Stats
+	Min Level: 12
+Armor: 15
+Pawn Price: 1 34
+	
+	
+
+Tanned Leather Bracers
+	Stats
+	Min Level: 12
+Armor: 15
+Pawn Price: 1 45
+	
+	
+
+Patched Leather Bracers
+	Stats
+	Min Level: 15
+Armor: 12
+Pawn Price: 1 36
+	
+	
+
+Inscribed Leather Bracers
+	Stats
+	Min Level: 15
+Armor: 16
+Pawn Price: 2 9
+	
+	
+
+Scouting Bracers
+	Stats
+	Min Level: 16
+Armor: 17
+Pawn Price: 2 55
+	
+	
+
+Deepwood Bracers
+	Stats
+	Min Level: 16
+Armor: 19
++1 Spirit
++1 Holy Resistance
+Pawn Price: 7 51
+	
+	
+
+Black Wolf Bracers
+	Stats
+	Min Level: 16
+Armor: 19
++1 Stamina
+Pawn Price: 7 68
+	
+	
+
+Cured Leather Bracers
+	Stats
+	Min Level: 17
+Armor: 17
+Pawn Price: 2 78
+	
+	
+
+Glowing Leather Bracers
+	Stats
+	Min Level: 18
+Armor: 20
++2 Strength
+Pawn Price: 8 95
+	
+	
+
+Madwolf Bracers
+	Stats
+	Min Level: 19
+Armor: 20
++2 Agility
+Pawn Price: 10 22
+	
+	
+
+Wolf Bracers
+	Stats
+	Min Level: 20
+Armor: 20
++1 Agility
+Pawn Price: 7 3
+	
+	
+
+Bear Bracers
+	Stats
+	Min Level: 20
+Armor: 20
++1 Strength
+Pawn Price: 7 5
+	
+	
+
+Owl Bracers
+	Stats
+	Min Level: 20
+Armor: 20
++1 Intellect
+Pawn Price: 7 8
+	
+	
+
+Emblazoned Bracers
+	Stats
+	Min Level: 20
+Armor: 21
++1 Stamina
++1 Strength
+Pawn Price: 10 75
+	
+	
+
+Dervish Bracers
+	Stats
+	Min Level: 21
+Armor: 21
+Pawn Price: 7 94
+	
+	
+
+Tough Leather Bracers
+	Stats
+	Min Level: 22
+Armor: 13
+Pawn Price: 3 51
+	
+	
+
+Cuirboulli Bracers
+	Stats
+	Min Level: 22
+Armor: 19
+Pawn Price: 5 27
+	
+	
+
+Forest Leather Bracers
+	Stats
+	Min Level: 22
+Armor: 21
++1 Stamina
+Pawn Price: 8 20
+	
+	
+
+Insignia Bracers
+	Stats
+	Min Level: 26
+Armor: 22
++1 Agility
++1 Spirit
+Pawn Price: 12 9
+	
+	
+
+Green Leather Bracers
+	Stats
+	Min Level: 26
+Armor: 24
++3 Intellect
+Pawn Price: 19 34
+	
+	
+
+Studded Leather Bracers
+	Stats
+	Min Level: 27
+Armor: 22
++2 Intellect
+Pawn Price: 12 62
+	
+	
+
+Murloc Scale Bracers
+	Stats
+	Min Level: 28
+Armor: 25
++3 Stamina
+Pawn Price: 23 16
+	
+	
+
+Reinforced Leather Bracers
+	Stats
+	Min Level: 40
+Armor: 27
++5 Agility
+Pawn Price: 34 46
+	
+	
+
+
+Battleworn Leather Gloves
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 2
+	
+	
+
+Ragged Leather Gloves
+	Stats
+	Min Level: 1
+Armor: 4
+Pawn Price: 2
+	
+	
+
+Archery Training Gloves
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 2
+	
+	
+
+Wolf Handler Gloves
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 4
+	
+	
+
+Worn Leather Gloves
+	Stats
+	Min Level: 1
+Armor: 5
+Pawn Price: 6
+	
+	
+
+Cracked Leather Gloves
+	Stats
+	Min Level: 1
+Armor: 6
+Pawn Price: 6
+	
+	
+
+Dirty Leather Gloves
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 6
+	
+	
+
+Lion-stamped Gloves
+	Stats
+	Min Level: 1
+Armor: 9
+Pawn Price: 19
+	
+	
+
+Driving Gloves
+	Stats
+	Min Level: 1
+Armor: 10
+Pawn Price: 28
+	
+	
+
+Rough Leather Gloves
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 35
+	
+	
+
+White Wolf Gloves
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 36
+	
+	
+
+Burnt Leather Gloves
+	Stats
+	Min Level: 1
+Armor: 11
+Pawn Price: 36
+	
+	
+
+Sewing Gloves
+	Stats
+	Min Level: 3
+Armor: 10
+Pawn Price: 20
+	
+	
+
+Double-layered Gloves
+	Stats
+	Min Level: 3
+Armor: 10
+Pawn Price: 20
+	
+	
+
+Patched Leather Gloves
+	Stats
+	Min Level: 3
+Armor: 9
+Pawn Price: 51
+	
+	
+
+Battered Leather Gloves
+	Stats
+	Min Level: 5
+Armor: 12
+Pawn Price: 34
+	
+	
+
+Veiled Grips
+	Stats
+	Min Level: 5
+Armor: 12
+Pawn Price: 36
+	
+	
+
+Tribal Gloves
+	Stats
+	Min Level: 5
+Armor: 12
+Pawn Price: 36
+	
+	
+
+Hunting Gloves
+	Stats
+	Min Level: 6
+Armor: 16
++1 Agility
+Pawn Price: 1 97
+	
+	
+
+Pioneer Gloves
+	Stats
+	Min Level: 7
+Armor: 14
+Pawn Price: 59
+	
+	
+
+Embossed Leather Gloves
+	Stats
+	Min Level: 8
+Armor: 15
+Pawn Price: 71
+	
+	
+
+Dusty Mining Gloves
+	Stats
+	Min Level: 8
+Armor: 18
++2 Spirit
+Pawn Price: 2 58
+	
+	
+
+Metalworking Gloves
+	Stats
+	Min Level: 8
+Armor: 18
++2 Stamina
+Pawn Price: 2 59
+	
+	
+
+Black Whelp Gloves
+	Stats
+	Min Level: 8
+Armor: 18
++1 Stamina
++1 Strength
+Pawn Price: 2 62
+	
+	
+
+Woodworking Gloves
+	Stats
+	Min Level: 8
+Armor: 18
++2 Spirit
+Pawn Price: 2 67
+	
+	
+
+Fine Leather Gloves
+	Stats
+	Min Level: 10
+Armor: 18
++5 Mana
+Pawn Price: 1 81
+	
+	
+
+Hammerfist Gloves
+	Stats
+	Min Level: 10
+Armor: 19
++2 Strength
+Pawn Price: 3 47
+	
+	
+
+Windsong Gloves
+	Stats
+	Min Level: 10
+Armor: 19
++2 Agility
+Pawn Price: 3 48
+	
+	
+
+Ghoul Fingers
+	Stats
+	Min Level: 10
+Armor: 19
++2 Agility
++1 Stamina
+Pawn Price: 3 62
+	
+	
+
+Ceremonial Leather Gloves
+	Stats
+	Min Level: 11
+Armor: 18
++3 Health
++3 Mana
+Pawn Price: 1 96
+	
+	
+
+Patched Leather Gloves
+	Stats
+	Min Level: 12
+Armor: 12
+Pawn Price: 90
+	
+	
+
+Tanned Leather Gloves
+	Stats
+	Min Level: 12
+Armor: 17
+Pawn Price: 1 44
+	
+	
+
+Bard's Gloves
+	Stats
+	Min Level: 12
+Armor: 19
+Pawn Price: 2 29
+	
+	
+
+Tough Leather Gloves
+	Stats
+	Min Level: 13
+Armor: 13
+Pawn Price: 2 11
+	
+	
+
+Scouting Gloves
+	Stats
+	Min Level: 15
+Armor: 20
+Pawn Price: 3 38
+	
+	
+
+Gloves of the Moon
+	Stats
+	Min Level: 15
+Armor: 20
++5 Health
++5 Mana
+Pawn Price: 3 59
+	
+	
+
+Inscribed Leather Gloves
+	Stats
+	Min Level: 15
+Armor: 20
++1 Agility
+Pawn Price: 3 61
+	
+	
+
+Brawler Gloves
+	Stats
+	Min Level: 15
+Armor: 24
++3 Strength
+Pawn Price: 7 82
+	
+	
+
+Naga Battle Gloves
+	Stats
+	Min Level: 15
+Armor: 22
++5 Agility
+Pawn Price: 7 88
+	
+	
+
+Spirit Claws of the Bear
+	Stats
+	Min Level: 15
+Armor: 24
++1 Spirit
+
+Pawn Price: 7 91
+	
+	
+
+Deviate Scale Gloves
+	Stats
+	Min Level: 16
+Armor: 21
++1 Intellect
+Pawn Price: 4 20
+	
+	
+
+Cured Leather Gloves
+	Stats
+	Min Level: 17
+Armor: 20
+Pawn Price: 2 82
+	
+	
+
+Cuirboulli Gloves
+	Stats
+	Min Level: 17
+Armor: 20
+Pawn Price: 5 29
+	
+	
+
+Toughened Leather Gloves
+	Stats
+	Min Level: 17
+Armor: 23
++3 Stamina
++1 Spirit
+Pawn Price: 9 62
+	
+	
+
+Wolfclaw Gloves
+	Stats
+	Min Level: 17
+Armor: 23
++3 Stamina
++4 Strength
+Pawn Price: 9 80
+	
+	
+
+Hardened Leather Gloves
+	Stats
+	Min Level: 19
+Armor: 15
+Pawn Price: 3 87
+	
+	
+
+Nimble Leather Gloves
+	Stats
+	Min Level: 19
+Armor: 23
++2 Agility
+Pawn Price: 5 72
+	
+	
+
+Hillman's Leather Gloves
+	Stats
+	Min Level: 19
+Armor: 23
++4 Spirit
+Pawn Price: 10 49
+	
+	
+
+Dervish Gloves
+	Stats
+	Min Level: 21
+Armor: 21
+Pawn Price: 4 81
+	
+	
+
+Forest Leather Gloves
+	Stats
+	Min Level: 22
+Armor: 22
++1 Spirit
+Pawn Price: 5 9
+	
+	
+
+Emblazoned Gloves
+	Stats
+	Min Level: 23
+Armor: 25
++2 Agility
++2 Stamina
+Pawn Price: 14 43
+	
+	
+
+Shepherd's Gloves
+	Stats
+	Min Level: 23
+Armor: 25
++4 Spirit
+Pawn Price: 14 92
+	
+	
+
+Insignia Gloves
+	Stats
+	Min Level: 25
+Armor: 26
++2 Agility
++2 Intellect
++3 Stamina
++1 Nature Resistance
+Pawn Price: 18 19
+	
+	
+
+Thick Leather Gloves
+	Stats
+	Min Level: 26
+Armor: 17
+Pawn Price: 7 65
+	
+	
+
+Studded Leather Gloves
+	Stats
+	Min Level: 27
+Armor: 25
++3 Stamina
+Pawn Price: 12 66
+	
+	
+
+Tiger Hunter Gloves
+	Stats
+	Min Level: 27
+Armor: 27
++5 Agility
+Pawn Price: 21 36
+	
+	
+
+Prospector Gloves
+	Stats
+	Min Level: 27
+Armor: 27
++3 Agility
++3 Stamina
++1 Nature Resistance
+Pawn Price: 22 9
+	
+	
+
+Guardian Gloves
+	Stats
+	Min Level: 28
+Armor: 25
++3 Agility
+Pawn Price: 13 74
+	
+	
+
+Glyphed Mitts
+	Stats
+	Min Level: 31
+Armor: 27
++1 Agility
++3 Stamina
+Pawn Price: 17 38
+	
+	
+
+Reinforced Leather Gloves
+	Stats
+	Min Level: 40
+Armor: 31
++5 Spirit
+Pawn Price: 34 59
+
+
+
+
+Ragged Leather Cloak
+	Stats
+	Min Level: 1
+Armor: 3
+Pawn Price: 2
+	
+	
+
+Bear Shawl
+	Stats
+	Min Level: 1
+Armor: 6
+Pawn Price: 6
+	
+	
+
+Battleworn Leather Cape
+	Stats
+	Min Level: 1
+Armor: 7
+Pawn Price: 6
+	
+	
+
+Burnt Leather Cloak
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 51
+	
+	
+
+Goat Fur Cloak
+	Stats
+	Min Level: 1
+Armor: 15
+Pawn Price: 53
+	
+	
+
+Handstitched Leather Cloak
+	Stats
+	Min Level: 2
+Armor: 12
+Pawn Price: 21
+	
+	
+
+Thunderhorn Cloak
+	Stats
+	Min Level: 3
+Armor: 13
+Pawn Price: 30
+	
+	
+
+Worn Leather Cloak
+	Stats
+	Min Level: 5
+Armor: 12
+Pawn Price: 36
+	
+	
+
+Tribal Cloak
+	Stats
+	Min Level: 5
+Armor: 16
+Pawn Price: 53
+	
+	
+
+Rugged Cape
+	Stats
+	Min Level: 5
+Armor: 19
+Pawn Price: 1 51
+	
+	
+
+Warm Cloak
+	Stats
+	Min Level: 5
+Armor: 21
++1 Stamina
+Pawn Price: 2 65
+	
+	
+
+Rain-spotted Cape
+	Stats
+	Min Level: 6
+Armor: 18
+Pawn Price: 67
+	
+	
+
+Rawhide Cloak
+	Stats
+	Min Level: 6
+Armor: 14
+Pawn Price: 1 17
+	
+	
+
+Warped Leather Cloak
+	Stats
+	Min Level: 7
+Armor: 13
+Pawn Price: 61
+	
+	
+
+Pioneer Cloak
+	Stats
+	Min Level: 7
+Armor: 19
+Pawn Price: 88
+	
+	
+
+Hunting Cloak
+	Stats
+	Min Level: 7
+Armor: 23
++1 Stamina
+Pawn Price: 3 38
+	
+	
+
+Embossed Leather Cloak
+	Stats
+	Min Level: 8
+Armor: 20
+Pawn Price: 1 12
+	
+	
+
+Stonemason Cloak
+	Stats
+	Min Level: 8
+Armor: 23
++1 Spirit
+Pawn Price: 4 8
+	
+	
+
+Buckskin Cape
+	Stats
+	Min Level: 10
+Armor: 23
++3 Mana
+Pawn Price: 2 51
+	
+	
+
+Harvest Cloak
+	Stats
+	Min Level: 10
+Armor: 23
++2 Health
++2 Mana
+Pawn Price: 2 64
+	
+	
+
+Fine Leather Cloak
+	Stats
+	Min Level: 10
+Armor: 23
++2 Mana
+Pawn Price: 2 67
+	
+	
+
+Cloak of the People's Militia
+	Stats
+	Min Level: 10
+Armor: 23
++5 Health
+Pawn Price: 2 67
+	
+	
+
+Bard's Cloak
+	Stats
+	Min Level: 11
+Armor: 22
+Pawn Price: 1 80
+	
+	
+
+Tough Leather Cloak
+	Stats
+	Min Level: 12
+Armor: 17
+Pawn Price: 2 79
+	
+	
+
+Ceremonial Leather Cloak
+	Stats
+	Min Level: 12
+Armor: 25
++6 Mana
+Pawn Price: 3 42
+	
+	
+
+Cape of the Brotherhood
+	Stats
+	Min Level: 12
+Armor: 27
++2 Agility
++2 Stamina
+Pawn Price: 8 14
+	
+	
+
+Glowing Lizardscale Cloak
+	Stats
+	Min Level: 12
+Armor: 30
++1 Intellect
++1 Stamina
+Pawn Price: 8 77
+	
+	
+
+Deviate Scale Cloak
+	Stats
+	Min Level: 13
+Armor: 26
++4 Health
+Pawn Price: 4 13
+	
+	
+
+Hide of Lupos
+	Stats
+	Min Level: 13
+Armor: 27
++1 Spirit
++1 Stamina
+Pawn Price: 7 81
+	
+	
+
+Boar Hunter's Cape
+	Stats
+	Min Level: 15
+Armor: 27
++1 Agility
+Pawn Price: 5 28
+	
+	
+
+Scouting Cloak
+	Stats
+	Min Level: 16
+Armor: 28
+Pawn Price: 6 42
+	
+	
+
+Fenrus' Hide
+	Stats
+	Min Level: 16
+Armor: 26
++5 Health
+Pawn Price: 6 58
+	
+	
+
+Feathered Cape
+	Stats
+	Min Level: 16
+Armor: 28
++4 Spirit
+Pawn Price: 10 97
+	
+	
+
+Cloak of Night
+	Stats
+	Min Level: 16
+Armor: 28
++2 Spirit
++1 Shadow Resistance
+Pawn Price: 11 27
+	
+	
+
+Dark Leather Cloak
+	Stats
+	Min Level: 17
+Armor: 26
+Pawn Price: 4 8
+	
+	
+
+Inscribed Leather Cloak
+	Stats
+	Min Level: 17
+Armor: 29
++1 Spirit
+Pawn Price: 7 30
+	
+	
+
+Hardened Leather Cloak
+	Stats
+	Min Level: 18
+Armor: 19
+Pawn Price: 5 82
+	
+	
+
+Hillman's Cloak
+	Stats
+	Min Level: 20
+Armor: 28
+Pawn Price: 10 27
+	
+	
+
+Webwing Cloak
+	Stats
+	Min Level: 20
+Armor: 30
++10 Mana
+Pawn Price: 10 28
+	
+	
+
+Emblazoned Cloak
+	Stats
+	Min Level: 20
+Armor: 31
++2 Agility
+Pawn Price: 17 7
+	
+	
+
+Forest Leather Cloak
+	Stats
+	Min Level: 21
+Armor: 31
++5 Health
++5 Mana
++1 Nature Resistance
+Pawn Price: 11 44
+	
+	
+
+Wolfmaster Cape
+	Stats
+	Min Level: 21
+Armor: 31
++1 Spirit
+Pawn Price: 11 53
+	
+	
+
+Dervish Cape
+	Stats
+	Min Level: 22
+Armor: 32
+Pawn Price: 13 20
+	
+	
+
+Heraldic Cloak
+	Stats
+	Min Level: 23
+Armor: 33
++3 Spirit
+Pawn Price: 23 21
+	
+	
+
+Yeti Fur Cloak
+	Stats
+	Min Level: 24
+Armor: 34
++2 Agility
++2 Spirit
+Pawn Price: 23 52
+	
+	
+
+Infiltrator Cloak
+	Stats
+	Min Level: 25
+Armor: 34
+Pawn Price: 16 8
+	
+	
+
+Dark Hooded Cape
+	Stats
+	Min Level: 27
+Armor: 37
+Special Ability! (coming soon)
+Pawn Price: 32 91
+	
+	
+
+Insignia Cloak
+	Stats
+	Min Level: 27
+Armor: 37
++2 Agility
++35 Health
+Pawn Price: 34 11
+	
+	
+
+Glyphed Cloak
+	Stats
+	Min Level: 30
+Armor: 39
++2 Spirit
++40 Health
+Pawn Price: 41 45
+
+
+

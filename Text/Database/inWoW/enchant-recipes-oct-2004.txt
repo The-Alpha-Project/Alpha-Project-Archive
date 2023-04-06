@@ -1,0 +1,274 @@
+
+Enchant Bracers - Minor Agility 
+
+Result Enchants an armguard to permanently increase the wearer's agility by 1.
+Other Requirements Runed Copper Rod
+3 Swiftthistle
+is won by Herbalism
+1 Silverleaf
+is won by Herbalism
+3 Mystical Powder
+Costs 6 at the appropriate vendors
+
+
+Enchant Bracers - Minor Health 
+
+Result Enchants an armguard to permanently increase the wearer's hitpoints by 10.
+Other Requirements Runed Copper Rod
+2 Silverleaf
+is won by Herbalism
+2 Peacebloom
+Costs 1 at the appropriate vendors
+1 Mystical Powder
+costs 6 at the appropriate dealers
+
+
+Enchant Chest - Health 
+
+Result Enchants armor to permanently increase the wearer's hitpoints by 30.
+Other Requirements Runed Silver Rod
+1 Enchanted Powder
+2 Bruiseweed Plants
+found as Monster Drops and in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 100.
+
+
+Enchant Chest - Lesser Health 
+
+Result Enchants armor to permanently increase the wearer's hitpoints by 20.
+2 Peacebloom
+Costs 1 at the appropriate vendors
+2 Mystical Powder
+Costs 6 at the appropriate vendors
+2 Briarthorn
+
+
+Enchant Chest - Lesser Mana 
+
+Result Enchants armor to permanently increase the wearer's mana by 20 points.
+Other Requirements Runed Copper Rod
+3 Mystical Powder
+Costs 6 at the appropriate vendors
+3 Mageroyal
+Costs 3 at the appropriate vendors
+1 briart horn
+
+
+Enchant Chest - Minor Health 
+
+Result Enchants armor to permanently increase the wearer's hitpoints by 10.
+1 Snakeroot
+is gained through Herbalism
+2 Peacebloom
+Costs 1 at the appropriate vendors
+1 Mystical Powder
+costs 6 at the appropriate dealers
+
+
+Enchant Cloak - Lesser Fire Resist 
+
+Result Enchants a cloak to permanently increase the wearer's fire resistance by 8.
+Other Requirements Runed Silver Rod
+1 Spider's Silk
+is dropped by all Arachnids
+6 Firefin Snappers
+1 Enchanted Powder
+3 Empty Vial
+is sold by Herbalism Suppliers
+
+
+Enchant Cloak - Minor Resist 
+
+Ergebnis Verzaubert einen Umhang, so dass er permanent alle Resistenzen um 2 Punkte erhöht.
+Andere Vorraussetzungen Runed Copper Rod
+2 Snakeroot
+wird durch Herbalism gewonnen
+2 Mystical Powder
+Kostet 6  bei den entsprechenden Händlern
+2 Mageroyal
+Kostet 3  bei den entsprechenden Händlern
+
+
+Enchant Weapon - Striking (Daten ändern)
+
+Ergebnis Verzaubert eine Nahkampfwaffe, so dass sie einen zusätzlichen Schadenspunkt anrichtet.
+Andere Vorraussetzungen Runed Copper Rod
+2 Snakeroot
+wird durch Herbalism gewonnen
+2 Silverleaf
+wird durch Herbalism gewonnen
+4 Mystical Powder
+Kostet 6  bei den entsprechenden Händlern
+2 Briarthorn
+
+
+Imbue Bracers - Minor Deflect (Daten ändern)
+
+Ergebnis Verzaubert einen Armschutz für 60 Minuten, so dass die Verteidigung des Trägers um 3 erhöht wird.
+1 Swiftthistle
+wird durch Herbalism gewonnen
+
+
+Imbue Bracers - Minor Wisdom (Daten ändern)
+
+Ergebnis Verzaubert einen Armschutz für 60 Minuten, so dass er den Intellekt des Trägers um 4 erhöht.
+2 Mageroyal
+Kostet 3  bei den entsprechenden Händlern
+
+
+Imbue Chest - Lesser Absorb (Daten ändern)
+
+Ergebnis Verzaubert eine Rüstung für 60 Minuten, so dass sie eine 5% Chance bietet, bei einem Treffer 25 Schadenspunkte zu absorbieren.
+1 Silverleaf
+wird durch Herbalism gewonnen
+1 Peacebloom
+Kostet 1  bei den entsprechenden Händlern
+
+
+Imbue Chest - Lesser Spirit (Daten ändern)
+
+Ergebnis Verzaubert eine Rüstung für 60 Minuten, so dass sie den Spirit des Trägers um 6 erhöht.
+2 Briarthorn
+
+
+Imbue Chest - Minor Absorb (Daten ändern)
+
+Ergebnis Verzaubert eine Rüstung für 60 Minuten, so dass sie eine 5% Chance bietet, bei einem Treffer 10 Schadenspunkte zu absorbieren.
+1 Peacebloom
+Kostet 1  bei den entsprechenden Händlern
+
+
+Imbue Chest - Minor Spirit (Daten ändern)
+
+Ergebnis Verzaubert eine Rüstung für 60 Minuten, so dass sie den Spirit des Trägers um 3 erhöht.
+2 Silverleaf
+is won by Herbalism
+
+
+Imbue Cloak - Lesser Protection 
+
+Result Enchants a cloak to provide 10 additional armor points for 60 minutes.
+
+
+Imbue Cloak - Minor Protection 
+
+Result Enchants a cloak to provide 5 additional armor points for 60 minutes.
+2 Briarthorn
+
+
+Imbue Cloak - Minor Resistance 
+
+Result Temporarily enchants a cloak to give 4 bonus points to all resistances.
+2 Snakeroot
+is won through Herbalism
+
+
+Imbue Weapon - Beastslayer 
+
+Result Temporarily enchants a weapon to do 4 additional points of damage against Beast-Type monsters.
+1 Snakeroot
+is gained through Herbalism
+1 Silverleaf
+is won by Herbalism
+
+
+Minor Spirit 
+
+Result Permanently enchants a bracer to increase the wearer's Spirit by 1.
+Other Requirements Runed Copper Rod
+2 Swiftthistle
+is won by Herbalism
+2 Mystical Powder
+Costs 6 at the appropriate vendors
+2 Mageroyal
+Costs 3 at the appropriate vendors
+2 Swiftthistle
+is won by Herbalism
+2 Mystical Powder
+Costs 6 at the appropriate vendors
+2 Mageroyal
+Costs 3 at the appropriate vendors
+
+
+Runed Copper Rod 
+
+Result Used to permanently enchant items.
+1 Peacebloom
+Costs 1 at the appropriate vendors
+1 Mystical Powder
+costs 6 at the appropriate dealers
+1 Copper Rod
+Required by an Enchanter to craft a Runed Copper Rod. Costs 24 at the respective dealers
+
+
+Runed Silver Rod 
+
+Result Used to permanently enchant more powerful items.
+3 Swiftthistle
+is won by Herbalism
+1 Silver Ore
+can be found or obtained by mining
+1 Shadowgem Dropped
+by monsters, found in crates and ore veins
+4 Rough Stone
+can be found or obtained by mining
+
+
+Enchant Boots - Small stamina gain 
+
+Result Permanently enchant a pair of boots to gain 1 point more stamina.
+Other Requirements Runed Silver Rod
+1 Enchanted Powder
+
+
+Enchant Boots - Minor Agility Gain 
+
+Result Permanently enchant a pair of boots to gain 1 point more Agility.
+Other Requirements Runed Silver Rod
+3 Swiftthistle
+is won by Herbalism
+1 Spider's Silk
+is dropped by all Arachnids
+1 Enchanted Powder
+
+
+2-hand weapon enchantment - Minor intelligence gain 
+
+Result Permanently enchant a 2-hand weapon to gain 1 additional point of Intellect.
+4 Mystical Powder
+Costs 6 at the appropriate vendors
+4 Mageroyal
+Costs 3 at the appropriate vendors
+
+
+2-hand weapon enchantment - gain small damage effect 
+
+Result Permanently enchant a 2-hand weapon to do 2 additional points of damage.
+Other Requirements Runed Copper Rod
+2 Snakeroot
+is won through Herbalism
+4 Mystical Powder
+Costs 6 at the appropriate vendors
+2 Bruiseweed Plants
+found as Monster Drops and in crates. Available from vendors for 20 . Plant that can be harvested with Herbalism 100.
+2 Briarthorn
+
+
+Armguard Enchantment - Small stamina gain 
+
+Result Permanently enchant a pair of armguards to gain 1 point of stamina.
+2 Snakeroot
+is won through Herbalism
+2 Mystical Powder
+Costs 6 at the appropriate vendors
+2 Briarthorn
+
+
+Enchantment of Armguards - Small increase in strength 
+
+Result Enchants a pair of armguards to gain 1 point of strength.
+Other Requirements Runed Copper Rod
+3 Snakeroot
+is won by Herbalism
+4 Mystical Powder
+Costs 6 at the appropriate vendors
+1 briart horn

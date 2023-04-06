@@ -1,0 +1,1953 @@
+Entry: 3098 Mottled Boar
+Type: 9
+Level: 2
+Faction: 189
+Flags: 0
+Scale: 0.6
+DisplayID: 503
+Locations:
+.port -682.7396 -4286.979 40.48064
+.port -516.2263 -4282.09 40.82371
+.port -515.5032 -4284.692 40.57018
+.port -644.5428 -4349.04 43.33703
+.port -664.9936 -4290.74 41.13722
+.port -516.2263 -4282.09 40.82371
+.port -515.0164 -4282.723 40.93439
+.port -642.3879 -4348.032 42.82341
+.port -682.7396 -4286.979 40.59144
+
+Entry: 5952 Den Grunt
+Type: 9
+Level: 75
+Faction: 85
+Flags: 4096
+Scale: 1
+DisplayID: 4260
+Locations:
+.port -565.9854 -4269.389 38.38303
+.port -596.0571 -4278.177 38.0143
+.port -599.9388 -4191.992 41.18237
+.port -606.7969 -4193.869 41.18237
+.port -645.4229 -4260.631 38.05891
+.port -621.0421 -4262.2 38.064
+.port -605.4261 -4165.367 41.77715
+.port -565.9854 -4269.389 38.38303
+.port -599.9388 -4191.992 41.18237
+.port -606.7969 -4193.869 41.18237
+.port -645.4229 -4260.631 38.05891
+.port -578.5137 -4241.947 38.1013
+.port -587.8441 -4234.8 38.29829
+.port -605.2879 -4168.146 41.34142
+.port -600.219 -4347.655 38.01549
+.port -605.5573 -4164.422 41.93447
+
+Entry: 3144 Eitrigg
+Type: 9
+Level: 20
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 1619
+Locations:
+.port -606.5313 -4251.061 39.03932
+.port -606.5313 -4251.061 39.03932
+
+Entry: 3143 Gornek
+Type: 9
+Level: 5
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 1653
+Locations:
+.port -600.1321 -4186.194 41.26633
+.port -600.1321 -4186.194 41.26633
+
+Entry: 3145 Zureetha Fargaze
+Type: 9
+Level: 12
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 1875
+Locations:
+.port -629.0524 -4228.058 38.23342
+.port -629.0524 -4228.058 38.23342
+
+Entry: 5887 Canaga Earthcaller
+Type: 9
+Level: 8
+Faction: 29
+Flags: 768
+Scale: 1
+DisplayID: 4532
+Locations:
+.port -630.0197 -4204.552 38.21728
+.port -630.0197 -4204.552 38.21728
+
+Entry: 5765 Ruzan
+Type: 9
+Level: 10
+Faction: 29
+Flags: 768
+Scale: 1
+DisplayID: 4209
+Locations:
+.port -624.0241 -4214.406 38.21728
+.port -624.0241 -4214.406 38.21728
+
+Entry: 9796 Galgar
+Type: 9
+Level: 8
+Faction: 29
+Flags: 4608
+Scale: 1
+DisplayID: 9151
+Locations:
+.port -561.6285 -4221.799 41.6737
+.port -561.6285 -4221.799 41.6737
+
+Entry: 3158 Duokna
+Type: 9
+Level: 10
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 1879
+Locations:
+.port -565.428 -4214.199 41.6737
+.port -565.428 -4214.199 41.6737
+
+Entry: 3153 Frang
+Type: 9
+Level: 11
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 1880
+Locations:
+.port -639.3438 -4230.194 38.56053
+.port -639.3438 -4230.194 38.56053
+
+Entry: 3154 Jen'shan
+Type: 9
+Level: 8
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 1882
+Locations:
+.port -635.4618 -4227.521 38.37097
+.port -635.4618 -4227.521 38.37097
+
+Entry: 3707 Ken'jai
+Type: 9
+Level: 10
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 4068
+Locations:
+.port -617.395 -4202.396 38.2966
+.port -617.395 -4202.396 38.2966
+
+Entry: 3157 Shikrik
+Type: 9
+Level: 10
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 1878
+Locations:
+.port -623.9393 -4203.878 38.42854
+.port -623.9393 -4203.878 38.42854
+
+Entry: 5884 Mai'ah
+Type: 9
+Level: 10
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 4526
+Locations:
+.port -625.296 -4210.167 38.2966
+.port -625.296 -4210.167 38.2966
+
+Entry: 3882 Zlagk
+Type: 9
+Level: 9
+Faction: 29
+Flags: 4864
+Scale: 1
+DisplayID: 3753
+Locations:
+.port -560.1253 -4217.204 41.6737
+.port -560.1253 -4217.204 41.6737
+
+Entry: 416 Imp
+Type: 9
+Level: 6
+Faction: 90
+Flags: 8
+Scale: 0.5
+DisplayID: 4449
+Locations:
+.port -601.1312 -4256.491 38.93595
+.port -605.5913 -4256.088 38.93595
+.port -2301.789 -443.4436 -5.355059
+.port -2298.831 -442.9429 -5.355067
+.port 2404.731 1246.887 41.40641
+.port -601.1312 -4256.491 38.93595
+.port -600.5272 -4187.025 41.09508
+.port 1068.877 -4575.109 16.66975
+.port 1318.257 -4577.467 23.30289
+.port 2148.586 306.3913 46.9299
+.port 2255.323 253.1447 41.11475
+.port 2259.556 247.3032 41.11475
+.port 2215.369 161.6749 46.86826
+
+Entry: 3448 Tonga Runetotem
+Type: 9
+Level: 22
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3914
+Locations:
+.port -544.9922 -2672.767 95.87087
+
+Entry: 3487 Kalyimah Stormcloud
+Type: 9
+Level: 23
+Faction: 29
+Flags: 4608
+Scale: 1
+DisplayID: 4097
+Locations:
+.port -550.8641 -2673.2 95.87087
+
+Entry: 3486 Halija Whitestrider
+Type: 9
+Level: 19
+Faction: 29
+Flags: 4608
+Scale: 1.25
+DisplayID: 3875
+Locations:
+.port -539.8406 -2672.23 95.87087
+
+Entry: 3123 Bloodtalon Scythemaw
+Type: 9
+Level: 14
+Faction: 14
+Flags: 40
+Scale: 0.65
+DisplayID: 1959
+Locations:
+.port -583.721 -2737.71 91.66665
+.port 1267.03 -4701.219 17.9634
+
+Entry: 416 Imp6
+Type: 9
+Level: 3
+Faction: 188
+Flags: 0
+Scale: 0.9
+DisplayID: 2237
+Locations:
+.port -628.4102 -2673.588 96.41252
+.port -625.4813 -2677.169 96.41252
+.port -620.2463 -2676.599 96.91252
+.port -627.0605 -2666.755 95.91252
+.port -611.877 -2609.162 92.37907
+.port -604.8364 -2596.025 93.10798
+.port -594.74 -2591.513 93.12652
+.port -596.3501 -2594.331 93.58871
+
+Entry: 3338 Sergra Darkthorn
+Type: 9
+Level: 34
+Faction: 83
+Flags: 4608
+Scale: 1
+DisplayID: 3850
+Locations:
+.port -482.4752 -2670.188 97.52197
+
+Entry: 3480 Moorane Hearthgrain
+Type: 9
+Level: 18
+Faction: 29
+Flags: 4608
+Scale: 1.25
+DisplayID: 3867
+Locations:
+.port -451.1291 -2684.29 95.73333
+
+Entry: 3501 Horde Guard
+Type: 9
+Level: 40
+Faction: 85
+Flags: 4096
+Scale: 1
+DisplayID: 4264
+Locations:
+.port -469.5207 -2707.713 95.98638
+.port -489.2492 -2696.962 95.90543
+.port -563.006 -2641.88 96.39509
+.port -570.7459 -2662.712 96.55856
+.port -460.392 -2633.772 96.26729
+.port -519.7167 -2604.894 111.4336
+.port -491.367 -2597.481 127.8567
+
+Entry: 3484 Kil'hala
+Type: 9
+Level: 15
+Faction: 29
+Flags: 4608
+Scale: 1
+DisplayID: 4094
+Locations:
+.port -529.4297 -2667.068 95.87087
+
+Entry: 3485 Wrahk
+Type: 9
+Level: 18
+Faction: 29
+Flags: 4608
+Scale: 1
+DisplayID: 3873
+Locations:
+.port -528.8395 -2671.602 95.87087
+
+Entry: 3244 Greater Plainstrider
+Type: 9
+Level: 12
+Faction: 189
+Flags: 67895296
+Scale: 1
+DisplayID: 178
+Locations:
+.port -514.2632 -2752.558 92.54165
+.port -617.9534 -2743.124 92.88154
+.port -519.6499 -2576.717 100.3124
+
+Entry: 1860 Voidwalker
+Type: 9
+Level: 12
+Faction: 90
+Flags: 8
+Scale: 0.8
+DisplayID: 1132
+Locations:
+.port -476.7966 -2673.712 97.03043
+.port 2385.269 421.6055 33.97379
+
+Entry: 3035 Flatland Cougar
+Type: 9
+Level: 10
+Faction: 14
+Flags: 40
+Scale: 1.1
+DisplayID: 1058
+Locations:
+.port -566.6225 -2646.225 95.77009
+.port -2293.662 -368.1764 -9.424926
+
+Entry: 3433 Tatternack Steelforge
+Type: 9
+Level: 14
+Faction: 29
+Flags: 4608
+Scale: 1
+DisplayID: 3858
+Locations:
+.port -512.3313 -2643.658 95.87085
+
+Entry: 3243 Savannah Highmane
+Type: 9
+Level: 12
+Faction: 16
+Flags: 40
+Scale: 1.1
+DisplayID: 1057
+Locations:
+.port -468.5298 -2684.474 95.35615
+
+Entry: 3065 Yaw Sharpmane
+Type: 9
+Level: 11
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3811
+Locations:
+.port -2180.222 -408.8162 -4.518257
+
+Entry: 3220 Brave Darksky
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.35
+DisplayID: 3782
+Locations:
+.port -2140.478 -417.2543 -4.197315
+
+Entry: 3219 Brave Leaping Deer
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.25
+DisplayID: 3781
+Locations:
+.port -2126.688 -444.1534 -9.255463
+
+Entry: 5940 Harn Longcast
+Type: 9
+Level: 9
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 4608
+Locations:
+.port -2158.596 -392.9482 -2.947251
+.port -2158.596 -392.9482 -2.947251
+
+Entry: 2947 Harken Windtotem
+Type: 9
+Level: 21
+Faction: 83
+Flags: 4608
+Scale: 1.35
+DisplayID: 3821
+Locations:
+.port -2304.791 -454.8085 -5.35507
+.port -2304.791 -454.8085 -5.35507
+
+Entry: 2948 Mull Thunderhorn
+Type: 9
+Level: 25
+Faction: 83
+Flags: 4608
+Scale: 1.35
+DisplayID: 3826
+Locations:
+.port -2341.405 -445.4486 -6.417299
+.port -2341.405 -445.4486 -6.417299
+.port -2341.405 -445.4486 -6.417299
+
+Entry: 3064 Gennia Runetotem
+Type: 9
+Level: 12
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 3820
+Locations:
+.port -2315.745 -442.6335 -5.35507
+.port -2315.745 -442.6335 -5.35507
+
+Entry: 3066 Narm Skychaser
+Type: 9
+Level: 13
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3816
+Locations:
+.port -2298.96 -437.7421 -5.35507
+.port -2298.96 -437.7421 -5.35507
+
+Entry: 3054 Zarlman Two-Moons
+Type: 9
+Level: 7
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3814
+Locations:
+.port -2243.481 -405.843 -9.341565
+.port -2243.481 -405.843 -9.341565
+
+Entry: 3215 Brave Strongbash
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.35
+DisplayID: 3777
+Locations:
+.port -2221.691 -444.0121 -8.284131
+.port -2216.201 -454.5348 -7.795071
+
+Entry: 2983 The Plains Vision
+Type: 9
+Level: 7
+Faction: 35
+Flags: 768
+Scale: 0.8
+DisplayID: 1236
+Locations:
+.port -2235.053 -409.2318 -9.424898
+
+Entry: 2993 Baine Bloodhoof
+Type: 9
+Level: 10
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3792
+Locations:
+.port -2333.543 -393.0733 -7.92932
+.port -2333.543 -393.0733 -7.92932
+.port -2333.543 -393.0733 -7.92932
+
+Entry: 3052 Skorn Whitecloud
+Type: 9
+Level: 21
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3823
+Locations:
+.port -2340.155 -353.531 -8.832893
+.port -2340.155 -353.531 -8.832893
+.port -2340.155 -353.531 -8.832893
+
+Entry: 10050 Seikwa
+Type: 9
+Level: 30
+Faction: 29
+Flags: 4608
+Scale: 1.25
+DisplayID: 9269
+Locations:
+.port -2340.113 -354.5904 -8.781924
+.port -2340.113 -354.5904 -8.781924
+.port -2340.113 -354.5904 -8.781924
+
+Entry: 3055 Maur Raincaller
+Type: 9
+Level: 10
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 1678
+Locations:
+.port -2227.54 -365.7198 -9.279411
+
+Entry: 3222 Brave Wildrunner
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.35
+DisplayID: 4265
+Locations:
+.port -2234.271 -385.2622 -9.424898
+.port -2354.472 -392.8121 -7.689835
+.port -2363.079 -418.0082 -9.560135
+
+Entry: 2620 Prairie Dog
+Type: 9
+Level: 1
+Faction: 31
+Flags: 0
+Scale: 1
+DisplayID: 1072
+Locations:
+.port -2252.73 -525.4553 -6.591805
+.port -2241.993 -520.6058 -6.92276
+
+Entry: 3212 Brave Ironhorn
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.35
+DisplayID: 3775
+Locations:
+.port -2284.34 -333.3764 -9.424926
+.port -2300.715 -354.1214 -9.424926
+.port -2289.983 -340.1798 -9.424926
+
+Entry: 3223 Brave Rainchaser
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.25
+DisplayID: 3784
+Locations:
+.port -2407.923 -424.5415 -3.302114
+.port -2428.232 -424.2878 -3.302114
+
+Entry: 3063 Krang Stonehoof
+Type: 9
+Level: 14
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3794
+Locations:
+.port -2403.54 -390.7162 -1.687641
+.port -2403.54 -390.7162 -1.687641
+
+Entry: 2985 Ruul Eagletalon
+Type: 9
+Level: 9
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3822
+Locations:
+.port -2397.066 -384.8311 -2.194958
+.port -2397.066 -384.8311 -2.194958
+
+Entry: 6776 Magrin Rivermane
+Type: 9
+Level: 6
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 5507
+Locations:
+.port -2351.99 -348.944 -8.873652
+.port -2351.99 -348.944 -8.873652
+
+Entry: 6747 Innkeeper Kauth
+Type: 9
+Level: 30
+Faction: 29
+Flags: 4608
+Scale: 1.35
+DisplayID: 5486
+Locations:
+.port -2365.366 -347.3099 -8.873652
+.port -2365.366 -347.3099 -8.873652
+
+Entry: 3079 Varg Windwhisper
+Type: 9
+Level: 14
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 3805
+Locations:
+.port -2283.345 -305.9965 -9.341593
+.port -2283.345 -305.9965 -9.341593
+
+Entry: 5939 Vira Younghoof
+Type: 9
+Level: 13
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 4605
+Locations:
+.port -2357.017 -356.5853 -8.873653
+.port -2357.017 -356.5853 -8.873653
+
+Entry: 3077 Mahnott Roughwound
+Type: 9
+Level: 11
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3802
+Locations:
+.port -2280.133 -297.7678 -9.293098
+.port -2280.133 -297.7678 -9.293098
+
+Entry: 3080 Harant Ironbrace
+Type: 9
+Level: 13
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3804
+Locations:
+.port -2284.468 -310.2602 -9.341593
+.port -2284.468 -310.2602 -9.341593
+
+Entry: 3884 Jhawna Oatwind
+Type: 9
+Level: 13
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 3807
+Locations:
+.port -2378.957 -399.2678 -3.806
+.port -2378.957 -399.2678 -3.806
+.port -2378.957 -399.2678 -3.806
+
+Entry: 3224 Brave Cloudmane
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.35
+DisplayID: 1904
+Locations:
+.port -2277.854 -306.8922 -9.424926
+
+Entry: 2185 Darkshore Thresher
+Type: 9
+Level: 14
+Faction: 16
+Flags: 0
+Scale: 1.05
+DisplayID: 992
+Locations:
+.port 7039.818 742.8215 -12.624
+.port 7086.481 683.2121 -12.93557
+.port 6913.629 781.1932 -18.11928
+.port 6985.552 684.3788 -11.24491
+.port 6724.728 783.2236 -18.95759
+.port 6793.184 751.4949 -34.11934
+.port 6820.028 718.3215 -34.51641
+.port 6861.761 780.1317 -34.42301
+.port 6775.573 805.6802 -20.60777
+.port 6648.595 738.877 -16.79002
+.port 6586.215 793.447 -17.0343
+.port 6582.92 822.4357 -18.19072
+.port 6658.094 818.1609 -19.67216
+.port 6519.607 822.403 -25.1567
+.port 6327.261 840.57 -11.51942
+.port 6418.294 849.5123 -30.87947
+.port 6248.472 780.5616 -10.96444
+.port 6312.279 701.2527 -15.16825
+.port 6645.37 623.4434 -9.838056
+.port 6701.474 638.921 -11.51193
+.port 6751.147 584.7877 -11.72426
+.port 6846.808 568.5829 -11.71563
+.port 6959.687 525.4269 -13.90827
+.port 6913.229 612.6068 -11.24866
+.port 6922.638 575.5948 -12.79742
+.port 6984.94 559.4351 -17.98423
+.port 6983.383 610.8556 -11.7305
+.port 7049.374 588.6772 -15.6467
+.port 7052.227 546.3209 -15.43605
+.port 7089.319 576.2545 -13.60132
+.port 7058.213 672.3239 -12.50823
+
+Entry: 6145 School of Fish
+Type: 9
+Level: 1
+Faction: 188
+Flags: 0
+Scale: 1
+DisplayID: 4878
+Locations:
+.port 7004.944 692.6687 -13.43527
+.port 6779.866 750.2066 -34.90233
+.port 6772.104 635.6622 -14.03745
+.port 6977.905 563.2372 -15.71321
+
+Entry: 2231 Pygmy Tide Crawler
+Type: 9
+Level: 10
+Faction: 7
+Flags: 0
+Scale: 0.75
+DisplayID: 996
+Locations:
+.port 6317.188 650.5208 -12.29325
+.port 6317.188 650.5208 -15.49644
+.port 6283.192 684.4941 -14.43676
+.port 6383.854 650.5208 -15.77969
+.port 6321.354 613.0208 -7.524559
+.port 6375.521 625.5208 -4.483429
+.port 6342.188 625.5208 -4.982571
+.port 6335.132 573.5256 2.462302
+.port 6327.884 593.1502 -0.123018
+.port 6283.854 617.1875 -10.49223
+.port 6296.584 569.4586 1.413401
+.port 6317.188 650.5208 -12.29325
+.port 6317.188 650.5208 -15.49644
+.port 6475.521 525.5208 -7.256043
+.port 6385.592 586.3514 -1.259876
+.port 6375.521 625.5208 -4.483429
+.port 6450.521 650.5208 -29.31793
+.port 6646.684 529.9346 -0.01630437
+.port 6568.093 531.3986 -0.4150348
+.port 6550.521 617.1875 -12.89354
+.port 6588.021 579.6875 -12.72258
+.port 6558.854 558.8541 -2.638544
+.port 6550.521 583.8541 -10.84514
+.port 6646.438 554.5995 -3.91602
+.port 6679.103 549.5096 -1.363945
+.port 6782.378 525.3194 -0.6308901
+.port 6755.181 507.5504 0.8197306
+.port 6739.769 519.7763 -0.9184761
+.port 6723.424 509.7634 2.447573
+.port 6750.521 550.5208 -6.912694
+.port 6725.521 558.8541 -2.21264
+.port 6750.521 550.5208 -1.992057
+
+Entry: 6887 [PH] Haleh
+Type: 9
+Level: 55
+Faction: 80
+Flags: 4096
+Scale: 1
+DisplayID: 5745
+Locations:
+.port 6360.376 490.5475 18.25876
+
+Entry: 4190 Kyndri
+Type: 9
+Level: 13
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 4399
+Locations:
+.port 6385.838 524.4905 8.735306
+.port 6385.838 524.4905 8.735306
+
+Entry: 3666 Wizbang Cranktoggle
+Type: 9
+Level: 15
+Faction: 84
+Flags: 4608
+Scale: 1.15
+DisplayID: 4474
+Locations:
+.port 6406.107 519.815 23.96736
+.port 6406.107 519.815 23.96736
+
+Entry: 4192 Taldan
+Type: 9
+Level: 16
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 4405
+Locations:
+.port 6415.995 529.0977 8.736597
+.port 6415.995 529.0977 8.736597
+
+Entry: 6737 Innkeeper Shaussiy
+Type: 9
+Level: 30
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 5441
+Locations:
+.port 6406.506 515.367 8.72571
+.port 6406.506 515.367 8.72571
+
+Entry: 3841 Caylais Moonfeather
+Type: 9
+Level: 55
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 1932
+Locations:
+.port 6343.199 561.6509 16.10471
+
+Entry: 4200 Laird
+Type: 9
+Level: 14
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 2572
+Locations:
+.port 6399.571 533.3868 8.738935
+.port 6399.571 533.3868 8.738935
+
+Entry: 6086 Auberdine Sentinel
+Type: 9
+Level: 40
+Faction: 79
+Flags: 4096
+Scale: 1
+DisplayID: 4845
+Locations:
+.port 6325.128 553.7217 16.22355
+.port 6425.891 560.788 13.26807
+.port 6267.025 490.1916 16.09177
+.port 6468.496 622.6248 5.339109
+.port 6466.315 614.1145 5.330981
+.port 6425.891 560.788 13.26807
+
+Entry: 2163 Thistle Bear
+Type: 9
+Level: 11
+Faction: 44
+Flags: 40
+Scale: 0.75
+DisplayID: 1006
+Locations:
+.port 6345.026 553.5689 16.1917
+
+Entry: 10085 Jaelysia
+Type: 9
+Level: 30
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 9294
+Locations:
+.port 6399.893 491.802 8.125785
+
+Entry: 4191 Allyndia
+Type: 9
+Level: 15
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 4403
+Locations:
+.port 6428.747 510.32 8.73342
+.port 6428.747 510.32 8.73342
+
+Entry: 2033 Elder Nightsaber
+Type: 9
+Level: 11
+Faction: 66
+Flags: 40
+Scale: 1.2
+DisplayID: 3029
+Locations:
+.port 6408.985 499.956 7.970258
+.port 6437.318 486.9369 7.125151
+
+Entry: 2043 Nightsaber Stalker
+Type: 9
+Level: 8
+Faction: 66
+Flags: 56
+Scale: 0.9
+DisplayID: 6805
+Locations:
+.port 6410.348 494.7988 7.772776
+.port 6460.052 485.7491 9.630849
+
+Entry: 2913 Archaeologist Hollee
+Type: 9
+Level: 12
+Faction: 55
+Flags: 4608
+Scale: 1
+DisplayID: 1286
+Locations:
+.port 6506.353 489.3039 6.824502
+
+Entry: 4187 Harlon Thornguard
+Type: 9
+Level: 25
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 4407
+Locations:
+.port 6528.265 515.1259 9.142742
+
+Entry: 2070 Moonstalker Runt
+Type: 9
+Level: 12
+Faction: 14
+Flags: 56
+Scale: 0.65
+DisplayID: 917
+Locations:
+.port 6529.925 517.2216 9.053706
+
+Entry: 3895 Captain Eo
+Type: 9
+Level: 60
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 2572
+Locations:
+.port 6481.107 611.4338 5.151847
+
+Entry: 3583 Barithras Moonshade
+Type: 9
+Level: 14
+Faction: 84
+Flags: 4608
+Scale: 1
+DisplayID: 4414
+Locations:
+.port 6427.706 497.1484 8.104936
+
+Entry: 3644 Cerellean Whiteclaw
+Type: 9
+Level: 15
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 1757
+Locations:
+.port 6446.965 629.8484 7.642858
+
+Entry: 3649 Thundris Windweaver
+Type: 9
+Level: 15
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 1770
+Locations:
+.port 6580.966 492.2924 8.31743
+
+Entry: 4186 Mavralyn
+Type: 9
+Level: 18
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 4406
+Locations:
+.port 6534.425 518.3221 9.142741
+
+Entry: 2234 Young Reef Crawler
+Type: 9
+Level: 11
+Faction: 7
+Flags: 0
+Scale: 0.75
+DisplayID: 997
+Locations:
+.port 6850.521 517.1875 -5.703654
+.port 6900.144 468.9399 0.5293952
+
+Entry: 3571 Teldrassil Sentinel
+Type: 9
+Level: 20
+Faction: 79
+Flags: 4096
+Scale: 1
+DisplayID: 4850
+Locations:
+.port 8649.65 849.8118 22.91779
+.port 8639.223 849.7391 22.85674
+.port 8779.84 964.5626 30.19718
+.port 8788.307 961.6391 30.28463
+.port 8702.742 953.4238 13.27398
+.port 8784.846 975.3494 30.51615
+.port 8801.443 954.2188 31.01907
+.port 8807.565 980.9047 31.9437
+.port 8745.444 945.444 23.09315
+.port 8788.307 961.6391 30.28463
+.port 8702.742 953.4238 13.27398
+.port 8784.846 975.3494 30.51615
+.port 8801.443 954.2188 31.01907
+.port 8807.565 980.9047 31.9437
+
+Entry: 3838 Vesprystus
+Type: 9
+Level: 55
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 1931
+Locations:
+.port 8640.583 841.1181 23.34637
+
+Entry: 3218 Brave Swiftwind
+Type: 9
+Level: 14
+Faction: 105
+Flags: 4096
+Scale: 1.25
+DisplayID: 3779
+Locations:
+.port -2218.4 -494.5013 -9.22003
+.port -2219.026 -489.0793 -9.257965
+.port -2221.294 -488.1761 -9.04988
+
+Entry: 8398 Ohanko
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 7630
+Locations:
+.port -1250.063 -35.40218 164.3637
+
+Entry: 3021 Kard Ragetotem
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 2089
+Locations:
+.port -1244.07 -36.34885 164.3637
+
+Entry: 3023 Sura Wildmane
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 2125
+Locations:
+.port -1232.86 -21.83941 164.95
+
+Entry: 3020 Etu Ragetotem
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 2085
+Locations:
+.port -1255.63 -38.53662 164.3637
+
+Entry: 2987 Eyahn Eagletalon
+Type: 9
+Level: 12
+Faction: 83
+Flags: 4608
+Scale: 1.35
+DisplayID: 4516
+Locations:
+.port -1264.422 123.3006 131.731
+
+Entry: 5189 Thrumn
+Type: 9
+Level: 25
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3129
+Locations:
+.port -1290.152 123.4586 131.6418
+
+Entry: 6410 Orm Stonehoof
+Type: 9
+Level: 45
+Faction: 83
+Flags: 4608
+Scale: 1.35
+DisplayID: 5372
+Locations:
+.port -1239.841 110.5848 129.7397
+
+Entry: 2996 Torn
+Type: 9
+Level: 45
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 2104
+Locations:
+.port -1257.633 19.55767 128.2699
+
+Entry: 6746 Innkeeper Pala
+Type: 9
+Level: 30
+Faction: 29
+Flags: 4608
+Scale: 1.25
+DisplayID: 5487
+Locations:
+.port -1300.277 38.48579 129.2918
+
+Entry: 3003 Fyr Mistrunner
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 2109
+Locations:
+.port -1220.143 84.16078 131.2034
+
+Entry: 8356 Chesmu
+Type: 9
+Level: 45
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 7621
+Locations:
+.port -1252.821 24.74381 128.2699
+
+Entry: 8364 Pakwa
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 7627
+Locations:
+.port -1297.2 106.3774 131.3429
+
+Entry: 8360 Elki
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 7624
+Locations:
+.port -1243.762 47.36779 127.2204
+
+Entry: 8363 Shadi Mistrunner
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 7628
+Locations:
+.port -1295.305 92.46194 129.81
+
+Entry: 3084 Bluffwatcher
+Type: 9
+Level: 75
+Faction: 105
+Flags: 4096
+Scale: 1.25
+DisplayID: 8572
+Locations:
+.port -1279.37 53.55626 129.2348
+.port -1276.69 45.71994 129.0358
+.port -1267.353 64.40382 126.9925
+
+Entry: 8359 Ahanu
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 7623
+Locations:
+.port -1236.444 38.34798 127.1485
+
+Entry: 8358 Hewa
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 7622
+Locations:
+.port -1243.86 40.9178 127.1974
+
+Entry: 8362 Kuruk
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 7626
+Locations:
+.port -1300.173 110.5405 131.4518
+
+Entry: 2999 Taur Stonehoof
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 2100
+Locations:
+.port -1237.209 101.0656 129.1598
+
+Entry: 8357 Atepa
+Type: 9
+Level: 45
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 7620
+Locations:
+.port -1262.783 24.00548 128.2699
+
+Entry: 2997 Jyn Stonehoof
+Type: 9
+Level: 30
+Faction: 104
+Flags: 4608
+Scale: 1.25
+DisplayID: 2110
+Locations:
+.port -1283.918 84.36076 128.8695
+
+Entry: 10054 Bulrug
+Type: 9
+Level: 30
+Faction: 29
+Flags: 4608
+Scale: 1.485
+DisplayID: 9272
+Locations:
+.port -1269.077 46.05962 128.5839
+
+Entry: 5054 Krumn
+Type: 9
+Level: 50
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 3002
+Locations:
+.port -1291.813 127.2062 131.4954
+
+Entry: 2998 Karn Stonehoof
+Type: 9
+Level: 35
+Faction: 104
+Flags: 4608
+Scale: 1.35
+DisplayID: 2090
+Locations:
+.port -1233.331 105.6367 129.4562
+
+Entry: 1934 Tirisfal Farmer
+Type: 9
+Level: 7
+Faction: 67
+Flags: 0
+Scale: 1
+DisplayID: 3532
+Locations:
+.port 2328.971 1337.299 33.30562
+.port 2315.581 1327.213 33.76794
+.port 2333.364 1317.664 34.05056
+.port 2312.215 1318.865 32.39664
+.port 2315.654 1325.981 33.08188
+.port 2333.364 1317.664 34.05056
+
+Entry: 1547 Decrepit Darkhound
+Type: 9
+Level: 5
+Faction: 38
+Flags: 0
+Scale: 0.75
+DisplayID: 9021
+Locations:
+.port 2346.806 1171.896 35.71365
+.port 2462.452 1185.617 55.28797
+.port 2461.356 1274.236 35.9704
+.port 2487.499 1248.002 45.7205
+.port 2351.708 1164.115 36.82703
+.port 2462.452 1185.617 55.28797
+.port 2485.163 1262.705 42.04425
+.port 2367.075 1110.927 44.36164
+.port 2128.034 338.9443 48.03063
+.port 2128.034 338.9443 48.03063
+.port 2213.959 195.1118 45.2112
+
+Entry: 1553 Greater Duskbat
+Type: 9
+Level: 6
+Faction: 15
+Flags: 0
+Scale: 0.5507246
+DisplayID: 4734
+Locations:
+.port 2305.662 1197.181 34.23615
+.port 2301.301 1204.202 34.79764
+.port 2343.459 1117.412 40.28912
+.port 2413.923 1338.832 33.58496
+.port 2422.086 1335.789 31.63375
+.port 2347.289 1128.075 41.96089
+.port 2279.803 1227.288 38.04779
+.port 1966.592 540.9587 46.99633
+.port 2007.84 457.4649 39.37402
+.port 1983.441 346.2247 40.23478
+.port 2074.697 353.8276 47.70304
+.port 2007.282 320.5892 42.21037
+.port 2124.651 322.493 53.06357
+.port 2101.295 225.9505 60.54041
+.port 2105.976 376.2982 46.03485
+.port 1989.676 308.876 41.50288
+.port 2014.28 349.5147 41.40539
+.port 2119.246 223.3112 60.03822
+.port 2175.656 160.2182 51.86631
+.port 2074.697 353.8276 47.70304
+
+Entry: 1935 Tirisfal Farmhand
+Type: 9
+Level: 5
+Faction: 67
+Flags: 0
+Scale: 1
+DisplayID: 3534
+Locations:
+.port 2313.712 1281.27 31.43373
+.port 2362.42 1303.267 33.16232
+.port 2304.002 1272.286 32.40858
+.port 2322.979 1275.268 31.39348
+.port 2362.5 1304.167 33.16232
+
+Entry: 620 Chicken
+Type: 9
+Level: 1
+Faction: 31
+Flags: 0
+Scale: 1
+DisplayID: 304
+Locations:
+.port 2360.789 1323.962 33.28732
+.port 2219.242 277.6109 35.21799
+
+Entry: 1535 Scarlet Warrior
+Type: 9
+Level: 6
+Faction: 67
+Flags: 0
+Scale: 1
+DisplayID: 2482
+Locations:
+.port 2404.582 1336.603 33.40047
+.port 2385.663 1336.711 34.3464
+
+Entry: 1548 Cursed Darkhound
+Type: 9
+Level: 8
+Faction: 38
+Flags: 0
+Scale: 0.9
+DisplayID: 9020
+Locations:
+.port 2416.242 1119.879 54.15415
+.port 1939.657 435.5692 35.03407
+.port 1971.507 306.2027 41.56366
+.port 2075.806 357.5378 45.34259
+.port 2087.282 383.0838 45.37708
+.port 2017.995 352.4403 41.89967
+.port 1981.156 281.5916 43.54696
+
+Entry: 3681 Wisp
+Type: 9
+Level: 15
+Faction: 84
+Flags: 4096
+Scale: 1
+DisplayID: 1825
+Locations:
+.port 9939.563 2509.609 1317.756
+.port 10028.08 2686.671 1319.316
+.port 9965.354 2616.136 1315.991
+.port 10023.42 2697.443 1321.84
+.port 9961.14 2611.866 1315.81
+.port 9874.268 2569.691 1316.775
+
+Entry: 1412 Squirrel
+Type: 9
+Level: 1
+Faction: 31
+Flags: 0
+Scale: 1.3
+DisplayID: 134
+Locations:
+.port 9935.416 2510.417 1317.881
+.port 9956.295 2620.593 1316.414
+.port 9927.678 2526.682 1319.796
+.port 9957.88 2614.928 1316.29
+.port 9872.605 2583.651 1315.562
+.port 9975.081 2541.969 1316.124
+
+Entry: 1420 Toad
+Type: 9
+Level: 1
+Faction: 188
+Flags: 0
+Scale: 1
+DisplayID: 901
+Locations:
+.port 10032 2674.346 1317.936
+.port 9978.4 2551.866 1314.749
+.port 9922.561 2652.774 1313.737
+.port 9932.3 2602.622 1316.143
+.port 9985.651 2614.267 1315.369
+.port 9936.154 2576.449 1316.077
+.port 9974.907 2542.015 1316.182
+.port 10037.74 2664.04 1314.834
+.port 9974.472 2551.643 1315.124
+.port 9910.845 2652.463 1315.335
+.port 9923.339 2604.004 1314.276
+.port 9976.814 2611.697 1315.869
+.port 9935.532 2581.233 1316.827
+.port 9982.936 2543.473 1315.466
+
+Entry: 7316 Sister Aquinne
+Type: 9
+Level: 15
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 6349
+Locations:
+.port 9915.082 2632.117 1316.871
+.port 9915.082 2632.117 1316.871
+
+Entry: 4262 Darnassus Sentinel
+Type: 9
+Level: 75
+Faction: 79
+Flags: 4096
+Scale: 1
+DisplayID: 2306
+Locations:
+.port 9941.639 2615.43 1318.162
+.port 9950.829 2615.517 1318.162
+.port 9941.639 2615.43 1318.162
+.port 9950.829 2615.517 1318.162
+
+Entry: 883 Deer
+Type: 9
+Level: 5
+Faction: 31
+Flags: 0
+Scale: 1
+DisplayID: 347
+Locations:
+.port 9973.506 2632.177 1316.369
+.port 9973.743 2631.357 1316.369
+
+Entry: 7916 Erelas Ambersky
+Type: 9
+Level: 30
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 7026
+Locations:
+.port 8707.461 988.8798 14.19635
+.port 8707.461 988.8798 14.19635
+
+Entry: 7907 Daryn Lightwind
+Type: 9
+Level: 30
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 7025
+Locations:
+.port 8701.16 993.1161 23.5854
+.port 8701.16 993.1161 23.5854
+
+Entry: 4208 Lairn
+Type: 9
+Level: 35
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 2259
+Locations:
+.port 9945.153 2518.386 1317.658
+
+Entry: 4155 Idriana
+Type: 9
+Level: 35
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 2210
+Locations:
+.port 9938.838 2521.532 1317.658
+
+Entry: 4209 Garryeth
+Type: 9
+Level: 35
+Faction: 80
+Flags: 4608
+Scale: 1
+DisplayID: 2256
+Locations:
+.port 9942.028 2519.244 1317.658
+
+Entry: 1742 Deathguard Bartholomew
+Type: 9
+Level: 22
+Faction: 71
+Flags: 4096
+Scale: 1
+DisplayID: 2853
+Locations:
+.port 2294.373 393.8639 34.0386
+
+Entry: 1496 Deathguard Dillinger
+Type: 9
+Level: 22
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 2855
+Locations:
+.port 2287.663 403.372 34.00482
+
+Entry: 4075 Rat
+Type: 9
+Level: 1
+Faction: 31
+Flags: 0
+Scale: 1
+DisplayID: 2176
+Locations:
+.port 2344.239 339.8064 36.77746
+
+Entry: 2314 Sahvan Bloodshadow
+Type: 9
+Level: 5
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 3521
+Locations:
+.port 2292.223 394.819 34.01389
+
+Entry: 3116 Dustwind Pillager
+Type: 9
+Level: 7
+Faction: 514
+Flags: 262144
+Scale: 1
+DisplayID: 969
+Locations:
+.port 1050.813 -4574.753 17.99643
+.port 1053.875 -4543.097 16.09873
+.port 1110.172 -4567.389 17.49801
+.port 1063.744 -4573.64 17.08045
+.port 1109.619 -4559.925 18.43603
+.port 1074.686 -4525.356 17.39803
+
+Entry: 3126 Armored Scorpid
+Type: 9
+Level: 8
+Faction: 16
+Flags: 0
+Scale: 0.9
+DisplayID: 2487
+Locations:
+.port 1108.268 -4614.552 56.33372
+
+Entry: 3118 Dustwind Storm Witch
+Type: 9
+Level: 10
+Faction: 514
+Flags: 0
+Scale: 1.1
+DisplayID: 970
+Locations:
+.port 1118.78 -4657.885 38.9807
+
+Entry: 3122 Bloodtalon Taillasher
+Type: 9
+Level: 6
+Faction: 14
+Flags: 67371008
+Scale: 0.55
+DisplayID: 1960
+Locations:
+.port 1161.93 -4586.388 18.24059
+.port 1186.697 -4522.627 20.18092
+.port 1157.981 -4541.782 19.33359
+
+Entry: 3127 Venomtail Scorpid
+Type: 9
+Level: 9
+Faction: 16
+Flags: 0
+Scale: 1
+DisplayID: 2732
+Locations:
+.port 1225.121 -4575.44 18.50523
+.port 1343.346 -4738.685 26.40905
+.port 1344.475 -4745.235 26.50379
+.port 1346.555 -4741.455 26.96769
+.port 1343.766 -4749.625 26.3734
+.port 1182.828 -4599.472 17.59455
+.port 1180.545 -4596.606 17.67691
+
+Entry: 3100 Elder Mottled Boar
+Type: 9
+Level: 8
+Faction: 189
+Flags: 0
+Scale: 1
+DisplayID: 193
+Locations:
+.port 1122.722 -4472.27 20.54668
+.port 1251.36 -4585.473 25.94574
+.port 1184.676 -4483.41 21.49508
+.port 1254.834 -4640.238 17.3827
+.port 1262.447 -4609.626 19.15591
+.port 1250.482 -4515.172 19.19685
+.port 1227.448 -4692.831 16.79467
+.port 1353.835 -4643.688 53.54355
+.port 1347.067 -4700.777 36.14774
+.port 1310.461 -4717.216 23.57471
+.port 1373.592 -4688.107 28.05588
+.port 1252.319 -4711.828 16.32748
+.port 1261.099 -4584.98 22.73469
+.port 1274.234 -4716.347 17.72711
+.port 1351.095 -4616.834 26.15313
+.port 1252.795 -4693.455 17.14961
+.port 1274.543 -4721.212 17.92739
+.port 1282.071 -4737.505 19.05007
+.port 1257.354 -4719.624 16.7074
+.port 1287.785 -4745.167 19.56791
+.port 1255.344 -4716.084 16.48594
+.port 1244.004 -4701.022 16.03068
+.port 1239.249 -4684.492 15.86172
+.port 1251.385 -4698.19 17.07112
+.port 1277.716 -4712.472 18.3426
+.port 1274.577 -4716.104 17.99417
+.port 1383.311 -4691.15 29.19144
+.port 1255.354 -4696.219 17.37254
+.port 1377.962 -4695.41 28.32817
+.port 1353.383 -4488.901 26.78957
+
+Entry: 3099 Dire Mottled Boar
+Type: 9
+Level: 6
+Faction: 189
+Flags: 40
+Scale: 0.75
+DisplayID: 381
+Locations:
+.port 1209.471 -4523.486 19.00613
+.port 1219.148 -4507.01 21.88113
+
+Entry: 3226 Corrupted Scorpid
+Type: 9
+Level: 10
+Faction: 14
+Flags: 0
+Scale: 1
+DisplayID: 2488
+Locations:
+.port 1293.653 -4576.758 21.45764
+.port 1233.183 -4670.237 16.61242
+.port 1265.554 -4562.387 19.00636
+
+Entry: 3300 Adder
+Type: 9
+Level: 1
+Faction: 7
+Flags: 0
+Scale: 1
+DisplayID: 1987
+Locations:
+.port 1274.687 -4533.236 20.40703
+.port 1264.235 -4553.813 20.0858
+.port 1332.877 -4632.661 23.03137
+
+Entry: 9564 Frezza
+Type: 9
+Level: 45
+Faction: 69
+Flags: 4096
+Scale: 1
+DisplayID: 8848
+Locations:
+.port 1331.115 -4649.449 53.54356
+
+Entry: 5953 Razor Hill Grunt
+Type: 9
+Level: 29
+Faction: 85
+Flags: 4096
+Scale: 1
+DisplayID: 4260
+Locations:
+.port 1340.625 -4631.771 23.99369
+.port 1349.228 -4650.109 53.4045
+
+Entry: 5951 Hare
+Type: 9
+Level: 1
+Faction: 31
+Flags: 0
+Scale: 0.75
+DisplayID: 1560
+Locations:
+.port 1332.877 -4632.661 23.03137
+.port 1375.977 -4738.371 28.92304
+.port 1350.563 -4750.189 26.74446
+
+Entry: 3110 Dreadmaw Crocolisk
+Type: 9
+Level: 11
+Faction: 14
+Flags: 56
+Scale: 0.5
+DisplayID: 1251
+Locations:
+.port 1246.334 -4634.217 18.6327
+
+Entry: 2959 Prairie Stalker
+Type: 9
+Level: 12
+Faction: 38
+Flags: 40
+Scale: 0.9
+DisplayID: 643
+Locations:
+.port 1320.008 -4575.838 23.66572
+
+Entry: 1554 Vampiric Duskbat
+Type: 9
+Level: 8
+Faction: 16
+Flags: 0
+Scale: 0.5710145
+DisplayID: 4733
+Locations:
+.port 1978.205 693.5013 42.5625
+.port 1959.91 591.6946 55.42334
+.port 1986.591 587.5649 46.51262
+
+Entry: 3150 Hin Denburg
+Type: 9
+Level: 60
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 1027
+Locations:
+.port 2049.722 265.7261 98.52418
+.port 2049.722 265.7261 98.52418
+
+Entry: 9566 Zapetta
+Type: 9
+Level: 45
+Faction: 69
+Flags: 4096
+Scale: 1
+DisplayID: 8849
+Locations:
+.port 2065.374 294.6855 98.44082
+.port 2065.374 294.6855 98.44082
+
+Entry: 721 Rabbit
+Type: 9
+Level: 1
+Faction: 31
+Flags: 0
+Scale: 1
+DisplayID: 4626
+Locations:
+.port 2074.121 204.9536 48.8269
+.port 2085.575 235.6812 57.67932
+
+Entry: 5724 Ageron Kargal
+Type: 9
+Level: 15
+Faction: 83
+Flags: 4608
+Scale: 1
+DisplayID: 4107
+Locations:
+.port 2250.62 248.9552 41.19807
+
+Entry: 1521 Gretchen Dedmar
+Type: 9
+Level: 8
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 3515
+Locations:
+.port 2249.063 236.7845 41.29807
+
+Entry: 1560 Yvette Farthing
+Type: 9
+Level: 15
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 3517
+Locations:
+.port 2252.826 250.6713 34.34371
+
+Entry: 2131 Austil de Mon
+Type: 9
+Level: 16
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 1599
+Locations:
+.port 2254.762 238.445 33.71704
+
+Entry: 2127 Rupert Boch
+Type: 9
+Level: 15
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 1604
+Locations:
+.port 2259.046 250.3166 41.19808
+
+Entry: 5759 Nurse Neela
+Type: 9
+Level: 10
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 4179
+Locations:
+.port 2246.093 239.8494 34.34371
+
+Entry: 5750 Gina Lang
+Type: 9
+Level: 10
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 4176
+Locations:
+.port 2252.702 251.9223 41.19807
+
+Entry: 2128 Cain Firesong
+Type: 9
+Level: 14
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 1600
+Locations:
+.port 2256.805 233.2188 41.19807
+
+Entry: 1744 Deathguard Mort
+Type: 9
+Level: 24
+Faction: 71
+Flags: 4096
+Scale: 1
+DisplayID: 2860
+Locations:
+.port 2239.477 257.2869 34.13083
+
+Entry: 3547 Hamlin Atkins
+Type: 9
+Level: 10
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 1635
+Locations:
+.port 2225.749 257.8991 34.02258
+.port 2207.44 247.3442 34.20259
+
+Entry: 2134 Mrs. Winters
+Type: 9
+Level: 10
+Faction: 68
+Flags: 4608
+Scale: 1
+DisplayID: 1637
+Locations:
+.port 2253.303 270.6784 34.2387
+

@@ -1,0 +1,195 @@
+Patch 0.5.5 was a beta patch for World of Warcraft that was released on March 18, 2004. 
+
+
+Patch 0.5.5
+Release date	March 18, 2004
+Initial version	3494
+Interface .toc	—
+Highlights & notes
+
+    Alliance phase
+
+
+
+
+Alliance Phase
+
+Welcome to the all Alliance phase of our Alpha test. Once the patch is downloaded, you will have the option to play all four Alliance races: Human, Dwarf, Gnome and Night Elf with the following six classes available: Mage, Paladin, Priest, Rogue, Warlock & Warrior (as each race allows).
+
+We've also added many new features, fixed some broken ones and changed some things here and there. So sit back, let the patcher patch and take a moment to scan these lengthy notes.
+
+Windows 98 and ME users must download a new patcher from the Friends and Family website.
+
+Death Penalty: As you may already be aware, the new death penalty system has been added to this patch. If you have any questions regarding this new feature, please check the WoW website for clarification.
+
+Night Elves: To avoid a mad newbie rush in Teldrassil we have temporarily limited the number of accounts that can immediately play Night Elves. All other accounts will have Night Elves activated within the coming week.
+
+Missing Items: For balance issues, we had to decide between a full character wipe and getting rid of some items in the game. I'm happy to report that we opted for ditching the items! For those who played in the earlier Human and Dwarf pushes, all character items have been deleted except equipped items level 27 and below.
+
+Falling Damage: Please be aware that falling damage has been added to the game. Jump off cliffs at your own peril!
+
+Human & Dwarven Quest Logs: As mentioned during the Tri-Horde push, all of the old Human and Dwarf quest logs have been deleted. Don't panic, you won't have to redo any quests already completed, however all quests that were in progress have been wiped. You will only have to revisit the quest givers to reaccept the missing quest(s).
+Major Changes
+
+    Night Elves and Gnomes are now playable races.
+    Rogues are now a playable class.
+    Death penalty has been implemented.
+    All character items have been deleted from old Human & Dwarf characters except equipped items level 27 and below.
+    Falling damage has been added.
+    New tutorial system added along with an option to disable it.
+    New Skinning tradeskill added. Most leather and hides will need to be acquired by skinning rather than by drops.
+
+Tradeskills
+
+    Gem drops on mineral nodes have been slightly increased.
+    Herb and mineral nodes have had their respawn times adjusted, with lower level nodes respawning more frequently and higher level nodes respawning less frequently.
+    Additional herb and mineral finding skills have been added.
+    A player must be facing an herb and mineral node to collect its resources.
+    Rare tradeskill items are now designated as "bind on equip."
+    Engineering: Explosive recipes now have an increased chance to create multiple bombs/dynamite at a time.
+    Engineering: Engineered creatures (golem, target dummies, etc.) now self destruct, allowing the engineer to loot back some of the parts.
+    Fishing: More items have been added to fishing tables. Uncommon items will drop less often than previously.
+    Mining: Smelting gold now requires 155 mining skill.
+    Blacksmithing: Iron counterweight speed increase has been slightly reduced.
+    Tailoring: More shirts and some dresses have been added.
+    Enchanting: Trying to enchant an item that is already enchanted will cause a dialog to be displayed.
+
+General Spells/Abilities
+
+    Pet spells can now be removed from the pet bar.
+    Buffs/debuffs now display what type of effect they are (i.e., magic, curse, poison or disease).
+    Creatures hit with slow effects get slowed immediately now.
+    Stealth and invisibility are now cancelled by looting.
+
+Mage
+
+    [Khadgar's Unlocking] is now in the Arcane Magic skill line.
+    [Blizzard] damage and mana cost increased with channel time decreased and casting time removed.
+    [Flamestrike] damage and mana cost increased. Some Flamestrike damage has been shifted to damage over time.
+    [Conjure Food] quantities created increased.
+    [Conjure Water] quantities created increased.
+    [Fireball], [Frostbolt], [Arcane Missiles], [Fire Blast], Flamestrike, and Blizzard all have more frequent replacements.
+    [Fire Ward] now begins at level 22 and has upgrades. Short cool down added.
+    [Frost Ward] now begins at level 24 and has upgrades. Short cool down added.
+    New Spell: [Scorch] (Levels 22, 28, 34, 40).
+    New Spell: [Arcane Explosion] (Levels 14, 22, 30, 38).
+    New Spell: [Dampen Magic] (Levels 12, 24, 36).
+    New Spell: [Amplify Magic] (Levels 18, 30).
+    New Spell: [Mana Shield] (Levels 20, 28, 36).
+    New Spell: [Phantasm] (Levels 14, 22, 30, 38).
+    Fire Blast range and damage variance increased.
+    Arcane Missiles damage and mana cost increased.
+    Frostbolt casting time and potency reduced.
+
+Shaman
+
+    [Magma Totem] damage and mana cost increased.
+    Skill gain rate for Spirit Magic spells increased.
+    Totems are no longer affected by Area Effect spells/abilities.
+    Totem effects will now benefit the caster and party immediately.
+    [Healing Stream Totem] mana cost reduced and duration increased.
+    Mana Font Totem mana cost reduced and duration increased.
+    [Windfury] weapon damage increased.
+    [Stoneclaw Totem] hit points increased.
+
+Paladin
+
+    Paladin specific quests have been added to the game.
+
+Priest
+
+    Holy Word: Shield can now be dispelled. It is considered a Magic effect.
+
+Warlock
+
+    Warlock specific quests have been added to the game.
+    Summoned pets no longer drown.
+    [Rain of Fire] damage and mana cost increased with casting time removed.
+    The Voidwalker's Sacrificial Shield will now remove existing harmful effect and should no longer give an "out-of-range" error message.
+    You can no longer enslave a demon while you have one summoned.
+    The Imp's Flame Blade has been removed; it will soon be replaced by Fire Shield..
+    The Felhunter pet is unavailable while it undergoes balance changes.
+
+Warrior
+
+    Warrior specific quests have been added to the game.
+    [Overpower] can no longer be avoided.
+    [Bloodrage] now halts regeneration and rage decay for the duration of the ability, simulating being in combat.
+    Thunderclap's slowing and threat abilities have been reduced and will only work on up to 4 targets.
+    Sundering Strike is now available at level 10, with upgrades at levels 22 and 34.
+    Kick has been renamed to [Pummel], no changes have been made to the effect.
+
+Items
+
+    The way that armor functions have changed which will cause characters to both give and receive less damage in battle.
+    Treasure chest loot should be much more interesting and useful now.
+    Instanced dungeon treasure chests near elite creatures have been improved.
+    Items that add damage to spells and attacks now work.
+    Weapon proc effects no longer require line-of-sight to work.
+    Items will always display their rarity, even if they are not weapons/armor: Grey = Junk, Yellow = Common, Green = Uncommon, Blue = Rare, Purple = Epic.
+    Weapon proc effects no longer trigger while you are disarmed; will trigger while you are moving; and will no longer generate cool down messages.
+
+Dungeons
+
+    Three new mini-dungeons have been added to Dun Morogh to replace repeats.
+    Razorfen Kraul in South Barrens is now available.
+
+Combat
+
+    Stunned creatures no longer face their targets.
+    [Hamstring] no longer interferes with Frost Bolt.
+    You can no longer use items while stunned.
+    Critical hits with ranged weapons now do 100% extra damage.
+    Fleeing creatures which are rooted will turn and attack now.
+    Absorbed attacks will no longer daze players.
+    [Execute] will now only work on players who are low on health.
+    Tail Lash will now only have a 66% chance to disarm.
+
+Quests
+
+    Quest objectives are once again hidden during fade-in.
+    Some of the text has been changed for the following quests: Devlin's Remains, H [11] Return to Quinn, H [5-30] Demon Seed, H [15] Zinge's Delivery, Prodigal Lich, H [1-30] Swoop Hunting & Neeru Fireblade.
+    H [11] Escorting Erland: Respawn timer has been increased for Erland.
+    Respawn timer has increased for the Book of Ur.
+    H [15] Prowlers of the Barrens: Number of prowler claws reduced to 7.
+    Harpy Raiders: Witchwing talons now drop on all Witchwing Harpies.
+    Kodo Skin Bag: Tailoring skill requirement added to this quest.
+
+Creatures/Spawns
+
+    The Defias Magician now turns to face its target after summoning a fire spirit.
+    Sillithid swarmers will no longer chase players forever.
+    The Sillithid Swarmers will not create their swarm as quickly as before.
+    Bewitching Shriek has been replaced with Curse of Mending on the Witchwing Harpies.
+    Sirens Call has been replaced with Heal and Holy Smite on the Stormscale Sirens.
+    Sunscale Screechers now use a long distance call for help when low on life instead of Terrifying Screech.
+    Echeyakee's level has been reduced to 16.
+    Thule Ravenclaw's spells have been revamped - he's much tougher now.
+
+Chat Channel
+
+    General and trade channels are now zone specific.
+    The new chat system will save the channels a player is in when they log out of the game. When they relog in, they will still be in those same channels.
+    The ability to "chat-link" items from within the bank has been added.
+
+Bugs
+
+    Fixed bug causing players to disconnect when swimming straight up
+    Fixed several collision related client assertion failures.
+    Players can no longer trade while scouting with the Eye of Kilrog.
+    The minimap zone name now updates correctly with Eye of Kilrog.
+    Rank 2 Regeneration gives the correct amount of health now.
+    Party buff/debuff displays have been fixed.
+    Numerous bugs associated with Alt-Tab have been fixed.
+    Many NPC pathing instances have been fixed.
+
+Misc.
+
+    Screenshots can be captured during cinematic sequences.
+    A new horizon view distance console command has been added: horizonFarClip
+    The ability to include XML files from other XML files has been added.
+    The frame rate limiter has been removed and is no longer capped at 65fps.
+    Players now properly slide off steep surfaces.
+    Trading with dead players no longer works.
+    When flying over a herd of Kodo, the camera will no longer shake.
+    Minimaps are broken in some zones. They should be fixed in the next patch.

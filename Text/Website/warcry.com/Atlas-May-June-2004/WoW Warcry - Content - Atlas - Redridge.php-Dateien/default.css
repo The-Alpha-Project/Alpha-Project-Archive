@@ -1,0 +1,141 @@
+body
+{
+	scrollbar-base-color: #282724;
+	scrollbar-highlight-color: #666666;
+	scrollbar-3dlight-color: #161616;
+	scrollbar-darkshadow-color: #000000;
+	scrollbar-shadow-color: #383838;
+	scrollbar-arrow-color: silver;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	color: #D6C89B;
+}
+td
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	color: #D6C89B;
+}
+a
+{
+	text-decoration: none;
+	color: #C8B038;
+}
+input
+{
+	background-color: #000000;
+	border-color: silver;
+	color: #D6C89B;
+}
+.regularbutton
+{
+	border-color: GRAY;
+}
+input.radiobutton
+{
+	background-color: transparent;
+	border-color: transparent;
+	color: transparent;
+	width=10;
+	height=10;
+}
+textarea
+{
+	background-color: #000000;
+	border-color: #FF6619;
+	color: #D6C89B;
+}
+select
+{
+	background-color: #333333;
+	color: #D6C89B;
+}
+a:hover
+{
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+.title
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 22px;
+	color: silver;
+	font-weight: bold;
+}
+.bigtext
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 16px;
+	color: orange;
+	font-weight: bold;
+}
+.bigtext2
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 16px;
+	color: yellow;
+	font-weight: bold;
+}
+.smalltext
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 10px;
+}
+.focustext
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	color: #60A0A0;
+}
+.yellowtext
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	color: yellow;
+}
+.goldtext
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	color: silver;
+}
+.categorytext
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+	color: silver;
+}
+.redtext
+{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	color: red;
+}
+.forumAdmin
+{
+	color: silver;
+}
+
+
+
+/*
+     FILE ARCHIVED ON 22:41:59 Jun 02, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:19:02 Dec 29, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 275.616
+  exclusion.robots: 0.092
+  exclusion.robots.policy: 0.084
+  cdx.remote: 0.067
+  esindex: 0.011
+  LoadShardBlock: 65.838 (3)
+  PetaboxLoader3.datanode: 118.266 (4)
+  CDXLines.iter: 18.659 (3)
+  load_resource: 131.439
+  PetaboxLoader3.resolve: 32.994
+*/

@@ -1,0 +1,39 @@
+Latest Update:
+3/29/04
+
+Next Planned Update:
+3/31/04
+I am going to add tables with the starting attributes for each race/class.
+I know that Blizzard is considering making some alterations to Attributes, and at that time I will come back and update this page. Also, please note that at the time of this posting, the Hunter, Shaman, and Druid classes were not available for play.
+
+Strength | Stamina | Agility | Intellect | Spirit
+Druid | Hunter | Mage | Paladin | Priest | Rogue | Shaman | Warlock | Warrior
+
+Strength: Influences how hard your character hits others in battle, and has a slight modifier on your chance of blocking an attack. Strength is a critical statistic for all classes that find themselves in the heat of battle on a regular basis. Warriors, Rogues, Paladins, and other non-magic attack using classes will want this to be one of their highest attributes. Not to mention you get to say you're the strongest guy around.
+
+Stamina: Increases your number of hitpoints. More stamina essentially means more hitpoints, and that is very important to all classes. However, "tank" classes such as Warriors and Paladins will find it especially critical. Also, Warlock with their HP to Mana spells will find having a high stamina rating to be hugely benefitial, as it allows you to have two sources of mana.
+
+Agility: Has a slight modifier on your chance to dodge an attack. At this time Agility seems like one of the least useful attributes. I suspect that it will be tweeked later on to possibly have some impact on non-melee attacks, and become more critical to rogues in some manner.
+
+Intellect: Increases your mana pool. Like stamina there is no beating around the bush with this spell. If you cast spells, you are going to want to invest some points here. Classes that depend greatly on mana such as Priests, Mages, and Warlocks will want to put a LOT into these. Priests and Mages even more so than Warlocks, who can use regeneration more efficiently than a huge mana pool.
+
+Spirit: Influnces the speed at which your hitpoints and mana regenerate. Although there has been some debate about the efficiency of Spirit for Mages as of late (as opposed to pure Intellect) it is widely regarded as a great benefit for all classes with mana. Priests due to taking hits, and Mages because increased mana regeneration is always good. However, this attribute really shines for the Warlock and Paladins. The ability to improve regeneration of hitpoints and mana is akin to giving them free experience.
+
+Druid: Class not available yet. However, early indicators would seem to indicate that you could follow directions for Priest.
+
+Hunter: Class not available yet. It appears they will be a pet using, ranged attack class. Whatever that means to you.
+
+Mage: Current evidence suggests that at higher levels (around 60 Spirit) it becomes a non-factor for Mages. This is due to the high spell cost, and relatively "slow" mana regeneration at those levels (hps aren't a huge concern for mages). You can see the argument about that here. So, at this time I have to recommend that Mages go Intellect hard and do not look back.
+
+Paladin: A hybrid class if there ever was one. Paladins are adept at both melee and spell casting, so it is harder to make a definite recommendation. They can benefit incredibly from Spirit because of its dual benefits, but statistics like Stamina, Strength, and Intellect are also important.
+
+Priest: The primary healer of WoW will find that Intellect is their most important attribute hands down. It will take a huge mana pool to keep your party alive in long battles, and you may find yourself drinking like a camel just out of the desert in between them. Spirit and Stamina are benefitial to a lesser degree.
+
+Rogue: At the current time, it looks like Agility is the skill to end all skills for Rogues, as it effects how much damage they do and gives them a chance to dodge. However, you will benefit from mixing in some Stamina as well.
+
+Shaman: Class not available in push. If you have reliable information on them from the alpha, please submit it.
+
+Warlock: At this time, there is little disagreement about what attributes are the most critical for Warlocks. Spirit, Intellect, and Stamina. Spirit is the most important, and Intellect and Stamina are equally integral. You will see the immense benefit of fast hp and mana regeneration after you end a series of fights with nearly full mana because you just tapped your hitpoints for additional mana and then tapped the mobs for the hitpoints back.
+
+Warrior: The "tanks" of WarCraft will find that Strength and Stamina are the two most important attributes for them. Some may have argued Agility, but I disagree because you actually want to be hit. What? Yeah, when you are hit you earn extra rage from mobs, so they are more likely to stay on you. Clearly, you need the Stamina to give you the appropriate hitpoints to take the hits from mobs. However, at this stage in the game, defense is more important than Stamina for what it's worth. Strength is incredibly important because while dealing damage is not your forte, it is an important part of maintaining aggro, as well as being useful overall. However, it's not as important as Stamina.
+
