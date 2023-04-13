@@ -1,7 +1,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R21LO82)
 
 # Alpha Project Archive
-Compilation of screenshots, videos and texts from WoW alphas and betas.
+Compilation of screenshots and videos from WoW alphas and betas.
 
 If a folder called `UNSORTED` exists, that means that I need help sorting those images!
 
